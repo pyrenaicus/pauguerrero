@@ -1,0 +1,34 @@
+---
+permalink: /sitemap.xml
+layout: false
+eleventyExcludeFromCollections: true
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  {%- for item in collections.all %} {% if item.data.lang == "en" and not
+  item.data.excludeFromSitemap %} {%- if item.data.permalink != false %}
+  <url>
+    <loc>{{ meta.url }}{{ item.url | url }}</loc>
+    <lastmod>{{ item.date | htmlDateString }}</lastmod>
+    {%- if item.data.images -%} {%- for image in item.data.images -%} {%- set
+    imgPath = "src/" ~ image.src -%} {%- set imageData =
+    imageCollection[imgPath] -%} {%- set largestJpeg =
+    imageData.jpeg[imageData.jpeg.length - 1].url -%}
+    <image:image>
+      <image:loc>{{ meta.url }}{{ largestJpeg }}</image:loc>
+    </image:image>
+    {%- endfor -%} {%- endif -%} {%- for link in item.url | locale_links -%}
+    <xhtml:link
+      rel="alternate"
+      hreflang="{{ link.lang }}"
+      href="{{ meta.url }}{{ link.url }}"
+    />
+    {%- endfor %}
+  </url>
+  {%- endif %} {%- endif %} {%- endfor %}
+</urlset>

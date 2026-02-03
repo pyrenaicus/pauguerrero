@@ -1,0 +1,47 @@
+---
+layout: page.njk
+---
+
+<p>
+  {{ languages[page.lang].contact.text | safe }}
+</p>
+
+<form action="https://api.web3forms.com/submit" name="contact" method="POST">
+  <input
+    type="hidden"
+    name="access_key"
+    value="2356652f-d928-4545-8e6c-bf03f9346266"
+  />
+  <input
+    type="hidden"
+    name="redirect"
+    value="{{ meta.url }}/{{ page.lang }}/success/"
+  />
+  <input
+    type="hidden"
+    name="subject"
+    value="pauguerrero {{ page.lang | upper }} contact form"
+  />
+  <input type="checkbox" name="botcheck" class="hidden" style="display: none" />
+  <p>
+    <label
+      >{{ languages[page.lang].contact.name }}<input type="text" name="name"
+    /></label>
+  </p>
+  <p>
+    <label
+      >{{ languages[page.lang].contact.email }}<input type="email" name="email"
+    /></label>
+  </p>
+  <p>
+    <label
+      >{{ languages[page.lang].contact.message
+      }}<textarea name="message"></textarea>
+    </label>
+  </p>
+  <p>
+    <button class="btn" type="submit">
+      {{ languages[page.lang].contact.send }}
+    </button>
+  </p>
+</form>

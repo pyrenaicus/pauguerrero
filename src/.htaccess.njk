@@ -1,0 +1,34 @@
+---
+permalink: .htaccess
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+# language starts with ES
+RewriteCond %{HTTP:Accept-Language} ^es [NC]
+RewriteRule ^$ /es/ [L,R=302]
+
+# language starts with CA
+RewriteCond %{HTTP:Accept-Language} ^ca [NC]
+RewriteRule ^$ /ca/ [L,R=302]
+
+# else redirect to the English version
+RewriteRule ^$ /en/ [L,R=302]
+
+# Redirect /architecture-photography/ to /en/architecture-photography/
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^www\.pauguerrero\.com$ [NC]
+RewriteRule ^architecture-photography(/.*)?$ https://www.pauguerrero.com/en/architecture-photography$1 [R=301,L]
+
+# Redirect /exhibitions/ to /en/exhibitions/
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^www\.pauguerrero\.com$ [NC]
+RewriteRule ^exhibitions(/.*)?$ https://www.pauguerrero.com/en/exhibitions$1 [R=301,L]
+
+# Redirects
+{%- for page in collections.all %}
+  {%- if page.data.redirectFrom %}
+    {%- for redirect in page.data.redirectFrom %}
+Redirect 301 {{ redirect }} {{meta.url}}{{ page.url }}
+    {%- endfor %}
+  {%- endif %}
+{%- endfor %}

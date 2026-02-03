@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+  [
+  {% set comma = joiner() %}
+  {%- for image in gallery -%}
+  {{ comma() }}
+    {
+      "@context": "https://schema.org/",
+      "@type": "ImageObject",
+      "contentUrl": "{{ page.url }}",
+      "license": "{{ '/copyright/' | locale_url }}",
+      "acquireLicensePage": "{{ '/copyright/' | locale_url }}",
+      "creditText": "{{ meta.siteName[page.lang] }}",
+      "creator": {
+        "@type": "{{ meta.siteType }}",
+        "name": "{{ meta.author }}"
+      },
+      "copyrightNotice": "{{ meta.author }}"
+    }
+    {%- endfor -%}
+  ]
+</script>

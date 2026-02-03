@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ meta.siteName[page.lang] }}",
+    "alternateName": "Pau Guerrero",
+    "nationality": "Spanish",
+    "birthPlace": "Barcelona",
+    "gender": "male",
+    "description": {{ meta.photographer[page.lang] | dump | safe }},
+    "url": "{{ meta.url }}",
+    "sameAs": ["https://www.instagram.com/_pau_guerrero_"],
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "{{ meta.etsab[page.lang] }}",
+      "sameAs": "https://en.wikipedia.org/wiki/Polytechnic_University_of_Catalonia"
+    }
+  }
+</script>

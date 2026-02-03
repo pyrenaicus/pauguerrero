@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "instagram",
+    "url": "https://instagram.com/_pau_guerrero_/",
+    "icon": "github.svg"
+  },
+  {
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@pyrenaicus",
+    "icon": "mastodon.svg"
+  },
+  {
+    "platform": "ko-fi",
+    "url": "https://ko-fi.com/pauguerrero",
+    "icon": "kofi.svg"
+  },
+  {
+    "platform": "rss",
+    "url": "/feed.xml",
+    "icon": "rss.svg"
+  }
+]

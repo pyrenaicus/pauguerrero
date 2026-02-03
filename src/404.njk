@@ -1,0 +1,26 @@
+---
+pagination:
+  data: languages.langs
+  size: 1
+  alias: locale
+permalink: "{{ locale }}/404.html"
+layout: page.njk
+---
+
+{% set title = translations[locale].notFound.title %}
+<main class="flow">
+  <article class="region page">
+    <div class="wrapper flow prose">
+      <figure>
+        <img
+          src="/assets/404-600px.jpg"
+          width="600"
+          height="450"
+          alt="{{ languages[locale].notFound.alt }}"
+        />
+      </figure>
+      <p>{{ languages[locale].notFound.message }}</p>
+      <a href="/" class="link">{{ languages[locale].notFound.homeLink }}</a>
+    </div>
+  </article>
+</main>

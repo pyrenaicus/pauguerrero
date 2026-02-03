@@ -1,0 +1,33 @@
+---
+title: "Borders CCCB"
+description: "Borders exhibition at CCCB, Barcelona. Design by EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
+date: "2007-05-15"
+location: "Barcelona"
+architect: "Estudi Massip-Bosch Architects"
+teaser: "images/teaser-emba-borders-cccb.jpg"
+teaserAlt: "A long, narrow exhibition room with panoramic images of a cityscape and beach displayed on the walls, featuring detailed architectural plans and maps on the floor."
+images:
+  - src: "images/emba-borders-cccb-01.jpg"
+    id: "img01"
+    alt: "A long, narrow exhibition room with panoramic images of a cityscape and beach displayed on the walls, featuring detailed architectural plans and maps on the floor."
+    caption: ""
+    contentLocation: "Barcelona"
+    name: "Exposición Fronter, CCCBas - Estudi Massip-Bosch Arquitectes"
+    description: ""
+  - src: "images/emba-borders-cccb-02.jpg"
+    id: "img02"
+    alt: "A dimly lit exhibition room featuring multiple illuminated display boxes and shelves showcasing various photos and objects on the walls."
+    caption: ""
+    contentLocation: "Barcelona"
+    name: "Exposición Fronter, CCCBas - Estudi Massip-Bosch Arquitectes"
+    description: ""
+  - src: "images/emba-borders-cccb-03.jpg"
+    id: "img03"
+    alt: "A gallery showcasing a series of photographs and descriptive text panels on dark walls, illuminated by focused spotlights."
+    caption: ""
+    contentLocation: "Barcelona"
+    name: "Borders Exhibition, CCCB - Estudi Massip-Bosch Arquitectes"
+    description: ""
+---
+
+_Borders_ exhibition at [CCCB](https://www.cccb.org/en), Centre de Cultura Contemporània de Barcelona. Design: [EMBA, Enric Massip-Bosch Arquitectes](https://www.emba.cat)

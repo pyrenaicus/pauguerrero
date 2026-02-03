@@ -1,0 +1,12 @@
+<footer>
+  <p>{{ languages[page.lang].footer.tagline.copyrightNotice }}</p>
+  <p>
+    {% if title and tags %} {% if "retail" in tags %} © Pau Guerrero |
+    {{ languages[page.lang].footer.tagline.retail }}
+    {% endif %} {% if "architecture-photography" in tags and "retail" not in
+    tags %} © Pau Guerrero | {{ languages[page.lang].footer.tagline.arch }} {%
+    endif %} {% if "exhibitions" in tags %} © Pau Guerrero |
+    {{ languages[page.lang].footer.tagline.exhibit }} {% endif %} {% else %} ©
+    Pau Guerrero {% endif %}
+  </p>
+</footer>

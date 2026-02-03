@@ -1,0 +1,665 @@
+/* RESET */
+/* Modern reset: https://piccalil.li/blog/a-modern-css-reset/ */
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+}
+
+/* Prevent zooming when orientation changes on some iOS devices */
+html {
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+  text-rendering: optimizeSpeed;
+  /* text-rendering: optimizeLegibility; */
+  line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* //////////////////////////////////////////////////////////////// */
+/* VARIABLES */
+/* //////////////////////////////////////////////////////////////// */
+:root {
+  /* Spacing */
+  /* Consistent spacing sizes, based on a ratio, with min and max sizes. This allows you to set spacing based on the context size. For example, min for mobile and max for desktop browsers.
+  https://utopia.fyi/space/calculator?c=320,16,1.2,1350,20,1.414,8,1,&s=0.75|0.5|0.25,2|3|5|8|13,s-l
+   */
+  --space-3xs: clamp(0.25rem, calc(0.23rem + 0.1vw), 0.31rem);
+  --space-2xs: clamp(0.5rem, calc(0.46rem + 0.19vw), 0.63rem);
+  --space-xs: clamp(0.75rem, calc(0.69rem + 0.29vw), 0.94rem);
+  --space-s: clamp(1rem, calc(0.92rem + 0.39vw), 1.25rem);
+  --space-m: clamp(2rem, calc(1.84rem + 0.78vw), 2.5rem);
+  --space-l: clamp(3rem, calc(2.77rem + 1.17vw), 3.75rem);
+  --space-xl: clamp(5rem, calc(4.61rem + 1.94vw), 6.25rem);
+  --space-2xl: clamp(8rem, calc(7.38rem + 3.11vw), 10rem);
+  --space-3xl: clamp(13rem, calc(11.99rem + 5.05vw), 16.25rem);
+
+  /* One-up pairs */
+  --space-3xs-2xs: clamp(0.25rem, calc(0.13rem + 0.58vw), 0.63rem);
+  --space-2xs-xs: clamp(0.5rem, calc(0.36rem + 0.68vw), 0.94rem);
+  --space-xs-s: clamp(0.75rem, calc(0.59rem + 0.78vw), 1.25rem);
+  --space-s-m: clamp(1rem, calc(0.53rem + 2.33vw), 2.5rem);
+  --space-m-l: clamp(2rem, calc(1.46rem + 2.72vw), 3.75rem);
+  --space-l-xl: clamp(3rem, calc(1.99rem + 5.05vw), 6.25rem);
+  --space-xl-2xl: clamp(5rem, calc(3.45rem + 7.77vw), 10rem);
+  --space-2xl-3xl: clamp(8rem, calc(5.44rem + 12.82vw), 16.25rem);
+
+  /* Custom pairs */
+  --space-s-l: clamp(1rem, calc(0.15rem + 4.27vw), 3.75rem);
+
+  /* Text sizes */
+  /* A minimum and maximum text size size allows you to pick the right size from a ratio, depending on the context size. The min and max sizes are in pixels and should be converted to appropiate sizes, per context. For example, for web, the should be converted to REM units (pixelSize / baseSize)
+   https://utopia.fyi/type/calculator/?c=320,16,1.2,1350,20,1.414,8,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l
+    */
+  --step--1: clamp(0.83rem, calc(0.82rem + 0.08vw), 0.88rem);
+  --step-0: clamp(1rem, calc(0.92rem + 0.39vw), 1.25rem);
+  --step-1: clamp(1.2rem, calc(1.02rem + 0.88vw), 1.77rem);
+  --step-2: clamp(1.44rem, calc(1.11rem + 1.65vw), 2.5rem);
+  --step-3: clamp(1.73rem, calc(1.17rem + 2.8vw), 3.53rem);
+  --step-4: clamp(2.07rem, calc(1.17rem + 4.54vw), 5rem);
+  --step-5: clamp(2.49rem, calc(1.07rem + 7.11vw), 7.07rem);
+  --step-6: clamp(2.99rem, calc(0.81rem + 10.88vw), 9.99rem);
+  --step-7: clamp(3.58rem, calc(0.31rem + 16.38vw), 14.13rem);
+  --step-8: clamp(4.3rem, calc(-0.57rem + 24.35vw), 19.98rem);
+
+  /* Global variables */
+
+  --gutter: var(--space-s-m);
+  --border-radius: 0.5rem;
+  --transition-base: 250ms ease;
+  --transition-movement: 200ms linear;
+  --transition-fade: 200ms ease;
+  --transition-bounce: 500ms cubic-bezier(0.5, 0.05, 0.2, 1.5);
+  /* --tracking: -0.05ch; */
+  --tracking: normal;
+  --tracking-s: -0.075ch;
+  --flow-space: 1rem;
+  /* --flow-space: var(--space-m); */
+  /* --grid-min-item-size: 200px; */
+  --gallery-min-item-size: 200px;
+  --region-space-top: var(--space-m-l);
+  --region-space-bottom: var(--space-2xl-3xl);
+
+  /* System fonts for body copy and globally set text */
+  /* GEometric Humanist font stack, https://modernfontstacks.com/ */
+  --font-base: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
+    sans-serif;
+
+  /* Colors */
+  --color-dark: #404040;
+  --color-light: #f3f3f3;
+  --color-light-glare: #ffffff;
+  --color-primary: #eb47a7;
+  --color-primary-glare: #ffdbf0;
+  --color-secondary: #28959e;
+  --color-secondary-glare: #cffbff;
+}
+
+/* ////////////////////////////////////////////////////////////////
+  GLOBAL STYLES
+  Low-specificity, global styles that apply to the whole
+  project: https://cube.fyi/css.html
+*/
+
+/* enable view transitions */
+@view-transition {
+  navigation: auto;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: var(--color-dark);
+  background: var(--color-light);
+  font-size: var(--step-1);
+  font-family: var(--font-base);
+  letter-spacing: var(--tracking);
+}
+/* sticky footer */
+header,
+footer {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+main {
+  flex-grow: 1;
+}
+
+/* Base typesetting */
+h1,
+h2,
+h3 {
+  line-height: 1;
+  /* letter-spacing: var(--tracking-s); */
+  font-family: var(--font-base);
+}
+
+h1 {
+  font-size: var(--step-3);
+}
+
+h2 {
+  font-size: var(--step-2);
+}
+
+h3 {
+  font-size: var(--step-1);
+}
+
+/* Set line lengths */
+p,
+li,
+blockquote:not([class]) {
+  max-width: 55ch;
+  letter-spacing: var(--tracking);
+}
+
+h1,
+h2,
+h3 {
+  /* max-width: 20ch; */
+  max-inline-size: 40ch;
+  padding-top: var(--space-m-l);
+}
+
+blockquote {
+  border-inline-start: 0.3rem solid var(--color-dark);
+  padding: var(--space-m-l);
+  font-size: var(--step-0);
+  line-height: 1.2;
+}
+
+svg {
+  height: 2ex;
+  width: auto;
+  flex: none;
+}
+
+[role="list"] {
+  padding: 0;
+}
+
+/* Base interactive elements */
+
+a {
+  color: currentcolor;
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 2px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+:focus {
+  outline: 3px solid;
+  outline-offset: 0.3ch;
+}
+
+:target {
+  scroll-margin-top: 2ex;
+}
+
+main:focus {
+  outline: none;
+}
+
+/* Base selection styles that invert whatever colours are rendered */
+::selection {
+  background: var(--color-primary);
+  color: var(--color-light);
+}
+
+/*=====================================*/
+/*            CONTACT FORM             */
+/*=====================================*/
+.hidden {
+  display: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 24ch;
+  min-width: 80vw;
+  gap: var(--space-s);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+}
+input,
+select,
+textarea,
+button {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: 0;
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.25em;
+}
+
+.input {
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: lightgray;
+  background-color: white;
+}
+.input:focus {
+  border-color: gray;
+}
+
+.input::placeholder {
+  color: gray;
+}
+
+.textarea {
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: lightgray;
+  background-color: white;
+  min-height: 100px;
+  resize: vertical;
+}
+
+.btn {
+  margin-top: 1em;
+  padding: 1em;
+  color: var(--gray);
+  font-size: 1rem;
+  font-family: inherit;
+  cursor: pointer;
+  background-color: var(--color-primary-glare);
+}
+.btn:hover {
+  background-color: var(--color-primary);
+  color: var(--color-light);
+}
+
+/* ////////////////////////////////////////////////////////////////
+UTILITIES
+*/
+
+/* title of the main categories pages */
+.category-title {
+  font-family: var(--font-base);
+  font-weight: 400;
+  padding-bottom: var(--space-m-l);
+  color: var(--text-color);
+  opacity: 0.9;
+}
+
+/* caption text for single Picture or Image */
+figcaption,
+.caption {
+  opacity: 0.8;
+  font-size: var(--step--1);
+  --flow-space: 0.6rem;
+}
+
+.no-underline {
+  text-decoration-line: none;
+}
+/* 
+FLOW UTILITY
+Like the Every Layout stack: https://every-layout.dev/layouts/stack/
+Info about this implementation: https://piccalil.li/quick-tip/flow-utility/ 
+*/
+.flow {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.flow > * {
+  margin-block: 0;
+}
+.flow > * + * {
+  margin-block-start: var(--flow-space, 1rem);
+}
+
+.flow-exception,
+.flow-exception + * {
+  --flow-space: 0.4rem;
+}
+
+/**
+ * REGION
+ * Add consistent vertical padding to create regions of content
+ * Can either be configured by setting --region-space or use a default from the space scale
+ */
+.region {
+  padding-top: var(--region-space-top, var(--space-xl-2xl));
+  padding-bottom: var(--region-space-bottom, var(--space-xl-2xl));
+}
+
+/**
+ * WRAPPER
+ * Sets a max width, adds a consistent gutter and horizontally
+ * centers the contents
+ * Info: https://piccalil.li/quick-tip/use-css-clamp-to-create-a-more-flexible-wrapper-utility/
+ */
+.wrapper {
+  width: 90vw;
+  max-width: var(--wrapper-max-width, 85rem);
+  width: clamp(16rem, 90vw, 85rem); /* 256px to 1360px */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
+  /* position: relative; */
+}
+
+@media (max-width: 500px) {
+  .wrapper {
+    --gutter: 1px;
+    width: clamp(16rem, 98vw, 85rem);
+  }
+}
+
+/* ////////////////////////////////////////////////////////////////
+COMPOSITIONS
+ */
+
+/* AUTO GRID
+Related Every Layout: https://every-layout.dev/layouts/grid/
+More info on the flexible nature: https://piccalil.li/tutorial/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/
+A flexible layout that will create an auto-fill grid with
+configurable grid item sizes
+
+CUSTOM PROPERTIES AND CONFIGURATION
+--gutter (var(--space-s-m)): This defines the space
+between each item.
+
+--grid-min-item-size (14rem): How large each item should be
+ideally, as a minimum.
+
+--grid-placement (auto-fill): Set either auto-fit or auto-fill
+to change how empty grid tracks are handled */
+.grid {
+  --grid-placement: auto-fit;
+  --grid-min-item-size: clamp(18rem, 26vw, 25rem);
+  display: grid;
+  grid-template-columns: repeat(
+    var(--grid-placement, auto-fill),
+    minmax(var(--grid-min-item-size, 16rem), 1fr)
+  );
+  gap: var(--space-s-m);
+}
+
+/* ////////////////////////////////////////////////////////////////
+  BLOCKS
+   */
+
+/* CARD */
+.card {
+  background: var(--color-light);
+  border: 4px;
+  color: var(--color-dark);
+  padding: var(--space);
+  max-width: unset;
+  /* max-width: 600px; */
+}
+
+.card h2 {
+  font-size: var(--step-0);
+  padding-top: 0;
+}
+
+/* .card:hover, */
+.card:focus-within {
+  border: 4px solid var(--color-dark);
+}
+
+.card a {
+  text-decoration: none;
+}
+
+.card picture {
+  aspect-ratio: 4 / 3;
+}
+
+.card picture > img {
+  height: auto;
+}
+
+/* 'clickable' */
+
+.card:focus-within a:focus {
+  outline: none;
+}
+.card {
+  position: relative;
+}
+.card a:after {
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* MENU */
+
+.cluster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2xs);
+  justify-content: flex-start;
+  align-items: baseline;
+  margin-block: var(--space-3xs);
+}
+
+.navbar {
+  font-size: var(--step-0);
+}
+
+.lang-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3xs);
+  justify-content: flex-end;
+  align-items: baseline;
+  font-size: var(--step--1);
+  text-transform: uppercase;
+}
+
+.lang-switch a:hover {
+  background-color: var(--color-primary);
+}
+
+/* .lang-switch .ca:hover {
+  background-image: url("/assets/flag-ca.png");
+  background-size: contain;
+  opacity: 0.6;
+}
+.lang-switch .es:hover {
+  background-image: url("/assets/flag-es.png");
+  background-size: contain;
+  opacity: 0.6;
+}
+.lang-switch .en:hover {
+  background-image: url("/assets/flag-en.png");
+  background-size: cover;
+  opacity: 0.6;
+} */
+
+/* Basic link styling */
+nav.navbar a {
+  color: var(--color-dark);
+  padding: 0.1rem;
+  text-decoration: none;
+  border: 2px solid var(--color-dark);
+  border-radius: 4px;
+  padding-inline: 0.5rem;
+}
+
+/* Change the border-color on :hover and :focus */
+nav.navbar a:where(:hover, :focus) {
+  /* --border-color: var(--text-color); */
+  color: var(--color-light);
+  background-color: var(--color-dark);
+  /* text-decoration: underline;
+    text-underline-offset: .2em;
+    text-decoration-thickness: 3px; */
+}
+
+/* PAGE */
+.page img {
+  max-inline-size: var(--max-img-width, 100%);
+  block-size: auto;
+}
+
+/* PROSE */
+.prose {
+  --flow-space: var(--space-m-l);
+  --wrapper-max-width: 55rem; /* 880px */
+}
+
+.prose :is(h2, h3, h4) + * {
+  --flow-space: var(--space-s-m);
+}
+
+/* SITE FOOT */
+footer {
+  padding: var(--space-s-m);
+  font-size: var(--step--1);
+}
+
+footer p {
+  text-align: center;
+  margin: 0 auto;
+  opacity: 0.8;
+}
+
+/* SITE HEADER  */
+.site-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* SITE LOGO */
+.logo {
+  font-weight: bold;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  letter-spacing: -0.08rem;
+  padding: var(--space-xs) 0;
+  padding-inline-end: 1rem;
+}
+
+/* SKIP LINK */
+.skip-link {
+  clip: rect(1px, 1px, 1px, 1px);
+  display: block;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  top: 1rem;
+  left: 1rem;
+  z-index: 999;
+}
+
+.skip-link:focus {
+  clip: auto;
+  height: auto;
+  overflow: visible;
+  width: auto;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+  padding: var(--space-s-m);
+  line-height: 1;
+}
+
+.skip-link:not(:focus) {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+
+/* INFO CARD */
+.info-card {
+  font-size: var(--step-0);
+}
+
+.info-card span {
+  font-weight: 700;
+}
+
+.info-card a {
+  text-decoration: none;
+}
+
+.info-card a:hover {
+  text-decoration: underline;
+}

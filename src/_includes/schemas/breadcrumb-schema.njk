@@ -1,0 +1,33 @@
+{% if tags %}
+{% if tags | hasItems('exhibitions') %} {% set section =
+navigation[page.lang][0].text %} {% elif tags |
+hasItems('architecture-photography') %} {% set section =
+navigation[page.lang][1].text %} {% endif %}
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "{{ meta.siteName[page.lang] }}",
+        "item": "{{ meta.url }}/{{ page.lang }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ section }}",
+        "item": "{{ meta.url }}{{ page.url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ title }}",
+        "item": "{{ meta.url }}{{ page.url }}"
+      }
+    ]
+  }
+</script>
+{% endif %}

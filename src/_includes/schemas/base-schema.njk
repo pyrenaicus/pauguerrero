@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "{{ meta.siteType }}",
+        "url": "{{ meta.url }}/{{ page.lang }}//{{ page.lang }}/",
+        "name": "{{ meta.siteName[page.lang] }}",
+        "description": {{ meta.siteDescription[page.lang] | dump | safe }},
+        "inLanguage": "{{ languages[page.lang].locale }}",
+        "sameAs": ["https://www.instagram.com/_pau_guerrero_"]
+      }
+    ]
+  }
+</script>

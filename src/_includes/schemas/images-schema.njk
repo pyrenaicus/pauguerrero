@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+  [
+  {% set comma = joiner() %}
+  {%- for image in images -%}
+  {{ comma() }}
+  {%- set imgPath = "src/" ~ image.src -%}
+  {%- set imageData = imageCollection[imgPath] -%}
+  {%- set largestJpeg = imageData.jpeg[imageData.jpeg.length - 1].url -%}
+
+    {
+      "@context": "https://schema.org/",
+      "@type": "ImageObject",
+      "contentUrl": "{{ largestJpeg }}",
+      "contentLocation": "{{ image.contentLocation }}",
+      "name": "{{ image.name }}",
+      "description": {{ image.caption | default("") | dump | safe }} ,
+      "license": "{{ '/copyright/' | locale_url }}",
+      "acquireLicensePage": "{{ '/copyright/' | locale_url }}",
+      "creator": {
+        "@type": "Person",
+        "name": "{{ meta.author }}"
+       },
+      "creditText": "{{ meta.siteName[page.lang] }}",
+      "copyrightNotice": "{{ meta.author }}"
+    }
+    {%- endfor -%}
+  ]
+</script>

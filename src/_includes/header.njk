@@ -1,0 +1,42 @@
+<a href="#main" class="skip-link">{{ languages[page.lang].skipText }}</a>
+<header class="wrapper">
+  <div class="site-head">
+    <a href="/{{ page.lang }}/" class="logo no-underline">
+      {{ meta.siteName[page.lang] }}
+    </a>
+    <nav id="mainnav" class="cluster navbar" aria-label="Main">
+      <ul class="cluster" role="list">
+        {% for item in navigation[page.lang] %}
+        <li>
+          <a
+            class="nav"
+            {{
+            helpers.getLinkActiveState(item.url,
+            page.url)
+            |
+            safe
+            }}
+            href="{{ item.url }}"
+          >
+            {{ item.text }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <ul class="lang-switch" role="list">
+        {% for link in page.url | locale_links %}
+        <li class="nav-lang-item">
+          <a
+            href="{{ link.url }}"
+            lang="{{ link.lang }}"
+            hreflang="{{ link.lang }}"
+            class="nav-link {{ link.lang }}"
+            >{{ link.lang }}</a
+          >
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

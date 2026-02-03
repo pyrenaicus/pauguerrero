@@ -1,0 +1,15 @@
+---
+layout: "base.njk"
+---
+
+<main id="main" class="flow">
+  <article class="region page">
+    <div class="wrapper flow prose">
+      {% if not home %}
+      <h1 class="category-title">{{ title }}</h1>
+      {% endif %}
+      {{ content | safe }}
+      {% imagesShortcode images, imageCollection %}
+    </div>
+  </article>
+</main>

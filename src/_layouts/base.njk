@@ -1,0 +1,106 @@
+{%- set imgPath = "src/" ~ teaser -%} {%- set imageData =
+imageCollection[imgPath] -%} {%- set largestJpeg =
+imageData.jpeg[imageData.jpeg.length - 1].url -%} {% set pageDescr %} {% if
+description %} {{ description }} {% else %}
+{{ meta.siteDescription[page.lang] }} {% endif %} {% endset %}
+
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preload" href="/style.css" as="style">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      {% if title and tags %} {% if "retail" in tags %}
+      {{ title }} | {{ meta.title.retail[page.lang] }}
+      {% endif %} {% if "architecture-photography" in tags and "retail" not in
+      tags %}
+      {{ title }} | {{ meta.title.arch[page.lang] }}
+      {% endif %} {% if "exhibitions" in tags %}
+      {{ title }} | {{ meta.title.exhibit[page.lang] }}
+      {% endif %} {% endif %} {% if metaTitle %}
+      {{ meta.author }} | {{ metaTitle }}
+      {% endif %}
+    </title>
+    <meta name="description" content="{{ pageDescr }}" />
+    <!-- Open Graph meta  -->
+    <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:image" content="{{ largestJpeg }}" />
+    <meta property="og:image:alt" content="{{ teaserAlt }}" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="450" />
+    <meta property="og:description" content="{{ pageDescr }}" />
+    <meta property="og:site_name" content="{{ meta.siteName[page.lang] }}" />
+    <meta property="og:locale" content="{{ languages[page.lang].locale }}" />
+    <meta property="article:author" content="{{ meta.author }}" />
+    <meta name="image" content="{{ largestJpeg }}" />
+    <!-- Twitter meta -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ title }}" />
+    <meta name="twitter:description" content="{{ pageDescr }}" />
+    <meta name="twitter:image" content="{{ largestJpeg }}" />
+    <meta name="twitter:image:alt" content="{{ teaserAlt }}" />
+    <link rel="me" href="https://mastodon.social/@pyrenaicus" />
+
+    <!-- synchronous js / schema  -->
+    {% include "schemas/base-schema.njk" %}
+    <!-- include person schema -->
+    {% if home %} {%- include "schemas/person-schema.njk" %} {% endif %} {% if
+    images %}
+    <!-- include images schema  -->
+    {%- include "schemas/images-schema.njk" %} {% endif %} {% if gallery %}
+    <!-- include gallery schema  -->
+    {%- include "schemas/gallery-schema.njk" %} {% endif %}
+    <!-- include breadcrumb schema  -->
+    {%- include "schemas/breadcrumb-schema.njk" %}
+
+    <meta name="theme-color" content="#F3F3F3" />
+    <meta name="author" content="{{ meta.author }}" />
+    <meta
+      name="keywords"
+      content="architecture, landscape, Photography, Barcelona, Retail, Fine art"
+    />
+    <meta name="subject" content="Photography" />
+    <meta name="rating" content="General" />
+    <meta name="geo.region" content="ES" />
+    <meta name="geo.placename" content="Barcelona" />
+    <meta name="robots" content="index,follow" />
+    <meta name="googlebot" content="index,follow" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
+
+    <link rel="stylesheet" href="/style.css" />
+    <link
+      rel="alternate"
+      hreflang="{{ lang }}"
+      href="{{ meta.url }}{{ page.url }}"
+    />
+
+    {% for link in page.url | locale_links %}
+    <link
+      rel="alternate"
+      hreflang="{{ link.lang }}"
+      href="{{ meta.url }}{{ link.url }}"
+    />
+    {% endfor %}
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="{{ meta.url }}{{ page.url | locale_url('en') }}"
+    />
+    <link rel="canonical" href="{{ meta.url }}{{ page.url }}" />
+    <link type="text/plain" rel="author" href="{{ meta.url }}/humans.txt" />
+    <link rel="icon" href="{{ '/assets/favicon.ico' | url }}" sizes="any" />
+    <script
+      data-goatcounter="https://pgcom.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
+  </head>
+  <body>
+    {% include "header.njk" %}
+    {{ content | safe }}
+    {% include "footer.njk" %}
+  </body>
+</html>
