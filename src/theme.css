@@ -132,8 +132,8 @@ select {
 
   /* System fonts for body copy and globally set text */
   /* GEometric Humanist font stack, https://modernfontstacks.com/ */
-  --font-base: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
-    sans-serif;
+  --font-base:
+    Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro, sans-serif;
 
   /* Colors */
   --color-dark: #404040;
@@ -214,8 +214,9 @@ h3 {
 }
 
 blockquote {
-  border-inline-start: 0.3rem solid var(--color-dark);
-  padding: var(--space-m-l);
+  /* border-inline-start: 0.3rem solid var(--color-dark); */
+  padding: var(--space-s);
+  padding-inline-end: var(--space-2xl-3xl);
   font-size: var(--step-0);
   line-height: 1.2;
 }
@@ -353,6 +354,11 @@ figcaption,
   opacity: 0.8;
   font-size: var(--step--1);
   --flow-space: 0.6rem;
+}
+
+/* caption for quotes */
+.quote figcaption {
+  font-size: var(--step--1);
 }
 
 .no-underline {
