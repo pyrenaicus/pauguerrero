@@ -3,14 +3,14 @@ layout: "base.njk"
 ---
 
 <main id="main">
-  <article class="flow wrapper region list">
-    <h1 class="category-title">{{ title }}</h1>
-    <ul class="grid" role="list" data-rows="masonry" data-layout="50-50">
+  <article class="">
+    <h1 class="title">{{ title }}</h1>
+    <ul class="" role="list" data-rows="masonry" data-layout="50-50">
       {% for item in collections[collectionName] %} {% if item.data.lang ==
       page.lang %}
-      <li class="card flow flow-exception overflow-hidden">
+      <li class="card">
         {% imageShortcode item.data.teaser, item.data.teaserAlt, "high" %}
-        <div class="card-title">
+        <div class="">
           <a href="{{ item.url }}">{{ item.data.title | lower }}</a>
         </div>
       </li>

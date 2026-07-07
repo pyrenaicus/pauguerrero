@@ -45,7 +45,7 @@ export default async function (images, collection) {
         ? `<figcaption>${img.caption}</figcaption>`
         : "";
 
-      return `<figure>${html}${caption}</figure>`;
+      return `<div class="cell"><figure class="image mb-4">${html}${caption}</figure></div>`;
     } catch (error) {
       console.error(`\n❌ FAILED on image ${index + 1}:`);
       console.error(`   img object:`, JSON.stringify(img, null, 2));

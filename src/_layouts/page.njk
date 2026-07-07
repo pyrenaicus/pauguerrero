@@ -2,22 +2,40 @@
 layout: "base.njk"
 ---
 
-<main id="main" class="flow">
-  <article class="region page">
-    <div class="wrapper flow prose">
-      {% if not home %}
-        <h1 class="category-title">{{ title }}</h1>
-      {% endif %}
+<section class="hero is-medium">
+  <div class="hero-body container is-family-secondary">
+    {% if not home %}
+      <h1 class="title">{{ title }}</h1>
       {% if intro %}
-        {{ intro | safe }}
-        {% if images %}
-         {% imagesShortcode images, imageCollection %}
-         {% endif %}
-         {{ content | safe }}
-         {% else %}
-         {{ content | safe }}
-         {% imagesShortcode images, imageCollection %}
-          {% endif %}
+      <p class="subtitle">{{ intro | safe }}</p>
+    {% endif %}
+    {% endif %}
+    <div id="hero-input-group" class="field has-addons has-addons-centered">
     </div>
-  </article>
-</main>
+  </div>
+</section>
+
+<section class="section">
+  <div class="columns">
+    <div class="column is-6 is-offset-3">
+      <div class="content">
+        {% if intro %}
+          {% if images %}
+          <div class="fixed-grid has-1-cols-mobile">
+            <div class="grid">
+              {% imagesShortcode images, imageCollection %}
+            {% imagesShortcode images, imageCollection %}
+            </div>
+          </div>
+          {% endif %}
+          {{ content | safe }}
+        {% else %}
+          {{ content | safe }}
+          {% imagesShortcode images, imageCollection %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+

@@ -2,6 +2,7 @@ export default {
   langs: ["ca", "es", "en"],
   ca: {
     locale: "ca-ES",
+    langName: "Català",
     skipText: "Saltar al contingut principal",
     ariaPrimary: "Principal",
     ariaLang: "Canviar idioma",
@@ -29,6 +30,7 @@ export default {
   },
   es: {
     locale: "es-ES",
+    langName: "Castellano",
     skipText: "Saltar al contenido principal",
     ariaPrimary: "Principal",
     ariaLang: "Cambiar el idioma",
@@ -56,6 +58,7 @@ export default {
   },
   en: {
     locale: "en-GB",
+    langName: "English",
     skipText: "Jump to main content",
     ariaPrimary: "Primary",
     ariaLang: "Change language",
