@@ -4,6 +4,7 @@ description: '"Espais Volart, Fundació Vila Casas" in Barcelona. Architecture P
 date: "2020-07-10"
 location: "Barcelona"
 architect:
+intro: "Espais Volart, Fundació Vila Casas. Barcelona."
 teaser: "images/teaser-espais-volart-fundacio-vila-casas.jpg"
 teaserAlt: "Art gallery with Guerrero Medina's portrait paintings on display, featuring a large portrait prominently on a white partition wall."
 images:
@@ -93,4 +94,21 @@ images:
     description: ""
 ---
 
-Espais Volart, [Fundació Vila Casas](https://www.fundaciovilacasas.com). Barcelona.
+## Museum Architectural Photography: Espais Volart, Fundació Vila Casas
+
+This interior architectural photography series documents the sweeping exhibition galleries of **Espais Volart**, a premier contemporary art centre managed by the **[Fundació Vila Casas](https://www.fundaciovilacasas.com)** in Barcelona. Housed in a repurposed building in the Eixample district, the shoot captures a major monographic exhibition of the expressive, large-format works of painter **Guerrero Medina**.
+
+The photographs highlight how Espais Volart’s minimalist, spacious design creates a silent but powerful canvas for Guerrero Medina’s vibrant contemporary fine art.
+
+### Intersecting Fine Art and Monolithic Gallery Space
+
+The visual storytelling of this gallery interior photoshoot centres on the interplay of spatial scale, architectural restraint, and artistic expression.
+
+* **Minimalist Spatial Depth:** Espais Volart is characterised by its expansive, diaphanous layouts. The photography frames the massive white walls and **polished concrete floors**, using these surfaces to draw focus to the artwork. The vast empty floors reflect the gallery’s lighting, adding depth to the wide-angle perspectives.
+* **The Scale of the Artwork:** Guerrero Medina’s intense, colourful landscape paintings, large-format portraits, and intricate black-and-white drawings command the space. The compositions use human scale and empty architectural frames to emphasise the immense physical presence of these canvases and how the building’s structural dimensions accommodate monumental artwork.
+
+### Technical Precision in Contemporary Fine Art Documentation
+
+Photographing an active art exhibition requires careful technical execution to respect both the architect’s spatial geometry and the artist’s colour palette.
+
+The images maintain perfect orthogonal framing and strict vertical alignment, capturing the structural columns and square partition lines with clinical accuracy. Particular attention was paid to exposure calibration under the gallery’s specialised track lighting. By balancing light levels, the photography removes harsh hot-spots and avoids distracting glass glare, ensuring that the rich textures, brushstrokes, and colour values of the paintings are archived with fidelity.

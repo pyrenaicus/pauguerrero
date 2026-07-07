@@ -5,6 +5,7 @@ date: "2019-04-01"
 location: "Barcelona"
 tags: retail
 brand: "Prada"
+intro: "Prada store in Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-barcelona-prada-store.jpg"
 teaserAlt: "Prada store interior with black and white checkered flooring, glass shelves displaying colorful handbags, green chairs and black cast iron columns."
 images:
@@ -94,4 +95,22 @@ images:
     description: ""
 ---
 
-Prada store in Passeig de Gràcia, Barcelona.
+## Luxury Retail Architecture Photography: Prada Flagship on Passeig de Gràcia
+
+This commercial interior photography series documents the flagship Prada boutique on the prestigious **Passeig de Gràcia in Barcelona**. As one of the city’s most significant luxury retail footprints, the space exemplifies how historic European architecture can be retrofitted for contemporary, high-fashion retail environments.
+
+The photoshoot meticulously captures the grand scale, symmetrical proportions, and signature material details that define Prada’s visual identity in this flagship interior.
+
+### Documenting Prada’s Iconic Materiality and Spatial Layout
+
+The visual narrative of this flagship store photoshoot centres on the rigorous, elegant material palette curated by the brand’s internal design team.
+
+* **The Signature Green Marble:** A defining feature of the interior architecture is the extensive use of polished, deep **green marble walls**. The photography leverages soft, diffused architectural lighting to draw out the stone's intense veining and rich textures, ensuring it serves as a commanding yet sophisticated backdrop for the collections.
+* **Geometric Flooring and Perspective:** The boutique features classic black-and-white checkered flooring arrays alongside plush, pale-toned carpeting. The compositions utilise low, balanced perspectives to capture these floor patterns as strong leading lines, guiding the viewer’s eye through the series of interconnected monumental doorways and luxury salons.
+* **Symmetry and Display Balance:** Sleek, minimalist black metal shelving systems and polished mirrors line the walls. The framing emphasises the absolute symmetry of these custom retail fixtures, documenting how haute couture apparel, luxury handbags, and accessories are presented as highly curated art pieces within the space.
+
+### Technical Mastery in High-End Commercial Interiors
+
+Photographing a world-class luxury store requires managing a complex web of technical challenges.
+
+The compositions rely on flawless **orthogonal alignment** to keep the soaring ceilings, structural columns, and expansive doorways perfectly upright and true to the architect’s blueprint. Controlling the intense reflections from oversized mirrors, glass vitrines, and glossy marble surfaces demanded ultra-precise camera positioning and advanced polarisation techniques. By balancing the warm, focused product spotlights with the cool, ambient light flowing from the Passeig de Gràcia entrance, this architectural portfolio successfully preserves the immersive, high-end atmosphere that defines the Prada shopping experience.

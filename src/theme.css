@@ -210,6 +210,10 @@ h2,
 h3 {
   /* max-width: 20ch; */
   max-inline-size: 40ch;
+  /* padding-top: var(--space-m-l); */
+}
+
+h1 {
   padding-top: var(--space-m-l);
 }
 
@@ -465,7 +469,7 @@ to change how empty grid tracks are handled */
   /* max-width: 600px; */
 }
 
-.card h2 {
+.card .card-title {
   font-size: var(--step-0);
   padding-top: 0;
 }

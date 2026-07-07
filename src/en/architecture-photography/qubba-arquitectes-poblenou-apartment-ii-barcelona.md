@@ -4,6 +4,7 @@ description: "Poblenou II, Apartment renovation by Qubba Architects. Architectur
 date: "2018-06-01"
 location: "Barcelona"
 architect: "Qubba arquitectes"
+intro: "Renovation of an apartment in Poblenou district, Barcelona. By Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-poblenou-ii.jpg"
 teaserAlt: "Open-plan living area with black tiled countertop, exposed brick wall, wooden ceiling beams, and natural sunlight coming through two large balconies with wooden shutters."
 images:
@@ -79,4 +80,22 @@ images:
     description: ""
 ---
 
-Renovation of an apartment in Poblenou district, Barcelona. Architecture: [Qubba Arquitectes](https://qubba.net)
+## Residential Architecture Photography: Poblenou Apartment II by Qubba Arquitectes
+
+This interior architectural photography series portrays modern city living in **Poblenou, Barcelona**. Designed by **[Qubba Arquitectes](https://qubba.net)**, this residential renovation transforms a classic space in Barcelona’s old industrial heart into a sophisticated, light-filled contemporary home.
+
+The photoshoot shows how modern minimalist interventions can honour and enhance a building’s industrial character through deliberate spatial sequencing and refined raw materials.
+
+### The Design Narrative: Industrial Heritage Fuses Modern Warmth
+
+The visual storytelling of this interior design shoot highlights open spaces, texture contrasts, and the smart division of medium-sized urban floor plans.
+
+* **Fluid Transitional Spaces:** Moving away from rigid, closed hallways, the apartment embraces an open-style flow. The photography uses deep leading lines to highlight this spatial continuity, guiding the viewer’s eye from the entryway into the main communal zones.
+* **Industrial-Inspired Materiality:** The design language works beautifully with raw architectural elements. The images show a texturised mixture of smooth ceramic tiling, neutral wood-grained cabinetry, and minimalist open shelving. Precisely balanced exposures accentuate the rich, organic grain of the timber elements against cooler, industrial surfaces, giving the flat a grounded yet airy personality.
+* **Smart Contemporary Fixtures:** In the private zones, compact layouts are maximised using sleek sliding doors and custom geometric cabinetry. The framing shows how these hidden components optimise the use of physical square footage while preserving clean, unbroken sightlines throughout the home.
+
+### Technical Precision in Loft-Style Architectural Shoots
+
+Photographing industrial-style residential spaces requires meticulous attention to detail to accurately represent the architect’s vision.
+
+Every photograph in this collection features strict **orthogonal alignment**, keeping vertical wall lines, sliding frames, and custom-made cabinetry compositionally true and free from wide-angle lens distortion. Managing the natural light passing through the urban windows while maintaining soft, detailed shadows throughout the neutral wood tones allows the portfolio to showcase authentic depth. The final images offer a polished, high-fidelity archive that documents Qubba Arquitectes’ industrial-chic residential design in Catalonia.

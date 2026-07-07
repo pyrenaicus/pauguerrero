@@ -2,19 +2,22 @@
 layout: "base.njk"
 ---
 
-<main id="main" class="flow">
-  <article class="wrapper region">
+<main id="main">
+  <article class="flow wrapper region list">
     <h1 class="category-title">{{ title }}</h1>
     <ul class="grid" role="list" data-rows="masonry" data-layout="50-50">
       {% for item in collections[collectionName] %} {% if item.data.lang ==
       page.lang %}
       <li class="card flow flow-exception overflow-hidden">
         {% imageShortcode item.data.teaser, item.data.teaserAlt, "high" %}
-        <h2>
+        <div class="card-title">
           <a href="{{ item.url }}">{{ item.data.title | lower }}</a>
-        </h2>
+        </div>
       </li>
       {% endif %} {% endfor %}
     </ul>
+
+     {{ content | safe }}
+
   </article>
 </main>

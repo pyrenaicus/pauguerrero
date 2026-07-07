@@ -6,10 +6,18 @@ layout: "base.njk"
   <article class="region page">
     <div class="wrapper flow prose">
       {% if not home %}
-      <h1 class="category-title">{{ title }}</h1>
+        <h1 class="category-title">{{ title }}</h1>
       {% endif %}
-      {{ content | safe }}
-      {% imagesShortcode images, imageCollection %}
+      {% if intro %}
+        {{ intro | safe }}
+        {% if images %}
+         {% imagesShortcode images, imageCollection %}
+         {% endif %}
+         {{ content | safe }}
+         {% else %}
+         {{ content | safe }}
+         {% imagesShortcode images, imageCollection %}
+          {% endif %}
     </div>
   </article>
 </main>

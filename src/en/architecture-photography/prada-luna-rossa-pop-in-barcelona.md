@@ -1,6 +1,7 @@
 ---
 title: "Prada Luna Rossa Pop In"
 description: "Prada Luna Rossa Pop-In Store in Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
+intro: "Luna Rossa Pop-in during the 37th America's Cup. Prada store in Passeig de Gràcia, Barcelona."
 date: "2024-09-01"
 location: "Barcelona"
 tags: retail
@@ -108,4 +109,20 @@ images:
     description: ""
 ---
 
-Luna Rossa Pop-in during the 37th America's Cup. Prada store in Passeig de Gràcia, Barcelona.
+## Prada’s Luna Rossa Pop-In on Passeig de Gràcia
+
+This architectural photography series documents the **Prada Luna Rossa Pop-in** installation at the luxury brand’s flagship store on **Passeig de Gràcia, Barcelona**. Timed to coincide with the **37th America’s Cup**, this temporary spatial design fuses high-performance sailing aesthetics with Prada’s iconic luxury retail design language.
+
+### The Interplay of Luxury and High-Performance Design
+
+The visual narrative of this interior commercial photoshoot centres on a striking contrast in materials. Prada’s signature architectural elements—most notably the polished **green marble walls** and soft, diffuse ambient lighting—serve as a rich, timeless backdrop for the stark, industrial features of the sports sailing Luna Rossa collection.
+
+Sleek, minimalist **metal shelving structures** house contemporary grey apparel and designer sneakers, imposing a sharp geometric grid over the marble's organic veining. Central glass display tables feature integrated steel drawers showcasing the technical collaboration between Prada and Pirelli. Meanwhile, a large floating glass display cabinet encases a mannequin in aerodynamic racing gear and a sailing helmet, presenting high-performance sportswear as fine art objects.
+
+### Photography Approach: Framing Spatial Depth and Materiality
+
+Documenting high-end luxury retail spaces requires rigorous calibration of geometry, perspective, and reflection management.
+
+* **Controlling Reflections:** With abundant glass displays, polished metal, and expansive mirrors, angles were chosen carefully to manage glare and use natural reflections constructively, revealing spatial depth and the flow between adjacent spaces.
+* **Material Integrity:** The exposures focus on the tactile shift between the cold, smooth luxury of polished stone and the matte, technical fabrics of performance sailing gear.
+* **Geometric Alignment:** Using clean vertical lines and precise architectural framing, the images portray both the grand scale of the luxury boutique’s layout and the meticulous details of the custom retail fixtures, preserving a comprehensive visual record of this transient exhibition.

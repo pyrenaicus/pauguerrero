@@ -4,6 +4,7 @@ description: "Wooden House by Qubba Architects. Architecture Photography by Pau 
 date: "2022-11-02"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Lightweight wooden house for a couple, by Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-wood-house.jpg"
 teaserAlt: "Exterior view of a modern house with two bodies, a pitched roof, dark wood cladding, large windows, and a spacious lawn surrounded by pine trees."
 images:
@@ -100,4 +101,22 @@ images:
     description: ""
 ---
 
-Lightweight wooden house for a couple. Architecture: [Qubba Arquitectes](https://qubba.net)
+## Exterior Architectural Photography: The Wooden House by Qubba Arquitectes
+
+This residential architectural photography series documents the **Wooden House**, a striking contemporary home designed by the innovative studio **[Qubba Arquitectes](https://qubba.net)**. Moving away from traditional urban masonry, the project embraces ecological construction and minimalist structural forms, offering a study in how natural timber elements integrate into modern landscape design.
+
+The photoshoot highlights crisp geometric lines, volume transitions, along with the tactile qualities of sustainable residential architecture.
+
+### Documenting Geometric Volumes and Timber Cladding
+
+The visual storytelling of this exterior architecture shoot focuses on structural form, material honesty, and the interaction of natural light with organic surfaces.
+
+* **Dual-Volume Composition:** The house is structurally split into two distinct, intersecting bodies or volumes, each topped with a clean, sloped-pitched roof. The photography uses precise wide-angle framing to emphasise this geometric interplay, capturing how the two structures balance each other while defining the surrounding outdoor space.
+* **The Texture of Natural Wood:** A defining element of the home is its extensive exterior **wooden cladding**. The photographic exposures are carefully calibrated to emphasise the fine grain, shifting tones, and linear rhythm of the timber panels. By capturing the facade at different angles throughout the day, the images illustrate how sunlight casts changing geometric shadows across the wood, giving the building a dynamic, living character.
+* **Minimalist Spatial Openings:** Strategically placed windows pierce the clean white surfaces and wooden frames. The composition frames these openings to show how the minimalist interior connects with the exterior facade, maintaining privacy while maximising natural light.
+
+### A Precise Technical Approach to Exterior Spaces
+
+Photographing detached modern residential structures requires a keen eye for vanishing points and environmental harmony.
+
+The vertical lines are strictly aligned across every frame to prevent unwanted distortion of the pitched roof lines and structural volumes. By balancing the bright daytime sky with the warm, organic tones of the timber facade, this architectural photography portfolio piece cleanly archives Qubba Arquitectes’ mastery of sustainable urban form and contemporary residential volume design.

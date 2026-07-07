@@ -5,6 +5,7 @@ date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
+intro: "Montblanc’s Glacier window campaign designed by StudioXAG. Cracked ice graphics decorate the windows of Montblanc's store in Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-studioxag-montblanc-glacier-barcelona.jpg"
 teaserAlt: "Exterior view of a Montblanc store with glacier-themed window displays and branding."
 images:
@@ -73,4 +74,21 @@ images:
     description: ""
 ---
 
-Montblanc’s [Glacier](https://studioxag.com/work/montblanc-glacier/) window campaign designed by [StudioXAG](https://studioxag.com). Cracked ice graphics decorate the windows of Montblanc's store in Passeig de Gràcia, Barcelona.
+## Storefront Architectural Photography: Montblanc Glacier Campaign
+
+This collection of retail architecture photography documents the **Montblanc “[Glacier](https://studioxag.com/work/montblanc-glacier/)”** seasonal window campaign at the brand’s boutique on **Passeig de Gràcia, Barcelona**. Created in partnership with the global creative production agency **[StudioXAG](https://studioxag.com)**, this installation marked a fresh, adventurous creative direction for the luxury brand, converting a commercial storefront into an eye-catching visual exploration of frozen alpine landscapes.
+
+The photoshoot focuses on how modern visual merchandising can transform a high-end facade by adding layered depth and bold graphic textures.
+
+### Capturing Spatial Layers and Cracked Ice Graphics
+
+The core of this spatial retail layout relies on an intricate interplay of translucent shapes and sharp linework.
+
+* **The Framing Narrative:** The boutique’s storefront windows are enhanced with high-impact, custom **cracked ice graphics** that border the display glass. The photographs show how these frosted, geometric patterns frame Montblanc’s luxury writing instruments, premium leather goods, and timepieces, while inviting street-level passersby to look more closely.
+* **Material and Contrast Interactions:** The backdrop of the display boxes recreates the stark, shifting tones of a deep glacier, mixing deep ocean blues with icy whites and polished metallic accents. The interior commercial photography highlights the contrast between these cold, jagged visual fixtures and the smooth, fine leather textures of the luxury products inside.
+
+### Technical Approach to Luxury Storefront Facades
+
+Documenting high-end glass storefronts on a bustling avenue like Passeig de Gràcia poses significant challenges.
+
+The images are captured using strict vertical lines to ensure architectural accuracy and prevent perspective distortion on the building’s facade. Managing street-level reflections on the premium glazing demanded exact angles and specialised polarisation filters to eliminate distracting public glare. This preserves the subtle opacity of the vinyl ice graphics and the inner warmth of the retail fixtures. By balancing Barcelona’s natural daytime ambience with the internal LED lighting of the vitrines, the series achieves a fleeting, high-fidelity intersection of luxury retail design and public installation art.

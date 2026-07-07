@@ -4,6 +4,7 @@ description: "Llinars Art Space by Aresta a+u architects. Architecture Photograp
 date: "2020-09-15"
 location: "Llinars, Barcelona"
 architect: Aresta a+u
+intro: "Art centre in Llinars del Vallès, Barcelona. Architecture by Aresta a+u arquitectes"
 teaser: "images/teaser-aresta-llinars-art-space.jpg"
 teaserAlt: "Minimalistic interior with white walls and wooden frames, featuring a single window providing a view of trees outside."
 images:
@@ -107,4 +108,20 @@ images:
     description: ""
 ---
 
-Art center in Llinars del Vallès, Barcelona. Architecture: [Aresta a+u arquitectes](https://aresta.net)
+## Cultural Architecture Photography: Llinars Art Space by Aresta a+u
+
+This architectural photography portfolio documents the **Llinars Art Space** (*Espai d’Art*), a restrained cultural facility in **Llinars del Vallès, Barcelona**. Designed by the progressive architectural studio **[Aresta a+u](https://aresta.net)**, this public art centre transforms a rigid structural layout into a calm, contemplative museum atmosphere, filtering natural light and maximising exhibition space.
+
+The photoshoot captures the calm geometric rhythms, material simplicity, and architectural flow of modern cultural exhibition design.
+
+### Documenting Gallery Geometry, Timber Frameworks, and Light
+
+The visual narrative of this art gallery photoshoot focuses on structural honesty, spatial depth, and the relationship between the clean interior and the natural world outside.
+
+* **The “Box-in-Box” Exhibition Layout:** The design features an inner skin of white partition walls, arranged by minimalist, raw timber framing. The photography uses orthogonal angles to emphasise these structural grids, showing how the floating partition systems divide the gallery space while keeping it open and airy.
+* **Framing the External Landscape:** A key visual anchor in this architectural series features a large, deep-set window with a wooden frame. The composition treats this opening as a living landscape painting, framing the green trees outside to contrast nature’s textures with the smooth white planes of the gallery interior.
+* **Atmospheric Overhead Illumination:** The architectural lighting design is integrated to diffuse light evenly across gallery displays. The exposures focus on how track lighting and structural openings illuminate the vertical gallery walls, softening shadows and preserving the neutral backdrop required for fine art exhibitions.
+
+### Technical Accuracy in Public Gallery Spaces
+
+Photographing public and cultural buildings requires absolute compositional precision to honour the architects' intent. Each frame is composed with strict vertical alignment to ensure that the timber columns and partition lines do not distort or skew. By balancing interior artificial light tracks with ambient light pouring through the broad windows, the final photographs provide a crisp, accurate, and timeless visual archive of Aresta a+u’s contribution to public cultural architecture in Catalonia.

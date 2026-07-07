@@ -4,6 +4,7 @@ description: "Sant Antoni House by Qubba Architects. Architecture Photography by
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "A flat for two students in Sant Antoni street, Barcelona. By Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-sant-antoni.jpg"
 teaserAlt: "Spacious dining area with checkered floor tiles, exposed beams, and French doors opening to a patio area."
 images:
@@ -93,4 +94,22 @@ images:
     description: ""
 ---
 
-A flat for two students in Sant Antoni street, Barcelona. Architecture: [Qubba Arquitectes](https://qubba.net)
+## Interior Architecture Photography: Sant Antoni House by Qubba Arquitectes
+
+This residential interior photography project showcases the conversion of a flat on **Sant Antoni Street, Barcelona**. Designed by **[Qubba Arquitectes](https://qubba.net)**, the space reimagines urban student living by turning a compact residential layout into a bright, collaborative, and highly functional home for two students.
+
+The photoshoot highlights crisp design transitions, playful graphic textures, and material contrasts which define this contemporary apartment renovation.
+
+### Capturing Geometric Rhythms and Accent Materials
+
+The visual narrative of this interior design photoshoot emphasises the cohesive combination of historic structural features and clean, modern elements.
+
+* **The Graphic Footprint:** A defining anchor of the shared living spaces is the striking black-and-white **checkered floor tiles**. The photography uses a low-angle view to maximise the perspective of this graphic grid, drawing the eye naturally from the entryway through the main dining and cooking zones.
+* **Textural Materiality:** Warm, rustic **exposed wooden beams** line the ceilings, providing a historic frame that balances the modern, clean white cabinetry and natural wooden countertops. This contrast is heightened by textured white brick accents on the walls, adding architectural depth to the vertical planes.
+* **Vibrant Colour Blocks:** In the kitchen, a bold backsplash of **teal tiled walls** injects a youthful, energetic character into the space. The exposures are carefully calibrated to capture the glossy finish of the colourful tiles against the matte surfaces of the kitchen fixtures.
+
+### Managing Visual Depth and Residential Light
+
+Photographing student housing and multi-use apartments requires capturing openness within structured boundaries. To show the flow between rooms, the compositions highlight the apartment’s elegant glass-panelled **doors**. By shooting through these transparent frames, the images document how light filters across rooms while maintaining long, clear sightlines that make the entire apartment feel more spacious.
+
+Strict vertical alignment and precise lens choices preserve the geometry of the custom carpentry and room intersections, delivering a professional, high-fidelity visual archive for Qubba Arquitectes’ portfolio.

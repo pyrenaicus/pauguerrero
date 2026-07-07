@@ -5,6 +5,7 @@ date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
+intro: "Montblanc Inspire Writing window campaign designed by StudioXAG for Montblanc's store in Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-studioxag-montblanc-inspire-writing-barcelona.jpg"
 teaserAlt: "Montblanc store exterior with a modern design, featuring large windows and elegant branding."
 images:
@@ -101,4 +102,18 @@ images:
     description: ""
 ---
 
-Montblanc [Inspire Writing](https://studioxag.com/work/inspire-writing/) window campaign designed by [StudioXAG](https://studioxag.com) for Montblanc's store in Passeig de Gràcia, Barcelona.
+## Retail Window Campaign Photography: Montblanc on Passeig de Gràcia
+
+This commercial architecture and retail photography series documents Montblanc's **“[Inspire Writing](https://studioxag.com/work/inspire-writing/)”** global window campaign at the brand’s flagship boutique on **Passeig de Gràcia in Barcelona**. Conceived and designed by the creative agency **[StudioXAG](https://studioxag.com)**, the temporary storefront installation pays homage to the literary arts and the brand’s heritage of luxury writing instruments through an impactful, artistic graphic display.
+
+### Capturing Visual Merchandising: Day-to-Night Transitions
+
+Documenting luxury window displays requires a specialised photographic approach that honours visual merchandisers’ work while dealing with the physical challenges of street-level storefront photography.
+
+* **The Artistic Narrative:** The campaign uses a deep, vibrant blue backdrop adorned with elegant typographic patterns, fluid artistic shapes, and sculptural black infinity symbols. The photography captures how these custom elements interact with Montblanc’s luxury leather bags, luggage, and signature writing instruments, framing them as focal points within an immersive artistic canvas.
+* **Day-to-Night Exposure Calibration:** A major element of this architectural photoshoot is the contrast between daytime and nighttime documentation. The daytime frames emphasise the crisp modernity of the storefront facade and the precise geometry of the window enclosures. Nighttime images, by contrast, harness controlled interior illumination. By balancing the glowing warmth of the product shelving against the cool, rich blues of the display backgrounds, the photographs capture the dramatic, high-contrast presence the boutique commands on the street after dark.
+
+### Managing Storefront Reflections and Clarity
+
+Photographing glass window displays on a bustling avenue like Passeig de Gràcia demands technical precision. The compositions are carefully angled to manage public reflections, neutralising distracting glare while preserving the crisp legibility of the backlit Montblanc signage and internal retail fixtures. Each photograph serves as a high-fidelity visual archive, showing how StudioXAG’s temporary spatial design transforms a commercial facade into sophisticated street-level public art.
+
