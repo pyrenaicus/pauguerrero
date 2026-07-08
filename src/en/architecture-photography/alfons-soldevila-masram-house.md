@@ -4,6 +4,7 @@ description: "Mas Ram House by Alfons Soldevila. Architecture Photography by Pau
 date: "2002-05-05"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
+intro: "Experimental dwelling prototype MR-1, built in 1971 in Badalona, Barcelona. The first in a series of experimental dwelling prototypes. Architecture: Alfons Soldevila, Josep Maria Massot and Miguel Donada."
 teaser: "images/teaser-soldevila-masram-house.jpg"
 teaserAlt: "High-angle view of a cozy living area with a wooden staircase, a green pendant light, and a wall adorned with framed art and decorative items. Below you can see a large wooden table."
 images:
@@ -80,3 +81,24 @@ images:
 ---
 
 Experimental dwelling prototype MR-1, built in 1971 in Badalona, Barcelona. The first in a series of experimental dwelling prototypes. Architecture: Alfons Soldevila, Josep Maria Massot and Miguel Donada.
+
+
+## Residential Architecture Photography: Mas Ram House (MR-1 Prototype)
+
+This architectural interior and exterior photography series documents **Mas Ram House**, also recognised as the **MR-1 Experimental Dwelling Prototype**. Built in 1971 in **Badalona, Barcelona**, this residence was designed by architect **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** alongside collaborators **Josep Maria Massot** and **Miguel Donada**. Ahead of its time in sustainable, energy-efficient residential architecture, the home is a study in spatial flexibility, material economy, and structural optimisation.
+
+The photoshoot spotlights the house’s geometric container, multi-level layout, and tactile raw materials as the key features of this landmark mid-century experimental prototype.
+
+### Documenting Vertical Volume, Lightweight Timber, and Mortar Blocks
+
+The visual storytelling of this experimental residential shoot focuses on a home built around fluid spatial connections and honest construction methods.
+
+* **The 4x16-Meter Container:** The house is structured as an elongated rectangular volume, intentionally taller than it is wide. The photography uses vertical framing and split-level angles to show this depth, capturing how the living spaces, bedrooms, and workspace stack and connect across different heights without rigid partition walls.
+* **Structural Material Honesty:** A primary focus of the interior images is the raw **Ytong mortar blocks** used for the 20 cm-thick walls, which serve as structure, thermal insulation, and the final finish. The camera exposures highlight the textured masonry and the horizontal structural belts that support the container.
+* **Ship-Like Lightweight Interiors:** The flooring systems are lightweight timber decks, only 2.5 cm thick, that function as both floor and ceiling finish. The compositions emphasise these thin planes, wooden staircases, and open pathways, framing an interior that opens naturally toward the garden and a subterranean studio terrace designed as a solar collector.
+
+### Capturing Early Sustainable Design with Technical Rigour
+
+Photographing this experimental, nature-integrated structure requires managing a complex mix of organic textures and changing lighting values. The exterior architecture frames capture the building wrapped in climbing plants, showing how the home blends into its natural Badalona hillside environment.
+
+Inside, **orthogonal alignment** keeps the continuous mortar block walls and lightweight timber posts perfectly vertical, preventing wide-angle lens distortion across the narrow footprint. By balancing bright sunlight through large glass openings with warm, highly personal interior finishes—decorated with historic blueprints, family drawings, and posters—the photography creates a clear visual archive that honours Alfons Soldevila’s legacy of environmentally aware residential design in Catalonia.

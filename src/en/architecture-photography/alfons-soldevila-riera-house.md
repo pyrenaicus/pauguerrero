@@ -4,6 +4,7 @@ description: "Riera House by Alfons Soldevila. Architecture Photography by Pau G
 date: "2002-05-12"
 location: "Badalona, Barcelona"
 architect: "Alfons Soldevila"
+intro: "Experimental dwelling prototype MR6, built in 1984. Badalona, Barcelona. Architecture: Alfons Soldevila and Josep Ignasi de Llorens."
 teaser: "images/teaser-alfons-soldevila-riera-house.jpg"
 teaserAlt: "Outdoor swimming pool beside a concrete block house, surrounded by trees, greenery and oleander flowers, with a view of distant hills."
 images:
@@ -65,4 +66,22 @@ images:
     description: ""
 ---
 
-Experimental dwelling prototype MR6, built in 1984. Badalona, Barcelona. Architecture: Alfons Soldevila and Josep Ignasi de Llorens.
+## Residential Architecture Photography: Riera House by Alfons Soldevila
+
+This residential architecture photography series documents the pioneering **Riera House** (*Casa Riera*), an experimental dwelling prototype designed by **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** in collaboration with **Josep Ignasi de Llorens**. Built near Barcelona as a landmark study in structural efficiency and material independence, this home questions traditional domestic layouts. It prioritises flexibility, environmental adaptation, and structural honesty over conventional ornamentation.
+
+The photoshoot focuses on documenting the industrial-edged materiality, light shifts, and split-level spatial geometry of this innovative residential design.
+
+### Documenting Experimental Textures and Volumetric Depth
+
+The visual storytelling of this interior architectural shoot captures the Riera House as a beautiful, functional system in which raw construction materials align with the architectural outcome.
+
+* **Split-Level Interior Volumes:** The interior architecture of the Riera House is anchored by an open, multi-tiered layout that maximises vertical sightlines. The photography uses warm, low-light framing to emphasise the contemplative feel of the **split-level timber spaces**. By positioning the camera along the wooden mezzanine handrails and platforms, the images show how the living zones flow together without heavy partition walls.
+* **The Stark Honesty of Materials:** A primary focus of the series is the Riera House’s unapologetic mix of raw building materials, combining rich structural timbers with exposed masonry and mortar block elements. The exposures are precisely metered to capture the contrasting tactile details between smooth, linear floorboard grain and cold, textured concrete block grids.
+* **Atmospheric Light Sifting:** The Riera House handles light with poetic restraint, filtering it into a softly lit, meditative sanctuary. The photographs trace how soft natural light cascades down from strategic openings, casting long, deep geometric shadows that emphasise structural depth.
+
+### A Technical Framework for Experimental Architectural Portfolios
+
+Documenting an experimental building requires a disciplined compositional structure that replicates the architectural rigour of the creators. Every photograph in this gallery is composed using strict **orthogonal alignment**, keeping the exposed posts, beams, and lightweight wooden frameworks straight and free of wide-angle lens distortion.
+
+By balancing subtle interior ambient lighting with the natural illumination screening through the envelope, this architectural portfolio piece preserves a high-fidelity visual record of Alfons Soldevila’s legacy of sustainable and innovative residential design in Catalonia.

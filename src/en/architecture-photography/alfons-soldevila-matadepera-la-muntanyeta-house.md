@@ -4,6 +4,7 @@ description: "La Muntanyeta House by Alfons Soldevila. Architecture Photography 
 date: "2002-04-12"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
+intro: "One of the six houses in La Muntanyeta Residential Complex, built in 1979 in Matadepera, Barcelona. Architecture: Alfons Soldevila and Josep Ignasi de Llorens."
 teaser: "images/teaser-alfons-soldevila-matadepera-la-muntanyeta-house.jpg"
 teaserAlt: "View of a terraced concrete block house with large windows, surrounded by lush greenery, a grassy lawn, and a staircase leading to an elevated paved area adorned with potted plants."
 images:
@@ -65,4 +66,22 @@ images:
     description: ""
 ---
 
-One of the six houses in La Muntanyeta Residential Complex, built in 1979 in Matadepera, Barcelona. Architecture: Alfons Soldevila and Josep Ignasi de Llorens.
+## Residential Architecture Photography: La Muntanyeta House by Alfons Soldevila
+
+This collection of exterior and interior architectural photography documents a home in the **La Muntanyeta Residential Complex**, a seminal cluster of six unifamily dwellings built in 1979 in **Matadepera, Barcelona**. Designed by the influential architectural duo **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** and **Josep Ignasi de Llorens**, this project acts as a blueprint for structural clarity along with material independence.
+
+The photoshoot focuses on a highly flexible, modular layout in which every physical element operates autonomously, without gratuitous decorative layers.
+
+### Documenting Raw Concrete Modulation and Exposed Structures
+
+The visual narrative of this residential development shoot centres on structural honesty, geometric patterns, and raw, industrial materials within a residential setting.
+
+* **Exposed Concrete Block Walls:** The backbone of the complex’s design is the strict modulation of **exposed concrete blocks**. The photography uses sharp, raking sunlight to bring out the rough, porous texture of the masonry, emphasising the rhythmic joints that give the two-story terraced facades their structural identity.
+* **Exposed Installations and Utilities:** In a radical shift away from traditional concealed housing systems, the electrical and plumbing conduits remain **visible on the walls**. The compositions frame these linear pathways as graphic architectural lines that reinforce the rooms' geometry.
+* **Volumetric Autonomy:** The images highlight one of the six houses as a clean, independent volume. Wide-angle framing captures the stepped perspective of the terraced units as they adapt to Matadepera’s local topography.
+
+### Technical Precision in Brutalist-Leaning Portfolios
+
+Photographing a raw, modular structure from the late 1970s requires an acute eye for alignment and contrast. Because the design language is built around the precise geometry of the concrete blocks, the photographs are shot with strict **orthogonal alignment**. This keeps all vertical corners, windows, and exposed pillars perfectly upright, preventing wide-angle lens distortion.
+
+By thoughtfully calibrating the exposure to balance the bright Catalan sky with the deep, textured shadows thrown by the recessed entryways, this portfolio piece offers a polished, high-fidelity archive that honours the experimental, functionalist legacy of Alfons Soldevila and Josep Ignasi de Llorens.
