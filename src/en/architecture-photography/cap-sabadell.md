@@ -1,10 +1,10 @@
 ---
-title: "Medical center"
+title: "Sabadell Medical center"
 description: "Medical center in Sabadell, EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
 date: "2005-03-14"
 location: "Sabadell, Barcelona"
 architect: "Estudi Massip-Bosch Architects"
-intro: "Community healthcare center in Sabadell, Barcelona. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"
+intro: "Community healthcare center. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-cap-sabadell.jpg"
 teaserAlt: "A courtyard blending old and new architecture, with a historic building on the left and a modern glass structure on the right, surrounded by greenery and shaded trees."
 images:

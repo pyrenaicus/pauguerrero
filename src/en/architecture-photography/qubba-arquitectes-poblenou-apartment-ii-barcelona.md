@@ -4,7 +4,7 @@ description: "Poblenou II, Apartment renovation by Qubba Architects. Architectur
 date: "2018-06-01"
 location: "Barcelona"
 architect: "Qubba arquitectes"
-intro: "Renovation of an apartment in Poblenou district, Barcelona. By Qubba Arquitectes."
+intro: "Renovation of an apartment in Poblenou district, Barcelona. Designed by Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-poblenou-ii.jpg"
 teaserAlt: "Open-plan living area with black tiled countertop, exposed brick wall, wooden ceiling beams, and natural sunlight coming through two large balconies with wooden shutters."
 images:

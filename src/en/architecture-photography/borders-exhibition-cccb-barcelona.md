@@ -4,7 +4,7 @@ description: "Borders exhibition at CCCB, Barcelona. Design by EMBA, Enric Massi
 date: "2007-05-15"
 location: "Barcelona"
 architect: "Estudi Massip-Bosch Architects"
-intro: "Borders_ exhibition at CCCB, Centre de Cultura Contemporània de Barcelona. Design by EMBA, Enric Massip-Bosch Arquitectes"
+intro: "Exhibition design by EMBA, Enric Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-borders-cccb.jpg"
 teaserAlt: "A long, narrow exhibition room with panoramic images of a cityscape and beach displayed on the walls, featuring detailed architectural plans and maps on the floor."
 images:

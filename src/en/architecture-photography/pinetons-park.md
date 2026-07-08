@@ -4,7 +4,7 @@ description: Pinetons Park by Isidre Santacreu. Architecture Photography by Pau 
 date: 2003-05-21
 location: Ripollet, Barcelona
 architect: Isidre Santacreu
-intro: "Pinetons park in Ripollet, Barcelona. Landscape architecture by Isidre Santacreu"
+intro: "In Ripollet, Barcelona. Landscape architecture by Isidre Santacreu"
 teaser: "images/teaser-isidre-santacreu-pinetons-park.jpg"
 teaserAlt: Outdoor space with two steel and wood modern shade structures and a large central jet water fountain against a clear blue sky.
 images:

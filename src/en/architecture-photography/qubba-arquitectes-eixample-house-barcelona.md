@@ -4,7 +4,7 @@ description: "Eixample House by Qubba Architects. Architecture Photography by Pa
 date: "2023-06-12"
 location: "Sabadell, Barcelona"
 architect: "Qubba arquitectes"
-intro: "Renovation of a flat in the Eixample district of Barcelona by Qubba Arquitectes."
+intro: "Renovation of an apartment in the Eixample district of Barcelona by Qubba Arquitectes."
 teaser: "images/teaser-qubba-arquitectes-eixample-house.jpg"
 teaserAlt: "Outdoor patio with metal railing, wooden deck, and large windows with bamboo shades, leading into a modern interior."
 images:

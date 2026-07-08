@@ -5,7 +5,7 @@ date: "2019-04-01"
 location: "Madrid"
 tags: retail
 brand: "Miu Miu"
-intro: "Miu Miu store in Serrano street, Madrid."
+intro: "Flagship boutique in Serrano street, Madrid."
 teaser: "images/teaser-madrid-serrano-miu-miu-store.jpg"
 teaserAlt: "A stylish Miu Miu store interior, with elegant display shelves featuring a variety of colorful handbags, glass counters showcasing smaller accessories, and on the foreground, a black bag side by side a white bag on a blue patterned oval table."
 images:

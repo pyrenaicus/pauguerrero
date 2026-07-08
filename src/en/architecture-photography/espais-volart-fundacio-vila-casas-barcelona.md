@@ -4,7 +4,7 @@ description: '"Espais Volart, Fundació Vila Casas" in Barcelona. Architecture P
 date: "2020-07-10"
 location: "Barcelona"
 architect:
-intro: "Espais Volart, Fundació Vila Casas. Barcelona."
+intro: "A major monographic exhibition of Guerrero Medina in Barcelona."
 teaser: "images/teaser-espais-volart-fundacio-vila-casas.jpg"
 teaserAlt: "Art gallery with Guerrero Medina's portrait paintings on display, featuring a large portrait prominently on a white partition wall."
 images:

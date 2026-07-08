@@ -5,7 +5,7 @@ date: "2019-02-01"
 location: "Barcelona"
 tags: retail
 brand: geox
-intro: "Geox store in Passeig de Gràcia, Barcelona."
+intro: "Flagship store in Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-geox-store-barcelona.jpg"
 teaserAlt: "Interior of Geox store in Barcelona, showcasing a modern, well-lit space with shoes and jackets neatly displayed on shelves and tables."
 images:

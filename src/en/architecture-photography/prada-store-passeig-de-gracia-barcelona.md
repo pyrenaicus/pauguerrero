@@ -5,7 +5,7 @@ date: "2019-04-01"
 location: "Barcelona"
 tags: retail
 brand: "Prada"
-intro: "Prada store in Passeig de Gràcia, Barcelona."
+intro: "Flagship boutique in Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-barcelona-prada-store.jpg"
 teaserAlt: "Prada store interior with black and white checkered flooring, glass shelves displaying colorful handbags, green chairs and black cast iron columns."
 images:

@@ -4,7 +4,7 @@ description: "Mas Ram House by Alfons Soldevila. Architecture Photography by Pau
 date: "2002-05-05"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
-intro: "Experimental dwelling prototype MR-1, built in 1971 in Badalona, Barcelona. The first in a series of experimental dwelling prototypes. Architecture: Alfons Soldevila, Josep Maria Massot and Miguel Donada."
+intro: "Experimental dwelling prototype MR-1, built in 1971. The first in a series of experimental dwelling prototypes by Alfons Soldevila, Josep Maria Massot and Miguel Donada."
 teaser: "images/teaser-soldevila-masram-house.jpg"
 teaserAlt: "High-angle view of a cozy living area with a wooden staircase, a green pendant light, and a wall adorned with framed art and decorative items. Below you can see a large wooden table."
 images:
@@ -80,12 +80,9 @@ images:
     description: ""
 ---
 
-Experimental dwelling prototype MR-1, built in 1971 in Badalona, Barcelona. The first in a series of experimental dwelling prototypes. Architecture: Alfons Soldevila, Josep Maria Massot and Miguel Donada.
-
-
 ## Residential Architecture Photography: Mas Ram House (MR-1 Prototype)
 
-This architectural interior and exterior photography series documents **Mas Ram House**, also recognised as the **MR-1 Experimental Dwelling Prototype**. Built in 1971 in **Badalona, Barcelona**, this residence was designed by architect **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** alongside collaborators **Josep Maria Massot** and **Miguel Donada**. Ahead of its time in sustainable, energy-efficient residential architecture, the home is a study in spatial flexibility, material economy, and structural optimisation.
+This architectural interior and exterior photography series documents **Mas Ram House**, also recognised as the **[MR-1 Experimental Dwelling Prototype](https://www.arquitecturacatalana.cat/en/works/cases-mr1)**. Built in 1971 in **Badalona, Barcelona**, this residence was designed by architect **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** alongside collaborators **Josep Maria Massot** and **Miguel Donada**. Ahead of its time in sustainable, energy-efficient residential architecture, the home is a study in spatial flexibility, material economy, and structural optimisation.
 
 The photoshoot spotlights the house’s geometric container, multi-level layout, and tactile raw materials as the key features of this landmark mid-century experimental prototype.
 

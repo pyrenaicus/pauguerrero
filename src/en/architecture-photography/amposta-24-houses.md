@@ -4,7 +4,7 @@ description: "24 Houses in Amposta by HYBRIDa architects. Architecture Photograp
 date: "2003-10-09"
 location: "Amposta, Tarragona"
 architect: "HYBRIDa architects"
-intro: "Residential complex with 24 houses in Amposta, Tarragona. Architecture by HYBRIDa Architecture"
+intro: "Residential complex with 24 houses by HYBRIDa Architecture"
 teaser: "images/teaser-hybrid-architects-amposta-residential.jpg"
 teaserAlt: "Modern row houses with flat roofs and large louvered windows, painted in warm tones, with a terracotta-tiled walkway and a grassy area in the foreground."
 images:

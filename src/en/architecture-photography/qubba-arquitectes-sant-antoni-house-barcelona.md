@@ -4,7 +4,7 @@ description: "Sant Antoni House by Qubba Architects. Architecture Photography by
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
-intro: "A flat for two students in Sant Antoni street, Barcelona. By Qubba Arquitectes."
+intro: "Renovation of a flat in Barcelona, by Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-sant-antoni.jpg"
 teaserAlt: "Spacious dining area with checkered floor tiles, exposed beams, and French doors opening to a patio area."
 images:

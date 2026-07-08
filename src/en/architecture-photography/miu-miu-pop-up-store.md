@@ -5,7 +5,7 @@ date: "2020-08-10"
 location: "Madrid"
 tags: retail
 brand: "Miu Miu"
-intro: "Miu Miu pop-up store in El Corte Inglés Castellana, Madrid."
+intro: "Temporary pop-up installation in El Corte Inglés, a major department store in Madrid."
 teaser: "images/teaser-madrid-miu-miu-popup-store.jpg"
 teaserAlt: "Illuminated pink Miu Miu pop-up store display with handbags, shoes, and hats under a canopy of bright pink lights."
 images:

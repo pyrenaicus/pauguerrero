@@ -5,7 +5,7 @@ date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
-intro: "Montblanc Inspire Writing window campaign designed by StudioXAG for Montblanc's store in Passeig de Gràcia, Barcelona."
+intro: "Window campaign designed by StudioXAG for Montblanc's flagship store in Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-studioxag-montblanc-inspire-writing-barcelona.jpg"
 teaserAlt: "Montblanc store exterior with a modern design, featuring large windows and elegant branding."
 images:

@@ -4,7 +4,7 @@ description: "Manresa Housing by EMBA, Enric Massip-Bosch Architects. Architectu
 date: "2004-05-15"
 location: "Manresa, Barcelona"
 architect: "Qubba arquitectes"
-intro: "Public housing in Manresa, Barcelona. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"
+intro: "Residential architecture by EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-manresa-housing.jpg"
 teaserAlt: "Old residential building with a weathered facade, featuring balconies and set on a stone embankment. In the background a new residential building following the organic street pattern"
 images:

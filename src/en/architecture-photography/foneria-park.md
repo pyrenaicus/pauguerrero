@@ -4,7 +4,7 @@ description: "Foneria Park by Isidre Santacreu. Architecture Photography by Pau 
 date: "2008-04-17"
 location: "Sant Vicenç dels Horts, Barcelona"
 architect: Isidre Santacreu
-intro: "Foneria park in Sant Vicenç dels Horts, Barcelona. Landscape architecture by Isidre Santacreu."
+intro: "Public park in Sant Vicenç dels Horts, Barcelona. Landscape architecture by Isidre Santacreu."
 teaser: "images/teaser-isidre-santacreu-foneria-park.jpg"
 teaserAlt: "A park with metal trellises supporting climbing plants, benches, pathways, and young trees, with a building and mountains in the background."
 images:

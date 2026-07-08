@@ -4,7 +4,7 @@ description: "Llinars Art Space by Aresta a+u architects. Architecture Photograp
 date: "2020-09-15"
 location: "Llinars, Barcelona"
 architect: Aresta a+u
-intro: "Art centre in Llinars del Vallès, Barcelona. Architecture by Aresta a+u arquitectes"
+intro: "Art centre in Llinars del Vallès, Barcelona by Aresta a+u arquitectes."
 teaser: "images/teaser-aresta-llinars-art-space.jpg"
 teaserAlt: "Minimalistic interior with white walls and wooden frames, featuring a single window providing a view of trees outside."
 images:

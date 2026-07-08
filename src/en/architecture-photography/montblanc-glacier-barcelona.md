@@ -1,11 +1,11 @@
 ---
 title: "Montblanc Glacier"
-description: "Glacier window campaign by StudioXAG in Montblanc Store, Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
+description: "Glacier indow campaign by StudioXAG in Montblanc Store, Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
 date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
-intro: "Montblanc’s Glacier window campaign designed by StudioXAG. Cracked ice graphics decorate the windows of Montblanc's store in Passeig de Gràcia, Barcelona."
+intro: "Window campaign designed by StudioXAG for Barcelona's Montblanc flagship store."
 teaser: "images/teaser-studioxag-montblanc-glacier-barcelona.jpg"
 teaserAlt: "Exterior view of a Montblanc store with glacier-themed window displays and branding."
 images:

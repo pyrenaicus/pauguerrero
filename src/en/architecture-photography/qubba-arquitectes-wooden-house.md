@@ -4,7 +4,7 @@ description: "Wooden House by Qubba Architects. Architecture Photography by Pau 
 date: "2022-11-02"
 location: "Barcelona"
 architect: Qubba arquitectes
-intro: "Lightweight wooden house for a couple, by Qubba Arquitectes."
+intro: "Lightweight wooden house near Barcelona by Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-wood-house.jpg"
 teaserAlt: "Exterior view of a modern house with two bodies, a pitched roof, dark wood cladding, large windows, and a spacious lawn surrounded by pine trees."
 images:

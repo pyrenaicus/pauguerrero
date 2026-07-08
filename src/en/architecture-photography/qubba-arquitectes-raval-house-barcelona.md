@@ -4,7 +4,7 @@ description: "Raval House by Qubba Architects. Architecture Photography by Pau G
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
-intro: "Renovation of a XIX century flat in el Raval neighborhood of Barcelona. By Qubba Arquitectes."
+intro: "Renovation of a XIX century flat in Barcelona by Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-raval.jpg"
 teaserAlt: "Modern kitchen with patterned tiles, wooden accents, and a minimalist work table."
 images:

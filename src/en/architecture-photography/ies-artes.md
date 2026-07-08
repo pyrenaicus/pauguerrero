@@ -4,7 +4,7 @@ description: "Artés high school by EMBA, Enric Massip-Bosch Architects. Archite
 date: "2004-02-10"
 location: "Artés, Barcelona"
 architect: Estudi Massip-Bosch Architects
-intro: "High school in Artés, Barcelona. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"
+intro: "Educational architecture by EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-ies-artes.jpg"
 teaserAlt: "Colorful circular ceiling designs cast shadows on a covered walkway supported by concrete columns."
 images:

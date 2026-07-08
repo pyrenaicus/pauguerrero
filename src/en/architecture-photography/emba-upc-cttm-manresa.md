@@ -4,7 +4,7 @@ description: "UPC-CTTM Manresa by EMBA, Enric Massip-Bosch Architects. Architect
 date: "2004-05-15"
 location: "Manresa, Barcelona"
 architect: "Estudi Massip-Bosch Architects"
-intro: "UPC Technology Transfer Center in Manresa, Barcelona. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"
+intro: "Technological research facility. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-upc-cttm-manresa.jpg"
 teaserAlt: "Nighttime street scene with a modern building in the background, car light trails, and streetlights illuminating the area."
 images:
@@ -29,7 +29,7 @@ images:
     contentLocation: "Manresa, Barcelona"
     name: "UPC-CTTM - Estudi Massip-Bosch Arquitectes"
     description: ""
-  - src: "images/qubba-arquitectes-eixample-house-04.jpg"
+  - src: "images/emba-upc-cttm-manresa-04.jpg"
     id: "img04"
     alt: "Modern building interior corridor with large windows overlooking an exterior grassy courtyard."
     caption: ""

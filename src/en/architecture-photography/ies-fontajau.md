@@ -4,7 +4,7 @@ description: "Fontajau high school by EMBA, Enric Massip-Bosch Architects. Archi
 date: "2008-01-08"
 location: "Girona"
 architect: Estudi Massip-Bosch Architects
-intro: "High school in Fontajau, Girona. Architecture by EMBA, Estudi Massip-Bosch Arquitectes."
+intro: "Public high school in Girona. Architecture by EMBA, Estudi Massip-Bosch Arquitectes."
 teaser: "images/teaser-emba-ies-fontajau.jpg"
 teaserAlt: "Modern architectural details of Fontajau High School, showcasing its sleek lines and large windows under a clear blue sky."
 images:

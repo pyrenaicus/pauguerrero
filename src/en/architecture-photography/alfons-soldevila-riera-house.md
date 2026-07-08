@@ -4,7 +4,7 @@ description: "Riera House by Alfons Soldevila. Architecture Photography by Pau G
 date: "2002-05-12"
 location: "Badalona, Barcelona"
 architect: "Alfons Soldevila"
-intro: "Experimental dwelling prototype MR6, built in 1984. Badalona, Barcelona. Architecture: Alfons Soldevila and Josep Ignasi de Llorens."
+intro: "Experimental dwelling prototype MR6, built in 1984. Architecture by Alfons Soldevila and Josep Ignasi de Llorens."
 teaser: "images/teaser-alfons-soldevila-riera-house.jpg"
 teaserAlt: "Outdoor swimming pool beside a concrete block house, surrounded by trees, greenery and oleander flowers, with a view of distant hills."
 images:

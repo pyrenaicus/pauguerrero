@@ -4,7 +4,7 @@ description: "La Muntanyeta House by Alfons Soldevila. Architecture Photography 
 date: "2002-04-12"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
-intro: "One of the six houses in La Muntanyeta Residential Complex, built in 1979 in Matadepera, Barcelona. Architecture: Alfons Soldevila and Josep Ignasi de Llorens."
+intro: "One of the six houses in La Muntanyeta Residential Complex, built in 1979 in Matadepera, Barcelona. Designed by Alfons Soldevila and Josep Ignasi de Llorens."
 teaser: "images/teaser-alfons-soldevila-matadepera-la-muntanyeta-house.jpg"
 teaserAlt: "View of a terraced concrete block house with large windows, surrounded by lush greenery, a grassy lawn, and a staircase leading to an elevated paved area adorned with potted plants."
 images:
@@ -68,7 +68,7 @@ images:
 
 ## Residential Architecture Photography: La Muntanyeta House by Alfons Soldevila
 
-This collection of exterior and interior architectural photography documents a home in the **La Muntanyeta Residential Complex**, a seminal cluster of six unifamily dwellings built in 1979 in **Matadepera, Barcelona**. Designed by the influential architectural duo **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** and **Josep Ignasi de Llorens**, this project acts as a blueprint for structural clarity along with material independence.
+This collection of exterior and interior architectural photography documents a home in the **[La Muntanyeta Residential Complex](https://www.arquitecturacatalana.cat/en/works/conjunt-dhabitatges-la-muntanyeta)**, a seminal cluster of six dwellings built in 1979 in **Matadepera, Barcelona**. Designed by the influential architectural duo **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** and **Josep Ignasi de Llorens**, this project acts as a blueprint for structural clarity along with material independence.
 
 The photoshoot focuses on a highly flexible, modular layout in which every physical element operates autonomously, without gratuitous decorative layers.
 

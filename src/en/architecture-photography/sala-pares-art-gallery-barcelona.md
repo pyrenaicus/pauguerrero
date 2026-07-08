@@ -3,7 +3,7 @@ title: "Sala Parés"
 description: "Sala Parés Art Gallery in Barcelona. Architecture Photography by Pau Guerrero."
 date: "2018-09-12"
 location: "Barcelona"
-intro: "Sala Parés, art gallery in Barcelona."
+intro: "Founded in 1877, the first commercial art gallery in Spain."
 teaser: "images/teaser-barcelona-sala-pares.jpg"
 teaserAlt: "Art gallery with polished wooden floors, featuring large seascape paintings on white walls, centered around a skylighted atrium."
 images:
