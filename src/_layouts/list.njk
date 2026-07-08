@@ -11,12 +11,10 @@ layout: "base.njk"
       <p class="subtitle">{{ intro | safe }}</p>
     {% endif %}
     {% endif %}
-    <div id="hero-input-group" class="field has-addons has-addons-centered">
-    </div>
   </div>
 </section>
 
-  <div class="section">
+  <section class="section">
     {# <h1 class="title">{{ title }}</h1> #}
     <ul class="columns is-multiline" role="list">
       {% for item in collections[collectionName] %} {% if item.data.lang ==
@@ -31,7 +29,7 @@ layout: "base.njk"
       </li>
       {% endif %} {% endfor %}
     </ul>
-  </div>
+  </section>
 
   <div class="section">
   </div>
