@@ -1,4 +1,6 @@
+html {
 
+}
 
 /* SKIP LINK */
 .skip-link {
@@ -34,4 +36,197 @@
   position: absolute;
   width: 1px;
   white-space: nowrap;
+}
+
+/* IMAGE GALLERY IN SINGLE PAGE */
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto; /* Keeps your original uncropped aspect ratios perfectly intact */
+  border-radius: 4px; /* Optional styling */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* Optional styling */
+}
+
+/* Erase any conflicting default margins imposed by Bulma's .content handler */
+.content .columns .column .gallery-item figure {
+  margin: 0 !important; 
+}
+
+/* Ensure the gallery items strictly dictate the vertical rhythm */
+.gallery-item {
+  display: block;
+  width: 100%;
+}
+
+/* Optional tuning: If you want a specific gap size regardless of Bulma's scales, 
+   you can force it globally on the row right here */
+.columns.is-variable.is-4 {
+  --bulma-column-gap: 1rem; /* Adjust this value to scale both gaps simultaneously */
+}
+.gallery-item.mb-4 {
+  margin-bottom: 1rem !important; /* Forces vertical match to the exact variable override above */
+}
+
+/* Fix excessive margins on mobile by overriding Bulma's default column padding and spacing */
+@media (max-width: 768px) {
+  /* 1. Force the container to break out of the parent's padding boundaries */
+  .content .columns.gallery-stage {
+    margin-left: -1.25rem !important;
+    margin-right: -1.25rem !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  /* 2. Tighten up the padding inside the individual stacked tracks */
+  .gallery-stage .column {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* 3. Reduce the bottom margin of images on mobile to match the tighter side gaps */
+  .gallery-stage .gallery-item.mb-4 {
+    margin-bottom: 0.5rem !important;
+  }
+}
+
+/* LIGHTBOX */
+
+@media (min-width: 769px) {
+  /* Prevent the modal from stretching vertical images past the screen boundaries */
+  .visual-lightbox-content {
+    max-width: 90vw !important;
+    max-height: 90vh !important;
+  }
+
+  .visual-lightbox-content img {
+    max-height: 90vh !important;
+    width: auto !important;
+    margin: 0 auto;
+    display: block;
+    object-fit: contain; /* Ensures full aspect ratios are entirely visible */
+  }
+
+  /* 1. Force Bulma's modal container to scale dynamically up to 85% of the screen width */
+  .modal-content.visual-lightbox-content {
+    width: 85vw !important; 
+    max-width: 1400px !important; /* Limits maximum expansion on ultra-wide monitors */
+    max-height: 85vh !important;
+    background: transparent;
+  }
+  
+  /* 2. Standardize the image boundaries inside the expanded container */
+  #lightbox-target-img {
+    width: auto !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: 85vh !important; /* Prevents vertical frames from bleeding past the viewport fold */
+    object-fit: contain !important; /* Guarantees zero cropping on either orientation */
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+/* 1. Prepare the Lightbox for CSS Transitions */
+#gallery-lightbox.modal {
+  display: flex !important;      /* Override Bulma's abrupt display: none */
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;          /* Prevents accidental clicks while hidden */
+  transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+}
+
+/* 2. State when active (triggered by your existing JS) */
+#gallery-lightbox.modal.is-active {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;          /* Restore interactivity */
+}
+
+/* 3. Optional: Add a subtle scaling lift to the image itself */
+#gallery-lightbox .visual-lightbox-content img {
+  transform: scale(0.97);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1); /* Ultra-smooth ease-out */
+}
+
+#gallery-lightbox.modal.is-active .visual-lightbox-content img {
+  transform: scale(1);           /* Gently glides up to its true size */
+}
+
+/* Styling the subtle arrow controls */
+.lightbox-nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.35); /* Translucent baseline */
+  font-size: 3rem;
+  font-weight: 300;
+  cursor: pointer;
+  padding: 2rem;
+  z-index: 50; /* Sits cleanly above the content frame */
+  outline: none;
+  transition: color 0.2s ease-in-out;
+  user-select: none;
+}
+
+.lightbox-nav-btn:hover {
+  color: rgba(255, 255, 255, 0.9); /* Lights up smoothly */
+}
+
+#lightbox-prev {
+  left: 1.5rem;
+}
+
+#lightbox-next {
+  right: 1.5rem;
+}
+
+/* Ensure buttons vanish on small phones to keep swipe space clean */
+@media (max-width: 768px) {
+  .lightbox-nav-btn {
+    display: none !important;
+  }
+}
+
+/* CARDS */
+
+a.card {
+  box-shadow: none;
+  background-color: transparent;
+  transition: opacity 0.2s ease-in-out;
+  text-decoration: none;
+}
+
+/* Apply the smooth transition to the image and text individually */
+a.card img {
+  transition: opacity 0.2s ease-in-out;
+}
+
+a.card .card-content {
+  padding: 0.5rem 0; 
+  transition: font-weight 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+a.card:hover img {
+  opacity: 0.8; /* Lower this number for a more dramatic effect (e.g., 0.7) */
+}
+
+a.card:hover .card-content {
+  font-weight: 600;
+}
+
+/* MAIN CATEGORY LIST PAGE WITH TWO COLUMNS */
+.has-two-columns {
+  column-count: 2;
+  column-gap: 3rem;
+}
+
+/* Fall back to a single column on mobile devices */
+@media (max-width: 768px) {
+  .has-two-columns {
+    column-count: 1;
+  }
 }

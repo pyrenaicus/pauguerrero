@@ -10,26 +10,20 @@ layout: "base.njk"
       <p class="subtitle">{{ intro | safe }}</p>
     {% endif %}
     {% endif %}
-    <div id="hero-input-group" class="field has-addons has-addons-centered">
-    </div>
   </div>
 </section>
 
 <section class="section">
   <div class="columns">
-    <div class="column is-6 is-offset-3">
+    <div class="column is-8 is-offset-2">
       <div class="content">
         {% if intro %}
           {% if images %}
-          <div class="fixed-grid has-1-cols-mobile">
-            <div class="grid">
-              {% imagesShortcode images, imageCollection %}
             {% imagesShortcode images, imageCollection %}
-            </div>
-          </div>
           {% endif %}
           {{ content | safe }}
-        {% else %}
+        {% endif %}
+        {% if not intro %}
           {{ content | safe }}
           {% imagesShortcode images, imageCollection %}
         {% endif %}
@@ -38,4 +32,17 @@ layout: "base.njk"
   </div>
 </section>
 
+<div id="gallery-lightbox" class="modal">
+  <div class="modal-background"></div>
+
+  <button id="lightbox-prev" class="lightbox-nav-btn" aria-label="Previous image">&#10094;</button>
+  <button id="lightbox-next" class="lightbox-nav-btn" aria-label="Next image">&#10095;</button>
+
+  <div class="modal-content visual-lightbox-content">
+    <p class="image">
+      <img id="lightbox-target-img" src="" alt="Enlarged architecture preview">
+    </p>
+  </div>
+  <button class="modal-close is-large" aria-label="close"></button>
+</div>
 

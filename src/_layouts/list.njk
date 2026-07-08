@@ -2,22 +2,59 @@
 layout: "base.njk"
 ---
 
-<main id="main">
-  <article class="">
-    <h1 class="title">{{ title }}</h1>
-    <ul class="" role="list" data-rows="masonry" data-layout="50-50">
+<main id="main" class="container">
+  <section class="hero is-medium">
+  <div class="hero-body container is-family-secondary">
+    {% if not home %}
+      <h1 class="title">{{ title }}</h1>
+      {% if intro %}
+      <p class="subtitle">{{ intro | safe }}</p>
+    {% endif %}
+    {% endif %}
+    <div id="hero-input-group" class="field has-addons has-addons-centered">
+    </div>
+  </div>
+</section>
+
+  <div class="section">
+    {# <h1 class="title">{{ title }}</h1> #}
+    <ul class="columns is-multiline" role="list">
       {% for item in collections[collectionName] %} {% if item.data.lang ==
       page.lang %}
-      <li class="card">
+      <li class="column is-one-third">
+        <a href="{{ item.url }}" class="card is-block">
         {% imageShortcode item.data.teaser, item.data.teaserAlt, "high" %}
-        <div class="">
-          <a href="{{ item.url }}">{{ item.data.title | lower }}</a>
+        <div class="card-content">
+          <span class="has-text-dark inside-card-title">{{ item.data.title | lower }}</span>
         </div>
+        </a>
       </li>
       {% endif %} {% endfor %}
     </ul>
+  </div>
 
-     {{ content | safe }}
+  <div class="section">
+  </div>
 
-  </article>
+  <div class="section">
+  </div>
+  <div class="section content">
+    <h2 >Spatial Representation and Architectural Documentation</h2>
+  </div>
+  <div class="section content">
+    <div class="columns is-variable is-8">
+      <div class="column is-half">
+        <h3>The Approach to Architecture and Interior Photography</h3>
+        <p>Architectural photography is more than documenting a physical structure; it is the art of translating three-dimensional volume, material texture, and light into a compelling two-dimensional narrative. Based in <strong>Barcelona</strong>, my practice focuses on portraying the dialogue between form and function and revealing the sensory qualities and materiality of built space. Whether documenting contemporary residential projects across <strong>Catalonia</strong> or heritage structural renovations, the goal is to respect the architect's vision through precise geometry, thoughtful composition, and an understanding of natural light.</p>
+        <h3>High-End Luxury Retail Photography</h3>
+        <p>Commercial and retail environments demand a distinct visual vocabulary. Specialising in <strong>luxury retail photography</strong>, I team up with international brands, designers, and luxury boutiques to capture the precise execution of premium interior design. From flagship store openings to ephemeral pop-up installations, this work emphasises material fidelity—capturing the exact texture of green marble, the subtleties of custom lighting, and the spatial flow that defines the modern luxury shopping experience.</p>
+      </div>
+      <div class="column is-half">
+        <h3>Commissioning and Collaborations</h3>
+        <p>Operating from a core studio in <strong>Barcelona, Spain</strong>, I provide architectural, interior, and luxury retail photographic services for architects, interior designers, developers, and global luxury brands. Available for commissions locally throughout Catalonia and worldwide, every project is handled with rigorous technical precision and a deep commitment to high-end visual communication.</p>
+      </div>
+    </div>
+  </div>
+    <div class="section">
+  </div>
 </main>

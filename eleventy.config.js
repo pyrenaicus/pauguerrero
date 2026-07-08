@@ -111,7 +111,19 @@ export default async function (eleventyConfig) {
     const mapping = {};
 
     for (const path of rawImages) {
-      mapping[path] = await Image(path, imgOptions);
+      const metadata = await Image(path, imgOptions);
+
+      // Grab the first available format to inspect dimensions
+      const firstFormat = Object.keys(metadata)[0];
+      // Use the last item in the array for that format to get the largest dimensions
+      const dimensions = metadata[firstFormat]?.[metadata[firstFormat].length - 1];
+      // Nest orientation & aspect ratio under a dedicated 'layout' key 
+      metadata.layout = {
+        orientation: dimensions && dimensions.width > dimensions.height ? "landscape" : "portrait",
+        aspectRatio: dimensions ? (dimensions.width / dimensions.height).toFixed(3) : "1.5"
+      };
+
+      mapping[path] = metadata;
     }
     return Object.freeze(mapping);
   });
