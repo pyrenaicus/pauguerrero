@@ -105,15 +105,11 @@ description %} {{ description }} {% else %}
       src="//gc.zgo.at/count.js"
     ></script>
 
-    <style>
-      .image img {
-        width: revert;
-        max-width: 100%;
-      }
-    </style>
   </head>
   <body>
+    {% if not home %}
     {% include "header.njk" %}
+    {% endif %}
       {{ content | safe }}
     </div>
     {% include "footer.njk" %}

@@ -1,0 +1,91 @@
+---
+layout: "base.njk"
+---
+<main>
+<section id="main" class="hero is-fullheight is-default is-bold">
+  <section class="hero-head">
+    <nav class="navbar is-family-secondary" role="navigation" aria-label="main navigation">
+                <div class="container">
+                    <div class="navbar-brand">
+                        <a class="navbar-item  is-size-3-desktop" href="/{{ page.lang }}/">
+                          {{ meta.siteName[page.lang] }}
+                        </a>
+                        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        </a>
+                    </div>
+                    <div id="navbarMenu" class="navbar-menu">
+                        <div class="navbar-end">
+                          {% for item in navigation[page.lang] %}
+                          <a
+                          class="navbar-item"
+                          {{
+                          helpers.getLinkActiveState(item.url,
+                          page.url)
+                          |
+                          safe
+                          }}
+                          href="{{ item.url }}"
+                          >
+                          {{ item.text }}
+                          </a>
+                          {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </nav>
+  </section>
+
+  <section class="hero-body">
+    <div class="container has-text-centered">
+      <div class="columns is-vcentered">
+        <div class="column is-6 is-vcentered">
+          <figure><source type="image/webp" srcset="/img/rZrkkhgBf0-300.webp 300w, /img/rZrkkhgBf0-600.webp 600w, /img/rZrkkhgBf0-980.webp 980w" sizes="(min-width: 1024px) 30vw, 90vw"><img class="gallery-img" alt="A mountain range just before sunset. Mountains on my back cast a deep shadow on them. Some clouds off scene partially block the sun, leaving the mountain ridge also in shadow. A thin strip of light illuminates the mountain range, right below the ridge." loading="lazy" decoding="async" src="/img/rZrkkhgBf0-980.jpeg" width="980" height="751" srcset="/img/rZrkkhgBf0-300.jpeg 300w, /img/rZrkkhgBf0-600.jpeg 600w, /img/rZrkkhgBf0-980.jpeg 980w" sizes="(min-width: 1024px) 30vw, 90vw" fetchpriority="high" data-lightbox-src="/img/rZrkkhgBf0-980.webp" data-lightbox-alt="A mountain range just before sunset. Mountains on my back cast a deep shadow on them. Some clouds off scene partially block the sun, leaving the mountain ridge also in shadow. A thin strip of light illuminates the mountain range, right below the ridge." style="cursor: pointer;"></figure>
+        </div>
+        <div class="column is-6 ">
+          <figure><source type="image/webp" srcset="/img/rZrkkhgBf0-300.webp 300w, /img/rZrkkhgBf0-600.webp 600w, /img/rZrkkhgBf0-980.webp 980w" sizes="(min-width: 1024px) 30vw, 90vw"><img class="gallery-img" alt="A mountain range just before sunset. Mountains on my back cast a deep shadow on them. Some clouds off scene partially block the sun, leaving the mountain ridge also in shadow. A thin strip of light illuminates the mountain range, right below the ridge." loading="lazy" decoding="async" src="/img/rZrkkhgBf0-980.jpeg" width="980" height="751" srcset="/img/rZrkkhgBf0-300.jpeg 300w, /img/rZrkkhgBf0-600.jpeg 600w, /img/rZrkkhgBf0-980.jpeg 980w" sizes="(min-width: 1024px) 30vw, 90vw" fetchpriority="high" data-lightbox-src="/img/rZrkkhgBf0-980.webp" data-lightbox-alt="A mountain range just before sunset. Mountains on my back cast a deep shadow on them. Some clouds off scene partially block the sun, leaving the mountain ridge also in shadow. A thin strip of light illuminates the mountain range, right below the ridge." style="cursor: pointer;"></figure>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="hero-foot">
+  </section>
+</section>
+
+  <section class="section is-large">
+  </section>
+  
+  <section class="section">
+    <div class="container has-text-centered">
+      <div class="columns is-vcentered content">
+        <div class="column is-6">
+          <h2>Architecture & Luxury Retail</h2>
+          <p>Documenting high-end structural volumes, interior design, and retail spaces with technical precision.</p>
+          <p class="has-text-centered">
+            <a href="/en/architecture-photography" class="button  is-dark is-outlined">
+              View Architecture Portfolio
+            </a>
+          </p>
+        </div>
+        <div class="column is-6">
+          <h2>Exhibitions & Projects</h2>
+          <p>Exploring memory, lore, and personal experience through landscape fine art photography.</p>
+          <p class="has-text-centered">
+            <a href="/en/exhibitions" class="button  is-dark is-outlined">
+              Explore Exhibitions
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section is-large">
+  </section>
+
+</main>
