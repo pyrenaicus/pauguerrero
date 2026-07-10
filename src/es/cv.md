@@ -7,6 +7,11 @@ description: CV de Pau Guerrero con las exposiciones desde 2013 hasta la actuali
 
 ## Exposiciones
 
+### 2026
+
+- **25 anys d'exposicions**. (_collectiva_) Foto Torroella (Torroella de Montgrí, Girona).
+- **Mercat fotogràfic**. Luminic Festival (Sant Cugat, Barcelona).
+
 ### 2024
 
 - **Muntanyes de l'ànima**. Mountain Film Festival (Torelló, Barcelona).
