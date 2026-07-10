@@ -98,20 +98,20 @@ description %} {{ description }} {% else %}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 
-    <script src="/scripts.js" defer></script>
-    <script
-      data-goatcounter="https://pgcom.goatcounter.com/count"
-      async
-      src="//gc.zgo.at/count.js"
-    ></script>
+<script
+data-goatcounter="https://pgcom.goatcounter.com/count"
+async
+src="//gc.zgo.at/count.js"
+></script>
 
-  </head>
-  <body>
-    {% if not home %}
-    {% include "header.njk" %}
-    {% endif %}
-      {{ content | safe }}
-    </div>
-    {% include "footer.njk" %}
-  </body>
+</head>
+<body>
+  {% if not home %}
+  {% include "header.njk" %}
+  {% endif %}
+  {{ content | safe }}
+</div>
+{% include "footer.njk" %}
+</body>
+<script src="/scripts.js" defer></script>
 </html>

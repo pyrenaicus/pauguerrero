@@ -1,12 +1,9 @@
 ---
-layout: base.njk
+layout: "base.njk"
 ---
 
 <main id="main" class="container">
-  <section class="hero is-medium">
-    <div class="hero-body is-family-secondary">
-        <h1 class="title">{{ languages[page.lang].contactForm.title }}</h1>
-    </div>
+  <section class="section">
   </section>
 
 <section class="section content">
@@ -15,14 +12,14 @@ layout: base.njk
       
       <!-- Introduction Header & Copy -->
       <div class="content mb-6">
-        <h2 class="title is-2">{{ languages[page.lang].contactForm.subtitle }}</h2>
-        <p class="subtitle is-5 has-text-grey mt-2">
+        <h2 class="title ">{{ languages[page.lang].contactForm.subtitle }}</h2>
+        <p class="subtitle has-text-grey mt-2">
           {{ languages[page.lang].contactForm.text }}
         </p>
       </div>
 
       <!-- Contact Form Box -->
-      <form action="https://api.web3forms.com/submit" name="contact" method="POST" class="box p-5">
+      <form action="https://api.web3forms.com/submit" name="contact" method="POST" class="box p-5 is-shadowless">
         <!-- Web3Forms Hidden Inputs -->
         <input
           type="hidden"
@@ -84,10 +81,23 @@ layout: base.njk
           </div>
         </div>
 
+<!-- Privacy Policy Consent Checkbox -->
+        <div class="field mb-4">
+          <div class="control">
+            <label class="checkbox has-text-grey is-size-7">
+              <input type="checkbox" id="privacy-checkbox" name="privacy_consent" required class="mr-2" />
+              {{ languages[page.lang].contactForm.privacyText }}
+              <a href="{{ languages[page.lang].privacyPolicy.url }}" target="_blank" class="has-text-dark is-underlined">
+                {{ languages[page.lang].contactForm.privacyLink }}
+              </a>
+            </label>
+          </div>
+        </div>
+
         <!-- Submit Button -->
         <div class="field mt-5">
           <div class="control">
-            <button class="button is-fullwidth has-text-weight-semibold is-dark" type="submit">
+            <button id="submit-button" class="button is-fullwidth has-text-weight-semibold is-dark" type="submit" disabled>
               {{ languages[page.lang].contactForm.send }}
             </button>
           </div>
@@ -98,3 +108,16 @@ layout: base.njk
 </section>
 <section class="section is-medium"></section>
 </main>
+
+<!-- JavaScript to toggle the disabled state -->
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const checkbox = document.getElementById('privacy-checkbox');
+    const submitBtn = document.getElementById('submit-button');
+
+    checkbox.addEventListener('change', function() {
+      // If checked, disabled is false. If unchecked, disabled is true.
+      submitBtn.disabled = !this.checked;
+    });
+  });
+</script>

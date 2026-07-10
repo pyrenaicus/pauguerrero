@@ -1,4 +1,4 @@
-<footer class="footer has-background-white pt-6 pb-5">
+<footer class="footer has-background-white pt-6 pb-5 mt-6">
   <div class="container">
     <div class="columns is-desktop">
 
@@ -77,8 +77,8 @@
       <div class="column is-12-mobile is-7-tablet">
         <div class="has-text-grey">
           <span class="mr-3">{{ languages[page.lang].footer.copyrightNotice }}</span>
-          <a href="/{{ page.lang }}/privacy" class="has-text-grey mr-3">{{ languages[page.lang].privacyPolicy }}</a>
-          <a href="/{{ page.lang }}/terms" class="has-text-grey">{{ languages[page.lang].termsOfService }}</a>
+          <a href="{{ languages[page.lang].privacyPolicy.url }}" class="has-text-grey mr-3">{{ languages[page.lang].privacyPolicy.text }}</a>
+          <a href="{{ languages[page.lang].termsOfService.url }}" class="has-text-grey">{{ languages[page.lang].termsOfService.text }}</a>
         </div>
       </div>
 

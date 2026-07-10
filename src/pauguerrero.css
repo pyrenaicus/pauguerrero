@@ -12,6 +12,10 @@
   --bulma-link-hover-decoration: none;
 }
 
+@view-transition {
+  navigation: auto;
+}
+
 a.navbar-item:hover {
   text-decoration: underline;
     color: var(--bulma-text);
