@@ -1,34 +1,101 @@
-<footer class="footer">
-  <div class="level">
-    <div class="level-left">
-      <div class="level-item">
-        <p>{{ languages[page.lang].footer.tagline.copyrightNotice }}</p>
-        <p>
-          {% if title and tags %} {% if "retail" in tags %} © Pau Guerrero |
-          {{ languages[page.lang].footer.tagline.retail }}
-          {% endif %} {% if "architecture-photography" in tags and "retail" not in
-          tags %} © Pau Guerrero | {{ languages[page.lang].footer.tagline.arch }} {%
-          endif %} {% if "exhibitions" in tags %} © Pau Guerrero |
-          {{ languages[page.lang].footer.tagline.exhibit }} {% endif %} {% else %} ©
-          Pau Guerrero {% endif %}
+<footer class="footer has-background-white pt-6 pb-5">
+  <div class="container">
+    <div class="columns is-desktop">
+
+            <!-- Column 1: Brand Profile & Location Entity -->
+      <div class="column is-5-desktop mb-5">
+        <h2 class="is-size-6 has-text-black mb-3">
+          <a href="/" class="has-text-black">Pau Guerrero</a>
+        </h2>
+        <p class="has-text-grey-dark is-size-7 mb-2">
+          {{ languages[page.lang].footer.byLine }}
+        </p>
+        <p class="has-text-grey-dark is-size-7 mb-4">
+          {{ languages[page.lang].footer.basedIn }}
+        </p>
+        <p class="is-size-7">
+          <a href="mailto:info@pauguerrero.com" class="has-text-grey">
+            info@pauguerrero.com
+          </a>
         </p>
       </div>
-    </div>
-    <div class="level-right">
 
-                  {% for link in page.url | locale_links %}
-          <div class="level-item">
-            
-          <a
-          href="{{ link.url }}"
+            <!-- Column 2: Portfolios (Crawl Path) -->
+      <div class="column is-3-desktop is-offset-1-desktop mb-5">
+        <h3 class="is-size-6 has-text-black mb-3" style="letter-spacing: 0.1em;">
+          Portfolios
+        </h3>
+        <ul class="is-size-7">
+          <li class="py-1">
+            <a href="{{ languages[page.lang].architecturePhotography.url }}" class="has-text-grey">{{ languages[page.lang].architecturePhotography.text }}</a>
+          </li>
+          <li class="py-1">
+            <a href="{{ languages[page.lang].retailPhotography.url }}" class="has-text-grey">{{ languages[page.lang].retailPhotography.text }}</a>
+          </li>
+          <li class="py-1">
+            <a href="/{{ page.lang }}//landscape-fine-art" class="has-text-grey">{{ languages[page.lang].landscapeFineArt }}</a>
+          </li>
+        </ul>
+      </div>
+
+            <!-- Column 3: Authority / Trust Signals -->
+      <div class="column is-3-desktop mb-5">
+        <h3 class="is-size-6 has-text-black  mb-3" style="letter-spacing: 0.1em;">
+          {{ languages[page.lang].information }}
+        </h3>
+        <ul class="is-size-7">
+          <li class="py-1">
+            <a href="{{ languages[page.lang].cv.url }}" class="has-text-grey">{{ languages[page.lang].cv.text }}</a>
+          </li>
+          <li class="py-1">
+            <a href="{{ languages[page.lang].exhibitions.url }}" class="has-text-grey">{{ languages[page.lang].exhibitions.text }}</a>
+          </li>
+          <li class="py-1">
+            <a href="{{ languages[page.lang].contact.url }}" class="has-text-grey">{{ languages[page.lang].contact.text }}</a>
+          </li>
+          <li class="py-1">
+            <a href="{{ languages[page.lang].about.url }}" class="has-text-grey">{{ languages[page.lang].about.text }}</a>
+          </li>
+          <li class="py-1 mt-2">
+            <a href="https://instagram.com/_pau_guerrero_/" class="has-text-grey mr-4" target="_blank" rel="noopener">
+              Instagram
+            </a>
+            <a href="https://mastodon.social/@pyrenaicus" class="has-text-grey" target="_blank" rel="noopener">
+              Mastodon
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+        <!-- Divider Line -->
+    <hr class="has-background-light my-5" style="height: 1px;">
+
+    <!-- Bottom Row: Meta Links & Languages -->
+    <div class="columns is-vcentered is-mobile is-multiline is-size-7">
+      <div class="column is-12-mobile is-7-tablet">
+        <div class="has-text-grey">
+          <span class="mr-3">{{ languages[page.lang].footer.copyrightNotice }}</span>
+          <a href="/{{ page.lang }}/privacy" class="has-text-grey mr-3">{{ languages[page.lang].privacyPolicy }}</a>
+          <a href="/{{ page.lang }}/terms" class="has-text-grey">{{ languages[page.lang].termsOfService }}</a>
+        </div>
+      </div>
+
+            <!-- Language Switcher -->
+      <div class="column is-12-mobile is-5-tablet has-text-left-mobile has-text-right-tablet">
+        <div class="languages">
+          <p class="is-inline has-text-weight-bold has-text-black mr-3">{{ languages[page.lang].switchLang }}: </p>
+          {% for link in page.url | locale_links %}
+
+          <a href="{{ link.url }}" 
           lang="{{ link.lang }}"
           hreflang="{{ link.lang }}"
-          class="level-item {{ link.lang }}"
-          >{{ languages[link.lang].langName }}</a
-          >
-          </div>
+          class="has-text-black mr-3">
+        {{ languages[link.lang].langName }}</a>
           {% endfor %}
-
+        </div>
+      </div>
     </div>
   </div>
 </footer>

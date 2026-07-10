@@ -1,47 +1,100 @@
 ---
-layout: page.njk
+layout: base.njk
 ---
 
-<p>
-  {{ languages[page.lang].contact.text | safe }}
-</p>
+<main id="main" class="container">
+  <section class="hero is-medium">
+    <div class="hero-body is-family-secondary">
+        <h1 class="title">{{ languages[page.lang].contactForm.title }}</h1>
+    </div>
+  </section>
 
-<form action="https://api.web3forms.com/submit" name="contact" method="POST">
-  <input
-    type="hidden"
-    name="access_key"
-    value="2356652f-d928-4545-8e6c-bf03f9346266"
-  />
-  <input
-    type="hidden"
-    name="redirect"
-    value="{{ meta.url }}/{{ page.lang }}/success/"
-  />
-  <input
-    type="hidden"
-    name="subject"
-    value="pauguerrero {{ page.lang | upper }} contact form"
-  />
-  <input type="checkbox" name="botcheck" class="hidden" style="display: none" />
-  <p>
-    <label
-      >{{ languages[page.lang].contact.name }}<input type="text" name="name"
-    /></label>
-  </p>
-  <p>
-    <label
-      >{{ languages[page.lang].contact.email }}<input type="email" name="email"
-    /></label>
-  </p>
-  <p>
-    <label
-      >{{ languages[page.lang].contact.message
-      }}<textarea name="message"></textarea>
-    </label>
-  </p>
-  <p>
-    <button class="btn" type="submit">
-      {{ languages[page.lang].contact.send }}
-    </button>
-  </p>
-</form>
+<section class="section content">
+  <div class="columns">
+    <div class="column is-two-thirds-tablet is-half-desktop">
+      
+      <!-- Introduction Header & Copy -->
+      <div class="content mb-6">
+        <h2 class="title is-2">{{ languages[page.lang].contactForm.subtitle }}</h2>
+        <p class="subtitle is-5 has-text-grey mt-2">
+          {{ languages[page.lang].contactForm.text }}
+        </p>
+      </div>
+
+      <!-- Contact Form Box -->
+      <form action="https://api.web3forms.com/submit" name="contact" method="POST" class="box p-5">
+        <!-- Web3Forms Hidden Inputs -->
+        <input
+          type="hidden"
+          name="access_key"
+          value="2356652f-d928-4545-8e6c-bf03f9346266"
+        />
+        <input
+          type="hidden"
+          name="redirect"
+          value="{{ meta.url }}/{{ page.lang }}/success/"
+        />
+        <input
+          type="hidden"
+          name="subject"
+          value="pauguerrero {{ page.lang | upper }} contact form"
+        />
+        <!-- Honeypot (Spam Prevention) using Bulma's utility class -->
+        <input type="checkbox" name="botcheck" class="is-hidden" style="display: none" />
+
+        <!-- Name Field -->
+        <div class="field mb-4">
+          <label class="label has-text-grey">{{ languages[page.lang].contactForm.name }}</label>
+          <div class="control">
+            <input 
+              class="input" 
+              type="text" 
+              name="name" 
+              placeholder="{{ languages[page.lang].contactForm.placeholderName}}" 
+              required 
+            />
+          </div>
+        </div>
+
+        <!-- Email Field -->
+        <div class="field mb-4">
+          <label class="label  has-text-grey">{{ languages[page.lang].contactForm.email }}</label>
+          <div class="control">
+            <input 
+              class="input" 
+              type="email" 
+              name="email" 
+              placeholder="{{ languages[page.lang].contactForm.placeholderEmail}}" 
+              required 
+            />
+          </div>
+        </div>
+
+        <!-- Message Field -->
+        <div class="field mb-5">
+          <label class="label  has-text-grey">{{ languages[page.lang].contactForm.message }}</label>
+          <div class="control">
+            <textarea 
+              class="textarea" 
+              name="message" 
+              rows="5" 
+              placeholder="{{ languages[page.lang].contactForm.placeholderMessage }}" 
+              required
+            ></textarea>
+          </div>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="field mt-5">
+          <div class="control">
+            <button class="button is-fullwidth has-text-weight-semibold is-dark" type="submit">
+              {{ languages[page.lang].contactForm.send }}
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+<section class="section is-medium"></section>
+</main>
