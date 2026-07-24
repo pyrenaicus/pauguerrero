@@ -11,43 +11,33 @@ images:
   - layout: h
     items: 
       - src: "images/emba-borders-cccb-01.jpg"
-        id: "img01"
         alt: "A long, narrow exhibition room with panoramic images of a cityscape and beach displayed on the walls, featuring detailed architectural plans and maps on the floor."
         caption: ""
         contentLocation: "Barcelona"
         name: "Exposición Fronter, CCCBas - Estudi Massip-Bosch Arquitectes"
-        description: ""
   - layout: hh
     items:         
       - src: "images/emba-borders-cccb-03.jpg"
-        id: "img03"
         alt: "A gallery showcasing a series of photographs and descriptive text panels on dark walls, illuminated by focused spotlights."
         caption: ""
         contentLocation: "Barcelona"
         name: "Borders Exhibition, CCCB - Estudi Massip-Bosch Arquitectes"
-        description: ""
       - src: "images/emba-borders-cccb-05.jpg"
-        id: "img03"
         alt: "Wide-angle view of a modern museum exhibition space featuring matte black display walls with text blocks, a lit photograph of a child, a glowing projection screen on the left, and a gallery pathway continuing into the background."
         caption: ""
         contentLocation: "Barcelona"
         name: "Borders Exhibition, CCCB - Estudi Massip-Bosch Arquitectes"
-        description: ""
   - layout: hh
     items:         
       - src: "images/emba-borders-cccb-02.jpg"
-        id: "img03"
         alt: "A dimly lit exhibition room featuring multiple illuminated display boxes and shelves showcasing various photos and objects on the walls."
         caption: ""
         contentLocation: "Barcelona"
         name: "Borders Exhibition, CCCB - Estudi Massip-Bosch Arquitectes"
-        description: ""
       - src: "images/emba-borders-cccb-04.jpg"
-        id: "img03"
         alt: "Wide-angle photograph of a dimly lit art exhibition space with matte black walls, featuring a large artwork showing white handprints, a cluster of small framed photographs, and an adjacent illuminated corridor."
         contentLocation: "Barcelona"
         name: "Borders Exhibition, CCCB - Estudi Massip-Bosch Arquitectes"
-        description: ""
 ---
 
 ## Exhibition Design Photography: “Borders” at CCCB Barcelona

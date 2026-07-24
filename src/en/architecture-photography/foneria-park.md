@@ -11,53 +11,41 @@ images:
   - layout: h
     items: 
       - src: "images/isidre-santacreu-foneria-park-03.jpg"
-        id: "img03"
         alt: "A park with metal trellises supporting climbing plants, benches, pathways, and young trees, with a building and mountains in the background."
         caption: ""
         contentLocation: "Sant Vicenç dels Horts, Barcelona"
         name: "Foneria Park - Isidre Santacreu"
-        description: ""
   - layout: hh
     items: 
       - src: "images/isidre-santacreu-foneria-park-01.jpg"
-        id: "img01"
         alt: "A park with paved walkways, young trees, grassy areas, and benches, set against a backdrop of residential buildings."
         caption: ""
         contentLocation: "Sant Vicenç dels Horts, Barcelona"
         name: "Foneria Park - Isidre Santacreu"
-        description: ""
       - src: "images/isidre-santacreu-foneria-park-02.jpg"
-        id: "img02"
         alt: "A concrete and metal structure in a park with a staircase, railings, and yellow accents, under a clear blue sky."
         caption: ""
         contentLocation: "Sant Vicenç dels Horts, Barcelona"
         name: "Foneria Park - Isidre Santacreu"
-        description: ""
   - layout: hh
     items: 
       - src: "images/isidre-santacreu-foneria-park-04.jpg"
-        id: "img01"
         alt: "low-angle architectural photograph of Foneria Park's urban plaza, showing a large concrete foreground leading to multi-level concrete structures, yellow-accented retaining walls, metal handrails, and tall spotlights, bordered by trees and residential buildings under a blue sky."
         caption: ""
         contentLocation: "Sant Vicenç dels Horts, Barcelona"
         name: "Foneria Park - Isidre Santacreu"
-        description: ""
       - src: "images/isidre-santacreu-foneria-park-05.jpg"
-        id: "img02"
         alt: "A low-angle landscape photograph of an urban public space at Foneria Park. The foreground features a large expanse of lattice concrete grass pavers, minimalist wooden and metal benches, and slender, young trees. In the background, multi-story residential buildings line the perimeter under a bright, clear blue sky."
         caption: ""
         contentLocation: "Sant Vicenç dels Horts, Barcelona"
         name: "Foneria Park - Isidre Santacreu"
-        description: ""
   - layout: h
     items: 
       - src: "images/isidre-santacreu-foneria-park-06.jpg"
-        id: "img03"
         alt: "An elevated architectural landscape photograph of Foneria Park. The image displays a long, linear public plaza utilizing permeable lattice concrete grass pavers interspersed with sandy recreational zones, trees, and benches. A parking lot lines the left side next to apartment buildings, while industrial warehouses and a green hillside border the right side under a cloudy sky."
         caption: ""
         contentLocation: "Sant Vicenç dels Horts, Barcelona"
         name: "Foneria Park - Isidre Santacreu"
-        description: ""
 ---
 
 ## Landscape Architecture Photography: Foneria Park
