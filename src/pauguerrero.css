@@ -81,59 +81,9 @@ a.navbar-item:hover {
   white-space: nowrap;
 }
 
-/* IMAGE GALLERY IN SINGLE PAGE */
-.gallery-item img {
-  display: block;
-  width: 100%;
-  height: auto; /* Keeps your original uncropped aspect ratios perfectly intact */
-  border-radius: 4px; /* Optional styling */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* Optional styling */
-}
+/* GALLERY IN SINGLE PAGE */
 
-/* Erase any conflicting default margins imposed by Bulma's .content handler */
-.content .columns .column .gallery-item figure {
-  margin: 0 !important; 
-}
 
-/* Ensure the gallery items strictly dictate the vertical rhythm */
-.gallery-item {
-  display: block;
-  width: 100%;
-  cursor: pointer;
-}
-
-/* Optional tuning: If you want a specific gap size regardless of Bulma's scales, 
-   you can force it globally on the row right here */
-.columns.is-variable.is-4 {
-  --bulma-column-gap: 1rem; /* Adjust this value to scale both gaps simultaneously */
-}
-.gallery-item.mb-4 {
-  margin-bottom: 1rem !important; /* Forces vertical match to the exact variable override above */
-}
-
-/* Fix excessive margins on mobile by overriding Bulma's default column padding and spacing */
-@media (max-width: 768px) {
-  /* 1. Force the container to break out of the parent's padding boundaries */
-  .content .columns.gallery-stage {
-    margin-left: -1.25rem !important;
-    margin-right: -1.25rem !important;
-    margin-top: 1rem !important;
-    margin-bottom: 1rem !important;
-  }
-
-  /* 2. Tighten up the padding inside the individual stacked tracks */
-  .gallery-stage .column {
-    padding-left: 0.5rem !important;
-    padding-right: 0.5rem !important;
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-  }
-
-  /* 3. Reduce the bottom margin of images on mobile to match the tighter side gaps */
-  .gallery-stage .gallery-item.mb-4 {
-    margin-bottom: 0.5rem !important;
-  }
-}
 
 /* LIGHTBOX */
 

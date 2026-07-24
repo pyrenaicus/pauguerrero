@@ -102,7 +102,7 @@ export default async function (eleventyConfig) {
 
     const imgDir = "src/images";
     const imgOptions = {
-      widths: [300, 600, 980, "auto"],
+      widths: [300, 600, 980, 1300, 1600, "auto"],
       formats: ["webp", "jpg"],
       outputDir: "./_site/img",
     };
@@ -119,7 +119,7 @@ export default async function (eleventyConfig) {
       const dimensions = metadata[firstFormat]?.[metadata[firstFormat].length - 1];
       // Nest orientation & aspect ratio under a dedicated 'layout' key 
       metadata.layout = {
-        orientation: dimensions && dimensions.width > dimensions.height ? "landscape" : "portrait",
+        orientation: dimensions && dimensions.width > dimensions.height ? "horizontal" : "vertical",
         aspectRatio: dimensions ? (dimensions.width / dimensions.height).toFixed(3) : "1.5"
       };
 
