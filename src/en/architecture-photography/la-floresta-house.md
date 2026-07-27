@@ -1,6 +1,7 @@
 ---
 title: "BCH house"
-description: "La Floresta House by Aresta a+u architects. Architecture Photography by Pau Guerrero."
+permalink: "{{ preSlug }}/aresta-architects-bch-house/"
+description: "BCH house in La Floresta, Barcelona. By Aresta a+u architects. Architecture Photography by Pau Guerrero."
 date: "2012-02-02"
 location: "Sant Cugat, Barcelona"
 architect: Aresta a+u

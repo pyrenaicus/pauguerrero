@@ -1,5 +1,6 @@
 ---
 title: "IES Fontajau"
+permalink: "{{ preSlug }}/emba-ies-fontajau-high-school/"
 description: "Fontajau high school by EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
 date: "2008-01-08"
 location: "Girona"

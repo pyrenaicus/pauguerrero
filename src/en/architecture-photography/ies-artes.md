@@ -1,5 +1,6 @@
 ---
 title: "IES Artés"
+permalink: "{{ preSlug }}/emba-ies-artes-high-school/"
 description: "Artés high school by EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
 date: "2004-02-10"
 location: "Artés, Barcelona"

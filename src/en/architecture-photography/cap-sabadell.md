@@ -1,5 +1,6 @@
 ---
 title: "Sabadell Medical center"
+permalink: "{{ preSlug }}/emba-sabadell-medical-center/"
 description: "Medical center in Sabadell, EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
 date: "2005-03-14"
 location: "Sabadell, Barcelona"

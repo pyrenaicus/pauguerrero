@@ -1,5 +1,6 @@
 ---
 title: "Amposta residential"
+permalink: "{{ preSlug }}/hybrida-architects-amposta-residential/"
 description: "24 Houses in Amposta by HYBRIDa architects. Architecture Photography by Pau Guerrero."
 date: "2003-10-09"
 location: "Amposta, Tarragona"

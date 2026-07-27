@@ -1,5 +1,6 @@
 ---
 title: "Foneria park"
+permalink: "{{ preSlug }}/isidre-santacreu-foneria-park/"
 description: "Foneria Park by Isidre Santacreu. Architecture Photography by Pau Guerrero."
 date: "2008-04-17"
 location: "Sant Vicenç dels Horts, Barcelona"

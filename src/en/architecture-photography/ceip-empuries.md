@@ -1,5 +1,6 @@
 ---
 title: "CEIP Empúries"
+permalink: "{{ preSlug }}/emba-ceip-empuries-primary-school/"
 description: "CEIP Empuries primary school, EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
 date: "2004-06-01"
 location: "L'Escala, Girona"

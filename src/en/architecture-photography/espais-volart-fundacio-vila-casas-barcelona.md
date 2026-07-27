@@ -1,5 +1,6 @@
 ---
 title: "Espais Volart"
+permalink: "{{ preSlug }}/espais-volart-fundacio-vilacasas/"
 description: '"Espais Volart, Fundació Vila Casas" in Barcelona. Architecture Photography: Pau Guerrero.'
 date: "2020-07-10"
 location: "Barcelona"
