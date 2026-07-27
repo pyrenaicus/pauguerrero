@@ -8,20 +8,18 @@ architect: "Qubba arquitectes"
 teaser: "images/teaser-emba-manresa-housing.jpg"
 teaserAlt: "Edifici residencial antic amb una façana desgastada, amb balcons i situat sobre un talús de pedra. Al fons un edifici residencial nou seguint el patró orgànic del carrer"
 images:
-  - src: "images/emba-manresa-housing-01.jpg"
-    id: "img01"
-    alt: "Edifici residencial antic amb una façana desgastada, amb balcons i situat sobre un talús de pedra. Al fons un edifici residencial nou seguint el patró orgànic del carrer"
-    caption: ""
-    contentLocation: "Manresa, Barcelona"
-    name: "Habitatges a Manresa - Estudi Massip-Bosch Arquitectes"
-    description: ""
-  - src: "images/emba-manresa-housing-02.jpg"
-    id: "img02"
-    alt: "Un carreró estret amb edificis a l'ombra a ambdós costats, que condueix a una plaça més lluminosa i un edifici residencial nou al fons amb alguns vianants i cotxes aparcats."
-    caption: ""
-    contentLocation: "Manresa, Barcelona"
-    name: "Habitatges a Manresa - Estudi Massip-Bosch Arquitectes"
-    description: ""
+  - layout: hh
+    items: 
+      - src: "images/emba-manresa-housing-01.jpg"
+        alt: "Edifici residencial antic amb una façana desgastada, amb balcons i situat sobre un talús de pedra. Al fons un edifici residencial nou seguint el patró orgànic del carrer"
+        caption: ""
+        contentLocation: "Manresa, Barcelona"
+        name: "Habitatges a Manresa - Estudi Massip-Bosch Arquitectes"
+      - src: "images/emba-manresa-housing-02.jpg"
+        alt: "Un carreró estret amb edificis a l'ombra a ambdós costats, que condueix a una plaça més lluminosa i un edifici residencial nou al fons amb alguns vianants i cotxes aparcats."
+        caption: ""
+        contentLocation: "Manresa, Barcelona"
+        name: "Habitatges a Manresa - Estudi Massip-Bosch Arquitectes"
 ---
 
 Edifici d'habitatges a Manresa. Arquitectura: [EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)
