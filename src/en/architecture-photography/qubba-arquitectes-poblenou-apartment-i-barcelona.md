@@ -9,7 +9,7 @@ teaser: "images/teaser-qubba-architects-poblenou-i.jpg"
 teaserAlt: "Modern open kitchen with a black work table, patterned tiles, exposed brick wall, wooden beams, and white cabinets."
 images:
   - layout: vvv
-    items: 
+    items:
       - src: "images/qubba-architects-poblenou-i-03.jpg"
         alt: "Open-plan kitchen and living area with patterned tiles, exposed brick wall, wooden beams, and two large sunlit balconies on the background."
         caption: ""
@@ -26,14 +26,14 @@ images:
         contentLocation: "Barcelona"
         name: "Poblenou Apartment - Qubba Arquitectes"
   - layout: h
-    items:         
+    items:      
       - src: "images/qubba-architects-poblenou-i-01.jpg"
         alt: "Modern open kitchen with a black work table, patterned tiles, exposed brick wall, wooden beams, and white cabinets."
         caption: ""
         contentLocation: "Barcelona"
         name: "Poblenou Apartment - Qubba Arquitectes"
   - layout: vvv
-    items: 
+    items:
       - src: "images/qubba-architects-poblenou-i-05.jpg"
         alt: "Bathroom with a wooden window opening into a bedroom, patterned tile backsplash, wooden countertop, and white basin sink."
         caption: ""

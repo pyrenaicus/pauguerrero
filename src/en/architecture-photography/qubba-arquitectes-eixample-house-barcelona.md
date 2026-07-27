@@ -9,7 +9,7 @@ teaser: "images/teaser-qubba-arquitectes-eixample-house.jpg"
 teaserAlt: "Outdoor patio with metal railing, wooden deck, and large windows with bamboo shades, leading into a modern interior."
 images:
   - layout: hh
-    items: 
+    items:
       - src: "images/qubba-arquitectes-eixample-house-03.jpg"
         alt: "Modern open-concept living area with a cozy white sectional sofa, adjacent to a sleek wooden kitchen with built-in appliances."
         caption: ""

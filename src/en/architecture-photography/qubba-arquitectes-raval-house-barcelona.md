@@ -9,7 +9,7 @@ teaser: "images/teaser-qubba-architects-raval.jpg"
 teaserAlt: "Modern kitchen with patterned tiles, wooden accents, and a minimalist work table."
 images:
   - layout: vvv
-    items: 
+    items:
       - src: "images/qubba-architects-raval-01.jpg"
         alt: "Room with ornate ceiling beams and patterned floor tiles, featuring a partially open wooden door and shuttered window."
         caption: ""

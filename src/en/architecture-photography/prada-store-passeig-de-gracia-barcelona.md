@@ -10,14 +10,14 @@ teaser: "images/teaser-barcelona-prada-store.jpg"
 teaserAlt: "Prada store interior with black and white checkered flooring, glass shelves displaying colorful handbags, green chairs and black cast iron columns."
 images:
   - layout: h
-    items: 
+    items:
       - src: "images/barcelona-prada-store-01.jpg"
         alt: "Luxury store interior with mirrors showcasing various designer bags and backpacks displayed on sleek metal shelves against a pale green backdrop."
         caption: ""
         contentLocation: "Barcelona"
         name: "Prada Store"
   - layout: hh
-    items: 
+    items:
       - src: "images/barcelona-prada-store-02.jpg"
         alt: "Prada store interior with two facing mirrors featuring an infinity mirror effect, there are shelves of designer bags in various colors, organized neatly against a light green background."
         caption: ""

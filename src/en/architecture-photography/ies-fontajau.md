@@ -41,11 +41,18 @@ images:
         name: "Fontajau High School - Estudi Massip-Bosch Arquitectes"
   - layout: hh
     items:         
+      - src: "images/emba-ies-fontajau-08.jpg"
+        alt: "Architectural photograph of a long, linear two-story educational building. The industrial facade features alternating horizontal bands of corrugated metal cladding, continuous windows, and grids of translucent glass blocks. Slender steel columns support the clean line of a concrete roof overhang. In the foreground, a large, flat sandy schoolyard stretches out under a bright, clear blue sky."
+        caption: ""
+        contentLocation: "Girona"
+        name: "Fontajau High School - Estudi Massip-Bosch Arquitectes"
       - src: "images/emba-ies-fontajau-05.jpg"
         alt: "Exterior view showing a modern architectural design with clean lines and large windows under a clear blue sky."
         caption: ""
         contentLocation: "Girona"
         name: "Fontajau High School - Estudi Massip-Bosch Arquitectes"
+  - layout: h
+    items:         
       - src: "images/emba-ies-fontajau-02.jpg"
         alt: "Modern architectural details of Fontajau High School, showcasing its sleek lines and large windows under a clear blue sky."
         caption: ""
