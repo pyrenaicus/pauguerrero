@@ -10,13 +10,13 @@ teaserAlt: "Outdoor patio with metal railing, wooden deck, and large windows wit
 images:
   - layout: hh
     items:
-      - src: "images/qubba-arquitectes-eixample-house-03.jpg"
-        alt: "Modern open-concept living area with a cozy white sectional sofa, adjacent to a sleek wooden kitchen with built-in appliances."
+      - src: "images/qubba-arquitectes-eixample-house-01.jpg"
+        alt: "Outdoor patio with metal railing, wooden deck, and large windows with bamboo shades, leading into a modern interior."
         caption: ""
         contentLocation: "Barcelona"
         name: "Eixample Dwelling - Qubba Arquitectes"
-      - src: "images/qubba-arquitectes-eixample-house-01.jpg"
-        alt: "Outdoor patio with metal railing, wooden deck, and large windows with bamboo shades, leading into a modern interior."
+      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
+        alt: "Modern kitchen with an open window bar to the outdoor terrace, featuring a sleek countertop and rolled-up blinds."
         caption: ""
         contentLocation: "Barcelona"
         name: "Eixample Dwelling - Qubba Arquitectes"
@@ -39,13 +39,13 @@ images:
         name: "Eixample Dwelling - Qubba Arquitectes"
   - layout: hh
     items:         
-      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
-        alt: "Modern kitchen with an open window bar to the outdoor terrace, featuring a sleek countertop and rolled-up blinds."
+      - src: "images/qubba-arquitectes-eixample-house-02.jpg"
+        alt: "Modern living room with a large TV, white sectional sofa, glass coffee table, and dining area. Patio access through sliding glass doors."
         caption: ""
         contentLocation: "Barcelona"
         name: "Eixample Dwelling - Qubba Arquitectes"
-      - src: "images/qubba-arquitectes-eixample-house-02.jpg"
-        alt: "Modern living room with a large TV, white sectional sofa, glass coffee table, and dining area. Patio access through sliding glass doors."
+      - src: "images/qubba-arquitectes-eixample-house-03.jpg"
+        alt: "Modern open-concept living area with a cozy white sectional sofa, adjacent to a sleek wooden kitchen with built-in appliances."
         caption: ""
         contentLocation: "Barcelona"
         name: "Eixample Dwelling - Qubba Arquitectes"

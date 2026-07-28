@@ -1,38 +1,6 @@
 ---
 layout: "base.njk"
 ---
-<style>
-/* Only apply the stretching logic on tablet and desktop 
-  (Bulma's tablet breakpoint starts at 769px) 
-*/
-
-@media screen and (min-width: 769px) {
-  /* Target the specific cells that need stretching */
-  .cell.layout-hv,
-  .cell.layout-vh {
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Force the figure to stretch */
-  .cell.layout-hv .image,
-  .cell.layout-vh .image {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    height: 100%; 
-  }
-
-  /* Force the image to fill the figure and crop to fit */
-  .cell.layout-hv .gallery-img,
-  .cell.layout-vh .gallery-img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    object-position: center; 
-  }
-}
-</style>
 
 <main id="main" class="container">
   <section class="hero is-medium">

@@ -10,13 +10,13 @@ teaserAlt: "Patio al aire libre con barandilla metálica, terraza de madera y gr
 images:
   - layout: hh
     items:
-      - src: "images/qubba-arquitectes-eixample-house-03.jpg"
-        alt: "Área de estar moderna de concepto abierto con un acogedor sofá seccional blanco, adyacente a una elegante cocina de madera con electrodomésticos integrados."
+      - src: "images/qubba-arquitectes-eixample-house-01.jpg"
+        alt: "Patio al aire libre con barandilla metálica, terraza de madera y grandes ventanas con persianas de bambú, que conduce a un interior moderno."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivienda en el Ensanche - Qubba Arquitectes"
-      - src: "images/qubba-arquitectes-eixample-house-01.jpg"
-        alt: "Patio al aire libre con barandilla metálica, terraza de madera y grandes ventanas con persianas de bambú, que conduce a un interior moderno."
+      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
+        alt: "Cocina moderna con una barra de ventana abierta a la terraza al aire libre, con una elegante encimera y persianas enrolladas."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivienda en el Ensanche - Qubba Arquitectes"
@@ -39,13 +39,13 @@ images:
         name: "Vivienda en el Ensanche - Qubba Arquitectes"
   - layout: hh
     items:        
-      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
-        alt: "Cocina moderna con una barra de ventana abierta a la terraza al aire libre, con una elegante encimera y persianas enrolladas."
+      - src: "images/qubba-arquitectes-eixample-house-02.jpg"
+        alt: "Sala de estar moderna con un televisor grande, sofá seccional blanco, mesa de centro de vidrio y área de comedor. Acceso al patio a través de puertas correderas de vidrio."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivienda en el Ensanche - Qubba Arquitectes"
-      - src: "images/qubba-arquitectes-eixample-house-02.jpg"
-        alt: "Sala de estar moderna con un televisor grande, sofá seccional blanco, mesa de centro de vidrio y área de comedor. Acceso al patio a través de puertas correderas de vidrio."
+      - src: "images/qubba-arquitectes-eixample-house-03.jpg"
+        alt: "Área de estar moderna de concepto abierto con un acogedor sofá seccional blanco, adyacente a una elegante cocina de madera con electrodomésticos integrados."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivienda en el Ensanche - Qubba Arquitectes"

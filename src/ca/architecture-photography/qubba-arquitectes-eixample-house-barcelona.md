@@ -10,13 +10,13 @@ teaserAlt: "Pati exterior amb barana de metall, coberta de fusta i grans finestr
 images:
   - layout: hh
     items:
-      - src: "images/qubba-arquitectes-eixample-house-03.jpg"
-        alt: "Zona d'estar moderna de concepte obert amb un acollidor sofà seccional blanc, adjacent a una cuina de fusta elegant amb electrodomèstics integrats."
+      - src: "images/qubba-arquitectes-eixample-house-01.jpg"
+        alt: "Pati exterior amb barana de metall, coberta de fusta i grans finestres amb persianes de bambú, que condueixen a un interior modern."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivenda a l'Eixample - Qubba Arquitectes"
-      - src: "images/qubba-arquitectes-eixample-house-01.jpg"
-        alt: "Pati exterior amb barana de metall, coberta de fusta i grans finestres amb persianes de bambú, que condueixen a un interior modern."
+      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
+        alt: "Cuina moderna amb una barra de finestra oberta a la terrassa exterior, amb una encimera elegant i persianes enrotllades."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivenda a l'Eixample - Qubba Arquitectes"
@@ -39,13 +39,13 @@ images:
         name: "Vivenda a l'Eixample - Qubba Arquitectes"
   - layout: hh
     items:        
-      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
-        alt: "Cuina moderna amb una barra de finestra oberta a la terrassa exterior, amb una encimera elegant i persianes enrotllades."
+      - src: "images/qubba-arquitectes-eixample-house-02.jpg"
+        alt: "Sala d'estar moderna amb un gran televisor, sofà seccional blanc, taula de cafè de vidre i zona de menjador. Accés al pati a través de portes corredisses de vidre."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivenda a l'Eixample - Qubba Arquitectes"
-      - src: "images/qubba-arquitectes-eixample-house-02.jpg"
-        alt: "Sala d'estar moderna amb un gran televisor, sofà seccional blanc, taula de cafè de vidre i zona de menjador. Accés al pati a través de portes corredisses de vidre."
+      - src: "images/qubba-arquitectes-eixample-house-03.jpg"
+        alt: "Zona d'estar moderna de concepte obert amb un acollidor sofà seccional blanc, adjacent a una cuina de fusta elegant amb electrodomèstics integrats."
         caption: ""
         contentLocation: "Barcelona"
         name: "Vivenda a l'Eixample - Qubba Arquitectes"
