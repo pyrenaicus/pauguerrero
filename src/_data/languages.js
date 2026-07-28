@@ -2,10 +2,6 @@ export default {
   langs: ["ca", "es", "en"],
   ca: {
     about: { text: "Sobre mí", url: "/ca/sobre-mi/" },
-    architecturePhotography: {
-      text: "Fotografia d'Arquitectura",
-      url: "/ca/fotografia-d-arquitectura/",
-    },
     ariaLang: "Canviar idioma",
     ariaPrimary: "Principal",
     contact: { text: "Contacte", url: "/ca/contacte/" },
@@ -27,8 +23,16 @@ export default {
     exhibitions: { text: "Exposicions", url: "/ca/exposicions/" },
     footer: {
       copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero`,
-      byLine: "Fotografia d'Arquitectura i Paisatge",
       basedIn: "Amb base a Barcelona, Espanya — Disponible a nivell mundial",
+      byLine: "Fotografia d'Arquitectura i Paisatge",
+      architecturePhotography: {
+        text: "Fotografia d'Arquitectura",
+        url: "/ca/fotografia-d-arquitectura/",
+      },
+      retailPhotography: {
+        text: "Fotografia Comercial",
+        url: "/ca/fotografia-comercial/",
+      },
       tagline: {
         retail: "Fotografia d'Arquitectura del Retail",
         arch: "Fotografia d'Arquitectura",
@@ -38,7 +42,7 @@ export default {
     homePage: {
       architecture: {
         title: "Arquitectura i Retail",
-        tagline: "Documentant l'arquitectura moderna, el disseny d'interiors i els espais comercials amb precisió tècnica.",
+        tagline: "Documentant l'arquitectura moderna i els espais comercials amb precisió tècnica.",
         button: "Veure Portfolio"
       },
       exhibitions: {
@@ -60,10 +64,6 @@ export default {
       text: "Política de Privacitat",
       url: "/ca/politica-de-privacitat",
     },
-    retailPhotography: {
-      text: "Fotografia Comercial",
-      url: "/ca/fotografia-comercial/",
-    },
     skipText: "Saltar al contingut principal",
     switchLang: "Canviar idioma",
     termsOfService: {
@@ -73,10 +73,6 @@ export default {
   },
   es: {
     about: { text: "Sobre mí", url: "/es/sobre-mi/" },
-    architecturePhotography: {
-      text: "Fotografía de Arquitectura",
-      url: "/es/fotografia-de-arquitectura/",
-    },
     ariaLang: "Cambiar el idioma",
     ariaPrimary: "Principal",
     contact: { text: "Contacto", url: "/es/contacto/" },
@@ -100,6 +96,14 @@ export default {
       copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero`,
       byLine: "Fotografía de Arquitectura y Paisaje",
       basedIn: "Con base en Barcelona, España — Disponible a nivel mundial",
+      architecturePhotography: {
+        text: "Fotografía de Arquitectura",
+        url: "/es/fotografia-de-arquitectura/",
+      },
+      retailPhotography: {
+        text: "Fotografía Comercial",
+        url: "/es/fotografia-comercial/",
+      },
       tagline: {
         retail: "Fotografía de Arquitectura del Retail",
         arch: "Fotografía de Arquitectura",
@@ -109,7 +113,7 @@ export default {
     homePage: {
       architecture: {
         title: "Arquitectura y Retail",
-        tagline: "Documentando la arquitectura moderna, el diseño de interiores y los espacios comerciales con precisión técnica.",
+        tagline: "Documentando la arquitectura moderna y los espacios comerciales con precisión técnica.",
         button: "Ver Portfolio"
       },
       exhibitions: {
@@ -131,10 +135,6 @@ export default {
       text: "Política de Privacidad",
       url: "/es/politica-de-privacitat",
     },
-    retailPhotography: {
-      text: "Fotografía Comercial",
-      url: "/es/fotografia-comercial/",
-    },
     skipText: "Saltar al contenido principal",
     switchLang: "Cambiar idioma",
     termsOfService: {
@@ -144,10 +144,6 @@ export default {
   },
   en: {
     about: { text: "About", url: "/en/about/" },
-    architecturePhotography: {
-      text: "Architecture Photography",
-      url: "/en/architecture-photography/",
-    },
     ariaLang: "Change language",
     ariaPrimary: "Primary",
     contact: { text: "Contact", url: "/en/contact/" },
@@ -168,9 +164,17 @@ export default {
     cv: { text: "Curriculum Vitae", url: "/en/cv/" },
     exhibitions: { text: "Exhibitions", url: "/en/exhibitions/" },
     footer: {
+      architecturePhotography: {
+        text: "Architecture Photography",
+        url: "/en/architecture-photography/",
+      },
       copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero.`,
       byLine: "Architecture & Landscape Photography",
       basedIn: "Based in Barcelona, Spain — Available Worldwide",
+      retailPhotography: {
+        text: "Luxury Retail Photography",
+        url: "/en/luxury-retail-photography/",
+      },
       tagline: {
         retail: "Luxury Retail Architecture Photography",
         arch: "Architecture Photography",
@@ -180,7 +184,7 @@ export default {
     homePage: {
       architecture: {
         title: "Architecture & Luxury Retail",
-        tagline: "Documenting modern architecture, interior design, and retail spaces with technical precision.",
+        tagline: "Documenting modern architecture and retail spaces with technical precision.",
         button: "View Architecture Portfolio"
       },
       exhibitions: {
@@ -199,10 +203,6 @@ export default {
       alt: "An old shoe covered in moss, the ground is covered in brown dry leaves, some green ivy branches around.",
     },
     privacyPolicy: { text: "Privacy Policy", url: "/en/privacy-policy" },
-    retailPhotography: {
-      text: "Luxury Retail Photography",
-      url: "/en/luxury-retail-photography/",
-    },
     skipText: "Jump to main content",
     switchLang: "Switch language",
     termsOfService: { text: "Terms of Service", url: "/en/terms-of-service/" },

@@ -1,5 +1,5 @@
 ---
-layout: "list.njk"
+layout: "architecture-photography.njk"
 title: "Architecture Photography"
 metaTitle: "Architecture and Luxury Retail Photography | Barcelona"
 teaser: "images/teaser-qubba-architects-sant-antoni.jpg"

@@ -1,0 +1,96 @@
+---
+layout: "base.njk"
+---
+
+<main id="main" class="container">
+  <section class="hero is-medium">
+  <div class="hero-body container is-family-secondary">
+    {% if not home %}
+      <h1 class="title">{{ title }}</h1>
+      {% if intro %}
+      <p class="subtitle">{{ intro | safe }}</p>
+    {% endif %}
+    {% endif %}
+  </div>
+</section>
+
+  <section class="section">
+    {# <h1 class="title">{{ title }}</h1> #}
+    <ul class="columns is-multiline" role="list">
+      {% for item in collections[collectionName] %} {% if item.data.lang ==
+      page.lang %}
+      <li class="column is-one-third">
+        <a href="{{ item.url }}" class="card is-block">
+        {% imageShortcode item.data.teaser, item.data.teaserAlt, "high" %}
+        <div class="card-content">
+          <span class="has-text-dark inside-card-title">{{ item.data.title | lower }}</span>
+        </div>
+        </a>
+      </li>
+      {% endif %} {% endfor %}
+    </ul>
+  </section>
+
+  <div class="section">
+  </div>
+
+  <div class="section">
+  </div>
+  {% if page.lang == "en" %}
+  <div class="content pl-6">
+    <h2 >Spatial Representation and Architectural Documentation</h2>
+  </div>
+  <div class="section content">
+    <div class="columns is-variable is-8">
+      <div class="column is-half">
+        <h3>The Approach to Architecture and Interior Photography</h3>
+        <p>Architectural photography is more than documenting a physical structure; it is the art of translating three-dimensional volume, material texture, and light into a compelling two-dimensional narrative. Based in <strong>Barcelona</strong>, my practice focuses on portraying the dialogue between form and function and revealing the sensory qualities and materiality of built space. Whether documenting contemporary residential projects across <strong>Catalonia</strong> or heritage structural renovations, the goal is to respect the architect's vision through precise geometry, thoughtful composition, and an understanding of natural light.</p>
+        <h3>High-End Luxury Retail Photography</h3>
+        <p>Commercial and retail environments demand a distinct visual vocabulary. Specialising in <strong>luxury retail photography</strong>, I team up with international brands, designers, and luxury boutiques to capture the precise execution of premium interior design. From permanent flagship stores  to ephemeral pop-up installations, this work emphasises material fidelity—capturing the exact texture of green marble, the subtleties of custom lighting, and the spatial flow that defines the modern luxury shopping experience.</p>
+      </div>
+      <div class="column is-half">
+        <h3>Commissioning and Collaborations</h3>
+        <p>Operating from <strong>Barcelona, Spain</strong>, I provide architectural, interior, and luxury retail photographic services for architects, interior designers, developers, and global luxury brands. Available for commissions locally throughout Catalonia and worldwide, every project is handled with rigorous technical precision and a deep commitment to high-end visual communication.</p>
+      </div>
+    </div>
+  </div>
+  {% elif page.lang == "es" %}
+  <div class="content pl-6">
+    <h2 >Representación Espacial y Documentación Arquitectónica</h2>
+  </div>
+  <div class="section content">
+    <div class="columns is-variable is-8">
+      <div class="column is-half">
+        <h3>El Enfoque de la Fotografía de Arquitectura e Interiores</h3>
+        <p>La fotografía de arquitectura es más que documentar una estructura física; es el arte de traducir el volumen tridimensional, la textura de los materiales y la luz en una narrativa bidimensional convincente. Con base en <strong>Barcelona</strong>, mi práctica se centra en plasmar el diálogo entre forma y función, revelando las cualidades sensoriales y la materialidad del espacio construido. Ya sea documentando proyectos residenciales contemporáneos en toda <strong>Cataluña</strong> o renovaciones de estructuras patrimoniales, el objetivo es respetar la visión del arquitecto a través de una geometría precisa, una composición reflexiva y la comprensión de la luz natural.</p>
+        <h3>Fotografía de Retail de Lujo y Alta Gama</h3>
+        <p>Los entornos comerciales y de retail exigen un vocabulario visual propio. Especializado en <strong>fotografía de retail de lujo</strong>, colaboro con marcas internacionales, diseñadores y boutiques de lujo para capturar la ejecución precisa del diseño de interiores premium. Desde tiendas insignia permanentes hasta instalaciones efímeras (pop-ups), este trabajo enfatiza la fidelidad de los materiales: capturar la textura exacta de los materiales, las sutilezas de la iluminación personalizada y el flujo espacial que define la experiencia moderna de compra.</p>
+      </div>
+      <div class="column is-half">
+        <h3>Encargos y Colaboraciones</h3>
+        <p>Operando desde <strong>Barcelona, España</strong>, ofrezco servicios fotográficos de arquitectura, interiores y retail de lujo para arquitectos, diseñadores de interiores, promotores y marcas de lujo globales. Disponible para encargos tanto a nivel local en toda Cataluña como en el resto del mundo, cada proyecto se aborda con una rigurosa precisión técnica y un profundo compromiso con la comunicación visual de alta gama.</p>
+      </div>
+    </div>
+  </div>
+  {% elif page.lang == "ca" %}
+  <div class="content pl-6">
+    <h2 >Representació Espacial i Documentació Arquitectònica</h2>
+  </div>
+  <div class="section content">
+    <div class="columns is-variable is-8">
+      <div class="column is-half">
+        <h3>L'Enfocament de la Fotografia d'Arquitectura i Interiors</h3>
+        <p>La fotografia d'arquitectura és més que documentar una estructura física; és l'art de traduir el volum tridimensional, la textura dels materials i la llum en una narrativa bidimensional convincent. Amb base a <strong>Barcelona</strong>, la meva pràctica es centra a retratar el diàleg entre la forma i la funció, revelant les qualitats sensorials i la materialitat de l'espai construït. Ja sigui documentant projectes residencials contemporanis arreu de <strong>Catalunya</strong> o renovacions d'estructures patrimonials, l'objectiu és respectar la visió de l'arquitecte a través d'una geometria precisa, una composició reflexiva i la comprensió de la llum natural.</p>
+        <h3>Fotografia de Retail de Luxe d'Alta Gamma</h3>
+        <p>Els entorns comercials i de retail exigeixen un vocabulari visual propi. Especialitzat en <strong>fotografia de retail de luxe</strong>, col·laboro amb marques internacionals, dissenyadors i boutiques de luxe per capturar l'execució precisa del disseny d'interiors premium. Des de botigues insígnia permanents fins a instal·lacions efímeres (pop-ups), aquest treball emfatitza la fidelitat dels materials: capturar la textura exacta del marbre verd, les subtileses de la il·luminació personalitzada i el flux espacial que defineix l'experiència moderna de compra de luxe.</p>
+        </div>
+        <div class="column is-half">
+        <h3>Encàrrecs i Col·laboracions</h3>
+        <p>Operant des de <strong>Barcelona, Espanya</strong>, ofereixo serveis fotogràfics d'arquitectura, interiors i retail de luxe per a arquitectes, dissenyadors d'interiors, promotors i marques de luxe globals. Disponible per a encàrrecs tant a nivell local arreu de Catalunya com a la resta del món, cada projecte s'entoma amb una rigorosa precisió tècnica i un profund compromís amb la comunicació visual d'alta gamma.</p>  
+      </div>
+    </div>
+  </div>              
+  {% endif %}
+    <div class="section">
+  </div>
+</main>
