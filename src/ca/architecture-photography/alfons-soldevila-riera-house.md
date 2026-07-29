@@ -5,6 +5,7 @@ description: "Casa Riera dissenyada per Alfons Soldevila. Fotografia d'Arquitect
 date: "2002-05-12"
 location: "Badalona, Barcelona"
 architect: "Alfons Soldevila"
+intro: "Prototip d'habitatge experimental MR6, construït el 1984. Arquitectura d'Alfons Soldevila i Josep Ignasi de Llorens."
 teaser: "images/teaser-alfons-soldevila-riera-house.jpg"
 teaserAlt: "Piscina exterior al costat d'una casa de blocs de formigó, envoltada d'arbres, vegetació i flors de baladre, amb vistes a turons llunyans."
 images:

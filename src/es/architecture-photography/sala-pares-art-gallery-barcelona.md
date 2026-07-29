@@ -4,6 +4,7 @@ permalink: "{{ preSlug  }}/sala-pares-galeria-de-arte-barcelona/"
 description: "Sala Parés, galería de arte en Barcelona. Fotografía de Arquitectura por Pau Guerrero."
 date: "2018-09-12"
 location: "Barcelona"
+intro: "Fundada en 1877, la primera galería de arte en España."
 teaser: "images/teaser-barcelona-sala-pares.jpg"
 teaserAlt: "Galería de arte con suelos de madera pulida, con grandes pinturas de paisajes marinos en paredes blancas, centradas alrededor de un atrio con tragaluz."
 images:

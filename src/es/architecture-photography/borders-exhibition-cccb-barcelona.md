@@ -5,6 +5,7 @@ description: "Exposición Borders - Fronteras en el CCCB de Barcelona. Diseño d
 date: "2007-05-15"
 location: "Barcelona"
 architect: "Estudi Massip-Bosch Architects"
+intro: "Diseño de exposición de EMBA, Enric Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-borders-cccb.jpg"
 teaserAlt: "Una sala de exposición larga y estrecha con imágenes panorámicas de un paisaje urbano y playa mostradas en las paredes, con planos arquitectónicos detallados y mapas en el suelo."
 images:

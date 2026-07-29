@@ -6,6 +6,7 @@ date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
+intro: "Campaña de escaparates diseñada por StudioXAG para la flagship store de Montblanc en Barcelona."
 teaser: "images/teaser-studioxag-montblanc-glacier-barcelona.jpg"
 teaserAlt: "Vista exterior de una tienda Montblanc con escaparates de temática glaciar y marca."
 images:

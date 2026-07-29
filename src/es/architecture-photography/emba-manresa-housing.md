@@ -5,6 +5,7 @@ description: "Viviendas en Manresa, arquitectura por EMBA, Enric Massip-Bosch Ar
 date: "2004-05-15"
 location: "Manresa, Barcelona"
 architect: "Qubba arquitectes"
+intro: "Arquitectura residencial de EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-manresa-housing.jpg"
 teaserAlt: "Antiguo edificio residencial con una fachada desgastada, con balcones y situado sobre un terraplén de piedra. Al fondo un nuevo edificio residencial que sigue el patrón orgánico de la calle"
 images:

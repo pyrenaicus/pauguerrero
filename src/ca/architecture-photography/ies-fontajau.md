@@ -5,6 +5,7 @@ description: "Institut de Fontajau dissenyat per EMBA, Enric Massip-Bosch Archit
 date: "2008-01-08"
 location: "Girona"
 architect: Estudi Massip-Bosch Architects
+intro: "Instituto de educación secundaria público en Girona. Arquitectura de EMBA, Estudi Massip-Bosch Arquitectes."
 teaser: "images/teaser-emba-ies-fontajau.jpg"
 teaserAlt: "Detalls arquitectònics moderns de l'Institut de Fontajau, mostrant les seves línies elegants i grans finestres sota un cel blau clar."
 images:

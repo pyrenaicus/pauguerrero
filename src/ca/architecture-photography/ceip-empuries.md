@@ -5,6 +5,7 @@ description: "Escola primària CEIP Empúries, EMBA, Enric Massip-Bosch Architec
 date: "2004-06-01"
 location: "L'Escala, Girona"
 architect: "Estudi Massip-Bosch Architects"
+intro: "Escola primària a l'Escala, Girona. Arquitectura d'EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-ceip-empuries.jpg"
 teaserAlt: "Un edifici escolar modern amb grans finestres i un pati espaiós."
 images:

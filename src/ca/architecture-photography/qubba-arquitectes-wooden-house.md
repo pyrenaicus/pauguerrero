@@ -5,6 +5,7 @@ description: "Casa de fusta transportable per a una parella, disseny per Qubba A
 date: "2022-11-02"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Casa de fusta lleugera a prop de Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-wood-house.jpg"
 teaserAlt: "Vista exterior d'una casa moderna amb dos cossos, un sostre inclinat, revestiment de fusta fosca, grans finestres i un gespa espaiós envoltat de pins."
 images:

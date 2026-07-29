@@ -5,6 +5,7 @@ description: "Parc de la Foneria a Sant Vicenç dels Horts, dissenyat per Isidre
 date: "2008-04-17"
 location: "Sant Vicenç dels Horts, Barcelona"
 architect: Isidre Santacreu
+intro: "Parc públic a Sant Vicenç dels Horts, Barcelona. Arquitectura paisatgística d'Isidre Santacreu."
 teaser: "images/teaser-isidre-santacreu-foneria-park.jpg"
 teaserAlt: "Un parc amb enreixats metàl·lics que suporten plantes enfiladisses, bancs, camins i arbres joves, amb un edifici i muntanyes al fons."
 images:

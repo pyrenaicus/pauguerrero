@@ -5,6 +5,7 @@ description: "Centro de Transferencia Tecnológica de Manresa por EMBA, Enric Ma
 date: "2004-05-15"
 location: "Manresa, Barcelona"
 architect: "Qubba arquitectes"
+intro: "Centro de investigación tecnológica. Arquitectura de EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-upc-cttm-manresa.jpg"
 teaserAlt: "Escena nocturna de calle con un edificio moderno al fondo, estelas de luces de automóviles y farolas iluminando el área."
 images:

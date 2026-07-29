@@ -5,6 +5,7 @@ description: "Reforma d'una vivenda al barri del Poblenou de Barcelona, dissenya
 date: "2018-06-01"
 location: "Barcelona"
 architect: "Qubba arquitectes"
+intro: "Reforma d'un pis al districte del Poblenou, Barcelona. Dissenyat per Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-poblenou-ii.jpg"
 teaserAlt: "Zona d'estar de pla obert amb encimera de rajoles negres, paret de maó vist, bigues de sostre de fusta i llum natural que entra per dos grans balcons amb persianes de fusta."
 images:

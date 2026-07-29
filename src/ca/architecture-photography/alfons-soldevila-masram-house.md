@@ -5,6 +5,7 @@ description: "Casa Mas Ram, dissenyada per Alfons Soldevila. Fotografia d'Arquit
 date: "2002-05-05"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
+intro: "Prototip d'habitatge experimental MR-1, construït el 1971. El primer d'una sèrie de prototips d'habitatge experimental d'Alfons Soldevila, Josep Maria Massot i Miguel Donada."
 teaser: "images/teaser-soldevila-masram-house.jpg"
 teaserAlt: "Vista des de dalt d'una zona d'estar acollidora amb una escala de fusta, un llum penjant verd i una paret adornada amb art emmarcat i objectes decoratius. A sota es pot veure una gran taula de fusta."
 images:

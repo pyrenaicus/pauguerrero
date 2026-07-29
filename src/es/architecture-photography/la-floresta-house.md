@@ -5,6 +5,7 @@ description: "Casa en La Floresta por Aresta a+u arquitectes. Fotografía de Arq
 date: "2012-02-02"
 location: "Sant Cugat, Barcelona"
 architect: Aresta a+u
+intro: "Casa unifamiliar en la Floresta, Sant Cugat del Vallès. Diseñada por Aresta a+u arquitectes."
 teaser: "images/teaser-aresta-la-floresta.jpg"
 teaserAlt: "Exterior de casa moderna con grandes ventanas y una terraza espaciosa, rodeada de árboles y paisaje natural."
 images:

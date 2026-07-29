@@ -5,6 +5,7 @@ description: "Casa en el Ensanche de Barcelona por Qubba Architects. Fotografía
 date: "2023-06-12"
 location: "Sabadell, Barcelona"
 architect: "Qubba arquitectes"
+intro: "Reforma de un piso en el distrito del Eixample de Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-arquitectes-eixample-house.jpg"
 teaserAlt: "Patio al aire libre con barandilla metálica, terraza de madera y grandes ventanas con persianas de bambú, que conduce a un interior moderno."
 images:

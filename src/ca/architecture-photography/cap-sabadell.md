@@ -5,6 +5,7 @@ description: "Centre mèdic a Sabadell, EMBA, Enric Massip-Bosch Architects. Fot
 date: "2005-03-14"
 location: "Sabadell, Barcelona"
 architect: "Estudi Massip-Bosch Architects"
+intro: "Centre d'atenció primària. Arquitectura d'EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-cap-sabadell.jpg"
 teaserAlt: "Un pati que combina arquitectura antiga i nova, amb un edifici històric a l'esquerra i una estructura de vidre moderna a la dreta, envoltats de vegetació i arbres que fan ombra."
 images:

@@ -5,6 +5,7 @@ description: Parc dels Pinetons a Ripollet dissenyat per Isidre Santacreu. Fotog
 date: 2003-05-21
 location: Ripollet, Barcelona
 architect: Isidre Santacreu
+intro: "A Ripollet, Barcelona. Arquitectura paisatgística d'Isidre Santacreu."
 teaser: "images/teaser-isidre-santacreu-pinetons-park.jpg"
 teaserAlt: Espai exterior amb dues estructures modernes d'ombra d'acer i fusta i una gran font d'aigua de raig central contra un cel blau clar.
 images:

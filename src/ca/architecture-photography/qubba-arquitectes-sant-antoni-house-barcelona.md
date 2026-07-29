@@ -5,6 +5,7 @@ description: "Reforma d'un habitatge al barri de Sant Antoni de Barcelona, disse
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Reforma d'un pis a Barcelona, de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-sant-antoni.jpg"
 teaserAlt: "Zona de menjador espaiosa amb rajoles de terra de quadres, bigues vistes i portes franceses que s'obren a una zona de pati."
 images:

@@ -6,6 +6,7 @@ date: "2024-09-01"
 location: "Barcelona"
 tags: [architecture-photography, retail]
 brand: "Prada"
+intro: "Botiga pop-in temporal durant la 37a Copa Amèrica, flagship boutique de Prada al Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-prada-luna-rossa-pop-in.jpg"
 teaserAlt: "Interior luxós de boutique Prada amb parets de marbre verd, il·luminació elegant i prestatges de metall negre mostrant sabatilles esportives, bosses i roba grisa. Una taula de vidre central mostra accessoris, mentre que una porta al fons condueix a una altra secció."
 images:

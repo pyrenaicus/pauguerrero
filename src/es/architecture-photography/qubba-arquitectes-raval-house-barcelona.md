@@ -5,6 +5,7 @@ description: "Renovación de un piso en el barrio del Raval de Barcelona por Qub
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Reforma de un piso del siglo XIX en Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-raval.jpg"
 teaserAlt: "Cocina moderna con baldosas estampadas, acentos de madera y una mesa de trabajo minimalista."
 images:

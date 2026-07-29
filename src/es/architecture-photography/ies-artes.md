@@ -5,6 +5,7 @@ description: "Instituto en Artés por EMBA, Enric Massip-Bosch Architects. Fotog
 date: "2004-02-10"
 location: "Artés, Barcelona"
 architect: Estudi Massip-Bosch Architects
+intro: "Arquitectura educativa de EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-ies-artes.jpg"
 teaserAlt: "Diseños circulares coloridos en el techo proyectan sombras en un pasillo cubierto sostenido por columnas de hormigón."
 images:

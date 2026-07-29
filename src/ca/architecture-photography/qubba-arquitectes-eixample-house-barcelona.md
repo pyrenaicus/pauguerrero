@@ -5,6 +5,7 @@ description: "Vivenda a l'Eixample de Barcelona, dissenyada per Qubba Arquitecte
 date: "2023-06-12"
 location: "Sabadell, Barcelona"
 architect: "Qubba arquitectes"
+intro: "Reforma d'un pis al districte de l'Eixample de Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-arquitectes-eixample-house.jpg"
 teaserAlt: "Pati exterior amb barana de metall, coberta de fusta i grans finestres amb persianes de bambú, que condueixen a un interior modern."
 images:

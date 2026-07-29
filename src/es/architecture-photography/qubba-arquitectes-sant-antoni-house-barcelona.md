@@ -5,6 +5,7 @@ description: "Vivienda en el barrio del Eixample de Barcelona por Qubba Architec
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Reforma de un piso en Barcelona, de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-sant-antoni.jpg"
 teaserAlt: "Espaciosa área de comedor con baldosas de suelo de tablero de ajedrez, vigas expuestas y puertas francesas que se abren a un área de patio."
 images:

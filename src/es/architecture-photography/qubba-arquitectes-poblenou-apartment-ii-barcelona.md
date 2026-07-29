@@ -5,6 +5,7 @@ description: "Poblenou II, Renovación de un apartamento en el barrio de Pobleno
 date: "2018-06-01"
 location: "Barcelona"
 architect: "Qubba arquitectes"
+intro: "Reforma de un piso en el distrito del Poblenou, Barcelona. Diseñado por Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-poblenou-ii.jpg"
 teaserAlt: "Área de estar de planta abierta con encimera de baldosas negras, pared de ladrillo expuesto, vigas de techo de madera y luz solar natural que entra a través de dos grandes balcones con persianas de madera."
 images:

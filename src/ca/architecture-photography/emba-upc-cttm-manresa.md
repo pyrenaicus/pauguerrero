@@ -5,6 +5,7 @@ description: "UPC Centre de Transferència Tecnològica de Manresa per EMBA, Enr
 date: "2004-05-15"
 location: "Manresa, Barcelona"
 architect: "Qubba arquitectes"
+intro: "Centre de recerca tecnològica. Arquitectura d'EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-upc-cttm-manresa.jpg"
 teaserAlt: "Escena de carrer nocturna amb un edifici modern al fons, traces de llum de cotxes i fanals il·luminant la zona."
 images:

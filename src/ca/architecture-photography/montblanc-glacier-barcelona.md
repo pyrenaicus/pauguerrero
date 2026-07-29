@@ -6,6 +6,7 @@ date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
+intro: "Campanya d'aparadors dissenyada per StudioXAG per a la flagship store de Montblanc a Barcelona."
 architect: studioXAG
 teaser: "images/teaser-studioxag-montblanc-glacier-barcelona.jpg"
 teaserAlt: "Vista exterior d'una botiga Montblanc amb aparadors amb temàtica de glacera i branding."

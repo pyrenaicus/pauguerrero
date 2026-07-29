@@ -5,6 +5,7 @@ description: "Vivienda unifamiliar de madera por Qubba Architects. Fotografía d
 date: "2022-11-02"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Casa de madera ligera cerca de Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-wood-house.jpg"
 teaserAlt: "Vista exterior de una casa moderna con dos cuerpos, techo inclinado, revestimiento de madera oscura, grandes ventanas y un amplio césped rodeado de pinos."
 images:

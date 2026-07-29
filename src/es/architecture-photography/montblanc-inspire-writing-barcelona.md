@@ -6,6 +6,7 @@ date: "2022-11-06"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"
+intro: "Campaña de escaparates diseñada por StudioXAG para la flagship store de Montblanc en Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-studioxag-montblanc-inspire-writing-barcelona.jpg"
 teaserAlt: "Exterior de tienda Montblanc con un diseño moderno, con grandes ventanas y elegante marca."
 images:

@@ -4,6 +4,7 @@ permalink: "{{ preSlug  }}/geox-store-barcelona/"
 description: "Botiga Geox al Passeig de Gràcia, Barcelona. Fotografia d'Arquitectura del Retail per Pau Guerrero."
 date: "2019-02-01"
 location: "Barcelona"
+intro: "Flagship store al Passeig de Gràcia, de Barcelona."
 tags: retail
 brand: geox
 architect:

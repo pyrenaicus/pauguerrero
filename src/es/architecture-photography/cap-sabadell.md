@@ -5,6 +5,7 @@ description: "Centro de Asistencia Primária en Sabadell. EMBA, Enric Massip-Bos
 date: "2005-03-14"
 location: "Sabadell, Barcelona"
 architect: "Estudi Massip-Bosch Architects"
+intro: "Centro de atención primaria. Arquitectura de EMBA, Estudi Massip-Bosch Arquitectes"
 teaser: "images/teaser-emba-cap-sabadell.jpg"
 teaserAlt: "Un patio que combina arquitectura antigua y nueva, con un edificio histórico a la izquierda y una estructura moderna de vidrio a la derecha, rodeado de vegetación y árboles que dan sombra."
 images:

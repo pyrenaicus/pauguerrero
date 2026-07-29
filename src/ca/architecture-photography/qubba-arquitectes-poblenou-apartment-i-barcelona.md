@@ -5,6 +5,7 @@ description: "Reforma d'un apartament al barri de Poblenou de Barcelona, disseny
 date: "2016-09-18"
 location: "Barcelona"
 architect: "Qubba arquitectes"
+intro: "Reforma d'un pis antic a Barcelona. Dissenyat per Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-poblenou-i.jpg"
 teaserAlt: "Cuina oberta moderna amb una taula de treball negra, rajoles amb patrons, paret de maó vist, bigues de fusta i armaris blancs."
 images:

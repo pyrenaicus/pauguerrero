@@ -4,6 +4,7 @@ permalink: "{{ preSlug  }}/sala-pares-galeria-art-barcelona/"
 description: "Sala Parés, galeria d'art al carrer Petritxol de Barcelona. Fotografia d'Arquitectura per Pau Guerrero."
 date: "2018-09-12"
 location: "Barcelona"
+intro: "Fundada el 1877, la primera galeria d'art comercial a Espanya."
 teaser: "images/teaser-barcelona-sala-pares.jpg"
 teaserAlt: "Galeria d'art amb terra de fusta polida, amb grans pintures de marines a parets blanques, centrades al voltant d'un atri amb claraboia."
 images:

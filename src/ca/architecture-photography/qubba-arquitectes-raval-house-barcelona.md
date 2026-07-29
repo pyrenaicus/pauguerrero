@@ -5,6 +5,7 @@ description: "Reforma d'una vivenda al barri del Raval de Barcelona, dissenyada 
 date: "2020-07-01"
 location: "Barcelona"
 architect: Qubba arquitectes
+intro: "Reforma d'un pis del segle XIX a Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-raval.jpg"
 teaserAlt: "Cuina moderna amb rajoles amb patrons, accents de fusta i una taula de treball minimalista."
 images:

@@ -7,6 +7,7 @@ location: "Barcelona"
 tags: retail
 architect: studioXAG
 brand: "Montblanc"
+intro: "Campanya d'aparadors dissenyada per StudioXAG per a la flagship store de Montblanc al Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-studioxag-montblanc-inspire-writing-barcelona.jpg"
 teaserAlt: "Exterior de botiga Montblanc amb un disseny modern, amb grans finestres i branding elegant."
 images:

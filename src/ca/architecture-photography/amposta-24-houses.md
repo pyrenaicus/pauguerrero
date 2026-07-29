@@ -5,6 +5,7 @@ description: "24 Cases a Amposta dissenyades per HYBRIDa architects. Fotografia 
 date: "2003-10-09"
 location: "Amposta, Tarragona"
 architect: "HYBRIDa architects"
+intro: "Complex residencial amb 24 habitatges d'HYBRIDa Architecture"
 teaser: "images/teaser-hybrid-architects-amposta-residential.jpg"
 teaserAlt: "Cases adossades modernes amb sostres plans i grans finestres amb persianes, pintades en tons càlids, amb un camí de rajoles de terracota i una zona d'herba en primer pla."
 images:

@@ -5,6 +5,7 @@ description: "Casa La Muntanyeta diseñada por el arquitecto Alfons Soldevila. F
 date: "2002-04-12"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
+intro: "Una de las seis casas del Complejo Residencial La Muntanyeta, construido en 1979 en Matadepera, Barcelona. Diseñado por Alfons Soldevila y Josep Ignasi de Llorens."
 teaser: "images/teaser-alfons-soldevila-matadepera-la-muntanyeta-house.jpg"
 teaserAlt: "Vista de una casa de bloques de hormigón en terrazas con grandes ventanas, rodeada de exuberante vegetación, un césped y una escalera que conduce a un área pavimentada elevada adornada con plantas en macetas."
 images:
