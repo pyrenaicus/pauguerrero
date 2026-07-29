@@ -58,4 +58,21 @@ images:
         name: "IES Artés - Estudi Massip-Bosch Arquitectes"
 ---
 
-Institut d'Educació Secundària a Artés. Arquitectura: [EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)
+## Fotografia d'arquitectura educativa: IES Artés per EMBA
+
+Aquesta col·lecció de fotografia arquitectònica institucional documenta la moderna ampliació i estructura del **IES Artés**, un institut públic d'educació secundària a **Artés, Barcelona**. Dissenyat per **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)** sota la direcció d'Enric Massip-Bosch, aquest edifici educatiu ofereix una visió sofisticada del disseny institucional cívic, optimitzant els materials estructurals en brut per crear un entorn d'aprenentatge dinàmic i lluminós.
+
+La sessió fotogràfica crida l'atenció sobre els patrons lineals nítids, el joc dinàmic d'ombres i l'honestedat material que defineixen aquest campus contemporani.
+
+### Capturant lames exteriors, columnes de formigó i ombres circulars
+
+La fotografia d'arquitectura d'exteriors es cendra en el ritme estructural, l'enquadrament geomètric i l'ús de la llum solar natural per part de l'edifici.
+
+* **Lames verticals i patrons lineals:** Una característica transitòria de la fatxada de l'escola és l'ús d'un elegant **revestiment metàl·lic i lames verticals**. La fotografia utilitza enquadraments precisos de gran angular per capturar aquestes línies repetitives, mostrant com proporcionen privadesa i protecció solar alhora que doten el volum institucional d'una identitat neta i unificada.
+* **Joc lúdic d'ombres geomètriques:** Una seqüència destacada d'aquesta sèrie arquitectònica es cendra en els passadissos exteriors coberts de l'edifici. Sostingudes per columnes de formigó, aquestes estructures superiors presenten atrevits i acoloreixs **dissenys circulars al sostre**. La fotografia captura el sol mediterrani passant a través d'aquests talls geomètrics, projectant patrons dinàmics i giratoris de llum i ombra al llarg dels camins de formigó inferiors.
+
+### Documentant espais lluminosos i materialitat interior en brut
+
+Fotografiar els espais interiors de l'IES Artés requereix capturar la permanència estructural juntament amb una distribució diàfana i oberta adequada per al moviment dels estudiants.
+
+La fotografia mostra l'enorme gimnàs interior de l'escola, que exhibeix una paleta d'inspiració brutalista de **bigues i parets de formigó vist**. Les composicions emmarquen els imponents volums de doble alçada, mostrant com les elevades quadrícules dels grans finestrals omplen les superfícies de formigó en brut amb una llum diürna suau i uniforme. Cada enquadrament d'aquesta galeria institucional manté una estricta **alineació ortogonal**, mantenint els alts pilars, les tanques metàl·liques i les juntes de les finestres perfectament verticals. Aquesta col·lecció proporciona un arxiu visual durador i d'alta fidelitat de la contribució d'EMBA a les obres públiques i al disseny educatiu progressiu a Catalunya.

@@ -60,4 +60,24 @@ images:
         name: "IES Fontajau - Estudi Massip-Bosch Arquitectes"
 ---
 
-Institut d'Educació Secundària a Fontajau, Girona. Arquitectura: [EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)
+## Fotografia d'arquitectura educativa: IES Fontajau per EMBA
+
+Aquesta mostra de fotografia arquitectònica documenta la moderna estructura del **IES Fontajau**, un institut públic d'educació secundària al barri de Fontajau, a Girona. Dissenyat per **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, sota la direcció d'Enric Massip-Bosch, aquest edifici educatiu és un estudi magistral de disseny institucional contemporani.
+
+La sessió fotogràfica es cendra en com l'arquitectura pública pot fomentar un entorn d'aprenentatge inspirador a través de geometries estructurals netes, grans finestrals i recorreguts comunitaris integrats.
+
+### Capturant geometries exteriors elegants i integració urbana
+
+La fotografia d'arquitectura d'exteriors emfatitza la notable presència volumètrica de l'edifici i la seva relació amb el paisatge públic de Girona.
+
+* **Fatxades minimalistes i elegants:** Les composicions aprofiten línies de perspectiva horitzontals i verticals nítides, emmarcant els nets panells exteriors i les enormes obertures de vidre sota una llum diürna lluminosa.
+* **Enquadrament conceptual:** En lloc d'aïllar l'edifici, les imatges situen la fatxada de l'escola al costat d'arbres i detalls a nivell de carrer, com ara motocicletes aparcades. Això integra l'estructura dins del context actiu de la seva comunitat.
+
+### Documentant interiors educatius lluminosos i funcionals
+
+Fotografiar espais institucionals interiors exigeix equilibrar el volum espacial amb els materials funcionals utilitzats en la vida estudiantil diària.
+
+* **El gimnàs volumètric:** Una seqüència clau captura l'expansiu gimnàs de l'escola. Els enquadraments de gran angular emfatitzen la planta oberta de doble alçada i el vibrant paviment multiesportiu. Una quadrícula de finestres articula la composició i mostra com el disseny omple l'espai atlètic amb una llum suau i difusa.
+* **L'entorn de les aules modernes:** A l'interior de les aules, la fotografia canvia cap a una atmosfera tranquil·la i contemplativa. Els enquadraments capturen files de pupitres i cadires de fusta, amb grans pissarres al fons. Les exposicions, mesurades meticulosament, mostren com entra la llum natural a través de les finestres enretirades, reduint les ombres dures i preservant un ambient acadèmic concentrat.
+
+Aquesta peça de portafoli arquitectònic proporciona un arxiu visual d'excel·lència en obra pública i planificació espacial educativa innovadora a Catalunya.

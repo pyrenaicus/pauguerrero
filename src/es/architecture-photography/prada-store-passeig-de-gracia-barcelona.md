@@ -85,4 +85,22 @@ images:
         name: "Prada Store"
 ---
 
-Tienda Prada en el Paseo de Gracia de Barcelona.
+## Fotografía de arquitectura comercial de lujo: Tienda insignia de Prada en Passeig de Gràcia
+
+Esta serie de fotografía de interiores comerciales documenta la tienda insignia de Prada en el prestigioso **Passeig de Gràcia de Barcelona**. Como uno de los espacios de retail de lujo más significativos de la ciudad, el lugar ejemplifica cómo la arquitectura histórica europea puede adaptarse para albergar entornos contemporáneos de alta costura.
+
+La sesión fotográfica captura meticulosamente la gran escala, las proporciones simétricas y los detalles materiales identitarios que definen la identidad visual de Prada en el interior de esta tienda insignia.
+
+### Documentando la materialidad icónica y la distribución espacial de Prada
+
+La narrativa visual de esta sesión fotográfica en la tienda insignia se centra en la rigurosa y elegante paleta de materiales comisariada por el equipo de diseño interno de la marca.
+
+* **El mármol verde identitario:** Una característica definitoria de la arquitectura interior es el uso extensivo de paredes de **mármol verde** profundo y pulido. La fotografía aprovecha una iluminación arquitectónica suave y difusa para resaltar el veteado intenso y las ricas texturas de la piedra, asegurando que funcione como un fondo imponente pero sofisticado para las colecciones.
+* **Pavimentos geométricos y perspectiva:** La boutique cuenta con series de pavimentos clásicos en damero blanco y negro junto con moquetas mullidas de tonos pálidos. Las composiciones utilizan perspectivas bajas y equilibradas para capturar estos patrones del suelo como fuertes líneas de fuga, guiando la mirada del espectador a través de la serie de accesos monumentales y salones de lujo interconectados.
+* **Simetría y equilibrio en la exhibición:** Sistemas de estanterías de metal negro elegante y minimalista junto con espejos pulidos revisten las paredes. El encuadre enfatiza la simetría absoluta de estos exhibidores a medida, documentando cómo las prendas de alta costura, los bolsos de lujo y los accesorios se presentan como piezas de arte altamente seleccionadas dentro del espacio.
+
+### Dominio técnico en interiores comerciales de alta gama
+
+Fotografiar una tienda de lujo de clase mundial requiere gestionar una compleja red de desafíos técnicos.
+
+Las composiciones se apoyan en una impecable **alineación ortogonal** para mantener los techos altos, las columnas estructurales y los amplios accesos perfectamente verticales y fieles al plano del arquitecto. Controlar los intensos reflejos de los espejos sobredimensionados, las vitrinas de vidrio y las superficies de mármol brillante exigió un posicionamiento de la cámara ultrapreciso y técnicas avanzadas de polarización. Al equilibrar los focos de luz cálidos y dirigidos al producto con la luz ambiental más fresca que fluye desde la entrada de Passeig de Gràcia, este portafolio arquitectónico preserva con éxito la atmósfera inmersiva y de alta gama que define la experiencia de compra en Prada.

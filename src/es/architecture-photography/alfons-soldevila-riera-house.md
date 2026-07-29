@@ -58,4 +58,22 @@ images:
         name: "Casa Riera - Alfons Soldevila"
 ---
 
-Prototipo MR6 de vivienda experimental, construida en 1984. Badalona. Arquitectura: Alfons Soldevila y Josep Ignasi de Llorens.
+## Fotografía de arquitectura residencial: Casa Riera de Alfons Soldevila
+
+Esta serie de fotografía de arquitectura residencial documenta la pionera **Casa Riera**, un prototipo de vivienda experimental diseñado por **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** en colaboración con **Josep Ignasi de Llorens**. Construida cerca de Barcelona como un estudio emblemático de eficiencia estructural e independencia material, esta vivienda cuestiona las distribuciones domésticas tradicionales. Prioriza la flexibilidad, la adaptación al entorno y la honestidad estructural por encima de la ornamentación convencional.
+
+La sesión fotográfica se centra en documentar la materialidad de corte industrial, los cambios de luz y la geometría espacial en niveles divididos de este innovador diseño residencial.
+
+### Documentando texturas experimentales y profundidad volumétrica
+
+La narrativa visual de esta sesión arquitectónica de interior captura la Casa Riera como un sistema hermoso y funcional en el que los materiales de construcción en bruto se alinean con el resultado arquitectónico.
+
+* **Volúmenes interiores en niveles divididos:** La arquitectura interior de la Casa Riera se articula en torno a una distribución abierta de varios niveles que maximiza las líneas de visión verticales. La fotografía utiliza un encuadre cálido y de luz tenue para enfatizar la atmósfera contemplativa de los **espacios de madera a distintos niveles**. Al posicionar la cámara a lo largo de las barandillas y plataformas del altillo de madera, las imágenes muestran cómo fluyen las zonas de estar entre sí sin necesidad de pesados tabiques divisorios.
+* **La cruda honestidad de los materiales:** Uno de los enfoques principales de la serie es la mezcla sin tapujos de materiales de construcción en bruto de la Casa Riera, combinando ricas maderas estructurales con mampostería vista y elementos de bloques de mortero. Las exposiciones se miden con precisión para capturar los detalles táctiles en contraste entre la veta suave y lineal de las tablas del suelo y las cuadrículas frías y texturizadas de los bloques de hormigón.
+* **Filtrado de luz atmosférica:** La Casa Riera gestiona la luz con una contención poética, filtrándola hacia un santuario meditativo y suavemente iluminado. Las fotografías muestran cómo la suave luz natural cae en cascada desde aberturas estratégicas, proyectando sombras geométricas largas y profundas que enfatizan la profundidad estructural.
+
+### Un marco técnico para portafolios de arquitectura experimental
+
+Documentar un edificio experimental requiere una estructura compositiva disciplinada que replique el rigor arquitectónico de sus creadores. Cada fotografía de esta galería está compuesta mediante una estricta **alineación ortogonal**, manteniendo perfectamente rectos los postes vistos, las vigas y las estructuras ligeras de madera, y libres de la distorsión de los objetivos gran angular.
+
+Al equilibrar la sutil luz ambiental interior con la iluminación natural que se filtra a través de la envolvente, esta pieza de portafolio arquitectónico preserva un registro visual de alta fidelidad del legado de Alfons Soldevila en el diseño residencial sostenible e innovador en Cataluña.

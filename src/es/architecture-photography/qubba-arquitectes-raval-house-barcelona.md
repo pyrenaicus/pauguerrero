@@ -68,4 +68,22 @@ images:
         name: "Vivienda en el Raval - Qubba arquitectes"
 ---
 
-Rehabilitación de una vivienda del siglo XIX en el barrio del Raval de Barcelona. Arquitectura: [Qubba Arquitectes](https://qubba.net)
+## Fotografía de arquitectura de interiores: Casa Raval por Qubba Arquitectes
+
+Esta serie de fotografía de interiores residenciales documenta la restauración y renovación de un **piso del siglo XIX** en el vibrante e histórico barrio de **El Raval de Barcelona. Diseñado por** **[Qubba Arquitectes](https://qubba.net)**, el proyecto aporta funcionalidad moderna a una estructura con siglos de historia.
+
+La sesión fotográfica captura el diálogo entre los elementos históricos catalanes preservados y las actualizaciones de diseño minimalista, mostrando cómo la artesanía puede coexistir con la vida metropolitana contemporánea.
+
+### Documentando detalles patrimoniales: Baldosas geométricas y vigas ornamentadas
+
+La narrativa visual de esta sesión de diseño de interiores se centra en las texturas estructurales originales, la profundidad espacial y una paleta de materiales muy cuidada.
+
+* **Pavimento hidráulico clásico:** Un enfoque central de las imágenes son las llamativas **baldosas geométricas del suelo**, que presentan intrincados patrones a lo largo de toda la vivienda. Las composiciones emplean constantemente una línea de horizonte baja, guiando la mirada a través de estas cuadrículas geométricas y mostrando cómo definen el carácter de cada habitación.
+* **Estructuras de techos ornamentadas:** Mirando hacia arriba, el piso cuenta con **vigas de madera en el techo** meticulosamente restauradas. La fotografía utiliza exposiciones equilibradas y difusas para iluminar su profundidad, tallas y rico veteado, estableciendo un marco rústico que ancla los tabiques blancos y limpios situados debajo.
+* **Flujo espacial minimalista:** Las puertas de madera originales, parcialmente abiertas, se utilizan compositivamente para fragmentar los encuadres, construyendo una sensación de misterio y profundidad espacial que guía al espectador de una habitación a otra.
+
+### Capturando la cocina moderna y soleada
+
+En el corazón de la vivienda, una cocina brillante y moderna se integra en la estructura histórica. La fotografía destaca una isla de cocina elegante diseñada a medida y una **mesa de trabajo minimalista** con acabados limpios de madera. Al equilibrar la cálida luz solar de los balcones tradicionales con las superficies frías de los electrodomésticos modernos, las fotografías muestran cómo Qubba Arquitectes transformó las habitaciones oscuras y segmentadas del siglo XIX en un espacio de cocina fluido, ventilado y lleno de luz.
+
+Cada toma mantiene líneas verticales precisas y un riguroso encuadre ortogonal, asegurando que los detalles históricos se muestren con la máxima claridad y fidelidad arquitectónica.

@@ -48,4 +48,22 @@ images:
         name: "Parque de la Foneria - Isidre Santacreu"
 ---
 
-Parque de la Foneria en Sant Vicenç dels Horts, Barcelona. Arquitectura y paisaje: [Isidre Santacreu](https://www.santacreu-moliner.com).
+## Fotografía de arquitectura del paisaje: Parque de la Foneria
+
+Este porfolio arquitectónico de exteriores documenta el **Parque de la Foneria**, un espacio verde público cuidadosamente diseñado en **Sant Vicenç dels Horts, Barcelona**. El arquitecto paisajista [Isidre Santacreu](https://www.santacreu-moliner.com) diseñó el proyecto, que destaca el papel de la infraestructura civil moderna en la creación de ecosistemas urbanos centrados en la comunidad.
+
+La sesión fotográfica captura el equilibrio fluido entre el paisajismo natural, los caminos peatonales pavimentados y las instalaciones arquitectónicas funcionales.
+
+### Capturando áreas verdes urbanas y elementos estructurales
+
+La narrativa visual de este portafolio de fotografía de arquitectura del paisaje se centra en la distribución espacial, la interacción de materiales y el equilibrio ambiental dentro de los parques públicos.
+
+* **Caminos pavimentados simétricos:** La distribución del parque se basa en amplios caminos pavimentados que trazan líneas limpias a través de los prados de césped y los jóvenes bosquetes de árboles. La fotografía utiliza encuadres de gran angular y fuertes líneas de fuga para recorrer estas rutas, mostrando cómo los senderos dirigen el movimiento a través del parque.
+* **Pérgolas geométricas y muros verdes:** Un elemento destacado del diseño es la instalación de **pérgolas metálicas** minimalistas que sirven de soporte a plantas trepadoras. Las composiciones enmarcan estas rejillas contra el cielo, mostrando cómo las estructuras de acero pueden fundirse con el verdor orgánico para proporcionar sombra y privacidad.
+* **Infraestructura pública de hormigón y metal:** La sesión fotográfica destaca un pabellón público central con una estructura de hormigón, pesadas barandillas industriales y vibrantes **muros de acento amarillos**. Las fotografías utilizan ángulos audaces para enfatizar este volumen estructural, contrastando los materiales industriales duros con las texturas suaves de los bancos del parque y la vegetación cercana.
+
+### Precisión técnica en sesiones de arquitectura de exteriores
+
+Fotografiar parques públicos expansivos y arquitectura del paisaje implica una planificación cuidadosa en torno a la luz diurna y los puntos de fuga.
+
+Para respetar el plano de diseño civil de Isidre Santacreu, las fotografías están compuestas con una estricta alineación vertical, manteniendo perfectamente rectos los pilares metálicos, las escaleras y las barandillas estructurales. La exposición está calibrada para equilibrar el cielo abierto con las texturas del césped, la piedra pavimentada y los volúmenes de hormigón, logrando un resultado de alto contraste pero detallado. Esta serie proporciona un archivo visual profesional que resalta cómo el diseño de paisaje contemporáneo revitaliza los espacios comunitarios suburbanos en Cataluña.

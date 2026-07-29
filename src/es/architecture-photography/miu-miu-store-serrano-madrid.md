@@ -64,4 +64,22 @@ images:
         name: "Miu Miu Store, Madrid"
 ---
 
-Tienda Miu Miu en la calle Serrano de Madrid.
+## Fotografía de arquitectura comercial de lujo: Miu Miu en la Calle de Serrano, Madrid
+
+Esta colección de fotografía de interiores comerciales documenta la tienda insignia de **Miu Miu en la Calle de Serrano**, en el exclusivo distrito de Salamanca de Madrid. Las imágenes presentan la tienda como una clara expresión de la identidad vanguardista y experimental de la marca, así como de su posicionamiento en la alta costura.
+
+La sesión fotográfica captura las distribuciones espaciales inmersivas y las texturas hiperespecíficas que definen la identidad arquitectónica de Miu Miu, ofreciendo al cliente un registro preciso del lenguaje de diseño de la boutique.
+
+### Documentando interiores en azul monocromático y el damasco identitario
+
+La narrativa visual de esta sesión fotográfica en la boutique de gama alta se centra en un lenguaje de diseño audaz y monocromático que comunica la identidad de retail de lujo de la tienda.
+
+* **La paleta identitaria en azul claro:** A diferencia de los entornos comerciales neutros habituales, esta tienda insignia está completamente bañada en la icónica **gama cromática monocromática en azul claro** de Miu Miu. Las paredes, los techos, la moqueta y el mobiliario a medida comparten este tono singular y vibrante. La fotografía se apoya en una calibración precisa del balance de blancos para preservar la riqueza y la verdadera fidelidad de este azul específico, evitando cualquier desviación cromática no deseada bajo los focos interiores.
+* **Revestimientos táctiles de tela de damasco:** Las paredes de la boutique y las estructuras centrales de exhibición están envueltas en un lujoso **tejido de damasco** de patrones densos. Las exposiciones arquitectónicas de interior se miden minuciosamente para resaltar la profunda cualidad táctil y los intrincados patrones tejidos de este papel pintado textil, mostrando cómo el motivo clásico añade profundidad física y ritmo geométrico a las salas.
+* **Contraste y profundidad reflejada:** Percheros de latón pulido, estantes de exhibición de vidrio flotante y espejos puntúan los entornos de tejido azul. Las composiciones utilizan estas superficies reflectantes para construir capas complejas de líneas de visión, contrastando las rejillas metálicas duras y modernas con los mullidos y acogedores sofás azules dispuestos a lo largo de los salones centrales.
+
+### Precisión técnica en el distrito del retail de lujo de Madrid
+
+Fotografiar una tienda insignia en una arteria comercial tan prominente como la calle Serrano requiere una ejecución técnica rigurosa.
+
+Cada encuadre está tomado utilizando una impecable **alineación ortogonal** para mantener los pilares estructurales, los huecos de las paredes y los accesos perfectamente verticales y fieles al plano del diseñador. Gestionar el intenso brillo de los espejos sobredimensionados y las vitrinas de vidrio, al tiempo que se equilibran las redes de iluminación interna de la tienda, mantiene las colecciones de marroquinería de lujo, calzado y prêt-à-porter nítidas y claras. Esta colección funciona como un archivo visual de primera calidad, mostrando cómo Miu Miu integra los códigos históricos de la moda con una arquitectura interior moderna y experiencial.

@@ -82,4 +82,22 @@ images:
         name: "Vivienda en Sant Antoni - Qubba arquitectes"
 ---
 
-Rehabilitación de un piso en la calle Sant Antoni de Barcelona. Arquitectura: [Qubba Arquitectes](https://qubba.net)
+## Fotografía de arquitectura de interiores: Casa Sant Antoni por Qubba Arquitectes
+
+Este proyecto de fotografía de interiores residenciales muestra la conversión de un piso en la **Calle de Sant Antoni, Barcelona**. Diseñado por **[Qubba Arquitectes](https://qubba.net)**, el espacio reimagina la vida estudiantil urbana al transformar una distribución residencial compacta en un hogar luminoso, colaborativo y altamente funcional para dos estudiantes.
+
+La sesión fotográfica destaca las transiciones de diseño nítidas, las texturas gráficas lúdicas y los contrastes de materiales que definen esta renovación de apartamento contemporáneo.
+
+### Capturando ritmos geométricos y materiales de acento
+
+La narrativa visual de esta sesión fotográfica de diseño de interiores enfatiza la combinación cohesiva de características estructurales históricas y elementos limpios y modernos.
+
+* **La huella gráfica:** Un anclaje definitorio de los espacios de vida compartidos son las llamativas **baldosas ajedrezadas en blanco y negro del suelo**. La fotografía utiliza una vista de ángulo bajo para maximizar la perspectiva de esta cuadrícula gráfica, guiando la mirada de forma natural desde la entrada a través de las zonas principales de comedor y cocina.
+* **Materialidad textural:** Cálidas y rústicas **vigas de madera vista** revisten los techos, proporcionando un marco histórico que equilibra los armarios blancos, limpios y modernos, y las encimeras de madera natural. Este contraste se realza mediante detalles de ladrillo blanco texturizado en las paredes, aportando profundidad arquitectónica a los planos verticales.
+* **Bloques de color vibrantes:** En la cocina, un atrevido salpicadero de **paredes de azulejos verde azulado** inyecta un carácter juvenil y energético al espacio. Las exposiciones se calibran cuidadosamente para capturar el acabado brillante de los azulejos coloridos frente a las superficies mates de los elementos de la cocina.
+
+### Gestionando la profundidad visual y la luz residencial
+
+Fotografiar viviendas de estudiantes y apartamentos de uso múltiple requiere capturar la amplitud dentro de límites estructurados. Para mostrar el flujo entre las habitaciones, las composiciones destacan las elegantes **puertas** con paneles de vidrio del apartamento. Al disparar a través de estos marcos transparentes, las imágenes documentan cómo se filtra la luz a través de las habitaciones mientras se mantienen líneas de visión largas y claras que hacen que todo el apartamento se sienta más espacioso.
+
+Una estricta alineación vertical y elecciones de objetivos precisas preservan la geometría de la carpintería a medida y las intersecciones de las habitaciones, ofreciendo un archivo visual profesional y de alta fidelidad para el portafolio de Qubba Arquitectes.

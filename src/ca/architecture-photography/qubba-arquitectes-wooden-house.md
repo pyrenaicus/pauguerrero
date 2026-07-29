@@ -89,4 +89,22 @@ images:
         name: "Casa de fusta - Qubba arquitectes"
 ---
 
-Casa de fusta transportable per a una parella. Arquitectura: [Qubba Arquitectes](https://qubba.net)
+## Fotografia d'arquitectura d'exteriors: La Casa de Fusta per Qubba Arquitectes
+
+Aquesta sèrie de fotografia arquitectònica residencial documenta la **Casa de Fusta**, una sorprenent llar contemporània dissenyada per l'innovador estudi **[Qubba Arquitectes](https://qubba.net)**. Allunyant-se de l'obra de paleta urbana tradicional, el projecte abraça la construcció ecològica i les formes estructurals minimalistes, oferint un estudi sobre com els elements de fusta natural s'integren en el disseny del paisatge modern.
+
+La sessió fotogràfica destaca les línies geomètriques nítides, les transicions de volum i les qualitats tàctils de l'arquitectura residencial sostenible.
+
+### Documentant volums geomètrics i revestiments de fusta
+
+La narrativa visual d'aquesta sessió d'arquitectura d'exteriors es cendra en la forma estructural, l'honestedat material i la interacció de la llum natural amb les superfícies orgàniques.
+
+- **Composició de doble volum:** La casa està dividida estructuralment en dos cossos o volúmens diferents que s'intersecten, cadascun rematat amb una teulada neta de pendent inclinada. La fotografia utilitza enquadraments precisos de gran angular per emfatitzar aquest joc geomètric, capturant com les dues estructures s'equilibren entre si alhora que defineixen l'espai exterior circumdant.
+- **La textura de la fusta natural:** Un element definitori de la llar és el seu extens **revestiment exterior de fusta**. Les exposicions fotogràfiques es calculen curosament per emfatitzar la veta fina, els tons canviants i el ritme lineal dels panells de fusta. En capturar la fatxada des de diferents angles al llarg del dia, les imatges il·lustren com la llum del sol projecta ombres geomètriques canviants sobre la fusta, dotant l'edifici d'un caràcter dinàmic i viu.
+- **Obertures espacials minimalistes:** Finestres estratègicament col·locades perforen les superfícies blanques i netes i els marcs de fusta. La composició enmarca aquestes obertures per mostrar com l'interior minimalista es connecta amb la fatxada exterior, mantenint la privadesa alhora que es maximitza la llum natural.
+
+### Un enfocament tècnic precís per a espais exteriors
+
+Fotografiar estructures residencials modernes i aïllades requereix un ull agut per als punts de fuga i l'harmonia ambiental.
+
+Les línies verticals estan estrictament alineades en cada enquadrament per evitar distorsions no desitjades en les línies de les cobertes inclinades i els volúmens estructurals. En calibrar el cel brillant del dia amb els tons càlids i orgànics de la fatxada de fusta, aquesta peça del portafoli de fotografia arquitectònica arxiva netament el domini de Qubba Arquitectes en la forma urbana sostenible i el disseny contemporani de volúmens residencials.

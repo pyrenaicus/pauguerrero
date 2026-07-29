@@ -72,4 +72,22 @@ images:
         name: "Casa Mas Ram - Alfons Soldevila"
 ---
 
-Prototipo de vivienda MR-1, construida el año 1971 en Badalona. La primera de una serie de prototipos experimentales de vivienda. Arquitectura: Alfons Soldevila, Josep Maria Massot y Miguel Donada.
+## Fotografía de arquitectura residencial: Casa Mas Ram (Prototipo MR-1)
+
+Esta serie de fotografía arquitectónica de interiores y exteriores documenta la **Casa Mas Ram**, también conocida como el **[Prototipo de Vivienda Experimental MR-1](https://www.arquitecturacatalana.cat/en/works/cases-mr1)**. Construida en 1971 en **Badalona, Barcelona**, esta residencia fue diseñada por el arquitecto **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** junto a sus colaboradores **Josep Maria Massot** y **Miguel Donada**. Adelantada a su tiempo en arquitectura residencial sostenible y energéticamente eficiente, la vivienda es un estudio de flexibilidad espacial, economía de materiales y optimización estructural.
+
+La sesión fotográfica destaca el contenedor geométrico de la casa, su distribución multinivel y la cualidad táctil de sus materiales en bruto como los elementos clave de este emblemático prototipo experimental de mediados de siglo.
+
+### Documentando el volumen vertical, la madera ligera y los bloques de mortero
+
+La narrativa visual de esta sesión residencial experimental se centra en un hogar construido en torno a conexiones espaciales fluidas y métodos de construcción honestos.
+
+* **El contenedor de 4x16 metros:** La casa se estructura como un volumen rectangular alargado, intencionadamente más alto que ancho. La fotografía utiliza encuadres verticales y ángulos en niveles divididos para mostrar esta profundidad, capturando cómo las salas de estar, los dormitorios y el espacio de trabajo se apilan y conectan a diferentes alturas sin paredes divisorias rígidas.
+* **Honestidad en los materiales estructurales:** Un enfoque primordial de las imágenes de interior son los **bloques de mortero Ytong** en bruto utilizados para los muros de 20 cm de espesor, que sirven como estructura, aislamiento térmico y acabado final. Las exposiciones de la cámara resaltan la textura de la mampostería y los cinturones estructurales horizontales que sostienen el contenedor.
+* **Interiores ligeros de estilo naval:** Los sistemas de forjado son plataformas de madera ligera, de solo 2,5 cm de espesor, que funcionan tanto como acabado de suelo como de techo. Las composiciones enfatizan estos planos delgados, las escaleras de madera y los pasos abiertos, enmarcando un interior que se abre de forma natural hacia el jardín y hacia la terraza de un estudio subterráneo diseñada como captador solar.
+
+### Capturando el diseño sostenible pionero con rigor técnico
+
+Fotografiar esta estructura experimental integrada en la naturaleza requiere gestionar una combinación compleja de texturas orgánicas y valores de luz cambiantes. Los encuadres de la arquitectura exterior capturan el edificio envuelto en plantas trepadoras, mostrando cómo la vivienda se funde con su entorno natural en la colina de Badalona.
+
+En el interior, la **alineación ortogonal** mantiene perfectamente verticales las paredes continuas de bloques de mortero y los postes ligeros de madera, evitando la distorsión del objetivo gran angular en una superficie tan estrecha. Al equilibrar la luz solar brillante que entra por las grandes aberturas acristaladas con acabados interiores cálidos y muy personales —decorados con planos históricos, dibujos familiares y carteles—, la fotografía crea un archivo visual claro que honra el legado de Alfons Soldevila en el diseño residencial con conciencia ecológica en Cataluña.

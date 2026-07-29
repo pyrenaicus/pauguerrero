@@ -58,4 +58,22 @@ images:
         name: "Conjunto Residencial La Muntanyeta - Alfons Soldevila"
 ---
 
-Una de las seis casas del Conjunto Residencial La Muntanyeta, construidas el año 1979 en Matadepera, Barcelona. Arquitectura: Alfons Soldevila y Josep Ignasi de Llorens.
+## Fotografía de arquitectura residencial: Casa La Muntanyeta de Alfons Soldevila
+
+Esta colección de fotografía arquitectónica de exteriores e interiores documenta una vivienda en el **[Complejo Residencial La Muntanyeta](https://www.arquitecturacatalana.cat/en/works/conjunt-dhabitatges-la-muntanyeta)**, un grupo fundamental de seis viviendas construido en 1979 en **Matadepera, Barcelona**. Diseñado por la influyente pareja de arquitectos **[Alfons Soldevila](https://www.alfonssoldevila.cat/)** y **Josep Ignasi de Llorens**, este proyecto funciona como un modelo de claridad estructural junto con independencia material.
+
+La sesión fotográfica se centra en una distribución modular y altamente flexible en la que cada elemento físico opera de manera autónoma, sin capas decorativas gratuitas.
+
+### Documentando la modulación del hormigón visto y las estructuras expuestas
+
+La narrativa visual de esta sesión en la promoción residencial se centra en la honestidad estructural, los patrones geométricos y los materiales industriales en bruto dentro de un entorno doméstico.
+
+* **Muros de bloques de hormigón visto:** La columna vertebral del diseño del complejo es la estricta modulación de **bloques de hormigón visto**. La fotografía utiliza una luz solar rasante y nítida para resaltar la textura rugosa y porosa de la mampostería, enfatizando las juntas rítmicas que dan su identidad estructural a las fachadas de las viviendas unifamiliares en hilera de dos plantas.
+* **Instalaciones y servicios a la vista:** En un giro radical que se aleja de los sistemas de vivienda ocultos tradicionales, los conductos eléctricos y de fontanería permanecen **visibles en las paredes**. Las composiciones enmarcan estos recorridos lineales como líneas arquitectónicas gráficas que refuerzan la geometría de las habitaciones.
+* **Autonomía volumétrica:** Las imágenes destacan una de las seis casas como un volumen limpio e independiente. El encuadre gran angular captura la perspectiva escalonada de las unidades adosadas a medida que se adaptan a la topografía local de Matadepera.
+
+### Precisión técnica en portafolios de tendencia brutalista
+
+Fotografiar una estructura modular y en bruto de finales de la década de 1970 requiere un ojo agudo para la alineación y el contraste. Dado que el lenguaje del diseño se articula en torno a la geometría precisa de los bloques de hormigón, las fotografías están tomadas con una estricta **alineación ortogonal**. Esto mantiene perfectamente verticales todas las esquinas, ventanas y pilares vistos, evitando la distorsión del objetivo gran angular.
+
+Al calibrar cuidadosamente la exposición para equilibrar el brillante cielo catalán con las sombras profundas y texturizadas que proyectan los accesos retranqueados, esta pieza de portafolio ofrece un archivo pulido y de alta fidelidad que honra el legado experimental y funcionalista de Alfons Soldevila y Josep Ignasi de Llorens.

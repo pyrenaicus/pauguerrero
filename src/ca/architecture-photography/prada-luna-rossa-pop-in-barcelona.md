@@ -95,4 +95,20 @@ images:
         name: "Prada Luna Rossa Pop-in"
 ---
 
-Luna Rossa Pop-In a la botiga Prada de Passeig de Gràcia, Barcelona.
+## Prada’s Luna Rossa Pop-In al Passeig de Gràcia
+
+Aquesta sèrie de fotografia arquitectònica documenta la instal·lació **Prada Luna Rossa Pop-in** a la botiga insígnia de la marca de luxe al **Passeig de Gràcia de Barcelona**. Programat per coincidir amb la **37a Copa Amèrica**, aquest disseny espacial temporal fusiona l'estètica de la vela d'alt rendiment amb l'icònic llenguatge de disseny de retail de luxe de Prada.
+
+### La interacció entre el luxe i el disseny d'alt rendiment
+
+La narrativa visual d'aquesta sessió fotogràfica comercial d'interior es cendra en un contrast sorprenent de materials. Els elements arquitectònics identitaris de Prada —en particular les parets de **marbre verd polit** i una il·luminació ambiental suau i difusa— serveixen com un fons ric i atemporal per a les característiques marcades i industrials de la col·lecció de vela esportiva Luna Rossa.
+
+Estructures de **prestatgeries metàl·liques** elegants i minimalistes allotgen peces de roba grises contemporànies i sabatilles de disseny, imposant una quadrícula geomètrica nítida sobre el vetejat orgànic del marbre. Les taules d'exhibició centrals de vidre compten amb calaixos d'acer integrats que mostren la col·laboració tècnica entre Prada i Pirelli. Mentrestant, una gran vitrina de vidre flotant tanca un maniquí amb equipació de curses aerodinàmica i un casc de vela, presentant la roba esportiva d'alt rendiment com a peces de belles arts.
+
+### Enfocament fotogràfic: Enquadrant la profunditat espacial i la materialitat
+
+Documentar espais comercials de luxe de gamma alta requereix una calibració rigorosa de la geometria, la perspectiva i la gestió dels reflexos.
+
+* **Control dels reflexos:** Amb l'abundància d'exhibidors de vidre, metall polit i miralls expansius, els angles es van triar curosament per gestionar les brillantors i utilitzar els reflexos naturals de manera constructiva, revelant la profunditat espacial i el flux entre els espais adjacents.
+* **Integritat material:** Les exposicions es calculen en funció del canvi tàctil entre el luxe fred i suau de la pedra polida i els teixits tècnics mats de l'equipació de vela de rendiment.
+* **Alineació geomètrica:** Mitjançant l'ús de línies verticals netes i un enquadrament arquitectònic precís, les imatges retraten tant la gran escala de la distribució de la boutique de luxe com els detalls meticulosos dels exhibidors a mida, preservant un registre visual complet d'aquesta exposició transitòria.

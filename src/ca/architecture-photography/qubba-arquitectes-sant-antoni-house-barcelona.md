@@ -82,4 +82,22 @@ images:
         name: "Habitatge a Sant Antoni - Qubba arquitectes"
 ---
 
-Rehabilitació d'una vivenda al carrer Sant Antoni de Barcelona. Arquitectura: [Qubba Arquitectes](https://qubba.net)
+## Fotografia d'arquitectura d'interiors: Casa Sant Antoni per Qubba Arquitectes
+
+Aquest projecte de fotografia d'interiors residencials mostra la conversió d'un pis al **Carrer de Sant Antoni, Barcelona**. Dissenyat per **[Qubba Arquitectes](https://qubba.net)**, l'espai reimagina la vida estudiantil urbana en transformar una distribució residencial compacta en una llar lluminosa, col·laborativa i altament funcional per a dos estudiants.
+
+La sessió fotogràfica destaca les transicions de disseny nítides, les textures gràfiques lúdiques i els contrasts de materials que defineixen aquesta renovació d'apartament contemporani.
+
+### Capturant ritmes geomètrics i materials d'accent
+
+La narrativa visual d'aquesta sessió fotogràfica de disseny d'interiors emfatitza la combinació cohesiva de característiques estructurals històriques i elements nets i moderns.
+
+* **L'petjada gràfica:** Un ancoratge definitori dels espais de vida compartits són les cridaneres **rajoles escaquejades en blanc i negre del terra**. La fotografia utilitza una vista d'angle baix per maximitzar la perspectiva d'aquesta quadrícula gràfica, guiant la mirada de forma natural des de l'entrada a través de les zones principals de menjador i cuina.
+* **Materialitat textural:** Càlides i rústiques **bigues de fusta vista** revesteixen els sostres, proporcionant un marc històric que equilibra els armaris blancs, nets i moderns, i els taulers de cuina de fusta natural. Aquest contrast es realça mitjançant detalls de totxo blanc texturitzat a les parets, aportant profunditat arquitectònica als plans verticals.
+* **Blocs de color vibrants:** A la cuina, un atrevit frontal de **parets de rajoles verd-blaves** injecta un caràcter juvenil i energètic a l'espai. Les exposicions es calculen curosament per capturar l'acabat brillant de les rajoles colorides davant de les superfícies mates dels elements de la cuina.
+
+### Gestionant la profunditat visual i la llum residencial
+
+Fotografiar habitatges d'estudiants i apartaments d'ús múltiple requereix capturar l'amplitud dins de límits estructurats. Per mostrar el flux entre les habitacions, les composicions destaquen les elegants **portes** amb panells de vidre de l'apartament. En disparar a través d'aquests marcs transparents, les imatges documenten com es filtra la llum a través de les habitacions mentre es mantenen línies de visió llargues i clares que fan que tot l'apartament se senti més espaiós.
+
+Una estricta alineació vertical i eleccions d'objectius precises preserven la geometria de la fusteria a mida i les interseccions de les habitacions, oferint un arxiu visual professional i d'alta fidelitat per al portafoli de Qubba Arquitectes.

@@ -60,4 +60,24 @@ images:
         name: "IES Fontajau - Estudi Massip-Bosch Arquitectes"
 ---
 
-Instituto de Educación Secundaria en Fontajau, Girona. Arquitectura: [EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)
+## Fotografía de arquitectura educativa: IES Fontajau por EMBA
+
+Esta muestra de fotografía arquitectónica documenta la moderna estructura del **IES Fontajau**, un instituto público de educación secundaria en el barrio de Fontajau, en Girona. Diseñado por **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, bajo la dirección de Enric Massip-Bosch, este edificio educativo es un estudio magistral de diseño institucional contemporáneo.
+
+La sesión fotográfica se centra en cómo la arquitectura pública puede fomentar un entorno de aprendizaje inspirador a través de geometrías estructurales limpias, grandes ventanales y recorridos comunitarios integrados.
+
+### Capturando geometrías exteriores elegantes e integración urbana
+
+La fotografía de arquitectura de exteriores enfatiza la notable presencia volumétrica del edificio y su relación con el paisaje público de Girona.
+
+* **Fachadas minimalistas y elegantes:** Las composiciones aprovechan líneas de perspectiva horizontales y verticales nítidas, enmarcando los limpios paneles exteriores y las enormes aberturas acristaladas bajo una luz diurna diáfana.
+* **Encuadre contextual:** En lugar de aislar el edificio, las imágenes sitúan la fachada de la escuela junto a árboles y detalles a nivel de calle, como motocicletas aparcadas. Esto integra la estructura dentro del contexto activo de su comunidad.
+
+### Documentando interiores educativos luminosos y funcionales
+
+Fotografiar espacios institucionales interiores exige equilibrar el volumen espacial con los materiales funcionales utilizados en la vida estudiantil diaria.
+
+* **El gimnasio volumétrico:** Una secuencia clave captura el expansivo gimnasio de la escuela. Los encuadres de gran angular enfatizan la planta abierta de doble altura y el vibrante pavimento multideportivo. Una cuadrícula de ventanas articula la composición y muestra cómo el diseño llena el espacio atlético con una luz suave y difusa.
+* **El entorno de las aulas modernas:** En el interior de las aulas, la fotografía cambia hacia una atmósfera tranquila y contemplativa. Los encuadres capturan filas de pupitres y sillas de madera, con grandes pizarras en el fondo. Las exposiciones, medidas meticulosamente, muestran cómo entra la luz natural a través de las ventanas retranqueadas, reduciendo las sombras duras y preservando un ambiente académico concentrado.
+
+Esta pieza de portafolio arquitectónico proporciona un archivo visual de excelencia en obra pública y planificación espacial educativa innovadora en Cataluña.

@@ -95,4 +95,20 @@ images:
         name: "Prada Luna Rossa Pop-in"
 ---
 
-Luna Rossa Pop-in en la tienda Prada de Paseo de Gracia, Barcelona.
+## Prada’s Luna Rossa Pop-In en el Passeig de Gràcia
+
+Esta serie de fotografía arquitectónica documenta la instalación **Prada Luna Rossa Pop-in** en la tienda insignia de la marca de lujo en el **Passeig de Gràcia de Barcelona**. Programado para coincidir con la **37.ª Copa América**, este diseño espacial temporal fusiona la estética de la vela de alto rendimiento con el icónico lenguaje de diseño de retail de lujo de Prada.
+
+### La interacción entre el lujo y el diseño de alto rendimiento
+
+La narrativa visual de esta sesión fotográfica comercial de interior se centra en un sorprendente contraste de materiales. Los elementos arquitectónicos identitarios de Prada —en particular las paredes de **mármol verde pulido** y una iluminación ambiental suave y difusa— sirven como un fondo rico y atemporal para las características marcadas e industriales de la colección de vela deportiva Luna Rossa.
+
+Estructuras de **estanterías metálicas** elegantes y minimalistas albergan prendas grises contemporáneas y zapatillas de diseño, imponiendo una cuadrícula geométrica nítida sobre el veteado orgánico del mármol. Las mesas de exhibición centrales de vidrio cuentan con cajones de acero integrados que muestran la colaboración técnica entre Prada y Pirelli. Mientras tanto, una gran vitrina de vidrio flotante encierra un maniquí con equipación de carreras aerodinámica y un casco de vela, presentando la ropa deportiva de alto rendimiento como piezas de bellas artes.
+
+### Enfoque fotográfico: Enmarcando la profundidad espacial y la materialidad
+
+Documentar espacios comerciales de lujo de gama alta requiere una calibración rigurosa de la geometría, la perspectiva y la gestión de los reflejos.
+
+* **Control de los reflejos:** Dada la abundancia de exhibidores de vidrio, metal pulido y espejos expansivos, los ángulos se eligieron cuidadosamente para gestionar los brillos y utilizar los reflejos naturales de manera constructiva, revelando la profundidad espacial y el flujo entre los espacios adyacentes.
+* **Integridad material:** Las exposiciones se centran en el cambio táctil entre el lujo frío y suave de la piedra pulida y los tejidos técnicos mates de la equipación de vela de rendimiento.
+* **Alineación geométrica:** Mediante el uso de líneas verticales limpias y un encuadre arquitectónico preciso, las imágenes retratan tanto la gran escala de la distribución de la boutique de lujo como los detalles meticulosos de los exhibidores a medida, preservando un registro visual completo de esta exposición transitoria.

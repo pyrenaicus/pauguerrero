@@ -83,4 +83,22 @@ images:
         name: "Galería de arte Sala Parés"
 ---
 
-[Sala Parés](https://salapares.com), galería de art en Barcelona.
+## Fotografía de arquitectura cultural: Galería de Arte Sala Parés, Barcelona
+
+Este portafolio de interiores arquitectónicos presenta la **[Sala Parés](https://salapares.com)**, una institución cultural en el histórico **Barrio Gótico (Barri Gòtic)** de Barcelona. Fundada en 1877 como la primera galería de arte comercial en España, este emblemático espacio de la calle de Petritxol ha albergado a maestros que definieron a toda una generación, desde Ramon Casas hasta Pablo Picasso. Hoy en día, continúa su legado como un destino para la figuración contemporánea, el realismo y la abstracción.
+
+La sesión fotográfica muestra cómo la gran distribución arquitectónica del siglo XIX de la galería se ha adaptado para transformarse en un entorno sofisticado y lleno de luz para una exposición de bellas artes de alta calidad.
+
+### Documentando volúmenes patrimoniales, suelos de madera y exhibiciones de arte
+
+La narrativa visual de esta sesión fotográfica en la galería de arte captura la escala, la geometría limpia y la atmósfera serena y meditativa que se requiere en los espacios expositivos de clase mundial.
+
+* **Las texturas de la madera pulida:** Un anclaje visual central de la gran sala de exposiciones son los expansivos **suelos de madera pulida**. La fotografía aprovecha los tonos cálidos y la dirección lineal de los tablones de madera para guiar la mirada del observador de forma natural a través de la sala, capturando reflejos cenitales suaves que dotan al espacio de una dimensión conectada con el entorno y llena de vida.
+* **Escala monumental:** Un encuadre preciso de gran angular captura los techos altos y los tabiques blancos. Estos planos verticales neutros permiten que las pinturas contemporáneas de gran formato dominen la sala y muestran cómo la estructura histórica soporta una escala artística atrevida.
+* **Conexiones espaciales fluidas:** Los puntos de fuga profundos enmarcan los grandes accesos y muestran el flujo y las líneas de visión estructurales entre los distintos espacios de exhibición de la galería.
+
+### Precisión técnica en fotografía de museos y bellas artes
+
+Fotografiar una exposición activa de arte contemporáneo en un edificio histórico plantea complejas exigencias técnicas. Cada fotografía está compuesta con una alineación vertical, asegurando que los pilares estructurales, los accesos y los marcos de los lienzos se mantengan compositivamente fieles y libres de distorsión geométrica.
+
+Al calibrar las exposiciones para fusionar la sutil luz ambiental con los carriles de iluminación cenital especializados de la galería, la fotografía elimina por completo los brillos duros y los puntos de luz molestos sobre las obras de arte. Esto preserva los valores cromáticos auténticos, las pinceladas densas y las texturas táctiles del lienzo de las pinturas, ofreciendo un documento profesional e impecable que honra tanto la huella histórica de la Sala Parés como a los artistas contemporáneos expuestos en su interior.

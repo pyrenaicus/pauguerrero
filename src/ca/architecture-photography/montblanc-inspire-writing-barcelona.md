@@ -91,4 +91,17 @@ images:
         name: "Monblanc Inspire Writing - StudioXAG"
 ---
 
-Campanya d'aparadors [Inspire Writing](https://studioxag.com/work/inspire-writing/) dissenyada per [StudioXAG](https://studioxag.com) per a la botiga Montblanc de Passeig de Gràcia, Barcelona.
+## Fotografia de campanyes d'aparadors: Montblanc al Passeig de Gràcia
+
+Aquesta sèrie de fotografia comercial d'arquitectura i retail documenta la campanya global d'aparadors **“[Inspire Writing](https://studioxag.com/work/inspire-writing/)”** de Montblanc a la botiga insígnia de la marca al **Passeig de Gràcia de Barcelona**. Concebuda i dissenyada per l'agència creativa **[StudioXAG](https://studioxag.com)**, aquesta instal·lació temporal a la fatxada ret homenatge a les arts literàries i al llegat d'instruments d'escriptura de luxe de la marca a través d'una impactant exhibició gràfica i artística.
+
+### Capturant l'escaparatisme: Transicions de dia a nit
+
+Documentar aparadors de luxe requereix un enfocament fotogràfic especialitzat que honori la feina dels escaparatistes alhora que gestiona els reptes físics de la fotografia de fatxades a nivell de carrer.
+
+* **La narrativa artística:** La campanya utilitza un fons blau profund i vibrant adornat amb elegants patrons tipogràfics, formes artístiques fluides i símbols escultònics d'infinit en color negre. La fotografia captura com aquests elements personalitzats interactuen amb les bosses de pell de luxe, les maletes i els instruments d'escriptura identitaris de Montblanc, enquadrant-los com a punts focals dins d'un llenç artístic immersiu.
+* **Calibració de l'exposició de dia a nit:** Un element fonamental de aquesta sessió fotogràfica arquitectònica és el contrast entre la documentació diürna i nocturna. Els enquadraments diürns emfatitzen la nítida modernitat de la fatxada comercial i la geometria precisa dels tancaments dels aparadors. Les imatges nocturnes, per contra, aprofiten la il·luminació interior controlada. En calibrar la calidesa resplendent dels prestatges de productes amb els blaus freds i intensos dels fons d'exhibició, les fotografies capturen la presència dramàtica i d'alt contrast que la boutique projecta al carrer un cop s'ha fet fosc.
+
+### Gestionant els reflexos de l'aparador i la claredat
+
+Fotografiar exhibicions en aparadors de vidre en una avinguda tan transitada com el Passeig de Gràcia exigeix precisió tècnica. Les composicions s'angulen curosament per gestionar els reflexos públics, neutralitzant les brillantors molestes alhora que es preserva la llegibilitat neta dels rètols retroil·luminats de Montblanc i els exhibidors interns. Cada fotografia serveix com un arxiu visual d'alta fidelitat, mostrant com el disseny espacial temporal de StudioXAG transforma una fatxada comercial en sofisticat art públic a nivell de carrer.

@@ -60,4 +60,22 @@ images:
         name: "Parque els Pinetons - Isidre Santacreu"
 ---
 
-Parque de Pinetons en Ripollet, Barcelona. Arquitectura y paisaje: [Isidre Santacreu](https://www.santacreu-moliner.com).
+## Fotografía de arquitectura del paisaje: Parque dels Pinetons por Isidre Santacreu
+
+Esta pieza de portafolio de arquitectura del paisaje documenta el **Parque dels Pinetons** (*Parc dels Pinetons*), un espacio verde de 11 hectáreas en **Ripollet, Barcelona**. Diseñado por el arquitecto paisajista **[Isidre Santacreu](https://www.santacreu-moliner.com)**, el parque crea una transición gradual entre las zonas residenciales urbanas en expansión y el paisaje mediterráneo natural.
+
+La sesión fotográfica captura los diseños geométricos a gran escala, las modernas estructuras de sombra y los puntos focales centrales que caracterizan este santuario comunitario al aire libre.
+
+### Documentando intervenciones cívicas: acero, madera y agua
+
+La narrativa visual de esta sesión fotográfica en el parque público destaca la linealidad estructural, los espacios públicos funcionales y el paisaje natural.
+
+* **Arquitecturas de sombra modernas:** Un anclaje visual central de las plazas abiertas son dos **estructuras de sombra** contemporáneas de acero y madera diseñadas a medida. La fotografía utiliza encuadres de ángulo bajo y gran angular para enfatizar la geometría de estas pérgolas minimalistas, mostrando cómo sus lamas de madera y sus marcos de hierro proyectan sombras a lo largo de los caminos de piedra.
+* **El elemento central del chorro de agua:** La serie documenta el hito icónico del parque: una masiva fuente pública con un potente **chorro de agua vertical**. Las composiciones capturan este elemento desde múltiples ángulos, mostrando cómo la columna de agua sirve como un punto de referencia visible desde la localidad circundante.
+* **Ritmos topográficos y lineales:** Filas de escalones de piedra, caminos de grava y árboles de invierno trazan senderos limpios a través del paisaje. Las fotografías enmarcan estos elementos como líneas de fuga, mostrando los sistemas de drenaje y nivelación que gestionan el agua de lluvia y organizan el movimiento de los visitantes.
+
+### Equilibrio técnico en sesiones de portafolio al aire libre
+
+Fotografiar vastos paisajes públicos requiere navegar por horizontes extensos y una luz natural imprevisible. Cada encuadre de esta colección utiliza líneas de perspectiva horizontales y verticales cuidadosas para evitar la distorsión del objetivo de gran angular en los marcos de acero y las escaleras.
+
+Al equilibrar con precisión las exposiciones para capturar tanto el cielo brillante como las texturas de los escalones de piedra, los céspedes y la carpintería, esta serie de fotografía arquitectónica proporciona un archivo visual permanente y profesional de la renaturalización urbana en Cataluña.

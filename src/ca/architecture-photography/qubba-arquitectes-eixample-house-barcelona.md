@@ -51,4 +51,22 @@ images:
         name: "Vivenda a l'Eixample - Qubba Arquitectes"
 ---
 
-Reforma d'una vivenda al barri de l'Eixample de Barcelona. Arquitectura: [Qubba Arquitectes](https://qubba.net)
+## Fotografia d'arquitectura residencial: Reforma en un pis de l'Eixample
+
+Aquest projecte de fotografia arquitectònica mostra la renovació d'un pis al històric **districte de l'Eixample** de Barcelona. Dissenyat per **[Qubba Arquitectes](https://qubba.net)**, l'espai reinterpreta les distribucions residencials clàssiques catalanes per transformar-les en un habitatge de concepte obert modern, lluminós i fluid.
+
+La sessió fotogràfica captura l'equilibri entre el minimalisme contemporani i els detalls interiors tradicionals que defineixen el patrimoni arquitectònic de Barcelona.
+
+### Capturant llum, flux i materialitat interior
+
+La narrativa visual d'aquesta sessió fotogràfica de disseny d'interiors es cendra en la continuïtat espacial i en l'entrada de la llum natural mediterrània.
+
+* **La transició entre interior i exterior:** Un element central del disseny és un espaiós pati exterior amb tarima de fusta. A través d'unes grans portes corredisses de vidre, el saló s'estén cap a l'exterior. La fotografia utilitza aquestes línies de visió, enquadrant la barra de la finestra de la cuina oberta i les seves persianes orgàniques de bambú per emfatitzar el diàleg fluid entre els espais de menjador interiors i la terrassa.
+* **Contrastos materials:** Al cor de la llar, una cuina de fusta elegant i moderna amb electrodomèstics integrats minimalistes se situa al costat d'un acollidor sofà modular de color blanc brillant. La fotografia emfatitza les textures càlides de la fusta natural en contrast amb les superfícies netes i reflectores de llum de la zona d'estar de planta oberta.
+* **El patrimoni es uneix a l'estil contemporani:** El passadís és un dels ancoratges visuals més cridaners, on els tradicionals **terres de rajoles geomètriques** —que recorden les clàssiques rajoles hidràuliques— guien la mirada cap als espais de vida, accentuats per atrevides opcions de disseny contemporani, com una vibrant llum de menjador penjant de color vermell.
+
+### L'enfocament fotogràfic dels espais residencials
+
+Fotografiar interiors residencials de gamma alta requereix capturar tant la distribució arquitectònica com els detalls íntims que fan que una casa se senti com una llar.
+
+Les composicions utilitzen l'alineació vertical i exposicions equilibrades per gestionar la transició des de la terrassa assolellada fins als racons més profunds de l'apartament. Des de la il·luminació suau del dormitori amb paper pintat temàtic forestal fins a la geometria del vestidor i els miralls retroil·luminats del bany, cada presa compta la història d'un estil de vida metropolità refinat i funcional.

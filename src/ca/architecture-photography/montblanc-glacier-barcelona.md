@@ -65,4 +65,21 @@ images:
         name: "Montblanc Glacier - StudioXAG"
 ---
 
-Campanya d'aparadors [Glacier](https://studioxag.com/work/montblanc-glacier/) dissenyada per [StudioXAG](https://studioxag.com) per a la botiga Montblanc al Passeig de Gràcia, Barcelona.
+## Fotografia d'arquitectura d'aparadors: Campanya Montblanc Glacier
+
+Aquesta col·lecció de fotografia d'arquitectura comercial documenta la campanya estacional d'aparadors **Montblanc “[Glacier](https://studioxag.com/work/montblanc-glacier/)”** a la boutique de la marca al **Passeig de Gràcia de Barcelona**. Creada en col·laboració amb l'agència global de producció creativa **[StudioXAG](https://studioxag.com)**, aquesta instal·lació va marcar una direcció creativa fresca i aventurera per a la marca de luxe, convertint un aparador comercial en una cridanera exploració visual de paisatges alpins glaçats.
+
+La sessió fotogràfica es cendra en com l'escaparatisme modern pot transformar una fatxada d'alta gamma afegint profunditat per capes i textures gràfiques audaces.
+
+### Capturant capes espacials i gràfics de gel esquerdat
+
+El nucli d'aquesta distribució espacial de retail es basa en una intricada interacció de formes translúcides i línies nítides.
+
+* **La narrativa de l'enquadrament:** Els aparadors de la boutique es realcen amb **gràfics de gel esquerdat** personalitzats de gran impacte que voregen el vidre d'exhibició. Les fotografies mostren com aquests patrons geomètrics glaçats enmarquen els instruments d'escriptura de luxe, la marroquineria prèmium i els rellotges de Montblanc, alhora que conviden els transeünts a nivell de carrer a mirar més de prop.
+* **Interaccions de materials i contrasts:** El fons de les urnes d'exhibició recrea els tons marcats i canviants d'un glaciar profund, barrejant blaus oceànics intensos com el gel amb blancs glaçats i detalls metàl·lics polits. La fotografia comercial d'interior ressalta el contrast entre aquests elements visuals freds i angulosos i les textures de pell suau i fina de dels productes de luxe del seu interior.
+
+### Enfocament tècnic per a fatxades comercials de luxe
+
+Documentar aparadors de vidre de gamma alta en una avinguda tan transitada com el Passeig de Gràcia planteja reptes significatius.
+
+Les imatges es capturen utilitzant línies verticals estrictes per garantir la precisió arquitectònica i evitar la distorsió de perspectiva en la fatxada de l'edifici. Gestionar els reflexos a nivell de carrer en el vidre prèmium va exigir angles exactes i filtres de polarització especialitzats per eliminar les brillantors molestes de la via pública. Això preserva la subtil opacitat dels vinils amb gràfics de gel i la calidesa interior dels exhibidors comercials. En calibrar l'ambient diürn natural de Barcelona amb la il·luminació LED interna de les vitrines, la sèrie aconsegueix una intersecció efímera i d'alta fidelitat entre el disseny de retail de luxe i l'art de la instal·lació pública.
