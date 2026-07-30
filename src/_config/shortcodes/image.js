@@ -13,7 +13,7 @@ export default async function (src, alt, fetchpriority="auto") {
     htmlOptions: {
       imgAttributes: {
         alt: alt || "",
-        sizes: "(max-width: 300px) 300px, (max-width: 400px) 400px, 600px",
+        sizes: "(max-width: 350px) 300px, (max-width: 400px) 400px, 90vw",
         loading: "lazy",
         decoding: "async",
         fetchpriority,

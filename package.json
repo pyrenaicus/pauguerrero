@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "dotenv -- eleventy",
+    "build:eleventy": "eleventy",
+    "build:css": "postcss src/style.css -o _site/style.css",
+    "build": "dotenv -- npm run build:eleventy && dotenv -- npm run build:css",
     "deploy": "dotenv -- node scripts/deploy.js",
     "start": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,12 +20,17 @@
     "@11ty/eleventy-img": "^6.0.4",
     "@samkirkland/ftp-deploy": "^1.2.5",
     "clean-css": "^5.3.3",
+    "cssnano": "^7.1.9",
     "fast-glob": "^3.3.3",
     "html-minifier-terser": "^7.2.0"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^8.0.0",
     "cz-conventional-changelog": "^3.3.0",
-    "dotenv-cli": "^11.0.0"
+    "dotenv-cli": "^11.0.0",
+    "postcss": "^8.5.25",
+    "postcss-cli": "^11.0.1",
+    "postcss-lightningcss": "^1.1.0"
   },
   "config": {
     "commitizen": {
