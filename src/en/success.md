@@ -1,6 +1,7 @@
 ---
 title: Success!
 layout: page.njk
+noindex: true
 ---
 
 Thank you!

@@ -205,3 +205,7 @@ When filtering collections by language in templates:
   {% endif %}
 {% endfor %}
 ```
+
+# frontmatter
+
+added a `noindex: true` to pages where we want to avoid indexing by crawlers. Used in `privacy-policy.md` `success.md` and `terms.md`. In all languages.

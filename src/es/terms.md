@@ -2,6 +2,7 @@
 layout: page.njk
 title: Términos de Servicio
 permalink: /es/terminos-de-servicio/
+noindex: true
 ---
 
 **Última actualización:** Julio de 2026

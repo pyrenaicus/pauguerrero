@@ -2,6 +2,7 @@
 layout: page.njk
 permalink: /ca/politica-de-privacitat/
 title: Política de privacitat
+noindex: true
 ---
 
 **Última actualització:** juliol de 2026

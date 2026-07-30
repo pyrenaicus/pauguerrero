@@ -2,6 +2,7 @@
 layout: page.njk
 title: Terms of Service
 permalink: /en/terms-of-service/
+noindex: true
 ---
 
 **Last updated:** July 2026

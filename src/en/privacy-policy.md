@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: Privacy Policy
+noindex: true
 ---
 
 **Last updated:** July 2026

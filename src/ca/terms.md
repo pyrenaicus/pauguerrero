@@ -2,6 +2,7 @@
 layout: page.njk
 title: Condicions de Servei
 permalink: /ca/condicions-de-servei/
+noindex: true
 ---
 
 **Última actualització:** Juliol de 2026
