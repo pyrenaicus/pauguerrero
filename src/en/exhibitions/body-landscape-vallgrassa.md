@@ -1,6 +1,7 @@
 ---
-title: Body-Landscape at Vallgrassa
+title: Body Landscape
 description: Body-Landscape photography exhibition at Vallgrassa Experimental Arts Center in Garraf Natural Park, Barcelona.
+intro: 'Exhibition at the Humberto Rivas Photography Space in <a class="is-intro-link">Vallgrassa Experimental Arts Center</a> in Garraf Natural Park'
 slug: body-landscape-vallgrassa
 date: 2022-04-12
 series: "body landscape"

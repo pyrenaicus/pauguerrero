@@ -1,6 +1,7 @@
 ---
 title: Portbou 1939
 description: "'Exhibition The Day After the Retreat. Antoni Campañà. Portbou, 1939: Self-portrait of Absence' at the MUME (Museum Memorial of Exile) in La Jonquera, Girona."
+intro: "Exhibition at the <a class='is-intro-link' href='https://www.museuexili.cat/en/'>Mume</a> in La Jonquera"
 date: 2021-06-25
 teaser: images/teaser-pau-guerrero-portbou.jpg
 teaserAlt: "Two framed landscape photographs are displayed on a white wall with a small black and white photograph visible in the background through an opening."

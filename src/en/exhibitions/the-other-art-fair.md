@@ -1,6 +1,7 @@
 ---
-title: The Other Art Fair Sydney
+title: The Other Art Fair
 description: '"The Print Swap" exhibition at The Other Art Fair in Sydney, Australia.'
+intro: "Group Exhibition <em>The Print Swap</em> by Feature Shoot at <a class='is-intro-link' href='https://www.theotherartfair.com/'>The Other Art Fair</a> in Sydney"
 date: 2019-03-17
 teaser: images/teaser-pau-guerrero-print-swap.jpg
 teaserAlt: "A bustling art exhibition with many people viewing various artworks in a large industrial-style space with high ceilings and exposed beams."

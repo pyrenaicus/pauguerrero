@@ -1,6 +1,7 @@
 ---
-title: Falling water, km7
+title: Falling water
 description: "'Falling Water' exhibition at Km7 Espai d'Art Jose Luis Pascual, Saus-Camallera, Girona."
+intro: "Exhibtion at Km7 Espai d'Art Jose Luis Pascual"
 date: 2013-07-24
 series: "falling water"
 teaser: images/teaser-pau-guerrero-falling-water-km7.jpg

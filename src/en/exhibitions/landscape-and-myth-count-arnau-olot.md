@@ -1,6 +1,7 @@
 ---
-title: Landscape and myth of Count Arnau in the Landscape Observatory
+title: Landscape and myth of Count Arnau
 description: '"Landscape and myth of Count Arnau" exhibition at Landscape Observatory, Olot, Girona.'
+intro: 'Exhibition at the <a class="is-intro-link" href="https://www.catpaisatge.net/en">Landscape Observatory of Catalonia</a>'
 date: 2014-11-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-olot.jpg

@@ -1,6 +1,7 @@
 ---
-title: Walking Mountains at FotoTorroella
+title: Walking Mountains
 description: Walking Mountains photography exhibition at Claustre de l'Hospital, Torroella de Montgrí, Girona.
+intro: "Exhibition in the Claustre de l'Hospital for <a class='is-intro-link'  href='https://fototorroella.cat/'>FotoTorroella</a>" 
 date: 2018-03-12
 series: "walking mountains"
 teaser: images/teaser-pau-guerrero-walking-mountains-torroella.jpg

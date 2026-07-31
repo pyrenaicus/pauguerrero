@@ -1,6 +1,7 @@
 ---
 title: Mirades Photo Festival
 description: '"Landscape and myth of Count Arnau" exhibition at Mirades Festival, photography biennale in Torroella de Montgrí, Girona'
+intro: 'Exhibition of <em>Landscape and myth of Count Arnau</em> during <a  class="is-intro-link" href="https://www.festivalmirades.com/">Mirades Photography Festival</a>'
 date: 2017-04-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-mirades.jpg

@@ -1,6 +1,7 @@
 ---
-title: Vanishing Landscape at Photogenic Festival Barcelona
+title: Vanishing Landscape
 description: '"Vanishing Landscape" exhibition at Photogenic Festival, Barcelona.'
+intro: Exhibition at the <a class='is-intro-link' href="https://www.instagram.com/photogenicfestival/">Photogenic Festival</a> in Barcelona
 date: 2016-09-24
 series: "vanishing landscape"
 teaser: images/teaser-pau-guerrero-photogenic.jpg

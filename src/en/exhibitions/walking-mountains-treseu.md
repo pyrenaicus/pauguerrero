@@ -1,6 +1,7 @@
 ---
-title: Walking Mountains at Treseu Gallery
+title: Walking Mountains
 description: Walking Mountains photography exhibition at Treseu photographic gallery in Vic, Barcelona.
+intro: 'Exhibition at <a class="is-intro-link" href="https://www.treseu.cat/">Treseu</a> Photographic Gallery in Vic'
 date: 2020-03-12
 series: "walking mountains"
 teaser: images/teaser-pau-guerrero-walking-mountains-treseu.jpg

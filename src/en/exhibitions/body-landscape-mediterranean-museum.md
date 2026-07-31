@@ -1,6 +1,7 @@
 ---
-title: Body-Landscape in the Mediterranean museum
+title: Body Landscape
 description: Body-Landscape photography exhibition at Mediterranean Museum in Torroella de Montgrí, Girona.
+intro: 'Exhibition at <a class="is-intro-link" href="https://www.museudelamediterrania.cat/">Museu de la Mediterrània</a> in Torroella de Montgrí during August 2022'
 date: 2022-08-12
 series: "body landscape"
 teaser: images/teaser-pau-guerrero-body-landscape-torroella.jpg

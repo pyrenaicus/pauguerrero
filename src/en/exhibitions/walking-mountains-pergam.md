@@ -1,6 +1,7 @@
 ---
-title: Walking Mountains at Pèrgam llibres
+title: Walking Mountains
 description: Walking Mountains photography exhibition at Pèrgam llibres, Barcelona.
+intro: Exhibition at Pèrgam Llibres in Barcelona
 date: 2018-11-12
 series: "walking mountains"
 teaser: images/teaser-pau-guerrero-walking-mountains-pergam.jpg
