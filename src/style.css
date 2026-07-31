@@ -21613,7 +21613,7 @@ a.navbar-item:hover {
 }
 
 .content a:hover {
-  font-weight: 600;
+  /* font-weight: 600; */
   text-decoration: none;
 }
 
@@ -21824,4 +21824,13 @@ a.card:hover .card-content {
   .has-two-columns {
     column-count: 1;
   }
+}
+
+.is-intro-link {
+  text-decoration: underline;
+}
+
+.is-intro-link:hover {
+   /* font-weight: 600; */
+  text-decoration: none; 
 }

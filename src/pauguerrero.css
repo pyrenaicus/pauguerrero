@@ -45,6 +45,15 @@ a.navbar-item:hover {
   text-decoration: none;
 }
 
+.is-intro-link {
+  text-decoration: underline;
+}
+
+.is-intro-link:hover {
+   font-weight: 600;
+  text-decoration: none; 
+}
+
 /* SKIP LINK */
 .skip-link {
   clip: rect(1px, 1px, 1px, 1px);
