@@ -1,7 +1,8 @@
 ---
-title: Monegros al Km7 Espai d'Art
+title: Monegros
 permalink: "{{ preSlug  }}/monegros-km7-espai-d-art/"
 description: Exposició 'Monegros' al Km7 Espai d'Art Jose Luis Pascual a Saus-Camallera, Girona.
+intro: "Exposició al Km7 Espai d'Art Jose Luis Pascual"
 date: 2017-07-17
 series: monegros
 teaser: images/teaser-pau-guerrero-monegroskm7.jpg

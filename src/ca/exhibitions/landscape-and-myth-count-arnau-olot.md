@@ -1,7 +1,8 @@
 ---
-title: Paisatge i llegenda del Comte Arnau a l'Observatori del Paisatge
+title: Paisatge i llegenda del Comte Arnau
 permalink: "{{ preSlug  }}/paisatge-i-llegenda-del-comte-arnau-al-observatori-del-paisatge/"
 description: Exposició "Paisatge i llegenda del Comte Arnau" a l'Observatori del Paisatge, Olot, Girona.
+intro: "Exposició a l'<a class='is-intro-link' href='https://www.catpaisatge.net/en'>Observatori del Paisatge</a>"
 date: 2014-11-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-olot.jpg

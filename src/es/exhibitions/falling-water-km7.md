@@ -1,7 +1,8 @@
 ---
-title: Caídas de agua, km7
+title: Caídas de agua
 permalink: "{{ preSlug  }}/caidas-de-agua-km7-espai-dart/"
 description: "Exposición 'Caídas de agua' en Km7 Espai d'Art Jose Luis Pascual, Saus-Camallera, Girona."
+intro: "Exposición en Km7 Espai d'Art Jose Luis Pascual"
 date: 2013-07-24
 series: "falling water"
 teaser: images/teaser-pau-guerrero-falling-water-km7.jpg

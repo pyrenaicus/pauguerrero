@@ -1,5 +1,6 @@
 ---
-title: Cos-Paisatge al museu de la Mediterrània
+title: Cos-Paisatge
+intro: 'Exposició al <a class="is-intro-link" href="https://www.museudelamediterrania.cat/">Museu de la Mediterrània</a> a Torroella de Montgrí'
 permalink: "{{ preSlug  }}/cos-paisatge-museu-mediterrania/"
 description: Exposició del projecte fotogràfic Cos-Paisatge al Museu de la Mediterrània de Torroella de Montgrí, Girona.
 date: 2022-08-12

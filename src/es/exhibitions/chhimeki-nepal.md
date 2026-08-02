@@ -2,6 +2,7 @@
 title: Subasta de Arte para Chhimeki Nepal
 permalink: "{{ preSlug  }}/subasta-de-arte-chhimeki-nepal-barcelona/"
 description: Exposición y subasta de arte para Nepal Chhimeki en el bar Ocaña, Barcelona.
+intro: "Exposición y Subasta de Arte en el <a class='is-intro-link' href='https://www.ocana.cat/en/'>Ocaña</a> de Barcelona"
 date: 2017-09-17
 series: "vanishing landscape"
 teaser: images/teaser-pau-guerrero-nepal-chhimeki.jpg

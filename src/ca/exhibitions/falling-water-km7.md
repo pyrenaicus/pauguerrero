@@ -1,7 +1,8 @@
 ---
-title: Caigudes d'aigua al Km7
+title: Caigudes d'aigua
 permalink: "{{ preSlug  }}/caigudes-d-aigua-km7/"
 description: Exposició Caigudes d'aigua al Km7 Espai d'Art Jose Luis Pascual, Saus-Camallera, Girona.
+intro: "Exposició al Km7 Espai d'Art Jose Luis Pascual"
 date: 2013-07-24
 series: "falling water"
 teaser: images/teaser-pau-guerrero-falling-water-km7.jpg

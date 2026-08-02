@@ -1,7 +1,8 @@
 ---
-title: Paisatge Evanescent al Photogenic Festival de Barcelona
+title: Paisatge Evanescent
 permalink: "{{ preSlug  }}/paisatge-evanescent-photogenic-festival-barcelona/"
 description: Exposició del projecte fotogràfic "Paisatge evanescent" al Photogenic Festival de Barcelona.
+intro: Exposició al <a class='is-intro-link' href="https://www.instagram.com/photogenicfestival/">Photogenic Festival</a> de Barcelona
 date: 2016-09-24
 series: "vanishing landscape"
 teaser: images/teaser-pau-guerrero-photogenic.jpg

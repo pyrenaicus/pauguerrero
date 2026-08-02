@@ -2,6 +2,7 @@
 title: Portbou 1939
 permalink: "{{ preSlug  }}/portbou-1939/"
 description: "Exposició l'endemà de la retirada. Antoni Campañà. Portbou, 1939: Autoretrat de l'absència al MUME (Museu Memorial de l'Exili) a La Jonquera, Girona."
+intro: "Exposició l'endemà de la retirada. Antoni Campañà. Portbou, 1939: Autoretrat de l'Absència al <a class='is-intro-link' href='https://www.museuexili.cat/en/'>Mume</a>, Museu Memorial de l'Exili a La Jonquera"
 date: 2021-06-25
 teaser: images/teaser-pau-guerrero-portbou.jpg
 teaserAlt: "Dues fotografies de paisatge emmarcades exposades en una paret blanca amb una petita fotografia en blanc i negre visible al fons a través d'una obertura."

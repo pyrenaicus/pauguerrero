@@ -2,6 +2,7 @@
 title: Cos-Paisatge a Vallgrassa
 permalink: "{{ preSlug  }}/cos-paisatge-vallgrassa-garraf/"
 description: Exposició del projecte fotogràfic Cos-Paisatge a Vallgrassa Centre Experimental de les Arts al Parc Natural de Garraf. Begues, Barcelona.
+intro: "Exposició a l'Espai Fotogràfic Humberto Rivas de <a class='is-intro-link'>Vallgrassa</a> Centre Experimental de les Arts al Parc Natural de Garraf"
 slug: body-landscape-vallgrassa
 date: 2022-04-12
 series: "body landscape"

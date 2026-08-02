@@ -1,7 +1,8 @@
 ---
-title: Paisatge i llegenda del comte Arnau al Festival Mirades
+title: Paisatge i llegenda del comte Arnau
 permalink: "{{ preSlug  }}/paisatge-i-llegenda-del-comte-arnau-al-festival-mirades/"
 description: Exposició "Paisatge i llegenda del comte Arnau" al Festival Mirades, biennal de fotografia a Torroella de Montgrí, Girona
+intro: 'Exposició durant el Festival <a  class="is-intro-link" href="https://www.festivalmirades.com/">Mirades</a>, Biennal de Fotografia a Torroella de Montgrí'
 date: 2017-04-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-mirades.jpg

@@ -2,6 +2,7 @@
 title: Subhasta d'art per Nepal Chhimeki
 permalink: "{{ preSlug  }}/subhasta-d-art-per-a-chhimeki-nepal/"
 description: Exposició i subhasta d'art per Nepal Chhimeki al bar Ocaña, Barcelona.
+intro: "Exposició i Subhasta d'art a l'<a class='is-intro-link' href='https://www.ocana.cat/en/'>Ocaña</a> de Barcelona"
 date: 2017-09-17
 series: "vanishing landscape"
 teaser: images/teaser-pau-guerrero-nepal-chhimeki.jpg

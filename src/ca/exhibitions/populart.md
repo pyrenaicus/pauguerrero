@@ -1,7 +1,8 @@
 ---
-title: Iniciació a la fotografia de paisatge a l'Albera
+title: Paisatge de l'Albera
 permalink: "{{ preSlug  }}/iniciacio-a-la-fotografia-de-paisatge-albera/"
 description: Taller pràctic d'iniciació a la fotografia de paisatge a l'Albera i exposició col·lectiva dels participants, a Populart, Capmany, Girona.
+intro: "Taller d'Iniciació a la Fotografia de Paisatge a l'Albera i Exposició Col·lectiva dels Participants, a Populart, Capmany, Girona"
 date: 2015-09-20
 teaser: images/teaser-pau-guerrero-albera-populart.jpg
 teaserAlt: "Un grup de persones posant juntes a l'exterior en un sender amb arbres al fons."

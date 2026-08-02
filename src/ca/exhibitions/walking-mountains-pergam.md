@@ -1,7 +1,8 @@
 ---
-title: Muntanyes caminant a Pèrgam
+title: Muntanyes caminant
 permalink: "{{ preSlug  }}/muntanyes-caminant-pergam-llibres/"
 description: Exposició fotogràfica Muntanyes Caminant a Pèrgam llibres, Barcelona.
+intro: Exposició a Pèrgam Llibres, Barcelona
 date: 2018-11-12
 series: "walking mountains"
 teaser: images/teaser-pau-guerrero-walking-mountains-pergam.jpg

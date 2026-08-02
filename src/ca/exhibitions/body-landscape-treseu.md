@@ -1,7 +1,8 @@
 ---
-title: Cos-Paisatge a la galeria Treseu
+title: Cos Paisatge
 permalink: "{{ preSlug  }}/cos-paisatge-galeria-treseu-vic/"
 description: Exposició del projecte fotogràfic Cos-Paisatge a la galeria fotogràfica Treseu de Vic, Barcelona.
+intro: 'Exposició a la galería fotogràfica <a class="is-intro-link">Treseu</a> de Vic'
 date: 2023-11-25
 series: "body landscape"
 teaser: images/teaser-pau-guerrero-body-landscape-treseu.jpg

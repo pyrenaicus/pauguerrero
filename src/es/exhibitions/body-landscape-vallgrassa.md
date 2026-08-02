@@ -1,6 +1,7 @@
 ---
-title: Cuerpo-Paisaje en Vallgrassa
+title: Cuerpo Paisaje
 description: Exposición de fotografía Cuerpo-Paisaje en Vallgrassa Centro Experimental de las Artes en el Parque Natural de Garraf. Barcelona.
+intro: 'Exposición en el Espacio Fotográfico Humberto Rivas de <a class="is-intro-link">Vallgrassa</a> Centro Experimental de las Artes en el Parque Natural de Garraf'
 permalink: "{{ preSlug  }}/cuerpo-paisaje-vallgrassa/"
 date: 2022-04-12
 series: "body landscape"

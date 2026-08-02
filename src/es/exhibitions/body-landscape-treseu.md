@@ -1,7 +1,8 @@
 ---
-title: Cuerpo-Paisaje en galería Treseu
+title: Cuerpo Paisaje
 permalink: "{{ preSlug  }}/cuerpo-paisaje-galeria-treseu/"
 description: Exposición de fotografía Cuerpo-Paisaje en la galería fotográfica Treseu de Vic, Barcelona.
+intro: 'Exposición en la Galería Fotográfica <a class="is-intro-link">Treseu</a> de Vic'
 date: 2023-11-25
 series: "body landscape"
 teaser: images/teaser-pau-guerrero-body-landscape-treseu.jpg

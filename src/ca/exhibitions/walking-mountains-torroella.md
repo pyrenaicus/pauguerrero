@@ -1,7 +1,8 @@
 ---
-title: Muntanyes caminant, FotoTorroella
+title: Muntanyes caminant
 permalink: "{{ preSlug  }}/muntanyes-caminant-fototorroella/"
 description: Exposició de fotografia Muntanyes Caminant al Claustre de l'Hospital, Torroella de Montgrí, Girona.
+intro: "Exposició a <a class='is-intro-link'  href='https://fototorroella.cat/'>FotoTorroella</a>, Claustre de l'Hospital de Torroella de Montgrí"
 date: 2018-03-12
 series: "walking mountains"
 teaser: images/teaser-pau-guerrero-walking-mountains-torroella.jpg

@@ -2,6 +2,7 @@
 title: Diàleg
 permalink: "{{ preSlug  }}/dialeg-palafrugell/"
 description: Exposició fotogràfica "Diàleg" a l'espai J.Vigas de Palafrugell, Girona. Juntament amb Irene Bengoechea i Jordi Cané.
+intro: "Exposició a l'espai <a class='is-intro-link'  href='https://www.jvigas.com/en/'>J.Vigas</a> de Palafrugell, juntament amb <a class='is-intro-link' href='https://www.irenebengoechea.com/'>Irene Bengoechea</a> i <a  class='is-intro-link'  href='http://www.jordicane.com/'>Jordi Cané</a>"
 date: 2024-09-12
 series: "mountains of the soul"
 teaser: images/teaser-pau-guerrero-dialeg-palafrugell.jpg

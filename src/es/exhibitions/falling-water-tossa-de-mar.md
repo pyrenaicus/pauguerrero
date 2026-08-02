@@ -1,7 +1,8 @@
 ---
-title: Caídas de agua, Tossa de Mar
+title: Caídas de agua
 permalink: "{{ preSlug  }}/caidas-de-agua-tossa-de-mar/"
 description: 'Exposición "Caídas de agua" en el Museo Municipal de Tossa de Mar, Girona.'
+intro: 'Exposición en el Museo Municipal de Tossa de Mar'
 date: 2013-05-24
 series: "falling water"
 teaser: images/teaser-pau-guerrero-falling-water-tossa.jpg

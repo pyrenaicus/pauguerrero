@@ -1,7 +1,8 @@
 ---
-title: Paisatge i llegenda del Comte Arnau a Girona
+title: Paisatge i llegenda del Comte Arnau
 permalink: "{{ preSlug  }}/paisatge-i-llegenda-del-comte-arnau-a-girona/"
 description: Exposició "Paisatge i llegenda del Comte Arnau" a la biblioteca Carles Rahola, Girona.
+intro: "Exposició a la Biblioteca Carles Rahola de Girona"
 date: 2016-07-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-girona.jpg

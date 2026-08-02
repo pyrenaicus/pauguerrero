@@ -1,7 +1,8 @@
 ---
-title: CAigudes d'aigua a Tossa de Mar
+title: Caigudes d'aigua
 permalink: "{{ preSlug  }}/caigudes-d-aigua-tossa-de-mar/"
 description: Exposició Caigudes d'aigua al Museu Municipal de Tossa de Mar, Girona.
+intro: 'Exposició al Museu Municipal de Tossa de Mar'
 date: 2013-05-24
 series: "falling water"
 teaser: images/teaser-pau-guerrero-falling-water-tossa.jpg

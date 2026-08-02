@@ -1,7 +1,8 @@
 ---
-title: Paisatge i llegenda del comte Arnau a Sant Joan de les Abadesses
+title: Paisatge i llegenda del comte Arnau
 permalink: "{{ preSlug  }}/paisatge-i-llegenda-del-comte-arnau-a-sant-joan-de-les-abadesses/"
 description: Exposició 'Paisatge i llegenda del comte Arnau' al Palau de l'Abadia, Sant Joan de les Abadesses, Girona.
+intro: "Exposició al Centre d'Interpretació del Mite del Comte Arnau al<a class='is-intro-link'  href='https://ripollesturisme.cat/en/romanic/palau-de-labadia/'>Palau de l'Abadia</a> de Sant Joan de les Abadesses"
 date: 2015-04-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-stjoan.jpg

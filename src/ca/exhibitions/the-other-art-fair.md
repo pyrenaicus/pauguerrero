@@ -2,6 +2,7 @@
 title: The Other Art Fair, Sydney
 permalink: "{{ preSlug  }}/the-other-art-fair-sydney/"
 description: Exposició "The Print Swap" a la fira d'art The Other Art Fair, a Sydney, Austràlia.
+intro: "Exposició Col·lectiva <em>The Print Swap</em> by Feature Shoot a la Fira d'Art <a class='is-intro-link' href='https://www.theotherartfair.com/'>The Other Art Fair</a>, Sydney"
 date: 2019-03-17
 teaser: images/teaser-pau-guerrero-print-swap.jpg
 teaserAlt: "Una exposició d'art plena de gent amb moltes persones veient diverses obres d'art en un espai ampli d'estil industrial amb sostres alts i bigues exposades."

@@ -1,7 +1,8 @@
 ---
-title: Muntanyes caminant a Treseu
+title: Muntanyes caminant
 permalink: "{{ preSlug  }}/muntanyes-caminant-galeria-treseu-vic/"
 description: Exposició de fotografia Muntanyes caminant a la galeria fotogràfica Treseu a Vic, Barcelona.
+intro: 'Exposició a la Galeria Fotogràfica <a class="is-intro-link" href="https://www.treseu.cat/">Treseu</a> de Vic'
 date: 2020-03-12
 series: "walking mountains"
 teaser: images/teaser-pau-guerrero-walking-mountains-treseu.jpg

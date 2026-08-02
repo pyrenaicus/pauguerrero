@@ -1,7 +1,8 @@
 ---
-title: Cuerpo-Paisaje en Museu de la Mediterrània
+title: Cuerpo Paisaje
 permalink: "{{ preSlug  }}/cuerpo-paisaje-museu-de-la-mediterrania/"
 description: Exposición de fotografía Cuerpo-Paisaje en Museu de la Mediterrània en Torroella de Montgrí, Girona.
+intro: 'Exposición en el <a class="is-intro-link" href="https://www.museudelamediterrania.cat/">Museu de la Mediterrània</a> de Torroella de Montgrí'
 date: 2022-08-12
 series: "body landscape"
 teaser: images/teaser-pau-guerrero-body-landscape-torroella.jpg
