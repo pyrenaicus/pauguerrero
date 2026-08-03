@@ -53,7 +53,7 @@ images:
 
 ## Residential Architecture Photography: Eixample Flat Renovation
 
-This architectural photography project showcases an apartment renovation in Barcelona’s historic **Eixample district**. Designed by **[Qubba Arquitectes](https://qubba.net)**, the space reinterprets classic Catalan residential layouts into a bright, fluid, modern open-concept home.
+This architectural photography set showcases an apartment renovation in Barcelona’s historic **Eixample district**. Designed by **[Qubba Arquitectes](https://qubba.net)**, the space reinterprets classic Catalan residential layouts into a bright, fluid, modern open-concept home.
 
 The photoshoot captures the balance between contemporary minimalism and the traditional interior details that define Barcelona’s architectural heritage.
 
@@ -61,9 +61,9 @@ The photoshoot captures the balance between contemporary minimalism and the trad
 
 The visual narrative of this interior design photoshoot focuses on spatial continuity and the influx of natural Mediterranean light.
 
-* **The Indoor-Outdoor Transition:** A central feature of the design is a spacious wooden-decked outdoor patio. Through wide sliding glass doors, the living room extends to the outdoors. The photography uses these sightlines, framing the open kitchen window bar and its organic bamboo shades to emphasise the fluid dialogue between the indoor dining spaces and the terrace.
-* **Material Contrasts:** In the heart of the home, a sleek, modern wooden kitchen with integrated minimalist appliances sits beside a cosy, bright white sectional sofa. The photography emphasises the warm textures of the natural wood contrasting against the clean, light-reflecting surfaces of the open-plan living area.
-* **Heritage Meets Contemporary Style:** The hallway is one of the most striking visual anchors, where traditional **geometric tiled floors**—reminiscent of classic hydraulic tiles—lead the eye into the living spaces, accented by bold contemporary design choices, such as a vibrant red pendant dining lamp.
+* **The Indoor-Outdoor Transition:** A central feature of the design is a spacious wooden-decked outdoor patio. Through wide sliding glass doors, the living room extends to the outdoors. The photography uses these sightlines, framing the open kitchen window bar and its organic bamboo shades to emphasise the fluid dialogue between the indoor spaces and the terrace.
+* **Material Contrasts:** The heart of the home is a sleek, modern wooden kitchen with integrated minimalist appliances, sitting beside a cosy, bright living room. The photography emphasises the warm textures of the natural wood contrasting against the clean, light-reflecting surfaces of the open-plan living area.
+* **Heritage Meets Contemporary Style:** The hallway is one of the most striking visual anchors, where traditional **geometric tiled floors**—the original classic hydraulic tiles—lead the eye into the living spaces, accented by bold contemporary design choices, such as a vibrant red pendant dining lamp.
 
 ### The Photographic Approach to Residential Spaces
 

@@ -85,7 +85,7 @@ images:
 
 ## Cultural Architecture Photography: Sala Parés Art Gallery, Barcelona
 
-This interior architectural portfolio features **[Sala Parés](https://salapares.com)**, a cultural institution in Barcelona’s historic **Gothic Quarter (Barri Gòtic)**. Founded in 1877 as the first commercial art gallery in Spain, this landmark venue on Carrer de Petritxol has hosted generation-defining masters from Ramon Casas to Pablo Picasso. Today, it continues its heritage as a destination for contemporary figuration, realism, and abstraction.
+This interior architectural portfolio features an exhibition of [Guerrero Medina](https://www.guerreromedina.com) in **[Sala Parés](https://salapares.com)**, a cultural institution in Barcelona’s historic **Gothic Quarter** (Barri Gòtic). Founded in 1877 as the first commercial art gallery in Spain, this landmark venue on Carrer de Petritxol has hosted generation-defining masters from Ramon Casas to Pablo Picasso. Today, it continues its heritage as a destination for contemporary figuration, realism, and abstraction.
 
 The photoshoot shows how the gallery’s grand nineteenth-century architectural layout has been retrofitted into a sophisticated light-filled setting for a high-quality fine art exhibition.
 

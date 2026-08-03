@@ -43,9 +43,9 @@ images:
 
 ## Exhibition Design Photography: “Borders” at CCCB Barcelona
 
-This cultural interior photography series documents the spatial design and scenography of the **“Borders” exhibition** at the **[CCCB](https://www.cccb.org/en) (Centre de Cultura Contemporània de Barcelona) in Barcelona’s** historic El Raval district. The CCCB is globally recognised for its thought-provoking, multidisciplinary cultural programming.
+This cultural interior photography series documents the spatial design and scenography of the **“Borders” exhibition** at the **[CCCB](https://www.cccb.org/en) (Centre de Cultura Contemporània de Barcelona)** in Barcelona’s historic El Raval district. The CCCB is globally recognised for its thought-provoking, multidisciplinary cultural programming.
 
-The photoshoot focuses on how the temporary architecture and exhibition designed by [EMBA, Enric Massip-Bosch Arquitectes](https://www.emba.cat) can transform a grand museum hall, guiding visitors through a dense, emotionally charged, and highly conceptual narrative.
+The photoshoot focuses on how the temporary architecture and exhibition designed by [EMBA](https://www.emba.cat), Enric Massip-Bosch Arquitectes can transform a grand museum hall, guiding visitors through a dense, emotionally charged, and highly conceptual narrative.
 
 ### Documenting Scenography, Spatial Boundaries, and Dramatic Light
 

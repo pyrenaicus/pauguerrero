@@ -25,9 +25,9 @@ images:
 
 ## Residential Architecture Photography: Manresa Housing by EMBA
 
-This architectural photography collection documents a contemporary multi-family housing complex in **Manresa, Barcelona, designed by** **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, under the creative leadership of Enric Massip-Bosch. The project balances private domesticity alongside the broader city landscape.
+This architectural photography collection documents a contemporary multi-family housing complex in **Manresa**, Barcelona, **designed by [EMBA](https://www.emba.cat)**, under the creative leadership of Enric Massip-Bosch. The project balances private domesticity alongside the broader city landscape.
 
-The photoshoot focuses on documenting the building’s bold structural rhythms, functional spatial transitions, and its clean melding into the neighbourhood's fabric.
+The photoshoot focuses on documenting the building’s bold structural rhythms and its clean melding into the neighbourhood's fabric.
 
 ### Capturing Facade Rhythms and Volumetric Depth
 
@@ -40,4 +40,4 @@ The exterior architectural photography highlights the building’s striking geom
 
 Photographing large multi-family residential developments demands a highly disciplined approach to composition and perspective.
 
-Every image in this architectural gallery is composed with strict **orthogonal alignment**, ensuring that vertical partition lines, balcony railings, and structural columns remain completely straight and free of wide-angle lens distortion. By meticulously calibrating camera exposures to balance the intense Mediterranean sunlight on exterior surfaces with the softer, more detailed shades of the communal corridors and private entryways, this portfolio provides an enduring, high-fidelity visual archive of EMBA’s expertise in modern civic housing in Catalonia.
+Every image in this architectural gallery is composed with strict **orthogonal alignment**, ensuring that vertical partition lines, balcony railings, and structural columns remain completely straight and free of wide-angle lens distortion. By meticulously calibrating camera exposures to balance the intense Mediterranean sunlight on exterior surfaces this portfolio provides an enduring, high-fidelity visual archive of EMBA’s expertise in modern civic housing in Catalonia.

@@ -47,8 +47,7 @@ Designed by the acclaimed studio **[EMBA, Estudi Massip-Bosch Arquitectes](https
 
 The visual narrative of this university portfolio focuses on clean structural lines, functional transparency, and the honest expression of building materials, continuing the project’s emphasis on clarity and precision.
 
-* **Sleek Industrial Aesthetics:** EMBA’s design embraces raw, engineered materials suited to a technological transport and maintenance centre. The photography emphasises the smooth textures of exposed concrete, industrial steel frames, and extensive glass panels, while capturing a clean architectural style.
-* **Luminous Research Spaces:** Inside the facility, the photography focuses on spatial volume and illumination tracking. The compositions frame technical laboratories and academic workshops, showing how massive windows fill deep interior spaces with uniform, diffuse natural light—ideal for accurate engineering and research.
+* **Sleek Industrial Aesthetics:** EMBA’s design embraces raw, engineered materials suited to a technological centre. The photography emphasises the smooth textures of exposed concrete, industrial steel frames, and extensive glass panels, while capturing a clean architectural style.
 * **Symmetrical Corridors and Circulation:** The indoor framing uses deep leading lines to capture the building’s circulation routes. Pristine hallways, framed by minimalist partition grids and polished flooring systems, demonstrate the smooth, logical flow designed to handle daily traffic from students, professors, and researchers.
 
 ### A Professional Technical Approach to Academic Portfolios

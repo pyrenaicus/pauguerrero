@@ -98,9 +98,9 @@ images:
 
 ## Cultural Architecture Photography: Llinars Art Space by Aresta a+u
 
-This architectural photography portfolio documents the **Llinars Art Space** (*Espai d’Art*), a restrained cultural facility in **Llinars del Vallès, Barcelona**. Designed by the progressive architectural studio **[Aresta a+u](https://aresta.net)**, this public art centre transforms a rigid structural layout into a calm, contemplative museum atmosphere, filtering natural light and maximising exhibition space.
+This architectural photography portfolio documents the **Llinars Art Space** (*Espai d’Art Llinars*), a restrained cultural facility in **Llinars del Vallès, Barcelona**. Designed by the progressive architectural studio **[Aresta a+u](https://aresta.net)**, this public art centre transforms a former Primary Health Care Centre, a rigid structural layout, into a calm and contemplative museum atmosphere, filtering natural light and maximising exhibition space.
 
-The photoshoot captures the calm geometric rhythms, material simplicity, and architectural flow of modern cultural exhibition design.
+The photoshoot captures the calm geometric rhythms, material simplicity, and architectural flow of a modern art exhibition design.
 
 ### Documenting Gallery Geometry, Timber Frameworks, and Light
 

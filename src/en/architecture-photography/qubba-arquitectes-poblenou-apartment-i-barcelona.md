@@ -53,7 +53,7 @@ images:
 
 ## Residential Architecture Photography: Poblenou Apartment I by Qubba Arquitectes
 
-This interior architectural photography series documents **Poblenou Apartment I**, a residential renovation by **[Qubba Arquitectes](https://qubba.net)**. Located in Barcelona’s maritime and industrial design district, the home adapts a raw, historic architectural footprint for a modern, high-end city lifestyle.
+This interior architectural photography series documents a residential renovation by **[Qubba Arquitectes](https://qubba.net)**. Located in Barcelona’s maritime and industrial design district of **Poble Nou**, the home adapts a raw, historic architectural footprint for a modern, high-end city lifestyle.
 
 The photoshoot focuses on how minimalist geometries carve out intimate living zones within an open-layout design while preserving the building's structural soul.
 
@@ -65,8 +65,8 @@ The visual narrative of this residential interior photoshoot balances raw struct
 * **Textural and Organic Harmony:** The renovation pairs contrasting materials with intent. The images highlight clean, matte kitchen cabinetry and sleek minimalist fixtures against warm **timber accents** and organic structural elements. Exposures are carefully metered to preserve gentle transitions in texture, capturing how ambient light touches raw and polished surfaces.
 * **Integrated Architectural Lighting:** The photography pays close attention to the custom illumination grids. From soft, hidden LED strips tracing functional storage units to bold, directional pendant lights over the kitchen island, the frames show how light defines space and sets the atmosphere.
 
-### Technical Mastery of Loft Interior Photography
+### Technical Mastery of Interior Photography
 
-Photographing loft-style spaces in Poblenou demands careful handling of light and geometry. Industrial buildings commonly have deep floor plans where exterior light pools near perimeter windows but drops off quickly in the core.
+Photographing loft-style spaces in Poblenou demands careful handling of light and geometry.
 
 The compositions use meticulous **orthogonal alignment** to keep vertical lines, exposed pillars, and custom carpentry straight, preventing wide-angle lens distortion. By balancing bright daylight from traditional balconies with internal artificial-light zones, this architectural portfolio piece creates a high-fidelity visual archive of Qubba Arquitectes’ residential craftsmanship.

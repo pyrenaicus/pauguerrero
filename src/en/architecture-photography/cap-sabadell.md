@@ -56,7 +56,7 @@ images:
 
 ## Healthcare Architecture Photography: CAP Sabadell by EMBA
 
-This institutional architectural photography series documents the innovative design of the **Sabadell Primary Healthcare Centre in** **Sabadell, Barcelona**. Designed by the acclaimed studio **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, this public medical facility stands as a masterclass in civic retrofitting, showing how modern medical facilities can expand within a sensitive heritage context.
+This institutional architectural photography series documents the innovative design of the **Sabadell Primary Healthcare Centre** in Sabadell, Barcelona. Designed by the acclaimed studio **[EMBA](https://www.emba.cat)**, Estudi Massip-Bosch Arquitectes, this public medical facility stands as a masterclass in civic retrofitting, showing how modern medical facilities can expand within a sensitive heritage context.
 
 The photoshoot documents the clean functional lines and open spatial geometries, with a fluid architectural dialogue between heritage structures and clinical environments.
 

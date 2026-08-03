@@ -66,7 +66,7 @@ images:
 
 ## Luxury Retail Architecture Photography: Miu Miu on Calle de Serrano, Madrid
 
-This commercial interior photography collection documents the flagship Miu **Miu boutique on** **Calle de Serrano** in Madrid’s upscale Salamanca district. The images present the store as a clear expression of the brand’s avant-garde, experimental identity and its high-fashion positioning.
+This commercial interior photography collection documents the flagship **Miu Miu boutique on** **Calle de Serrano** in Madrid’s upscale Salamanca district. The images present the store as a clear expression of the brand’s avant-garde, experimental identity and its high-fashion positioning.
 
 The photoshoot captures the immersive spatial layouts and hyper-specific textures that define Miu Miu’s architectural identity, giving the client a precise record of the boutique’s design language.
 

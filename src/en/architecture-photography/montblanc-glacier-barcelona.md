@@ -66,7 +66,7 @@ images:
 
 ## Storefront Architectural Photography: Montblanc Glacier Campaign
 
-This collection of retail architecture photography documents the **Montblanc “[Glacier](https://studioxag.com/work/montblanc-glacier/)”** seasonal window campaign at the brand’s boutique on **Passeig de Gràcia, Barcelona**. Created in partnership with the global creative production agency **[StudioXAG](https://studioxag.com)**, this installation marked a fresh, adventurous creative direction for the luxury brand, converting a commercial storefront into an eye-catching visual exploration of frozen alpine landscapes.
+This collection of retail architecture photography documents the **Montblanc “[Glacier](https://studioxag.com/work/montblanc-glacier/)”** seasonal window campaign at the brand’s boutique on **Passeig de Gràcia, Barcelona**. Created by the global creative agency **[StudioXAG](https://studioxag.com)**, this installation marked a fresh, adventurous creative direction for the luxury brand, converting a commercial storefront into an eye-catching visual exploration of frozen abstract landscapes.
 
 The photoshoot focuses on how modern visual merchandising can transform a high-end facade by adding layered depth and bold graphic textures.
 
@@ -75,7 +75,7 @@ The photoshoot focuses on how modern visual merchandising can transform a high-e
 The core of this spatial retail layout relies on an intricate interplay of translucent shapes and sharp linework.
 
 * **The Framing Narrative:** The boutique’s storefront windows are enhanced with high-impact, custom **cracked ice graphics** that border the display glass. The photographs show how these frosted, geometric patterns frame Montblanc’s luxury writing instruments, premium leather goods, and timepieces, while inviting street-level passersby to look more closely.
-* **Material and Contrast Interactions:** The backdrop of the display boxes recreates the stark, shifting tones of a deep glacier, mixing deep ocean blues with icy whites and polished metallic accents. The interior commercial photography highlights the contrast between these cold, jagged visual fixtures and the smooth, fine leather textures of the luxury products inside.
+* **Material and Contrast Interactions:** The backdrop of the display boxes recreates the stark, shifting tones of a deep glacier, mixing deep blues with icy whites and polished metallic accents. This luxury window display photography highlights the contrast between the cold, jagged visual fixtures and the smooth, fine leather textures of the luxury products inside.
 
 ### Technical Approach to Luxury Storefront Facades
 

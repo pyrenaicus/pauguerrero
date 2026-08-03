@@ -87,7 +87,7 @@ images:
 
 ## Museum Architectural Photography: Espais Volart, Fundació Vila Casas
 
-This interior architectural photography series documents the sweeping exhibition galleries of **Espais Volart**, a premier contemporary art centre managed by the **[Fundació Vila Casas](https://www.fundaciovilacasas.com)** in Barcelona. Housed in a repurposed building in the Eixample district, the shoot captures a major monographic exhibition of the expressive, large-format works of painter **Guerrero Medina**.
+This interior architectural photography series documents the sweeping exhibition galleries of **Espais Volart**, a premier contemporary art centre managed by the **[Fundació Vila Casas](https://www.fundaciovilacasas.com)** in Barcelona. Housed in a repurposed building in the Eixample district, the shoot captures a major monographic exhibition of the expressive, large-format works of painter **[Guerrero Medina](https://www.guerreromedina.com)**.
 
 The photographs highlight how Espais Volart’s minimalist, spacious design creates a silent but powerful canvas for Guerrero Medina’s vibrant contemporary fine art.
 

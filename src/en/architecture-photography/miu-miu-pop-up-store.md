@@ -80,7 +80,7 @@ images:
 
 ## Luxury Retail Architecture Photography: Miu Miu Pop-Up Store
 
-This commercial interior photography project captures the elegance of a temporary **Miu Miu Pop-Up Store** installation. Pop-up architecture and temporary spatial retail concepts have become important tools for haute couture houses, enabling brands to create highly specific thematic environments.
+This commercial interior photography set captures the elegance of a temporary **Miu Miu Pop-Up Store** installation. Pop-up architecture and temporary spatial retail concepts have become important tools for haute couture houses, enabling brands to create highly specific thematic environments.
 
 This photoshoot documents how avant-garde fashion design translates into structural branding, creating an immersive, limited-time destination for the luxury market.
 
@@ -95,4 +95,4 @@ The visual storytelling of a luxury retail pop-up relies on colour consistency, 
 
 Photographing luxury pop-ups requires a rapid, highly precise approach to architectural lighting and spatial constraints. Temporary installations often accommodate complex design ideas within compact or unconventional floor plans.
 
-The compositions use rigorous **orthogonal alignment** to maintain clean vertical lines, preserving the geometric truth of the temporary partition walls and built-in vanity mirrors. Managing reflections across glass display cases and mirrors while balancing the internal custom LED illumination grids provides a flawless, polished result. This series serves as a premium visual archive, preserving the spatial layout and careful craftsmanship of a high-end brand environment long after the physical pop-up closes.
+The compositions use rigorous **orthogonal alignment** to maintain clean vertical lines, preserving the geometric truth of the temporary partition walls. Managing reflections across glass display cases while balancing the internal custom LED illumination grids provides a flawless, polished result. This series serves as a premium visual archive, preserving the spatial layout and careful craftsmanship of a high-end brand environment long after the physical pop-up closes.

@@ -37,9 +37,9 @@ images:
 
 ## Residential Architecture Photography: 24 Houses in Amposta by HYBRIDa Architecture
 
-This exterior architectural photography documents a modern housing development of **24 houses in Amposta, Tarragona**. Designed by the innovative studio **[HYBRIDa Architecture](https://www.hybridarch.net/)**, the residential complex reinterprets traditional multi-family housing layouts into a unified row of contemporary two-story homes.
+This exterior architectural photography set documents a modern housing development of **24 dwellings in Amposta, Tarragona**. Designed by the innovative studio **[HYBRIDa Architecture](https://www.hybridarch.net/)**, the residential complex reinterprets traditional multi-family housing layouts into a unified row of contemporary two-story homes.
 
-The photoshoot captures the clean lines, geometric rhythms, and minimalist design language which define this modern residential expansion near Catalonia’s Ebro Delta region.
+The photoshoot captures the clean lines, geometric rhythms, and minimalist design language which define this modern residential expansion near the delta of Ebro river.
 
 ### Documenting Geometric Rhythms and Minimalist Facades
 

@@ -25,8 +25,8 @@ images:
   - layout: h
     items:         
       - src: "images/isidre-santacreu-pinetons-park-08.jpg"
-        alt: Outdoor space with two steel and wood modern shade structures and a large central jet water fountain against a clear blue sky.
-        caption: "High-angle landscape view of Pinetons Park, showing a central dirt and grass ridge dividing terraced plots with young tree plantations, bordered by distant residential buildings and hills under a cloudy sky."
+        alt: High-angle landscape view of Pinetons Park, showing a central dirt and grass ridge dividing terraced plots with young tree plantations, bordered by distant residential buildings and hills under a cloudy sky.
+        caption: ""
         contentLocation: "Ripollet, Barcelona"
         name: "Pinetons Park - Isidre Santacreu"
   - layout: hv
@@ -72,9 +72,9 @@ The photoshoot captures the large-scale geometric layouts, modern shade structur
 
 The visual storytelling of this public park photoshoot highlights structural linearity, functional public spaces, and natural scenery.
 
-* **Modern Shade Architectures:** A central visual anchor of the open plazas is two custom-designed, contemporary steel-and-wood **shade structures**. The photography uses low- and wide-angle frames to emphasise the geometry of these minimalist pergolas, showing how their timber slats and iron frames cast shadows throughout the stone walkways.
-* **The Central Water Jet Feature:** The series documents the park’s iconic landmark—a massive public fountain with a powerful **vertical water jet**. The compositions capture this feature from multiple angles, showing how the plume serves as a landmark visible from the surrounding town.
-* **Topographical and Linear Rhythms:** Rows of stone steps, gravel walkways, and winter trees carve clean paths through the landscape. The photographs frame these features as leading lines, showing the drainage and grading systems that handle rainwater and organise visitor movement.
+* **Modern Shade Architectures:** A central visual anchor of the open plazas is two custom-designed, contemporary steel-and-wood **shade structures**. The photography uses low and wide-angle frames to emphasise the geometry of these minimalist pergolas, showing how their timber slats and iron frames cast shadows throughout the gravel walkways.
+* **The Central Water Jet Feature:** The series documents the park’s iconic landmark—a massive public fountain with a powerful **vertical water jet**. The compositions capture this feature from multiple angles, showing how the plume serves as a landmark visible from the surrounding areas.
+* **Topographical and Linear Rhythms:** Rows of stone steps, gravel walkways, and trees carve clean paths through the landscape. The photographs frame these features as leading lines, showing the drainage and grading systems that handle rainwater and organise visitor movement.
 
 ### Technical Balance in Open-Air Portfolio Shoots
 
