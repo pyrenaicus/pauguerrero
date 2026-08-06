@@ -9,31 +9,37 @@ teaserAlt: "Tres personas examinando de cerca fotografías de paisajes enmarcada
 location: Girona
 venue: Biblioteca Carles Rahola
 images:
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-01.jpg
-    alt: "Dos personas viendo fotografías en una galería de arte, con grandes imágenes sin marco en la pared izquierda y fotos más pequeñas enmarcadas a la derecha."
-    contentLocation: "Girona"
-    name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-02.jpg
-    alt: "Un grupo de personas escuchando a un orador en una galería de arte, con grandes fotografías de paisajes expuestas en la pared detrás de ellos."
-    contentLocation: "Girona"
-    name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-03.jpg
-    alt: "Un grupo de personas escuchando atentamente a un orador en una galería de arte, con fotografías enmarcadas expuestas en la pared detrás de ellos."
-    contentLocation: "Girona"
-    name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-04.jpg
-    alt: "Personas explorando fotografías enmarcadas en una galería de arte espaciosa y bien iluminada."
-    contentLocation: "Girona"
-    name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-05.jpg
-    alt: "Tres personas examinando de cerca fotografías de paisajes enmarcadas en una pared de galería."
-    contentLocation: "Girona"
-    name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
-    description: ""
+  - layout: h
+    items: 
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-01.jpg
+        alt: "Dos personas viendo fotografías en una galería de arte, con grandes imágenes sin marco en la pared izquierda y fotos más pequeñas enmarcadas a la derecha."
+        contentLocation: "Girona"
+        name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-02.jpg
+        alt: "Un grupo de personas escuchando a un orador en una galería de arte, con grandes fotografías de paisajes expuestas en la pared detrás de ellos."
+        contentLocation: "Girona"
+        name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
+        description: ""
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-03.jpg
+        alt: "Un grupo de personas escuchando atentamente a un orador en una galería de arte, con fotografías enmarcadas expuestas en la pared detrás de ellos."
+        contentLocation: "Girona"
+        name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-04.jpg
+        alt: "Personas explorando fotografías enmarcadas en una galería de arte espaciosa y bien iluminada."
+        contentLocation: "Girona"
+        name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
+        description: ""
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-girona-05.jpg
+        alt: "Tres personas examinando de cerca fotografías de paisajes enmarcadas en una pared de galería."
+        contentLocation: "Girona"
+        name: "Exposición Paisaje y Leyenda del Conde Arnau en Girona"
+        description: ""
 ---
 
 Exposición _Paisaje y leyenda del conde Arnau_ en la biblioteca pública de Girona durante julio de 2016.

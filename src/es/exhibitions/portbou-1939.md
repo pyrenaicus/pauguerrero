@@ -7,76 +7,89 @@ teaser: images/teaser-pau-guerrero-portbou.jpg
 teaserAlt: "Dos fotografías de paisaje enmarcadas se muestran en una pared blanca con una pequeña fotografía en blanco y negro visible al fondo a través de una abertura."
 location: Portbou, Girona
 venue: MUME
-gallery:
-  - src: images/pau-guerrero-portbou-01.jpg
-    alt: "Dos fotografías de paisaje enmarcadas se muestran en una pared blanca con una pequeña fotografía en blanco y negro visible al fondo a través de una abertura."
-    contentLocation: "MUME, Portbou, Girona"
-    name: "Exposición El Día Después de la Retirada. Antoni Campañà. Portbou, 1939"
-    caption: 'foto: <a href="https://www.falguesfotografia.cat">Josep Ribas</a>'
-    creditText: "Josep Ribas"
-    creatorName: "Josep Ribas"
-    copyrightNotice: "Josep Ribas"
 images:
-  - src: images/pau-guerrero-portbou-02.jpg
-    alt: "Una vista de un pueblo costero con una gran estación de tren con múltiples vías terminales que atraviesan un valle y casas dispersas en la ladera de la colina, extendiéndose hacia el mar."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-03.jpg
-    alt: "Una vista costera panorámica con colinas verdes, abundantes cactus de higo chumbo, descendiendo hacia el mar, con un pequeño pueblo y un puerto deportivo enclavado en una bahía rodeada de montañas escarpadas."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-04.jpg
-    alt: "Un pueblo costero rodeado de colinas verdes, con una roca cubierta de líquenes en primer plano y vegetación exuberante que desciende hacia el mar, donde el pueblo está enclavado a lo largo de la costa."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-05.jpg
-    alt: "Una carretera sinuosa con un minúsculo edificio de piedra que parece un castillo a la izquierda y un pilar apilado colorido a la derecha, con un telón de fondo de colinas ondulantes bajo un cielo azul."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-06.jpg
-    alt: "Una vista panorámica de un edificio blanco rodeado de colinas cubiertas de arbustos y diferentes cactus, con una carretera sinuosa y un telón de fondo montañoso bajo un cielo parcialmente nublado."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-07.jpg
-    alt: "Un edificio abandonado con 'Porte de France, Souvenirs' escrito en la pared, cubierto de graffiti frente a una carretera vacía."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-08.jpg
-    alt: "Una carretera sinuosa que atraviesa colinas verdes, cubiertas de arbustos y rocas, hacia un pueblo costero enclavado entre montañas y el mar."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-09.jpg
-    alt: "Una playa tranquila de guijarros con aguas azules tranquilas, rodeada de colinas verdes y afloramientos rocosos."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-10.jpg
-    alt: "Una vista panorámica de un pueblo costero con una enorme estación de tren con múltiples vías terminales, rodeado de colinas verdes y con vistas a una bahía serena."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-11.jpg
-    alt: "Un equipo de filmación rodando en una ladera con un telón de fondo montañoso panorámico. El equipo incluye un camarógrafo y una persona sosteniendo un micrófono boom, están filmando a dos personas montando un trípode con una cámara."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-12.jpg
-    alt: "Un fotógrafo con un trípode a punto de capturar una vista panorámica de un pueblo costero con una gran estación de tren enclavada entre colinas."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
-  - src: images/pau-guerrero-portbou-13.jpg
-    alt: "Un fotógrafo usando un trípode en una ladera rocosa, capturando una escena de paisaje con montañas al fondo bajo un cielo azul despejado."
-    contentLocation: "Portbou, Girona"
-    name: "Portbou"
-    description: ""
+  - layout: h
+    items: 
+      - src: images/pau-guerrero-portbou-01.jpg
+        alt: "Dos fotografías de paisaje enmarcadas se muestran en una pared blanca con una pequeña fotografía en blanco y negro visible al fondo a través de una abertura."
+        contentLocation: "MUME, Portbou, Girona"
+        name: "Exposición El Día Después de la Retirada. Antoni Campañà. Portbou, 1939"
+        caption: 'foto: <a href="https://www.falguesfotografia.cat">Josep Ribas</a>'
+        creditText: "Josep Ribas"
+        creatorName: "Josep Ribas"
+        copyrightNotice: "Josep Ribas"
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-portbou-02.jpg
+        alt: "Una vista de un pueblo costero con una gran estación de tren con múltiples vías terminales que atraviesan un valle y casas dispersas en la ladera de la colina, extendiéndose hacia el mar."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+      - src: images/pau-guerrero-portbou-03.jpg
+        alt: "Una vista costera panorámica con colinas verdes, abundantes cactus de higo chumbo, descendiendo hacia el mar, con un pequeño pueblo y un puerto deportivo enclavado en una bahía rodeada de montañas escarpadas."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-portbou-04.jpg
+        alt: "Un pueblo costero rodeado de colinas verdes, con una roca cubierta de líquenes en primer plano y vegetación exuberante que desciende hacia el mar, donde el pueblo está enclavado a lo largo de la costa."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+      - src: images/pau-guerrero-portbou-05.jpg
+        alt: "Una carretera sinuosa con un minúsculo edificio de piedra que parece un castillo a la izquierda y un pilar apilado colorido a la derecha, con un telón de fondo de colinas ondulantes bajo un cielo azul."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-portbou-06.jpg
+        alt: "Una vista panorámica de un edificio blanco rodeado de colinas cubiertas de arbustos y diferentes cactus, con una carretera sinuosa y un telón de fondo montañoso bajo un cielo parcialmente nublado."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+      - src: images/pau-guerrero-portbou-07.jpg
+        alt: "Un edificio abandonado con 'Porte de France, Souvenirs' escrito en la pared, cubierto de graffiti frente a una carretera vacía."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-portbou-08.jpg
+        alt: "Una carretera sinuosa que atraviesa colinas verdes, cubiertas de arbustos y rocas, hacia un pueblo costero enclavado entre montañas y el mar."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+      - src: images/pau-guerrero-portbou-09.jpg
+        alt: "Una playa tranquila de guijarros con aguas azules tranquilas, rodeada de colinas verdes y afloramientos rocosos."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-portbou-10.jpg
+        alt: "Una vista panorámica de un pueblo costero con una enorme estación de tren con múltiples vías terminales, rodeado de colinas verdes y con vistas a una bahía serena."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+      - src: images/pau-guerrero-portbou-11.jpg
+        alt: "Un equipo de filmación rodando en una ladera con un telón de fondo montañoso panorámico. El equipo incluye un camarógrafo y una persona sosteniendo un micrófono boom, están filmando a dos personas montando un trípode con una cámara."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-portbou-12.jpg
+        alt: "Un fotógrafo con un trípode a punto de capturar una vista panorámica de un pueblo costero con una gran estación de tren enclavada entre colinas."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
+      - src: images/pau-guerrero-portbou-13.jpg
+        alt: "Un fotógrafo usando un trípode en una ladera rocosa, capturando una escena de paisaje con montañas al fondo bajo un cielo azul despejado."
+        contentLocation: "Portbou, Girona"
+        name: "Portbou"
+        description: ""
 ---
 
 A finales de 2020, [Arnau Gonzàlez i Vilalta](https://portalrecerca.uab.cat/en/persons/arnau-gonzalez-vilalta-3) me propuso fotografiar el paisaje alrededor de Portbou, entre Coll del Frare y Coll de Belitres. Las fotografías formarían parte de la exposición _El Día Después de la Retirada. Antoni Campañà. Portbou, 1939: Autorretrato de la Ausencia_ en el [MUME](https://www.museuexili.cat/en/) (Museo Memorial del Exilio) en La Jonquera, y servirían como contrapunto a las fotografías que [Antoni Campañà](https://en.wikipedia.org/wiki/Antoni_Campa%C3%B1%C3%A0) tomó en marzo de 1939 cuando, acompañando a las tropas franquistas, resiguió los restos de la retirada del ejército republicano hacia la frontera francesa.

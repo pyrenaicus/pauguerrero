@@ -10,86 +10,104 @@ teaserAlt: "Dues persones veient de prop una fotografia en una sala de galeria a
 location: Camallera, Girona
 venue: Km7 Art Gallery
 images:
-  - src: images/pau-guerrero-monegroskm7-01.jpg
-    alt: "Vista d'exposició amb una persona passant davant d'obres d'art emmarcades."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-02.jpg
-    alt: "Espai d'exposició amb obres d'art emmarcades a les parets."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-03.jpg
-    alt: "Persones veient obres d'art en un espai d'exposició ben il·luminat amb peces emmarcades a les parets i una taula al centre."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-04.jpg
-    alt: "Persones veient obres d'art emmarcades en una sala d'exposició espaiosa i lluminosa amb terra de fusta i un sostre alt i corbat."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-05.jpg
-    alt: "Sala d'exposició lluminosa amb obres d'art emmarcades a les parets, un sostre alt i corbat, terra de fusta i una taula blanca central amb llibres exposats."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-06.jpg
-    alt: "Sala d'exposició amb una sèrie de fotografies de paisatges disposades en una sola filera al llarg de les parets blanques, amb un sostre alt i corbat i terra de fusta."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-07.jpg
-    alt: "Dues persones dempeus davant d'una paret amb fotografies de paisatges, somrient a la càmera, una sostenint un llibre. El fons mostra un paisatge tranquil i serè a les fotografies."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-08.jpg
-    alt: "Persones reunides en una galeria d'art, interactuant amb l'art i entre elles. Una persona està signant un llibre sobre una taula, mentre que d'altres estan discutint i veient fotografies de paisatges exposades a les parets al fons. L'atmosfera és animada i interactiva."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-09.jpg
-    alt: "Un home amb camisa blanca dempeus davant de fotografies de paisatges en una paret de galeria. Les fotografies representen diverses escenes naturals, incloent camps i horitzons llunyans."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-10.jpg
-    alt: "Dues persones parlant en una sala de galeria amb fotografies de paisatges a la paret."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-11.jpg
-    alt: "Dues persones veient de prop una fotografia en una sala de galeria amb fotografies de paisatges a la paret."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-12.jpg
-    alt: "Sala de galeria amb un sostre corbat i fotografies de paisatges a les parets. Gran porta a la dreta oberta a un jardí."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-13.jpg
-    alt: "Díptic amb una fotografia de paisatge d'un camp fangós a l'esquerra i un dibuix abstracte a tinta d'un paisatge similar a la dreta."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-14.jpg
-    alt: "Díptic amb una fotografia de paisatge boirós d'un camp amb turons al fons a la part superior i una pintura abstracta d'un paisatge a la part inferior."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-15.jpg
-    alt: "Díptic amb una pintura abstracta d'un paisatge de muntanya i camp a l'esquerra i una fotografia d'un congost rocós boscós a la dreta."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
-  - src: images/pau-guerrero-monegroskm7-16.jpg
-    alt: "Díptic amb una fotografia d'un paisatge boirós amb arbres i els seus reflexos a l'aigua a l'esquerra i una pintura abstracta monocromàtica d'un paisatge similar a la dreta."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposició Monegros al Km7"
-    description: ""
+  - layout: h
+    items: 
+      - src: images/pau-guerrero-monegroskm7-01.jpg
+        alt: "Vista d'exposició amb una persona passant davant d'obres d'art emmarcades."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-02.jpg
+        alt: "Espai d'exposició amb obres d'art emmarcades a les parets."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-03.jpg
+        alt: "Persones veient obres d'art en un espai d'exposició ben il·luminat amb peces emmarcades a les parets i una taula al centre."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-04.jpg
+        alt: "Persones veient obres d'art emmarcades en una sala d'exposició espaiosa i lluminosa amb terra de fusta i un sostre alt i corbat."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-05.jpg
+        alt: "Sala d'exposició lluminosa amb obres d'art emmarcades a les parets, un sostre alt i corbat, terra de fusta i una taula blanca central amb llibres exposats."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-06.jpg
+        alt: "Sala d'exposició amb una sèrie de fotografies de paisatges disposades en una sola filera al llarg de les parets blanques, amb un sostre alt i corbat i terra de fusta."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-07.jpg
+        alt: "Dues persones dempeus davant d'una paret amb fotografies de paisatges, somrient a la càmera, una sostenint un llibre. El fons mostra un paisatge tranquil i serè a les fotografies."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-08.jpg
+        alt: "Persones reunides en una galeria d'art, interactuant amb l'art i entre elles. Una persona està signant un llibre sobre una taula, mentre que d'altres estan discutint i veient fotografies de paisatges exposades a les parets al fons. L'atmosfera és animada i interactiva."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-09.jpg
+        alt: "Un home amb camisa blanca dempeus davant de fotografies de paisatges en una paret de galeria. Les fotografies representen diverses escenes naturals, incloent camps i horitzons llunyans."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-10.jpg
+        alt: "Dues persones parlant en una sala de galeria amb fotografies de paisatges a la paret."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-11.jpg
+        alt: "Dues persones veient de prop una fotografia en una sala de galeria amb fotografies de paisatges a la paret."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-12.jpg
+        alt: "Sala de galeria amb un sostre corbat i fotografies de paisatges a les parets. Gran porta a la dreta oberta a un jardí."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-13.jpg
+        alt: "Díptic amb una fotografia de paisatge d'un camp fangós a l'esquerra i un dibuix abstracte a tinta d'un paisatge similar a la dreta."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-14.jpg
+        alt: "Díptic amb una fotografia de paisatge boirós d'un camp amb turons al fons a la part superior i una pintura abstracta d'un paisatge a la part inferior."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+      - src: images/pau-guerrero-monegroskm7-15.jpg
+        alt: "Díptic amb una pintura abstracta d'un paisatge de muntanya i camp a l'esquerra i una fotografia d'un congost rocós boscós a la dreta."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-monegroskm7-16.jpg
+        alt: "Díptic amb una fotografia d'un paisatge boirós amb arbres i els seus reflexos a l'aigua a l'esquerra i una pintura abstracta monocromàtica d'un paisatge similar a la dreta."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposició Monegros al Km7"
+        description: ""
 ---
 
 ### Monegros inèdit

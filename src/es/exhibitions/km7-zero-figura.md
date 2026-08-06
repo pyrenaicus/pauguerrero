@@ -8,11 +8,13 @@ teaserAlt: "Cartel de la exposición '0 figura' en Km7 espai d'ART, con varios a
 location: Camallera, Girona
 venue: Km7 Art Gallery
 images:
-  - src: images/zero-figura-km7.jpg
-    alt: "Cartel de la exposición '0 figura' en Km7 espai d'ART, con varios artistas, del 28 de julio al 19 de agosto de 2018."
-    contentLocation: "Saus-Camallera, Girona"
-    name: "Exposición 0 Figura en Km7 Espai d'Art"
-    description: ""
+  - layout: h
+    items: 
+      - src: images/zero-figura-km7.jpg
+        alt: "Cartel de la exposición '0 figura' en Km7 espai d'ART, con varios artistas, del 28 de julio al 19 de agosto de 2018."
+        contentLocation: "Saus-Camallera, Girona"
+        name: "Exposición 0 Figura en Km7 Espai d'Art"
+        description: ""
 ---
 
 En 1960, la [Sala Gaspar](https://www.galeriajoangaspar.com/gjg/eng/contents/history) de Barcelona organizó una exposición llamada **0 Figura**, donde todas las obras medían 14x18 cm. Muchos de los artistas destacados de esa época participaron.

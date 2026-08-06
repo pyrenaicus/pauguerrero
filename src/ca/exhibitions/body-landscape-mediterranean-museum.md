@@ -10,19 +10,23 @@ teaserAlt: "Dues persones veient fotografies emmarcades en una paret de galeria 
 location: Torroella de Montgrí, Girona
 venue: Museu de la Mediterrània
 images:
-  - src: images/pau-guerrero-body-landscape-torroella-01.jpg
-    alt: "Dues persones veient fotografies emmarcades en una paret de galeria sota focus."
-    caption: "Espai expositiu, Cos - Paisatge."
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: "Exposició Cos-Paisatge"
-    description: ""
-  - src: images/pau-guerrero-body-landscape-torroella-02.jpg
-    alt: "Cartell per a l'exposició 'Cos-paisatge' d'Eugeni Prieto i Pau Guerrero."
-    caption: "Targeta d'exposició amb imatge composta."
-    copyrightNotice: "Foto Torroella"
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: "Cartell de l'exposició Cos-Paisatge"
-    description: ""
+  - layout: h
+    items:
+      - src: images/pau-guerrero-body-landscape-torroella-01.jpg
+        alt: "Dues persones veient fotografies emmarcades en una paret de galeria sota focus."
+        caption: "Espai expositiu, Cos - Paisatge."
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: "Exposició Cos-Paisatge"
+        description: ""
+  - layout: v
+    items:        
+      - src: images/pau-guerrero-body-landscape-torroella-02.jpg
+        alt: "Cartell per a l'exposició 'Cos-paisatge' d'Eugeni Prieto i Pau Guerrero."
+        caption: "Targeta d'exposició amb imatge composta."
+        copyrightNotice: "Foto Torroella"
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: "Cartell de l'exposició Cos-Paisatge"
+        description: ""
 ---
 
 Exposició Cos-Paisatge al [Museu de la Mediterrània](https://www.museudelamediterrania.cat/) de Torroella de Montgrí durant l'agost de 2022.

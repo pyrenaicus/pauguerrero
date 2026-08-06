@@ -10,19 +10,23 @@ teaserAlt: "Dos personas viendo fotografías enmarcadas en una pared de galería
 location: Torroella de Montgrí, Girona
 venue: Museu de la Mediterrània
 images:
-  - src: images/pau-guerrero-body-landscape-torroella-01.jpg
-    alt: "Dos personas viendo fotografías enmarcadas en una pared de galería bajo focos."
-    caption: "Espacio de exposición, Body - Landscape."
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: "Exposición Cuerpo-Paisaje"
-    description: ""
-  - src: images/pau-guerrero-body-landscape-torroella-02.jpg
-    alt: "Cartel de la exposición 'Body-Landscape' de Eugeni Prieto y Pau Guerrero."
-    caption: "Cartel de la exposición con imagen compuesta."
-    copyrightNotice: "Foto Torroella"
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: "Exposición Cuerpo-Paisaje"
-    description: ""
+  - layout: h
+    items:
+      - src: images/pau-guerrero-body-landscape-torroella-01.jpg
+        alt: "Dos personas viendo fotografías enmarcadas en una pared de galería bajo focos."
+        caption: "Espacio de exposición, Body - Landscape."
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: "Exposición Cuerpo-Paisaje"
+        description: ""
+  - layout: v
+    items:        
+      - src: images/pau-guerrero-body-landscape-torroella-02.jpg
+        alt: "Cartel de la exposición 'Body-Landscape' de Eugeni Prieto y Pau Guerrero."
+        caption: "Cartel de la exposición con imagen compuesta."
+        copyrightNotice: "Foto Torroella"
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: "Exposición Cuerpo-Paisaje"
+        description: ""
 ---
 
 Exposición Cuerpo-Paisaje en el [Museu de la Mediterrània](https://www.museudelamediterrania.cat/) de Torroella de Montgrí durante agosto de 2022.
