@@ -65,7 +65,7 @@ export default {
       url: "/ca/politica-de-privacitat",
     },
     skipText: "Saltar al contingut principal",
-    switchLang: "Canviar idioma",
+    switchLang: "Canviar l'idioma",
     termsOfService: {
       text: "Termes de Servei",
       url: "/ca/condicions-de-servei/",

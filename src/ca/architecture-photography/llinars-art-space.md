@@ -95,20 +95,20 @@ images:
         name: "Espai d'Art Llinars - Aresta a+u arquitectes"
 ---
 
-## Fotografia d'arquitectura cultural: Espai d'Art de Llinars per Aresta a+u
+## Fotografia d'arquitectura cultural: Espai d'Art de Llinars, un projecte d'Aresta a+u
 
-Aquest portafoli de fotografia arquitectònica documenta l'**Espai d'Art de Llinars**, un equipament cultural contingut a **Llinars del Vallès, Barcelona**. Dissenyat pel progressista estudi d'arquitectura **[Aresta a+u](https://aresta.net)**, aquest centre d'art públic transforma una distribució estructural rígida en una atmosfera de museu tranquil·la i contemplativa, filtrant la llum natural i maximitzant l'espai expositiu.
+Aquest portafoli de fotografia arquitectònica documenta l'**Espai d'Art Llinars**, un equipament cultural a **Llinars del Vallès, Barcelona**. Dissenyat per l'estudi d'arquitectura **[Aresta a+u](https://aresta.net)**, aquest centre d'art públic transforma un antic Centre d'Atenció Primària, una distribució estructural rígida, en una atmosfera de museu tranquil·la i contemplativa.
 
-La sessió fotogràfica captura els ritmes geomètrics serens, la simplicitat material i el flux arquitectònic del disseny contemporani d'exposicions culturals.
+La sessió fotogràfica captura els ritmes geomètrics serens, la simplicitat material i el flux espacial del disseny contemporani de sales d'exposicions d'Aresta a+u.
 
 ### Documentant la geometria de la galeria, estructures de fusta i llum
 
-La narrativa visual d'aquesta sessió fotogràfica a la galeria d'art es cendra en l'honestedat estructural, la profunditat espacial i la relació entre l'interior net i el món natural de l'exterior.
+La narrativa visual d'aquesta sessió fotogràfica es centra en l'honestedat estructural, la profunditat espacial i la relació entre l'interior minimalista i el món natural de l'exterior.
 
-* **La distribució expositiva “Box-in-Box”:** El disseny compta amb una pell interior d'empostissats blancs, disposats mitjançant una estructura de fusta en brut i minimalista. La fotografia utilitza angles ortogonals per emfatitzar aquestes reixes estructurals, mostrant com els sistemes de tabicació flotant divideixen l'espai de la galeria alhora que el mantenen obert i ventilat.
-* **Enquadrant el paisatge exterior:** Un ancoratge visual clau en aquesta sèrie arquitectònica presenta un gran finestral enretirat amb marc de fusta. La composició tracta aquesta obertura com una pintura de paisatge viva, enquadrant els arbres verds de l'exterior per contrastar les textures de la natura amb els plans blancs i llisos de l'interior de la galeria.
-* **Il·luminació zenital atmosfèrica:** El disseny d'il·luminació arquitectònica està integrat per difondre la llum de manera uniforme al llarg de les exhibicions de la galeria. Les exposicions es calculen en funció de com els rails de focs i les obertures estructurals il·luminen les parets verticals de la galeria, suavitzant les ombres i preservant el fons neutre que requereixen les exposicions de belles arts.
+* **La distribució expositiva “Box-in-Box”:** El disseny compta amb una pell interior d'empostissats blancs, disposats mitjançant una estructura de fusta en brut i minimalista. La fotografia utilitza composicions ortogonals per emfatitzar aquestes trames estructurals, mostrant com els sistemes de tabicació flotant divideixen l'espai de la galeria alhora que el mantenen obert i fluid.
+* **Enquadrant el paisatge exterior:** Un ancoratge visual clau en aquesta sèrie arquitectònica ve donat per un gran finestral enretirat amb marc i banc de fusta. La composició tracta aquesta obertura com una pintura de paisatge viva, enquadrant els arbres verds de l'exterior per contrastar les textures de la natura amb els plans blancs i llisos de l'interior de la galeria.
+* **Il·luminació zenital atmosfèrica:** El disseny d'il·luminació arquitectònica està integrat per difondre la llum de manera uniforme al llarg dels espais expositius  de la galeria. Les exposicions fotogràfiques es calculen en funció de com els sistemes d'il·luminació artifical i les obertures exteriors il·luminen els paraments verticals de la galeria, suavitzant les ombres i preservant el fons neutre que requereixen les exposicions d'art.
 
-### Precisió tècnica en espais de galeries públiques
+### Precisió tècnica en espais expositius
 
-Fotografiar edificis públics i culturals requereix una precisió compositiva absoluta per honorar la intenció dels arquitectes. Cada enquadrament està compost amb una estricta alineació vertical per assegurar que les columnes de fusta i les línies dels empostissats no es distorsionin ni es torcin. En equilibrar els rails de llum artificial interior amb la llum ambiental que entra a través dels amplis finestrals, les fotografies finals ofereixen un arxiu visual nítid, precís i atemporal de la contribució d'Aresta a+u a l'arquitectura cultural pública a Catalunya.
+Fotografiar edificis culturals requereix una precisió compositiva absoluta per honorar la intenció original dels arquitectes. Cada enquadrament està compost amb una estricta alineació vertical per assegurar que les línies verticals i horitzontals no es distorsionin. En equilibrar la llum artificial interior amb la llum ambiental que entra a través dels amplis finestrals, les fotografies finals ofereixen un document visual nítid, precís i atemporal de la contribució d'Aresta a+u a l'arquitectura cultural pública a Catalunya.

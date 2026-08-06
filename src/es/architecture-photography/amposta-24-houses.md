@@ -39,7 +39,7 @@ images:
 
 Esta fotografía arquitectónica de exteriores documenta una moderna promoción residencial de **24 viviendas en Amposta, Tarragona**. Diseñado por el innovador estudio **[HYBRIDa Architecture](https://www.hybridarch.net/)**, el complejo residencial reinterpreta las distribuciones tradicionales de las viviendas plurifamiliares en una hilera unificada de casas contemporáneas de dos plantas.
 
-La sesión fotográfica captura las líneas limpias, los ritmos geométricos y el lenguaje de diseño minimalista que definen esta moderna expansión residencial cerca de la región del Delta del Ebro en Cataluña.
+La sesión fotográfica captura las líneas limpias, los ritmos geométricos y el lenguaje de diseño minimalista que definen esta moderna expansión residencial cerca de la región del delta del Ebro en Cataluña.
 
 ### Documentando ritmos geométricos y fachadas minimalistas
 
@@ -53,4 +53,4 @@ La narrativa visual de esta sesión en la promoción residencial se centra en ca
 
 Fotografiar una larga hilera secuencial de estructuras residenciales exige un marco compositivo disciplinado. Para preservar la intención de los planos de HYBRIDa Architecture, las imágenes se ejecutan con una escrupulosa **alineación ortogonal**, manteniendo todas las líneas verticales, esquinas y juntas de las ventanas perfectamente verticales y libres de la distorsión del objetivo gran angular.
 
-Al equilibrar el cielo costero expansivo y sin sombras con las texturas detalladas de las fachadas de yeso y las aceras, esta pieza de portafolio de fotografía arquitectónica presenta con claridad el diseño residencial contemporáneo en el sur de Cataluña.
+Al equilibrar el cielo costero expansivo y sin sombras con las texturas detalladas de las fachadas, esta pieza de portafolio de fotografía arquitectónica presenta con claridad el diseño residencial contemporáneo en el sur de Cataluña.

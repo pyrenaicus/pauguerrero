@@ -61,9 +61,9 @@ images:
         name: "IES Fontajau - Estudi Massip-Bosch Arquitectes"
 ---
 
-## Fotografía de arquitectura educativa: IES Fontajau por EMBA
+## Fotografía de arquitectura educativa: IES Fontajau
 
-Esta muestra de fotografía arquitectónica documenta la moderna estructura del **IES Fontajau**, un instituto público de educación secundaria en el barrio de Fontajau, en Girona. Diseñado por **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, bajo la dirección de Enric Massip-Bosch, este edificio educativo es un estudio magistral de diseño institucional contemporáneo.
+Esta muestra de fotografía arquitectónica documenta la moderna estructura del **IES Fontajau**, un instituto público de educación secundaria en el barrio de Fontajau, en Girona. Diseñado por **[EMBA](https://www.emba.cat)**, bajo la dirección de **Enric Massip-Bosch**, este edificio educativo es un estudio magistral de diseño institucional contemporáneo.
 
 La sesión fotográfica se centra en cómo la arquitectura pública puede fomentar un entorno de aprendizaje inspirador a través de geometrías estructurales limpias, grandes ventanales y recorridos comunitarios integrados.
 

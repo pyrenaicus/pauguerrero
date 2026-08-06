@@ -90,22 +90,22 @@ images:
         name: "Casa de madera - Qubba arquitectes"
 ---
 
-## Fotografía de arquitectura de exteriores: La Casa de Madera por Qubba Arquitectes
+## Fotografía de arquitectura: La Casa de Madera por Qubba Arquitectes
 
-Esta serie de fotografía arquitectónica residencial documenta la **Casa de Madera**, una sorprendente vivienda contemporánea diseñada por el innovador estudio **[Qubba Arquitectes](https://qubba.net)**. Alejándose de la mampostería urbana tradicional, el proyecto adopta la construcción ecológica y las formas estructurales minimalistas, ofreciendo un estudio sobre cómo los elementos de madera natural se integran en el diseño del paisaje moderno.
+Esta serie de fotografía arquitectónica residencial documenta la **Casa de Madera**, una sorprendente vivienda contemporánea diseñada por el innovador estudio **[Qubba Arquitectes](https://qubba.net)** de Barcelona. Alejándose de la mampostería tradicional, el proyecto adopta la construcción ecológica y las formas estructurales minimalistas, ofreciendo un estudio sobre cómo los elementos de madera natural se integran en el diseño de paisaje moderno.
 
 La sesión fotográfica destaca las líneas geométricas nítidas, las transiciones de volumen y las cualidades táctiles de la arquitectura residencial sostenible.
 
 ### Documentando volúmenes geométricos y revestimientos de madera
 
-La narrativa visual de esta sesión de arquitectura de exteriores se centra en la forma estructural, la honestidad material y la interacción de la luz natural con las superficies orgánicas.
+La narrativa visual de esta sesión de fotografía de arquitectura se centra en la forma estructural, la honestidad material y la interacción de la luz natural con las superficies naturales.
 
-- **Composición de doble volumen:** La casa está dividida estructuralmente en dos cuerpos o volúmenes distintos que se intersectan, cada uno rematado con un tejado limpio de pendiente inclinada. La fotografía utiliza encuadres precisos de gran angular para enfatizar este juego geométrico, capturando cómo las dos estructuras se equilibran entre sí al tiempo que definen el espacio exterior circundante.
-- **La textura de la madera natural:** Un elemento definitorio de la vivienda es su extenso **revestimiento exterior de madera**. Las exposiciones fotográficas se calibran cuidadosamente para enfatizar la veta fina, los tonos cambiantes y el ritmo lineal de los paneles de madera. Al capturar la fachada desde diferentes ángulos a lo largo del día, las imágenes ilustran cómo la luz del sol proyecta sombras geométricas cambiantes sobre la madera, dotando al edificio de un carácter dinámico y vivo.
-- **Aberturas espaciales minimalistas:** Ventanas estratégicamente colocadas perforan las superficies blancas y limpias y los marcos de madera. La composición enmarca estas aberturas para mostrar cómo el interior minimalista se conecta con la fachada exterior, manteniendo la privacidad al tiempo que se maximiza la luz natural.
+- **Composición de doble volumen:** La casa está dividida estructuralmente en dos cuerpos o volúmenes distintos que se relacionan entre sí, cada uno rematado con una cubierta limpia de pendiente a dos aguas del mismo material que los paramentos verticales exteriores. La fotografía utiliza encuadres precisos de gran angular para enfatizar este juego geométrico, capturando cómo las dos estructuras se equilibran entre sí al tiempo que definen el espacio exterior intermedio.
+- **La textura de la madera natural teñida:** Un elemento definitorio de la vivienda es su extenso **revestimiento exterior de madera**. Las exposiciones fotográficas se calibran cuidadosamente para enfatizar la veta fina, los tonos cambiantes y el ritmo lineal de los oscuros paneles de madera. Al capturar la fachada desde diferentes ángulos a lo largo del día, las imágenes ilustran cómo la luz del sol proyecta sombras geométricas cambiantes sobre la madera, dotando al edificio de un carácter dinámico y vivo.
+- **Aberturas espaciales minimalistas:** Ventanas estratégicamente colocadas perforan las superficies blancas y limpias en el interior, y la madera oscura en el exterior. La composición enmarca estas aberturas para mostrar cómo el interior minimalista se conecta con el espacio exterior, manteniendo la continuidad espacial al tiempo que se maximiza la luz natural.
 
 ### Un enfoque técnico preciso para espacios exteriores
 
-Fotografiar estructuras residenciales modernas e independientes requiere un ojo agudo para los puntos de fuga y la armonía ambiental.
+Fotografiar estructuras residenciales modernas e independientes requiere de un ojo agudo para los puntos de fuga y la armonía ambiental.
 
-Las líneas verticales están estrictamente alineadas en cada encuadre para evitar distorsiones no deseadas en las líneas de las cubiertas inclinadas y los volúmenes estructurales. Al equilibrar el cielo brillante del día con los tonos cálidos y orgánicos de la fachada de madera, esta pieza del portafolio de fotografía arquitectónica archiva limpiamente el dominio de Qubba Arquitectes en la forma urbana sostenible y el diseño contemporáneo de volúmenes residenciales.
+Las líneas verticales están estrictamente alineadas en cada encuadre para evitar distorsiones no deseadas en las líneas de las cubiertas inclinadas y los volúmenes estructurales. Al equilibrar el cielo brillante del día con los tonos oscuros y orgánicos de la fachada de madera, esta pieza del portafolio de fotografía arquitectónica documenta claramente el dominio de **Qubba Arquitectes** en la ideación arquitectónica sostenible y el diseño contemporáneo de volúmenes residenciales.

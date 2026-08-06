@@ -71,9 +71,9 @@ images:
         name: "Apartamento en Poblenou - Qubba arquitectes"
 ---
 
-## Fotografía de arquitectura residencial: Apartamento Poblenou II por Qubba Arquitectes
+## Fotografía de arquitectura residencial: Reforma de un apartamento en Poblenou por Qubba Arquitectes
 
-Esta serie de fotografía de interiores arquitectónicos retrata la vida urbana moderna en el **Poblenou, Barcelona**. Diseñada por **[Qubba Arquitectes](https://qubba.net)**, esta renovación residencial transforma un espacio clásico en el antiguo corazón industrial de Barcelona en un hogar contemporáneo sofisticado y lleno de luz.
+Esta serie de fotografía de interiores arquitectónicos retrata la reforma de un apartamento moderno en el barrio de **Poblenou, Barcelona**. Diseñada por **[Qubba Arquitectes](https://qubba.net)**, esta renovación residencial transforma un espacio clásico en el antiguo corazón industrial de Barcelona en una vivienda contemporánea sofisticada y llena de luz.
 
 La sesión fotográfica muestra cómo las intervenciones minimalistas modernas pueden honrar y realzar el carácter industrial de un edificio a través de una secuenciación espacial deliberada y materiales en bruto refinados.
 
@@ -81,8 +81,8 @@ La sesión fotográfica muestra cómo las intervenciones minimalistas modernas p
 
 La narrativa visual de esta sesión de diseño de interiores destaca los espacios abiertos, los contrastes de texturas y la división inteligente de plantas urbanas de tamaño medio.
 
-* **Espacios de transición fluidos:** Alejándose de los pasillos rígidos y cerrados, el apartamento adopta un flujo de estilo abierto. La fotografía utiliza profundas líneas de fuga para resaltar esta continuidad espacial, guiando la mirada del espectador desde la entrada hacia las zonas comunes principales.
-* **Materialidad de inspiración industrial:** El lenguaje del diseño funciona armónicamente con los elementos arquitectónicos en bruto. Las imágenes muestran una mezcla texturizada de revestimiento cerámico liso, armarios neutros con vetas de madera y estanterías abiertas minimalistas. Las exposiciones, equilibradas con precisión, acentúan la veta rica y orgánica de los elementos de madera frente a las superficies industriales más frías, dotando al piso de una personalidad conectada con el entorno pero a la vez aérea.
+* **Espacios de transición fluidos:** Alejándose de los pasillos rígidos y cerrados, el apartamento adopta un estilo abierto y fluido. La fotografía utiliza profundas líneas de fuga para resaltar esta continuidad espacial, guiando la mirada del espectador desde la entrada hacia las zonas comunes principales.
+* **Materialidad de inspiración industrial:** El lenguaje del diseño funciona armónicamente con los elementos arquitectónicos en bruto. Las imágenes muestran una mezcla texturizada de revestimiento cerámico liso, armarios neutros con vetas de madera y estanterías abiertas minimalistas. Las exposiciones, equilibradas con precisión, acentúan la veta rica y orgánica de los elementos de madera frente a las superficies verticales de ladrillo visto, dotando al piso de una personalidad conectada con su pasado y el entorno.
 * **Elementos contemporáneos inteligentes:** En las zonas privadas, las distribuciones compactas se maximizan mediante el uso de elegantes puertas correderas y armarios geométricos a medida. El encuadre muestra cómo estos componentes ocultos optimizan el uso de los metros cuadrados físicos al tiempo que preservan líneas de visión limpias e continuas en todo el hogar.
 
 ### Precisión técnica en sesiones arquitectónicas de estilo loft

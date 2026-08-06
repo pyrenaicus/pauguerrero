@@ -65,13 +65,13 @@ images:
         name: "Miu Miu Store, Madrid"
 ---
 
-## Fotografía de arquitectura comercial de lujo: Miu Miu en la Calle de Serrano, Madrid
+## Fotografía de arquitectura comercial de lujo: Miu Miu en calle de Serrano, Madrid
 
-Esta colección de fotografía de interiores comerciales documenta la tienda insignia de **Miu Miu en la Calle de Serrano**, en el exclusivo distrito de Salamanca de Madrid. Las imágenes presentan la tienda como una clara expresión de la identidad vanguardista y experimental de la marca, así como de su posicionamiento en la alta costura.
+Esta colección de fotografía de interiores comerciales documenta la tienda insignia de **Miu Miu en la calle de Serrano**, en el exclusivo barrio de Salamanca de Madrid. Las imágenes presentan la tienda como una clara expresión de la identidad vanguardista y experimental de la marca, así como de su posicionamiento en la alta costura.
 
 La sesión fotográfica captura las distribuciones espaciales inmersivas y las texturas hiperespecíficas que definen la identidad arquitectónica de Miu Miu, ofreciendo al cliente un registro preciso del lenguaje de diseño de la boutique.
 
-### Documentando interiores en azul monocromático y el damasco identitario
+### Documentando interiores en azul monocromático y damasco de marca
 
 La narrativa visual de esta sesión fotográfica en la boutique de gama alta se centra en un lenguaje de diseño audaz y monocromático que comunica la identidad de retail de lujo de la tienda.
 
@@ -83,4 +83,4 @@ La narrativa visual de esta sesión fotográfica en la boutique de gama alta se 
 
 Fotografiar una tienda insignia en una arteria comercial tan prominente como la calle Serrano requiere una ejecución técnica rigurosa.
 
-Cada encuadre está tomado utilizando una impecable **alineación ortogonal** para mantener los pilares estructurales, los huecos de las paredes y los accesos perfectamente verticales y fieles al plano del diseñador. Gestionar el intenso brillo de los espejos sobredimensionados y las vitrinas de vidrio, al tiempo que se equilibran las redes de iluminación interna de la tienda, mantiene las colecciones de marroquinería de lujo, calzado y prêt-à-porter nítidas y claras. Esta colección funciona como un archivo visual de primera calidad, mostrando cómo Miu Miu integra los códigos históricos de la moda con una arquitectura interior moderna y experiencial.
+Cada encuadre está tomado utilizando una impecable **alineación ortogonal** para mantener los pilares estructurales, los huecos de las paredes y los accesos perfectamente verticales y fieles al plano del diseñador. Gestionar el intenso brillo de los espejos sobredimensionados y las vitrinas de vidrio, al tiempo que se equilibran las redes de iluminación interna de la tienda, mantiene las colecciones de marroquinería de lujo, calzado y prêt-à-porter nítidas y claras. Esta colección funciona como un archivo visual de primera calidad, mostrando cómo Miu Miu integra los códigos históricos de la moda con una arquitectura interior moderna y experimental.

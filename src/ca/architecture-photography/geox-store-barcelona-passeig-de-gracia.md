@@ -70,20 +70,20 @@ images:
 
 ## Fotografia d'arquitectura comercial: Botiga insígnia de Geox al Passeig de Gràcia
 
-Aquesta sèrie de fotografia d'interiors arquitectònics retrata la distribució espaiosa i el llenguatge de disseny modern de la **botiga insígnia de Geox**, ubicada al prestigiós **Passeig de Gràcia de Barcelona**. Com a marca reconeguda mundialment per combinar la innovació tècnica amb el confort diari, els espais comercials de Geox es documenten aquí com a interiors nets i molt estructurats que reflecteixen aquest esperit tecnològic.
+Aquesta sèrie de fotografia d'interiors arquitectònics retrata la distribució espaiosa i el llenguatge de disseny modern de la **botiga insígnia de Geox**, ubicada al **Passeig de Gràcia de Barcelona**. Com a marca reconeguda mundialment per combinar la innovació tècnica amb el confort diari, els espais comercials de Geox es documenten aquí com a interiors clars i estructurats que reflecteixen aquest esperit tecnològic.
 
-La sessió fotogràfica es cendra en els recorreguts fluids dels clients, les paletes de materials minimalistes i els conceptes d'exhibició especialitzats que caracteritzen aquesta destinació de compres prèmium.
+La sessió fotogràfica es centra en la fluidesa espacial, els recorreguts dels clients, les paletes de materials minimalistes i els conceptes d'exhibició especialitzats que caracteritzen aquesta destinació de compres prèmium.
 
-### Documentant llum, linealitat i exhibidors de producte modulars
+### Documentant llum, linealitat i expositors de producte modulars
 
 La narrativa visual d'aquesta sessió fotogràfica comercial de retail emfatitza l'eficiència estructural, la transparència i una jerarquia espacial organitzada.
 
-* **Línies arquitectòniques lineals:** La distribució interior utilitza un format expansiu i de planta oberta amb nítides línies divisòries blanques i terres neutres. La fotografia empra profundes línies de fuga i enquadraments simètrics de gran angular per mostrar com les llargues sales flueixen des de l'accés a nivell de carrer a través de les col·leccions de dona, home i infant.
+* **Línies arquitectòniques:** La distribució interior utilitza un format expansiu i de planta oberta amb nítides divisòries espacials i terres neutres. La fotografia empra profundes línies de fuga i enquadraments simètrics de gran angular per mostrar com les llargues sales flueixen des de l'accés a nivell de carrer a través de les col·leccions de dona, home i nen.
 * **Il·luminació de producte integrada:** Els entorns comercials de calçat i roba de gamma alta depenen d'una il·luminació precisa i d'alta fidelitat. Les composicions documenten la il·luminació LED integrada a mida que recorre els sistemes de prestatgeries flotants. En calibrar acuradament l'exposició, les fotografies capturen com es ressalta cada producte, emfatitzant-ne les textures, els detalls de costura i les qualitats materials.
-* **Mobiliari espacial modular:** Unitats d'exhibició de productes minimalistes, estructures metàl·liques llises i seients de perfil baix accentuen les sales d'exhibició. L'enquadrament ressalta com aquests elements creen illes estructurals sense saturar les llargues línies de visió de la boutique.
+* **Mobiliari espacial modular:** Unitats d'exposició de productes minimalistes, estructures metàl·liques llises i seients de perfil baix accentuen les sales d'exhibició. L'enquadrament ressalta com aquests elements creen illes estructurals sense saturar les llargues línies de visió de la boutique.
 
-### Una execució tècnica professional per a portafolis de retail
+### Una execució tècnica professional per a portafolis del sector retail
 
-Fotografiar espais comercials de gran afluència al Passeig de Gràcia requereix gestionar condicions d'il·luminació complexes i superfícies físiques dures.
+Fotografiar espais comercials de gran afluència al Passeig de Gràcia requereix gestionar condicions d'il·luminació complexes i superfícies comercials d'alta densitat.
 
-Cada fotografia d'aquesta col·lecció arquitectònica està presa amb una estricta ortogonalitat, mantenint perfectament verticals les columnes interiors, els límits de les parets i els grans finestrals de vidre. Es van aplicar tècniques de polarització especialitzades per minimitzar els reflexos molestos en els detalls polits brillants i en les vitrines de vidre dels productes. En combinar la llum ambiental natural que entra a través de l'aparador amb les temperatures precises de la llum artificial de la botiga, aquesta sèrie ofereix un arxiu visual net i comercialment viable tant per a dissenyadors de retail com per a arquitectes moderns.
+Cada fotografia d'aquesta col·lecció arquitectònica està presa amb una estricta ortogonalitat, mantenint perfectament verticals les columnes interiors, els límits de les parets i el mobiliari. Es van aplicar tècniques de polarització especialitzades per minimitzar els reflexos molestos en els detalls polits brillants i en les vitrines de vidre dels productes. En combinar la llum ambiental natural que entra a través de l'accés amb les temperatures precises de la llum artificial de la botiga, aquesta sèrie ofereix un document visual net i comercialment viable tant per a dissenyadors de retail com per a arquitectes moderns.

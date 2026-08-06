@@ -52,7 +52,7 @@ images:
         name: "Vivienda en Poblenou - Qubba Arquitectes"
 ---
 
-## Fotografía de arquitectura residencial: Apartamento Poblenou I por Qubba Arquitectes
+## Fotografía de arquitectura residencial: Rehabilitación de un piso en Poblenou por Qubba Arquitectes
 
 Esta serie de fotografía de interiores arquitectónicos documenta el **Apartamento Poblenou I**, una renovación residencial a cargo de **[Qubba Arquitectes](https://qubba.net)**. Ubicada en el distrito marítimo e industrial del diseño de Barcelona, la vivienda adapta una planta estructural histórica y en bruto para un estilo de vida urbano moderno y de alta gama.
 
@@ -68,6 +68,6 @@ La narrativa visual de esta sesión fotográfica de interiores residenciales equ
 
 ### Dominio técnico de la fotografía de interiores de lofts
 
-Fotografiar espacios de estilo loft en el Poblenou exige un manejo cuidadoso de la luz y la geometría. Los edificios industriales suelen tener plantas profundas donde la luz exterior se acumula cerca de las ventanas perimetrales pero disminuye rápidamente en el núcleo.
+Fotografiar espacios de estilo loft en el Poblenou exige un manejo cuidadoso de la luz y la geometría.
 
 Las composiciones utilizan una meticulosa **alineación ortogonal** para mantener rectas las líneas verticales, los pilares vistos y la carpintería a medida, evitando la distorsión del objetivo gran angular. Al equilibrar la luz diurna brillante de los balcones tradicionales con las zonas de luz artificial interna, esta pieza de portafolio arquitectónico crea un archivo visual de alta fidelidad de la artesanía residencial de Qubba Arquitectes.

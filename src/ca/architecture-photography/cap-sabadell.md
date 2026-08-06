@@ -54,21 +54,21 @@ images:
         name: "CAP Sabadell -  - Estudi Massip-Bosch Arquitectes"
 ---
 
-## Fotografia d'arquitectura sanitària: CAP Sabadell per EMBA
+## Fotografia d'arquitectura sanitària: CAP Sabadell
 
-Aquesta sèrie de fotografia arquitectònica institucional documenta l'innovador disseny del **Centre d'Atenció Primària de Sabadell, a Sabadell, Barcelona**. Dissenyat per l'aclamat estudi **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, aquest equipament mèdic públic s'erigeix com una lliçó magistral d'adaptació cívica, mostrant com les instal·lacions mèdiques modernes poden créixer dins d'un entorn patrimonial sensible.
+Aquesta sèrie de fotografia d'arquitectura institucional documenta l'innovador disseny del **Centre d'Atenció Primària de Sabadell**. Projectat per l'aclamat estudi **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)**, aquest equipament mèdic públic s'erigeix com una lliçó magistral d'adaptació cívica, mostrant com les instal·lacions mèdiques modernes poden créixer dins d'un entorn patrimonial sensible.
 
 La sessió fotogràfica documenta les línies funcionals netes i les geometries espacials obertes, amb un diàleg arquitectònic fluid entre les estructures patrimonials i els entorns clínics.
 
 ### Protegint la història mentre es modernitza la sanitat pública
 
-La narrativa visual d'aquesta sessió d'arquitectura institucional destaca la combinació estratègica d'EMBA d'estils arquitectònics antics i nous.
+La narrativa visual d'aquesta sessió d'arquitectura institucional destaca la combinació estratègica d'estils arquitectònics antics i nous duta a terme per EMBA.
 
-* **El pati central d'integració:** Una característica transitòria del disseny és un pati central a l'aire lliure que connecta diferents èpoques. La fotografia captura un edifici històric d'obra de paleta al costat de l'exterior d'una clínica contemporània amb elegants panells metàl·lics horitzontals i grans obertures de vidre. Aquest contrast mostra com respira l'espai públic, connectant el passat industrial de la ciutat amb la seva infraestructura moderna d'obres públiques.
-* **Interiors lluminosos a diversos nivells:** A l'interior de l'equipament, l'enfocament arquitectònic es cendra en la profunditat vertical i la llum natural. Les composicions emmarquen un interior clínic lluminós de doble alçada articulat per una escala arquitectònica minimalista. Les finestres de terra a sostre omplen el nucli de circulació vertical amb una llum diürna suau, transformant un espai clínic públic en un entorn obert i acollidor.
+* **El pati central d'integració:** Una característica del disseny és un pati central a l'aire lliure que connecta diferents èpoques. La fotografia mostra un edifici històric d'obra al costat de l'exterior d'una clínica contemporània amb elegants panells metàl·lics horitzontals i grans obertures de vidre. Aquest contrast mostra com respira l'espai públic, connectant el passat industrial de la ciutat amb la seva infraestructura moderna d'obres públiques.
+* **Interiors lluminosos a diversos nivells:** A l'interior de l'equipament, l'enfocament arquitectònic es centra en la profunditat vertical i la llum natural. Les composicions emmarquen un interior clínic lluminós de doble alçada articulat per una escala arquitectònica minimalista. Les finestres de terra a sostre omplen el nucli de circulació vertical amb una llum diürna suau, transformant un espai clínic públic en un entorn obert i acollidor.
 
 ### Precisió tècnica en fotografia d'interiors clínics
 
-Documentar centres mèdics públics requereix un enfocament fotogràfic disciplinat que prioritzi la netedat, la precisió geomètrica i la claredat espacial.
+Documentar centres mèdics públics requereix un enfocament fotogràfic disciplinat que prioritzi la precisió geomètrica i la claredat espacial.
 
 Les seqüències interiors emmarquen llargs passadissos clínics flanquejats per nítids armaris integrats de color blanc. Les composicions utilitzen les portes obertes de les sales d'exploració per capturar la llum en cascada i les profundes capes de reflexos al llarg dels terres impecables i de colors clars. Una estricta **alineació ortogonal** manté els panells horitzontals de la fatxada i l'entramat geomètric intern d'acord amb les especificacions de l'arquitecte. Aquesta peça de portafoli proporciona un arxiu visual d'alta fidelitat d'un disseny sanitari funcional i empàtic a Catalunya.

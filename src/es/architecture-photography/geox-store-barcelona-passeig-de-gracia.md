@@ -69,15 +69,15 @@ images:
 
 ## Fotografía de arquitectura comercial: Tienda insignia de Geox en Passeig de Gràcia
 
-Esta serie de fotografía de interiores arquitectónicos retrata la distribución espaciosa y el lenguaje de diseño moderno de la **tienda insignia de Geox**, ubicada en el renombrado **Passeig de Gràcia de Barcelona**. Como marca reconocida mundialmente por combinar la innovación técnica con el confort diario, los espacios comerciales de Geox se documentan aquí como interiores limpios y muy estructurados que reflejan ese espíritu tecnológico.
+Esta serie de fotografía arquitectónica de interiores retrata la distribución espaciosa y el lenguaje de diseño moderno de la **tienda insignia de Geox**, ubicada en el renombrado **Passeig de Gràcia de Barcelona**. Como marca reconocida mundialmente por combinar la innovación técnica con el confort diario, los espacios comerciales de Geox se documentan aquí como interiores limpios y estructurados que reflejan ese espíritu tecnológico.
 
 La sesión fotográfica se centra en los recorridos fluidos de los clientes, las paletas de materiales minimalistas y los conceptos de exhibición especializados que caracterizan a este destino de compras premium.
 
-### Documentando luz, linealidad y exhibidores de producto modulares
+### Documentando la luz, linealidad y exhibidores de producto modulares
 
 La narrativa visual de esta sesión fotográfica comercial de retail enfatiza la eficiencia estructural, la transparencia y una jerarquía espacial organizada.
 
-* **Líneas arquitectónicas lineales:** La distribución interior utiliza un formato expansivo y de planta abierta con nítidas líneas divisorias blancas y suelos neutros. La fotografía emplea profundas líneas de fuga y encuadres simétricos de gran angular para mostrar cómo los largos salones fluyen desde la entrada a nivel de calle a través de las colecciones de mujer, hombre y niño.
+* **Línealidad arquitectónica:** La distribución interior utiliza un formato expansivo y diáfano de planta abierta, con nítidas líneas divisorias blancas y suelos neutros. La fotografía emplea profundas líneas de fuga y encuadres simétricos de gran angular para mostrar cómo los largos salones fluyen desde la entrada a nivel de calle a través de las colecciones de mujer, hombre y niño.
 * **Iluminación de producto integrada:** Los entornos comerciales de calzado y ropa de gama alta dependen de una iluminación precisa y de alta fidelidad. Las composiciones documentan la iluminación LED integrada a medida que recorre los sistemas de estanterías flotantes. Al equilibrar cuidadosamente la exposición, las fotografías capturan cómo se resalta cada producto, enfatizando sus texturas, detalles de costura y cualidades materiales.
 * **Mobiliario espacial modular:** Unidades de exhibición de productos minimalistas, estructuras metálicas lisas y asientos de perfil bajo acentúan las salas de exposición. El encuadre resalta cómo estos elementos crean islas estructurales sin saturar las largas líneas de visión de la boutique.
 
@@ -85,4 +85,4 @@ La narrativa visual de esta sesión fotográfica comercial de retail enfatiza la
 
 Fotografiar espacios comerciales de gran afluencia en Passeig de Gràcia requiere gestionar condiciones de iluminación complejas y superficies físicas duras.
 
-Cada fotografía de esta colección arquitectónica está tomada con una estricta ortogonalidad, manteniendo perfectamente verticales las columnas interiores, los límites de las paredes y los grandes ventanales de vidrio. Se aplicaron técnicas de polarización especializadas para minimizar los reflejos molestos en los detalles pulidos brillantes y en las vitrinas de vidrio de los productos. Al combinar la luz ambiental natural que entra a través del escaparate con las temperaturas precisas de la luz artificial de la tienda, esta serie ofrece un archivo visual limpio y comercialmente viable tanto para diseñadores de retail como para arquitectos modernos.
+Cada fotografía de esta colección arquitectónica está tomada con una estricta ortogonalidad, manteniendo perfectamente verticales las columnas interiores, los límites de las paredes y los grandes ventanales de vidrio. Se aplicaron técnicas de polarización especializadas para minimizar los reflejos molestos en los detalles pulidos brillantes y en las vitrinas de vidrio de los productos. Al combinar la luz ambiental natural que entra a través del acceso con las temperaturas precisas de la luz artificial de la tienda, esta serie ofrece un archivo visual limpio y comercialmente viable tanto para diseñadores de retail como para arquitectos modernos.

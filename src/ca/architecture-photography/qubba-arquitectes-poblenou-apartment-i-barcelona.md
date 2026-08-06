@@ -52,11 +52,11 @@ images:
         name: "Habitatge al Poblenou - Qubba Arquitectes"
 ---
 
-## Fotografia d'arquitectura residencial: Apartament Poblenou I per Qubba Arquitectes
+## Fotografia d'arquitectura residencial: Reforma d'un apartament al Poblenou
 
-Aquesta sèrie de fotografia d'interiors arquitectònics documenta l'**Apartament Poblenou I**, una renovació residencial a càrrec de **[Qubba Arquitectes](https://qubba.net)**. Situat al districte marítim i industrial del disseny de Barcelona, la llar adapta una planta estructural històrica i en brut per a un estil de vida urbà modern i d'alta gamma.
+Aquesta sèrie de fotografia d'interiors arquitectònics documenta la rehabilitació d'un apartament, una renovació residencial a càrrec de **[Qubba Arquitectes](https://qubba.net)**. Situat al districte marítim i industrial del disseny de Barcelona, la llar adapta una planta estructural històrica i en brut per a un estil de vida urbà modern i d'alta gamma.
 
-La sessió fotogràfica es cendra en com les geometries minimalistes esculpeixen zones de vida íntimes dins d'un disseny de planta oberta, alhora que preserven l'ànima estructural de l'edifici.
+La sessió fotogràfica es centra en com les geometries minimalistes esculpeixen zones de vida íntimes dins d'un disseny de planta oberta, alhora que preserven l'ànima estructural de l'edifici.
 
 ### Enquadrant el caràcter industrial i les juxtaposicions materials
 
@@ -68,6 +68,6 @@ La narrativa visual d'aquesta sessió fotogràfica d'interiors residencials equi
 
 ### Domini tècnic de la fotografia d'interiors de lofts
 
-Fotografiar espais d'estil loft al Poblenou exigeix una gestió acurada de la llum i la geometria. Els edificis industrials solen tenir plantes profundes on la llum exterior s'acumula a prop de les finestres perimetrals però disminueix ràpidament al nucli.
+Fotografiar espais d'estil loft al Poblenou exigeix una gestió acurada de la llum i la geometria.
 
-Les composicions utilitzen una meticulosa **alineació ortogonal** per mantenir rectes les línies verticals, els pilars vists i la fusteria a mida, evitant la distorsió de l'objectiu de gran angular. En calibrar la llum diürna brillant dels balcons tradicionals amb les zones de llum artificial interna, aquesta peça de portafoli arquitectònic crea un arxiu visual d'alta fidelitat de l'artesania residencial de Qubba Arquitectes.
+Les composicions utilitzen una meticulosa **alineació ortogonal** per mantenir rectes les línies verticals i la fusteria a mida, evitant la distorsió de l'objectiu de gran angular. En calibrar la llum diürna brillant dels balcons tradicionals amb les zones de llum artificial interna, aquesta peça de portafoli arquitectònic crea un arxiu visual d'alta fidelitat de l'artesania residencial de Qubba Arquitectes.

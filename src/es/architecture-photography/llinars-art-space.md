@@ -95,20 +95,20 @@ images:
         name: "Espai d'Art Llinars - Aresta a+u arquitectes"
 ---
 
-## Fotografía de arquitectura cultural: Espacio de Arte de Llinars por Aresta a+u
+## Fotografía de arquitectura cultural: Espai d'Art Llinars por Aresta a+u
 
-Este portafolio de fotografía arquitectónica documenta el **Espacio de Arte de Llinars** (*Espai d’Art*), una contenida instalación cultural en **Llinars del Vallès, Barcelona**. Diseñado por el innovador estudio de arquitectura **[Aresta a+u](https://aresta.net)**, este centro de arte público transforma una distribución estructural rígida en una atmósfera de museo tranquila y contemplativa, filtrando la luz natural y maximizando el espacio expositivo.
+Este portafolio de fotografía arquitectónica documenta el **Espacio de Arte Llinars** (*Espai d’Art Llinars*), un equipamiento cultural en **Llinars del Vallès, Barcelona**. Diseñado por el innovador estudio de arquitectura **[Aresta a+u](https://aresta.net)** de Sant Cugat del Vallés, este centro de arte público transforma un antiguo Centro de Atención Primaria, una distribución estructural rígida, en una atmósfera museística tranquila y contemplativa, filtrando la luz natural y maximizando el espacio expositivo.
 
-La sesión fotográfica captura los ritmos geométricos serenos, la simplicidad material y el flujo arquitectónico del diseño contemporáneo de exposiciones culturales.
+La serie fotográfica captura los ritmos geométricos sosegados, la simplicidad material y la fluidez espacial del diseño contemporáneo de espacios expositivos.
 
 ### Documentando la geometría de la galería, estructuras de madera y luz
 
-La narrativa visual de esta sesión fotográfica en la galería de arte se centra en la honestidad estructural, la profundidad espacial y la relación entre el interior limpio y el mundo natural del exterior.
+La narrativa visual de esta sesión fotográfica de una galería de arte se centra en la honestidad estructural, la profundidad espacial y la relación entre el interior pristino y la naturaleza del mundo exterior.
 
-* **La distribución expositiva “Box-in-Box”:** El diseño cuenta con una piel interior de tabiques blancos, dispuestos mediante una estructura de madera en bruto y minimalista. La fotografía utiliza ángulos ortogonales para enfatizar estas rejillas estructurales, mostrando cómo los sistemas de tabiquería flotante dividen el espacio de la galería al tiempo que lo mantienen abierto y ventilado.
-* **Enmarcando el paisaje exterior:** Un anclaje visual clave en esta serie arquitectónica presenta un gran ventanal retranqueado con marco de madera. La composición trata esta abertura como una pintura de paisaje viva, enmarcando los árboles verdes del exterior para contrastar las texturas de la naturaleza con los planos blancos y lisos del interior de la galería.
-* **Iluminación cenital atmosférica:** El diseño de iluminación arquitectónica está integrado para difundir la luz de manera uniforme a lo largo de las exhibiciones de la galería. Las exposiciones se centran en cómo los carriles de focos y las aberturas estructurales iluminan los muros verticales de la galería, suavizando las sombras y preservando el fondo neutro que requieren las exposiciones de bellas artes.
+* **La distribución expositiva “Box-in-Box”:** El diseño cuenta con una piel interior de tabiques blancos, dispuestos mediante una estructura de madera natural y minimalista. La fotografía utiliza ángulos ortogonales para enfatizar estas tramas estructurales, mostrando cómo los sistemas de tabiquería flotante dividen el espacio de la galería al tiempo que lo mantienen abierto y ventilado.
+* **Enmarcando el paisaje exterior:** Un anclaje visual clave en esta serie de fotografía arquitectónica viene dado por un gran ventanal con marco de madera que funciona a la vez como banco. La composición trata esta abertura como una pintura de paisaje viva, enmarcando los árboles verdes del exterior para contrastar las texturas de la naturaleza con los planos blancos y lisos del interior de la galería.
+* **Iluminación cenital atmosférica:** El diseño de iluminación arquitectónica está integrado para difundir la luz de manera uniforme a lo largo de las exhibiciones de la galería. Las exposiciones se centran en cómo los carriles de focos y las aberturas estructurales iluminan los muros verticales de la galería, suavizando las sombras y preservando el fondo neutro que requieren las exposiciones de arte.
 
-### Precisión técnica en espacios de galerías públicas
+### Precisión técnica en espacios expositivos
 
-Fotografiar edificios públicos y culturales requiere una precisión compositiva absoluta para honrar la intención de los arquitectos. Cada encuadre está compuesto con una estricta alineación vertical para asegurar que las columnas de madera y las líneas de los tabiques no se distorsionen ni se tuerzan. Al equilibrar los carriles de luz artificial interior con la luz ambiental que entra a través de los amplios ventanales, las fotografías finales ofrecen un archivo visual nítido, preciso y atemporal de la contribución de Aresta a+u a la arquitectura cultural pública en Cataluña.
+Fotografiar edificios culturales requiere una precisión compositiva absoluta para honrar la intención de los arquitectos. Cada encuadre está compuesto con una estricta alineación vertical para asegurar que las estructuras de madera y las líneas de los tabiques no se distorsionen. Al equilibrar las guías de luz artificial interior con la luz ambiental que entra a través de los amplios ventanales, las fotografías finales ofrecen un documento visual nítido, preciso y atemporal de la contribución de Aresta a+u a la arquitectura cultural pública en Cataluña.

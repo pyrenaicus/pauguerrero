@@ -61,16 +61,16 @@ images:
 
 ## Fotografía de arquitectura educativa: IES Artés por EMBA
 
-Esta colección de fotografía arquitectónica institucional documenta la moderna ampliación y estructura del **IES Artés**, una escuela secundaria pública en **Artés, Barcelona**. Diseñado por **[EMBA, Estudi Massip-Bosch Arquitectes](https://www.emba.cat)** bajo la dirección de Enric Massip-Bosch, este edificio educativo ofrece una visión sofisticada del diseño institucional cívico, optimizando los materiales estructurales en bruto para crear un entorno de aprendizaje dinámico y luminoso.
+Esta colección de fotografía arquitectónica institucional documenta la moderna ampliación y estructura del **IES Artés**, una escuela secundaria pública en **Artés, Barcelona**. Diseñado por **[EMBA](https://www.emba.cat)** bajo la dirección de **Enric Massip-Bosch**, este edificio educativo ofrece una visión sofisticada del diseño institucional educativo, optimizando los materiales estructurales en bruto para crear un entorno de aprendizaje dinámico y luminoso.
 
-La sesión fotográfica llama la atención sobre los patrones lineales nítidos, el juego dinámico de sombras y la honestidad material que definen este campus contemporáneo.
+La sesión fotográfica llama la atención sobre los patrones lineales nítidos, el juego dinámico de sombras y la honestidad material que definen este instituto contemporáneo.
 
-### Capturando lamas exteriores, columnas de hormigón y sombras circulares
+### Capturando lamas exteriores, columnas de hormigón y formas circulares
 
 La fotografía de arquitectura de exteriores se centra en el ritmo estructural, el encuadre geométrico y el uso de la luz solar natural por parte del edificio.
 
 * **Lamas verticales y patrones lineales:** Una característica definitoria de la fachada de la escuela es el uso de un elegante **revestimiento metálico y lamas verticales**. La fotografía utiliza encuadres precisos de gran angular para capturar estas líneas repetitivas, mostrando cómo proporcionan privacidad y protección solar al tiempo que dotan al volumen institucional de una identidad limpia y unificada.
-* **Juego lúdico de sombras geométricas:** Una secuencia destacada de esta serie arquitectónica se centra en los pasillos exteriores cubiertos del edificio. Sostenidas por columnas de hormigón, estas estructuras superiores presentan atrevidos y coloridos **diseños circulares en el techo**. La fotografía captura el sol mediterráneo pasando a través de estos recortes geométricos, proyectando patrones dinámicos y giratorios de luz y sombra a lo largo de los caminos de hormigón inferiores.
+* **Juego lúdico de formas geométricas:** Una secuencia destacada de esta serie arquitectónica se centra en los pasillos exteriores cubiertos del edificio. Sostenidas por columnas de hormigón, estas estructuras superiores presentan atrevidos y coloridos **diseños circulares en el techo**. La fotografía captura el sol mediterráneo pasando a través de estos recortes geométricos, proyectando patrones dinámicos de luz y sombra a lo largo de los caminos de hormigón inferiores.
 
 ### Documentando espacios luminosos y materialidad interior en bruto
 

@@ -57,14 +57,14 @@ La sessió fotogràfica captura l'equilibri fluid entre el paisatgisme natural, 
 
 ### Capturant àrees verdes urbanes i elements estructurals
 
-La narrativa visual d'aquest portafoli de fotografia d'arquitectura del paisatge es cendra en la distribució espacial, la interacció de materials i l'equilibri ambiental dins dels parcs públics.
+La narrativa visual d'aquest portafoli de fotografia d'arquitectura de paisatge es centra en la distribució espacial, la interacció de materials i l'equilibri ambiental dins dels parcs públics.
 
-* **Camins pavimentats simètrics:** La distribució del parc es basa en amplis camins pavimentats que tracen línies netes a través dels prats de gespa i els joves bosquets d'arbres. La fotografia utilitza enquadraments de gran angular i fortes línies de fuga per recórrer aquestes rutes, mostrant com els senders dirigeixen el moviment a través del parc.
-* **Pèrgoles geomètriques i murs verds:** Un element destacat del disseny és la instal·lació de **pèrgoles metàl·liques** minimalistes que serveixen de suport a plantes enfiladisses. Les composicions emmarquen aquestes reixes contra el cel, mostrant com les estructures d'acer poden fondre's amb la verdor orgànica per proporcionar ombra i privadesa.
+* **Camins pavimentats sinuosos:** La distribució del parc es basa en amplis camins pavimentats que tracen línies netes a través d'una **catifa de llambordes** amb junta ampla on creix la gespa. La fotografia utilitza enquadraments de gran angular i fortes línies de fuga per recórrer aquestes rutes, mostrant com els senders dirigeixen el moviment a través del parc.
+* **Pèrgoles geomètriques i gàbies verdes:** Un element destacat del disseny és la instal·lació de **gàbies metàl·liques** minimalistes que serveixen de suport a plantes enfiladisses. Les composicions emmarquen aquestes reixes contra el cel, mostrant com les estructures d'acer poden fondre's amb la verdor orgànica per proporcionar ombra i privadesa.
 * **Infraestructura pública de formigó i metall:** La sessió fotogràfica destaca un pavelló públic central amb una estructura de formigó, baranes industrials feixugues i vibrants **murs d'accent grocs**. Les fotografies utilitzen angles audaços per emfatitzar aquest volum estructural, contrastant els materials industrials durs amb les textures suaus dels bancs del parc i la vegetació propera.
 
-### Precisió tècnica en sessions d'arquitectura d'exteriors
+### Precisió tècnica en sessions d'arquitectura del paisatge
 
 Fotografiar parcs públics expansius i arquitectura del paisatge implica una planificació acurada entorn de la llum diürna i els punts de fuga.
 
-Per respectar el plànol de disseny civil d'Isidre Santacreu, les fotografies estan compostes amb una estricta alineació vertical, mantenint perfectament rectes els pilars metàl·lics, les escales i les baranes estructurals. L'exposició està calibrada per equilibrar el cel obert amb les textures de la gespa, la pedra pavimentada i els volúmens de formigó, aconseguint un resultat d'alt contrast però detallat. Aquesta sèrie proporciona un arxiu visual professional que ressalta com el disseny de paisatge contemporani revitalitza els espais comunitaris suburbans a Catalunya.
+Per respectar les intencions de disseny d'Isidre Santacreu, les fotografies estan compostes amb una estricta alineació vertical, mantenint perfectament rectes els elements metàl·lics, les escales i les baranes estructurals. L'exposició està calibrada per equilibrar el cel obert amb les textures de la gespa, les llambordes i els volums de formigó, aconseguint un resultat d'alt contrast però detallat. Aquesta sèrie proporciona un arxiu visual professional que ressalta com el disseny de paisatge contemporani revitalitza els espais comunitaris suburbans a Catalunya.

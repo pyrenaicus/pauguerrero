@@ -85,21 +85,21 @@ images:
         name: "Espais Volart, Fundació Vila Casas"
 ---
 
-## Fotografía de arquitectura de museos: Espais Volart, Fundació Vila Casas
+## Fotografía de arquitectura museística: Espais Volart, Fundació Vila Casas
 
-Esta serie de fotografía arquitectónica de interiores documenta las amplias salas de exposición de **Espais Volart**, un destacado centro de arte contemporáneo gestionado por la **[Fundació Vila Casas](https://www.fundaciovilacasas.com)** en Barcelona. Ubicado en un edificio reconvertido del distrito de l'Eixample, la sesión captura una importante exposición monográfica de las expresivas obras de gran formato del pintor **Guerrero Medina**.
+Esta serie de fotografía arquitectónica de interiores documenta las amplias salas de exposición de **Espais Volart**, un destacado centro de arte contemporáneo gestionado por la **[Fundació Vila Casas](https://www.fundaciovilacasas.com)** en Barcelona. Ubicado en un edificio reconvertido del distrito de l'Eixample, la sesión captura una importante exposición monográfica de las expresivas obras de gran formato del pintor **[Guerrero Medina](https://www.guerreromedina.com)**.
 
-Las fotografías destacan cómo el diseño minimalista y espacioso de Espais Volart crea un lienzo silencioso pero potente para las vibrantes bellas artes contemporáneas de Guerrero Medina.
+Las fotografías destacan cómo el diseño minimalista y espacioso de Espais Volart crea un lienzo silencioso pero potente para las vibrantes obras de arte contemporáneas de Guerrero Medina.
 
-### Intersecando las bellas artes y el espacio monolítico de la galería
+### La intersección de las bellas artes y el espacio monolítico de la galería
 
-La narrativa visual de esta sesión fotográfica en el interior de la galería se centra en la interacción entre la escala espacial, la contención arquitectónica y la expresión artística.
+La narrativa visual de esta sesión fotográfica en el interior de la galería de arte se centra en la interacción entre la escala espacial, la contención arquitectónica y la expresión artística.
 
 * **Profundidad espacial minimalista:** Espais Volart se caracteriza por sus distribuciones diáfanas y expansivas. La fotografía enmarca las enormes paredes blancas y los **suelos de hormigón pulido**, utilizando estas superficies para dirigir la atención hacia las obras de arte. Los amplios suelos vacíos reflejan la iluminación de la galería, aportando profundidad a las perspectivas de gran angular.
 * **La escala de la obra de arte:** Las intensas y coloridas pinturas de paisajes, los retratos de gran formato y los intrincados dibujos en blanco y negro de Guerrero Medina dominan el espacio. Las composiciones utilizan la escala humana y los marcos arquitectónicos vacíos para enfatizar la inmensa presencia física de estos lienzos y cómo las dimensiones estructurales del edificio albergan piezas monumentales.
 
-### Precisión técnica en la documentación de bellas artes contemporáneas
+### Precisión técnica en la documentación del arte contemporáneo
 
-Fotografiar una exposición de arte activa requiere una ejecución técnica minuciosa para respetar tanto la geometría espacial del arquitecto como la paleta cromática del artista.
+Fotografiar una exposición de arte activa requiere una ejecución técnica minuciosa para respetar tanto la geometría espacial del proyecto arquitectónico como la paleta cromática del artista.
 
-Las imágenes mantienen un encuadre ortogonal perfecto y una estricta alineación vertical, capturando las columnas estructurales y las líneas limpias de los tabiques con precisión clínica. Se prestó especial atención a la calibración de la exposición bajo los carriles de focos especializados de la galería. Al equilibrar los niveles de luz, la fotografía elimina los reflejos intensos y evita el molesto brillo de los cristales, asegurando que las ricas texturas, pinceladas y valores de color de las pinturas se archiven con total fidelidad.
+Las imágenes mantienen un encuadre ortogonal perfecto y una estricta alineación vertical, capturando las columnas estructurales y las líneas limpias de los tabiques con precisión clínica. Se prestó especial atención a la calibración de la exposición bajo los carriles de focos especializados de la galería. Al equilibrar los niveles de luz, la fotografía elimina los reflejos intensos y evita los molesto brillos, asegurando que las ricas texturas, pinceladas y valores de color de las pinturas se documenten con total fidelidad.

@@ -53,22 +53,22 @@ images:
 ---
 
 
-## Residential Architecture Photography: Eixample Flat Renovation
+## Fotografía de arquitectura residencial: Reforma en un piso en el Ensanche de Barcelona
 
-This architectural photography project showcases an apartment renovation in Barcelona’s historic **Eixample district**. Designed by **[Qubba Arquitectes](https://qubba.net)**, the space reinterprets classic Catalan residential layouts into a bright, fluid, modern open-concept home.
+Este proyecto de fotografía de arquitectura muestra la renovación de un piso en el histórico **barrio del Ensanche** de Barcelona. Proyectado por el estudio de arquitectura **[Qubba Arquitectes](https://qubba.net)**, el espacio reinterpreta las distribuciones residenciales clásicas catalanas para transformarlas en una vivienda moderna, luminosa y fluida.
 
-The photoshoot captures the balance between contemporary minimalism and the traditional interior details that define Barcelona’s architectural heritage.
+La sesión fotográfica captura el equilibrio entre el minimalismo contemporáneo y los detalles interiores tradicionales que definen el patrimonio arquitectónico de Barcelona.
 
-### Capturing Light, Flow, and Interior Materiality
+### Capturando la luz y la materialidad
 
-The visual narrative of this interior design photoshoot focuses on spatial continuity and the influx of natural Mediterranean light.
+La narrativa visual de esta sesión fotográfica de arquitectura de interiores se centra en la continuidad espacial y en la luz natural mediterránea.
 
-* **The Indoor-Outdoor Transition:** A central feature of the design is a spacious wooden-decked outdoor patio. Through wide sliding glass doors, the living room extends to the outdoors. The photography uses these sightlines, framing the open kitchen window bar and its organic bamboo shades to emphasise the fluid dialogue between the indoor dining spaces and the terrace.
-* **Material Contrasts:** In the heart of the home, a sleek, modern wooden kitchen with integrated minimalist appliances sits beside a cosy, bright white sectional sofa. The photography emphasises the warm textures of the natural wood contrasting against the clean, light-reflecting surfaces of the open-plan living area.
-* **Heritage Meets Contemporary Style:** The hallway is one of the most striking visual anchors, where traditional **geometric tiled floors**—reminiscent of classic hydraulic tiles—lead the eye into the living spaces, accented by bold contemporary design choices, such as a vibrant red pendant dining lamp.
+* **La transición entre interior y exterior:** Un elemento central del diseño es un espacioso patio exterior con tarima de madera. A través de unas grandes puertas correderas de vidrio, el espacio habitable interior se extiende hacia el exterior. La fotografía utiliza estas líneas de visión, enmarcando la barra de la cocina abierta al espacio exterior y sus persianas alicantinas de madera para enfatizar el diálogo fluido entre los espacios interiores y la terraza.
+* **Contraste material:** En el corazón de la vivienda, una cocina de madera elegante y moderna con electrodomésticos integrados minimalistas se sitúa junto a una acogedora sala estar. La fotografía enfatiza las texturas cálidas de la madera natural en contraste con las superficies limpias y reflectoras de luz de la zona de estar ddiáfana.
+* **El patrimonio se une al estilo contemporáneo:** El pasillo es uno de los anclajes visuales más llamativos, donde los tradicionales **suelos de baldosas hidráulicas**, con motivos geométricos, guían la mirada hacia los espacios de vida, acentuados por atrevidas opciones de diseño contemporáneo, como una vibrante lámpara de comedor colgante de color rojo.
 
-### The Photographic Approach to Residential Spaces
+### El enfoque fotográfico de los espacios residenciales
 
-Photographing high-end residential interiors requires capturing both the architectural layout and the intimate details that make a house feel like a home.
+Fotografiar interiores residenciales de gama alta requiere capturar tanto la distribución arquitectónica como los detalles íntimos que hacen que una casa se sienta como un hogar.
 
-The compositions utilise vertical alignment and balanced exposures to manage the transition from the sunlit terrace to the apartment’s deeper corners. From the soft lighting of the bedroom with forest-themed statement wallpaper to the geometry of the walk-in closet and backlit bathroom mirrors, each shot tells a story of a refined, functional metropolitan lifestyle.
+Las composiciones utilizan la alineación vertical y exposiciones equilibradas para gestionar la transición desde la terraza soleada hasta los rincones más profundos del apartamento. Desde la iluminación suave del dormitorio con una pared cabecera de temática forestal hasta la geometría del vestidor y los espejos retroiluminados del baño, cada toma cuenta la historia de un estilo de vida metropolitano refinado y funcional.

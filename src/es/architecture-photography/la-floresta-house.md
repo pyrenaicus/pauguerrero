@@ -32,17 +32,17 @@ images:
 
 ## Fotografía de arquitectura residencial: Casa BCH en La Floresta
 
-Esta muestra de fotografía arquitectónica documenta la **Casa BCH**, una vivienda moderna en las colinas boscosas de **La Floresta, Sant Cugat del Vallès**. Diseñado por el innovador estudio **[Aresta a+u arquitectes](https://aresta.net)**, el proyecto demuestra un diseño residencial biofílico a través de la interacción directa con su entorno natural.
+Esta serie de fotografía arquitectónica documenta la **Casa BCH**, una vivienda moderna en las colinas boscosas de **La Floresta, Sant Cugat del Vallès**. Diseñado por el innovador estudio **[Aresta a+u arquitectes](https://aresta.net)**, el proyecto demuestra un diseño residencial biofílico a través de la interacción directa con su entorno natural.
 
 La sesión fotográfica se centra en las líneas limpias de la casa, los materiales naturales y las vistas expansivas que la integran dentro de su tranquilo entorno forestal.
 
 ### Capturando distribuciones abiertas, texturas de madera y perspectivas del bosque
 
-La narrativa visual de esta sesión residencial enfatiza el espacio para respirar, la calidez material y la luz ininterrumpida a lo largo de la Casa BCH.
+La narrativa visual de esta sesión residencial enfatiza el espacio expansivo, la calidez material y la luz ininterrumpida a lo largo de la Casa BCH.
 
 * **Vida fluida en planta abierta:** La fotografía de interiores documenta la planta abierta, con composiciones de la cocina que miran directamente hacia la zona de estar principal, mostrando cómo se conectan los espacios.
 * **La tactilidad de la madera natural:** Un suelo de madera rico y cálido se extiende por todo el interior, reflejado también en la carpintería a medida y el mobiliario. Las exposiciones se equilibran para resaltar la veta fina de la madera y sus tonos cambiantes frente a las nítidas líneas de la tabiquería blanca y minimalista.
-* **El despacho en el bosque:** Una secuencia destacada enmarca el despacho en casa, donde las estanterías de suelo a techo y los enormes ventanales muestran cómo el espacio de trabajo se abre hacia la copa de los árboles.
+* **El despacho en el bosque:** Una secuencia destacada enmarca el despacho en casa, donde las estanterías de suelo a techo y los enormes ventanales muestran cómo el espacio de trabajo se abre hacia las copas de los árboles.
 
 ### Armonía técnica con paisajes exteriores
 

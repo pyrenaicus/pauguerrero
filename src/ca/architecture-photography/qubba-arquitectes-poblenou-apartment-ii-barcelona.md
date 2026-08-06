@@ -71,9 +71,9 @@ images:
         name: "Vivenda al Poblenou - Qubba arquitectes"
 ---
 
-## Fotografia d'arquitectura residencial: Apartament Poblenou II per Qubba Arquitectes
+## Fotografia d'arquitectura residencial: Un projecte de reforma de Qubba Arquitectes
 
-Aquesta sèrie de fotografia d'interiors arquitectònics retrata la vida urbana moderna al **Poblenou, Barcelona**. Dissenyada per **[Qubba Arquitectes](https://qubba.net)**, aquesta renovació residencial transforma un espai clàssic a l'antic cor industrial de Barcelona en una llar contemporània sofisticada i plena de llum.
+Aquesta sèrie de fotografia d'interiors arquitectònics retrata la vida urbana moderna al barri de **Poblenou** a Barcelona. Projectada per **[Qubba Arquitectes](https://qubba.net)**, aquesta renovació residencial transforma un espai clàssic a l'antic cor industrial de Barcelona en una llar contemporània sofisticada i plena de llum.
 
 La sessió fotogràfica mostra com les intervencions minimalistes modernes poden honorar i realçar el caràcter industrial d'un edifici a través d'una seqüenciació espacial deliberada i materials en brut refinats.
 
@@ -82,7 +82,7 @@ La sessió fotogràfica mostra com les intervencions minimalistes modernes poden
 La narrativa visual d'aquesta sessió de disseny d'interiors destaca els espais oberts, els contrasts de textures i la divisió intel·ligent de plantes urbanes de mida mitjana.
 
 * **Espais de transició fluids:** Allunyant-se dels passadissos rígids i tancats, l'apartament adopta un flux d'estil obert. La fotografia utilitza profundes línies de fuga per ressaltar aquesta continuïtat espacial, guiant la mirada de l'espectador des de l'entrada cap a les zones comunes principals.
-* **Materialitat d'inspiració industrial:** El llenguatge del disseny funciona harmònicament amb els elements arquitectònics en brut. Les imatges mostren una barreja texturitzada de revestiment ceràmic llis, armaris neutres amb vetes de fusta i prestatgeries obertes minimalistes. Les exposicions, equilibrades amb precisió, acentuen la veta rica i orgànica dels elements de fusta davant de les superfícies industrials més fredes, dotant el pis d'una personalitat connectada amb l'entorn però alhora aèria.
+* **Materialitat d'inspiració industrial:** El llenguatge del disseny funciona harmònicament amb els elements arquitectònics en brut. Les imatges mostren una barreja texturitzada de revestiment ceràmic llis, armaris neutres amb vetes de fusta i prestatgeries obertes minimalistes. Les exposicions, equilibrades amb precisió, accentuen la veta rica i orgànica dels elements de fusta davant de les superfícies industrials més fredes, dotant el pis d'una personalitat connectada amb l'entorn però alhora aèria.
 * **Elements contemporanis intel·ligents:** A les zones privades, les distribucions compactes es maximitzen mitjançant l'ús d'elegants portes corredisses i armaris geomètrics a mida. L'enquadrament mostra com aquests components ocults optimitzen l'ús dels metres quadrats físics alhora que preserven línies de visió netes i contínues en tota la llar.
 
 ### Precisió tècnica en sessions arquitectòniques d'estil loft

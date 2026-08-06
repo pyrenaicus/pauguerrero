@@ -18,7 +18,7 @@ images:
         name: "UPC-CTTM - Estudi Massip-Bosch Arquitectes"
   - layout: hh
     items:         
-      - src: "images/qubba-arquitectes-eixample-house-04.jpg"
+      - src: "images/emba-upc-cttm-manresa-04.jpg"
         alt: "Pasillo interior de edificio moderno con grandes ventanas con vistas a un patio exterior de césped."
         caption: ""
         contentLocation: "Manresa, Barcelona"
@@ -47,12 +47,11 @@ Diseñado por el aclamado estudio **[EMBA, Estudi Massip-Bosch Arquitectes](http
 
 La narrativa visual de este portafolio universitario se centra en líneas estructurales limpias, transparencia funcional y la expresión honesta de los materiales de construcción, continuando con el énfasis del proyecto en la claridad y la precisión.
 
-* **Elegante estética industrial:** El diseño de EMBA adopta materiales de ingeniería en bruto adecuados para un centro tecnológico de transporte y mantenimiento. La fotografía enfatiza las texturas suaves del hormigón visto, los marcos de acero industrial y los amplios paneles de vidrio, al tiempo que captura un estilo arquitectónico limpio.
-* **Espacios de investigación luminosos:** En el interior de la instalación, la fotografía se centra en el volumen espacial y el seguimiento de la iluminación. Las composiciones enmarcan laboratorios técnicos y talleres académicos, mostrando cómo los enormes ventanales llenan los profundos espacios interiores con una luz natural uniforme y difusa, ideal para una ingeniería e investigación precisas.
-* **Pasillos simétricos y circulación:** El encuadre interior utiliza líneas de fuga profundas para capturar las rutas de circulación del edificio. Los pasillos impecables, enmarcados por cuadrículas de tabiquería minimalista y sistemas de suelos pulidos, demuestran el flujo suave y lógico diseñado para manejar el tráfico diario de estudiantes, profesores e investigadores.
+* **Elegante estética industrial:** El diseño de EMBA adopta materiales de ingeniería en bruto adecuados para un centro tecnológico. La fotografía enfatiza las texturas suaves del hormigón visto, los marcos de acero industrial y los amplios paneles de vidrio, al tiempo que captura un estilo arquitectónico limpio.
+* **Pasillos abiertos al exterior:** El encuadre interior utiliza líneas de fuga profundas para capturar las rutas de circulación del edificio. Los luminosos pasillos, enmarcados por cuadrículas de tabiquería minimalista y sistemas de suelos pulidos, demuestran el flujo suave y lógico diseñado para manejar el tráfico diario de estudiantes, profesores e investigadores.
 
 ### Un enfoque técnico profesional para portafolios académicos
 
-Fotografiar complejos campus universitarios y avanzadas instalaciones técnicas requiere una precisión geométrica absoluta. Cada fotografía de esta galería arquitectónica presenta una estricta **alineación ortogonal**, manteniendo las altas columnas estructurales, los pesados marcos de las ventanas y los límites de las paredes perfectamente verticales para honrar los planos técnicos de los arquitectos.
+Fotografiar complejos campus universitarios y avanzadas instalaciones técnicas requiere una precisión geométrica absoluta. Cada fotografía de esta galería arquitectónica presenta una estricta **alineación ortogonal**, manteniendo las altas columnas estructurales, los marcos de las ventanas y los límites de las paredes perfectamente verticales para honrar los planos técnicos de los arquitectos.
 
 Al equilibrar la luz natural cambiante que brilla a través de las fachadas de vidrio principales con la iluminación industrial interna del edificio, este portafolio ofrece un registro visual pulido y de alta fidelidad del dominio de EMBA en la arquitectura institucional contemporánea en Cataluña.

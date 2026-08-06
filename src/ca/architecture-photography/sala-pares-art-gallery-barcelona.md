@@ -84,22 +84,22 @@ images:
         name: "Galeria d'art Sala Parés"
 ---
 
-## Fotografia d'arquitectura cultural: Galeria d'Art Sala Parés, Barcelona
+## Fotografia d'arquitectura cultural: Una exposició de Guerror Medina a la Sala Parés de Barcelona
 
-Aquest portafoli d'interiors arquitectònics presenta la **[Sala Parés](https://salapares.com)**, una institució cultural al històric **Barri Gòtic** de Barcelona. Fundada el 1877 com la primera galeria d'art comercial a Espanya, aquest emblemàtic espai del carrer de Petritxol ha acollit mestres que van definir tota una generació, des de Ramon Casas fins a Pablo Picasso. Avui dia, continua el seu llegat com a destinació per a la figuració contemporània, el realisme i l'abstracció.
+Aquest portafoli d'interiors arquitectònics presenta una exposició del pintor [Guerrero Medina](https://www.guerreromedina.com) a la **[Sala Parés](https://salapares.com)**, una institució cultural al històric **Barri Gòtic** de Barcelona. Fundada el 1877 com la primera galeria comercial d'art a Espanya, aquest emblemàtic espai del carrer de Petritxol ha acollit mestres que van definir tota una generació, des de Ramon Casas fins a Pablo Picasso. Avui dia, continua el seu llegat com a destinació per a la figuració contemporània, el realisme i l'abstracció.
 
-La sessió fotogràfica mostra com la gran distribució arquitectònica del segle XIX de la galeria s'ha adaptat per transformar-se en un entorn sofisticat i ple de llum per a una exposició de belles arts d'alta qualitat.
+La sessió fotogràfica mostra com la gran distribució arquitectònica del segle XIX de la galeria s'ha adaptat per transformar-se en un entorn sofisticat i ple de llum per a exposicions d'art d'alta qualitat.
 
-### Documentant volums patrimonials, terres de fusta i exhibicions d'art
+### Documentant volums patrimonials i exposicions d'art
 
 La narrativa visual d'aquesta sessió fotogràfica a la galeria d'art captura l'escala, la geometria neta i l'atmosfera serena i meditativa que es requereix en els espais expositius de classe mundial.
 
-* **Les textures de la fusta polida:** Un ancoratge visual central de la gran sala d'exposicions són els expansius **terres de fusta polida**. La fotografia aprofita els tons càlids i la direcció lineal dels taulons de fusta per guiar la mirada de l'observador de forma natural a través de la sala, capturant reflexos zenitals suaus que doten l'espai d'una dimensió connectada amb l'entorn i plena de vida.
-* **Escala monumental:** Un enquadrament precís de gran angular captura els sostres alts i els empostissats blancs. Aquests plans verticals neutres permeten que les pintures contemporànies de gran format dominin la sala i mostren com l'estructura històrica suporta una escala artística atrevida.
+* **Les textures de la fusta polida:** Un ancoratge visual central de la gran sala d'exposicions són els expansius terres de fusta polida. La fotografia aprofita els tons càlids i la direcció lineal dels taulons de fusta per guiar la mirada de l'observador de forma natural a través de la sala, capturant reflexos zenitals suaus que doten l'espai d'una dimensió connectada amb l'entorn i plena de vida.
+* **Escala monumental:** Un enquadrament precís de gran angular captura els sostres alts i els paraments blancs. Aquests plans verticals neutres permeten que les pintures contemporànies de gran format de Guerrero Medina dominin la sala i mostren com l'estructura històrica suporta una escala artística atrevida.
 * **Conexions espacials fluides:** Els punts de fuga profunds enmarquen els grans accessos i mostren el flux i les línies de visió estructurals entre els diferents espais d'exhibició de la galeria.
 
 ### Precisió tècnica en fotografia de museus i belles arts
 
 Fotografiar una exposició activa d'art contemporani en un edifici històric planteja complexes exigències tècniques. Cada fotografia està composta amb una alineació vertical, assegurant que els pilars estructurals, els accessos i els marcs dels llenços es mantinguin compositivament fidels i lliures de distorsió geomètrica.
 
-En calibrar les exposicions per fusionar la subtil llum ambiental amb els rails d'il·luminació zenital especialitzats de la galeria, la fotografia elimina per complet les brillantors dures i els punts de llum molests sobre les obres d'art. Això preserva els valors cromàtics autèntics, les pincellades denses i les textures tàctils del llenç de les pintures, oferint un arxiu visual professional i impecable que honora tant l'petjada històrica de la Sala Parés com els artistes contemporanis exposats al seu interior.
+En calibrar les exposicions per fusionar la subtil llum ambiental amb la il·luminació zenital especialitzatada de la galeria, la fotografia elimina per complet les brillantors dures i els punts de llum molests sobre les obres d'art. Això preserva els valors cromàtics autèntics, les pincellades denses i les textures tàctils del llenç de les pintures, oferint un document visual professional i impecable que honora tant l'petjada històrica de la Sala Parés com els artistes contemporanis exposats al seu interior.

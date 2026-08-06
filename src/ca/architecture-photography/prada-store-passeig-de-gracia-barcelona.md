@@ -88,7 +88,7 @@ images:
 
 ## Fotografia d'arquitectura comercial de luxe: Botiga insígnia de Prada al Passeig de Gràcia
 
-Aquesta sèrie de fotografia d'interiors comercials documenta la botiga insígnia de Prada al prestigiós **Passeig de Gràcia de Barcelona**. Com un dels espais de retail de luxe més significatius de la ciutat, el lloc exemplifica com l'arquitectura històrica europea es pot adaptar per acollir entorns contemporanis d'alta costura.
+Aquesta sèrie de fotografia d'interiors comercials documenta la botiga insígnia de Prada al **Passeig de Gràcia de Barcelona**. Com un dels espais de retail de luxe més significatius de la ciutat, el lloc exemplifica com l'arquitectura històrica europea es pot adaptar per acollir entorns contemporanis d'alta costura.
 
 La sessió fotogràfica captura minuciosament la gran escala, les proporcions simètriques i els detalls materials identitaris que defineixen la identitat visual de Prada a l'interior d'aquesta botiga insígnia.
 
@@ -96,12 +96,12 @@ La sessió fotogràfica captura minuciosament la gran escala, les proporcions si
 
 La narrativa visual d'aquesta sessió fotogràfica a la botiga insígnia es cendra en la rigorosa i elegant paleta de materials comissariada per l'equip de disseny intern de la marca.
 
-* **El marbre verd identitari:** Una característica transitòria de l'arquitectura interior és l'ús extensiu de parets de **marbre verd** profund i polit. La fotografia aprofita una il·luminació arquitectònica suau i difusa per ressaltar el vetejat intens i les riques textures de la pedra, assegurant que funcioni com un fons imponent però sofisticat per a les col·leccions.
-* **Paviments geomètrics i perspectiva:** La boutique compta amb sèries de paviments clàssics en escaquer blanc i negre al costat de moquetes toves de tons pàl·lids. Les composicions utilitzen perspectives baixes i equilibrades per capturar aquests patrons del terra com a fortes línies de fuga, guiant la mirada de l'espectador a través de la sèrie d'accessos monumentals i salons de luxe interconnectats.
+* **El verd Prada:** Una característica definidora de l'arquitectura interior és l'ús extensiu de les tonalitats de l'icònic color verd Prada. La fotografia aprofita una il·luminació arquitectònica suau i difusa per ressaltar el color singular i les riques textures d'els diferents materials, assegurant que funcioni com un fons imponent però sofisticat per a les col·leccions.
+* **Paviments geomètrics i perspectiva:** La boutique compta amb sèries de paviments clàssics en escaquer blanc i negre juntament amb terres de marbre i fusta a *spina de pesce*. Les composicions utilitzen perspectives baixes i equilibrades per capturar aquests patrons del terra com a fortes línies de fuga, guiant la mirada de l'espectador a través de la sèrie d'accessos monumentals i salons de luxe interconnectats.
 * **Simetria i equilibri en l'exhibició:** Sistemes de prestatgeries de metall negre elegant i minimalista juntament amb miralls polits revesteixen les parets. L'enquadrament emfatitza la simetria absoluta d'aquests exhibidors a mida, documentant com les peces d'alta costura, les bosses de luxe i els accessoris es presenten com a peces d'art altament seleccionades dins de l'espai.
 
 ### Domini tècnic en interiors comercials d'alta gamma
 
 Fotografiar una botiga de luxe de classe mundial requereix gestionar una complexa xarxa de reptes tècnics.
 
-Les composicions es recolzen en una impecable **alineació ortogonal** per mantenir els sostres alts, les columnes estructurals i els amplis accessos perfectament verticals i fidels al plànol de l'arquitecte. Controlar els intensos reflexos dels miralls sobredimensionats, les vitrines de vidre i les superfícies de marbre brillant va exigir un posicionament de la càmera ultraprecís i tècniques avançades de polarització. En calibrar els focs de llum calents i dirigits al producte amb la llum ambiental més fresca que flueix des de l'accés del Passeig de Gràcia, aquesta peça de portafoli arquitectònic preserva amb èxit l'atmosfera immersiva i d'alta gamma que defineix l'experiència de compra a Prada.
+Les composicions es recolzen en una impecable **alineació ortogonal** per mantenir els sostres alts, les columnes estructurals i els amplis accessos perfectament verticals i fidels al projecte original de l'arquitecte. Controlar els intensos reflexos dels miralls sobredimensionats, les vitrines de vidre i les superfícies de marbre brillant va exigir un posicionament de la càmera ultraprecís i tècniques avançades de polarització. En calibrar els focus de llum calents i dirigits al producte amb la llum ambiental més freda, aquest portafoli de fotografia comercial arquitectònica preserva amb èxit l'atmosfera immersiva i d'alta gamma que defineix l'experiència de compra a Prada.
