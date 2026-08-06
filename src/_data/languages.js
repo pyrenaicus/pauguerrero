@@ -119,7 +119,7 @@ export default {
       exhibitions: {
         title: "Exposiciones y Proyectos",
         tagline: "Explorando la experiencia de la montaña a través de la fotografía de paisaje fine art.",
-        button: "View Exhibitions"
+        button: "Ver Exposiciones"
       },
     },    
     information: "Información",
