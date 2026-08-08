@@ -239,16 +239,16 @@ a.card img {
 
 a.card .card-content {
   padding: 0.5rem 0; 
-  transition: font-weight 0.2s ease-in-out, color 0.2s ease-in-out;
+  /* transition: font-weight 0.2s ease-in-out, color 0.2s ease-in-out; */
 }
 
 a.card:hover img {
   opacity: 0.8; /* Lower this number for a more dramatic effect (e.g., 0.7) */
 }
 
-a.card:hover .card-content {
+/* a.card:hover .card-content {
   font-weight: 600;
-}
+} */
 
 /* MAIN CATEGORY LIST PAGE WITH TWO COLUMNS */
 .has-two-columns {

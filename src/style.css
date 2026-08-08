@@ -1,4 +1,12 @@
 @charset "UTF-8";
+
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/Inter-VariableFont_opsz,wght-subset.woff2') format('woff2');
+  font-display: optional;
+}
+
 /*! bulma.io v1.0.4 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
 :root {
@@ -21802,7 +21810,7 @@ a.card img {
 
 a.card .card-content {
   padding: 0.5rem 0; 
-  transition: font-weight 0.2s ease-in-out, color 0.2s ease-in-out;
+  /* transition: font-weight 0.2s ease-in-out, color 0.2s ease-in-out; */
 }
 
 a.card:hover img {
@@ -21810,7 +21818,7 @@ a.card:hover img {
 }
 
 a.card:hover .card-content {
-  font-weight: 600;
+  /* font-weight: 600; */
 }
 
 /* MAIN CATEGORY LIST PAGE WITH TWO COLUMNS */

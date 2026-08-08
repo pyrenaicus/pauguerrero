@@ -209,3 +209,21 @@ When filtering collections by language in templates:
 # frontmatter
 
 added a `noindex: true` to pages where we want to avoid indexing by crawlers. Used in `privacy-policy.md` `success.md` and `terms.md`. In all languages.
+
+# font subsetting
+
+```sh
+glyphhanger https://pauguerrero.com/ca --spider-limit=0 --subset=Inter-VariableFont_opsz,wght.ttf --formats=woff2
+```
+```
+U+20-22,U+26-29,U+2C-2E,U+30-3B,U+3F-58,U+61-7A,U+A9,U+B7,U+DA,U+E0,U+E7-E9,U+ED,U+EF,U+F1-F3,U+FA,U+FC,U+414,U+41C,U+430,U+436,U+43C,U+43E,U+440,U+2013,U+2014,U+2019,U+276E,U+276F
+Subsetting Inter-VariableFont_opsz,wght.ttf to Inter-VariableFont_opsz,wght-subset.woff2 (was 874.71 kB, now 65.39 kB)
+```
+
+```css
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/Inter-VariableFont_opsz,wght-subset.woff2') format('woff2');
+  font-display: optional;
+}
+```

@@ -4,63 +4,63 @@
 
             <!-- Column 1: Brand Profile & Location Entity -->
       <div class="column is-5-desktop mb-5">
-        <h2 class="is-size-6 has-text-black mb-3">
-          <a href="/" class="has-text-black">Pau Guerrero</a>
+        <h2 class="is-size-6  mb-3">
+          <a href="/" >Pau Guerrero</a>
         </h2>
-        <p class="has-text-grey-dark is-size-7 mb-2">
+        <p class=" is-size-7 mb-2">
           {{ languages[page.lang].footer.byLine }}
         </p>
-        <p class="has-text-grey-dark is-size-7 mb-4">
+        <p class=" is-size-7 mb-4">
           {{ languages[page.lang].footer.basedIn }}
         </p>
-        <p class="is-size-7">
-          <a href="mailto:info@pauguerrero.com" class="has-text-grey">
+       {# <p class="is-size-7">
+          <a href="mailto:info@pauguerrero.com" >
             info@pauguerrero.com
           </a>
-        </p>
+        </p> #}
       </div>
 
             <!-- Column 2: Portfolios (Crawl Path) -->
       <div class="column is-3-desktop is-offset-1-desktop mb-5">
-        <h3 class="is-size-6 has-text-black mb-3" style="letter-spacing: 0.1em;">
+        <h3 class="is-size-6  mb-3" style="letter-spacing: 0.1em;">
           Portfolios
         </h3>
         <ul class="is-size-7">
           <li class="py-1">
-            <a href="{{ languages[page.lang].footer.architecturePhotography.url }}" class="has-text-grey">{{ languages[page.lang].footer.architecturePhotography.text }}</a>
+            <a href="{{ languages[page.lang].footer.architecturePhotography.url }}" >{{ languages[page.lang].footer.architecturePhotography.text }}</a>
+          </li>
+          {# <li class="py-1">
+            <a href="{{ languages[page.lang].footer.retailPhotography.url }}" >{{ languages[page.lang].footer.retailPhotography.text }}</a>
           </li>
           <li class="py-1">
-            <a href="{{ languages[page.lang].footer.retailPhotography.url }}" class="has-text-grey">{{ languages[page.lang].footer.retailPhotography.text }}</a>
-          </li>
-          <li class="py-1">
-            <a href="/{{ page.lang }}//landscape-fine-art" class="has-text-grey">{{ languages[page.lang].landscapeFineArt }}</a>
-          </li>
+            <a href="{{ languages[page.lang].footer.fineArtPhotography.url }}" >{{ languages[page.lang].footer.fineArtPhotography.text }}</a>
+          </li> #}
         </ul>
       </div>
 
             <!-- Column 3: Authority / Trust Signals -->
       <div class="column is-3-desktop mb-5">
-        <h3 class="is-size-6 has-text-black  mb-3" style="letter-spacing: 0.1em;">
+        <h3 class="is-size-6   mb-3" style="letter-spacing: 0.1em;">
           {{ languages[page.lang].information }}
         </h3>
         <ul class="is-size-7">
           <li class="py-1">
-            <a href="{{ languages[page.lang].cv.url }}" class="has-text-grey">{{ languages[page.lang].cv.text }}</a>
+            <a href="{{ languages[page.lang].cv.url }}" >{{ languages[page.lang].cv.text }}</a>
           </li>
           <li class="py-1">
-            <a href="{{ languages[page.lang].exhibitions.url }}" class="has-text-grey">{{ languages[page.lang].exhibitions.text }}</a>
+            <a href="{{ languages[page.lang].exhibitions.url }}" >{{ languages[page.lang].exhibitions.text }}</a>
           </li>
           <li class="py-1">
-            <a href="{{ languages[page.lang].contact.url }}" class="has-text-grey">{{ languages[page.lang].contact.text }}</a>
+            <a href="{{ languages[page.lang].contact.url }}" >{{ languages[page.lang].contact.text }}</a>
           </li>
           <li class="py-1">
-            <a href="{{ languages[page.lang].about.url }}" class="has-text-grey">{{ languages[page.lang].about.text }}</a>
+            <a href="{{ languages[page.lang].about.url }}" >{{ languages[page.lang].about.text }}</a>
           </li>
           <li class="py-1 mt-2">
-            <a href="https://instagram.com/_pau_guerrero_/" class="has-text-grey mr-4" target="_blank" rel="noopener">
+            <a href="https://instagram.com/_pau_guerrero_/" class=" mr-4" target="_blank" rel="noopener">
               Instagram
             </a>
-            <a href="https://mastodon.social/@pyrenaicus" class="has-text-grey" target="_blank" rel="noopener">
+            <a href="https://mastodon.social/@pyrenaicus"  target="_blank" rel="noopener">
               Mastodon
             </a>
           </li>
@@ -75,23 +75,23 @@
     <!-- Bottom Row: Meta Links & Languages -->
     <div class="columns is-vcentered is-mobile is-multiline is-size-7">
       <div class="column is-12-mobile is-7-tablet">
-        <div class="has-text-grey">
+        <div >
           <span class="mr-3">{{ languages[page.lang].footer.copyrightNotice }}</span>
-          <a href="{{ languages[page.lang].privacyPolicy.url }}" class="has-text-grey mr-3">{{ languages[page.lang].privacyPolicy.text }}</a>
-          <a href="{{ languages[page.lang].termsOfService.url }}" class="has-text-grey">{{ languages[page.lang].termsOfService.text }}</a>
+          <a href="{{ languages[page.lang].privacyPolicy.url }}" class=" mr-3">{{ languages[page.lang].privacyPolicy.text }}</a>
+          <a href="{{ languages[page.lang].termsOfService.url }}" >{{ languages[page.lang].termsOfService.text }}</a>
         </div>
       </div>
 
             <!-- Language Switcher -->
       <div class="column is-12-mobile is-5-tablet has-text-left-mobile has-text-right-tablet">
         <div class="languages">
-          <p class="is-inline has-text-weight-bold has-text-black mr-3">{{ languages[page.lang].switchLang }}: </p>
+          <p class="is-inline has-text-weight-bold  mr-3">{{ languages[page.lang].switchLang }}: </p>
           {% for link in page.url | locale_links %}
 
           <a href="{{ link.url }}" 
           lang="{{ link.lang }}"
           hreflang="{{ link.lang }}"
-          class="has-text-black mr-3">
+          class=" mr-3">
         {{ languages[link.lang].langName }}</a>
           {% endfor %}
         </div>

@@ -1,5 +1,6 @@
 ---
 title: Sobre Pau Guerrero
+permalink: es/sobre-mi/
 metaTitle: Sobre Pau Guerrero, arquitecto y fotógrafo
 layout: page.njk
 description: Sobre Pau Guerrero, arquitecto y fotógrafo especializado en arquitectura y fotografía de paisaje fine art

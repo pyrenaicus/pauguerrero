@@ -23,16 +23,20 @@ export default {
     exhibitions: { text: "Exposicions", url: "/ca/exposicions/" },
     footer: {
       copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero`,
-      basedIn: "Amb base a Barcelona, Espanya — Disponible a nivell mundial",
+      basedIn: "Amb base a Barcelona, disponible a nivell mundial",
       byLine: "Fotografia d'Arquitectura i Paisatge",
       architecturePhotography: {
         text: "Fotografia d'Arquitectura",
         url: "/ca/fotografia-d-arquitectura/",
       },
-      retailPhotography: {
-        text: "Fotografia Comercial",
-        url: "/ca/fotografia-comercial/",
-      },
+      // fineArtPhotography: {
+      //   text: "Fine Art Photography",
+      //   url: "/en/fine-art-photography/",
+      // },
+      // retailPhotography: {
+      //   text: "Fotografia Comercial",
+      //   url: "/ca/fotografia-comercial/",
+      // },
       tagline: {
         retail: "Fotografia d'Arquitectura del Retail",
         arch: "Fotografia d'Arquitectura",
@@ -95,15 +99,19 @@ export default {
     footer: {
       copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero`,
       byLine: "Fotografía de Arquitectura y Paisaje",
-      basedIn: "Con base en Barcelona, España — Disponible a nivel mundial",
+      basedIn: "Con base en Barcelona, disponible a nivel mundial",
       architecturePhotography: {
         text: "Fotografía de Arquitectura",
         url: "/es/fotografia-de-arquitectura/",
       },
-      retailPhotography: {
-        text: "Fotografía Comercial",
-        url: "/es/fotografia-comercial/",
-      },
+      // fineArtPhotography: {
+      //   text: "Fine Art Photography",
+      //   url: "/en/fine-art-photography/",
+      // },
+      // retailPhotography: {
+      //   text: "Fotografía Comercial",
+      //   url: "/es/fotografia-comercial/",
+      // },
       tagline: {
         retail: "Fotografía de Arquitectura del Retail",
         arch: "Fotografía de Arquitectura",
@@ -171,10 +179,14 @@ export default {
       copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero.`,
       byLine: "Architecture & Landscape Photography",
       basedIn: "Based in Barcelona, Spain — Available Worldwide",
-      retailPhotography: {
-        text: "Luxury Retail Photography",
-        url: "/en/luxury-retail-photography/",
-      },
+      // fineArtPhotography: {
+      //   text: "Fine Art Photography",
+      //   url: "/en/fine-art-photography/",
+      // },
+      // retailPhotography: {
+      //   text: "Luxury Retail Photography",
+      //   url: "/en/luxury-retail-photography/",
+      // },
       tagline: {
         retail: "Luxury Retail Architecture Photography",
         arch: "Architecture Photography",
