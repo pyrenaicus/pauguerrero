@@ -2,7 +2,7 @@
 title: Zero Figura
 description: "'0 Figura' exhibition at Km7 Espai d'Art Jose Luis Pascual in Saus-Camallera, Girona."
 intro: "Exhibition at Km7 Espai d'Art Jose Luis Pascual"
-date: 2018-07-12
+date: 2026-07-12
 teaser: images/teaser-pau-guerrero-zero-figura-km7.jpg
 teaserAlt: "Exhibition poster for '0 figura' at Km7 espai d'ART, featuring various artists, from July 28 to August 19, 2018."
 location: Camallera, Girona

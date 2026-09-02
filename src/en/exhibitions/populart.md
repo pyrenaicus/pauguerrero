@@ -2,7 +2,7 @@
 title: Albera Landscape
 description: '"Albera Landscape" practical workshop and group exhibition at Populart, Capmany, Girona.'
 intro: "Photography Workshop and Exhibition at Populart, Capmany, Girona"
-date: 2015-09-20
+date: 2025-09-20
 teaser: images/teaser-pau-guerrero-albera-populart.jpg
 teaserAlt: "A group of people posing together outdoors on a trail with trees in the background."
 location: Capmany, Girona

@@ -2,7 +2,7 @@
 title: Landscape and myth of Count Arnau
 description: '"Landscape and myth of Count Arnau" exhibition at Carles Rahola library, Girona.'
 intro: "Exhibition at Carles Rahola library in Girona"
-date: 2016-07-24
+date: 2026-07-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-girona.jpg
 teaserAlt: "Three people closely examining framed landscape photographs on a gallery wall."

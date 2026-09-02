@@ -2,7 +2,7 @@
 title: Art Auction for Chhimeki Nepal
 description: Exhibition and art auction for Nepal Chhimeki at Ocaña bar, Barcelona.
 intro: "Exhibition and auction at <a class='is-intro-link' href='https://www.ocana.cat/en/'>Ocaña</a> in Barcelona's Plaça Reial"
-date: 2017-09-17
+date: 2025-09-17
 series: "vanishing landscape"
 teaser: images/teaser-pau-guerrero-nepal-chhimeki.jpg
 teaserAlt: "Two people standing and smiling in an art gallery with framed artworks on a stone wall in the background."

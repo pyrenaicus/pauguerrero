@@ -2,7 +2,7 @@
 title: Body Landscape
 description: Body-Landscape photography exhibition at Treseu photographic gallery in Vic, Barcelona.
 intro: 'Exhibition at <a class="is-intro-link">Treseu Photographic Gallery</a> in Vic, during November 2023'
-date: 2023-11-25
+date: 2025-11-25
 series: "body landscape"
 teaser: images/teaser-pau-guerrero-body-landscape-treseu.jpg
 teaserAlt: "People observing photographs at the Tres-e-u photography gallery, as seen from the street through the gallery's main entrance."

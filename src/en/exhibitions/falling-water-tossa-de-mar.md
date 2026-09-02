@@ -1,7 +1,7 @@
 ---
 title: Falling water
 description: '"Falling Water" exhibition at Municipal Museum, Tossa de Mar, Girona.'
-date: 2013-05-24
+date: 2026-05-24
 intro: 'Exhibition at the Municipal Museum of Tossa de Mar'
 series: "falling water"
 teaser: images/teaser-pau-guerrero-falling-water-tossa.jpg

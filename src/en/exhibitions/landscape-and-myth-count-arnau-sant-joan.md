@@ -2,7 +2,7 @@
 title: Landscape and myth of Count Arnau
 description: "'Landscape and myth of Count Arnau' exhibition at Palau de l'Abadia, Sant Joan de les Abadesses, Girona."
 intro: 'Exhibition at the <a class="is-intro-link"  href="https://ripollesturisme.cat/en/romanic/palau-de-labadia/">Abbatial Palace</a> in Sant Joan de les Abadesses'
-date: 2015-04-24
+date: 2026-04-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-stjoan.jpg
 teaserAlt: "View into a gallery room with wooden beams, framed photos on the walls and display cases on wooden stands."
