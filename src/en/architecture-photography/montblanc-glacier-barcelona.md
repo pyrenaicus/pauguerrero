@@ -1,7 +1,7 @@
 ---
 title: "Montblanc Glacier"
 description: "Glacier indow campaign by StudioXAG in Montblanc Store, Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
-date: "2022-11-06"
+date: "2026-08-03"
 location: "Barcelona"
 tags: retail
 brand: "Montblanc"

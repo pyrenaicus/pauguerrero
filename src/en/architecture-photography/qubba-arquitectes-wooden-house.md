@@ -1,7 +1,7 @@
 ---
 title: "Wooden house"
 description: "Wooden House by Qubba Architects. Architecture Photography by Pau Guerrero."
-date: "2022-11-02"
+date: "2026-09-01"
 location: "Barcelona"
 architect: "Qubba arquitectes"
 intro: "Lightweight wooden house near Barcelona by Qubba Arquitectes."

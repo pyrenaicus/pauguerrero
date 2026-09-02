@@ -1,7 +1,7 @@
 ---
 title: "A flat in l'Eixample"
 description: "Eixample House by Qubba Architects. Architecture Photography by Pau Guerrero."
-date: "2023-06-12"
+date: "2026-08-07"
 location: "Sabadell, Barcelona"
 architect: "Qubba arquitectes"
 intro: "Renovation of an apartment in the Eixample district of Barcelona by Qubba Arquitectes."

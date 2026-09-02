@@ -2,7 +2,7 @@
 title: "Espais Volart"
 permalink: "{{ preSlug }}/espais-volart-fundacio-vilacasas/"
 description: '"Espais Volart, Fundació Vila Casas" in Barcelona. Architecture Photography: Pau Guerrero.'
-date: "2020-07-10"
+date: "2026-08-10"
 location: "Barcelona"
 architect:
 intro: "A major monographic exhibition of Guerrero Medina in Barcelona."

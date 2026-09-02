@@ -2,7 +2,7 @@
 title: "Llinars Art Space"
 permalink: "{{ preSlug }}/aresta-architects-llinars-art-space/"
 description: "Llinars Art Space by Aresta a+u architects. Architecture Photography by Pau Guerrero."
-date: "2020-09-15"
+date: "2026-08-21"
 location: "Llinars, Barcelona"
 architect: Aresta a+u
 intro: "Art centre in Llinars del Vallès, Barcelona by Aresta a+u arquitectes."

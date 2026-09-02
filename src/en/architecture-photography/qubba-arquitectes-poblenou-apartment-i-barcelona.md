@@ -1,7 +1,7 @@
 ---
 title: "Poblenou apartment I"
 description: "Poblenou I, Apartment renovation by Qubba Architects. Architecture Photography by Pau Guerrero."
-date: "2016-09-18"
+date: "2026-08-02"
 location: "Barcelona"
 architect: "Qubba arquitectes"
 intro: "Renovation of an old flat in Barcelona. Designed by Qubba Arquitectes."

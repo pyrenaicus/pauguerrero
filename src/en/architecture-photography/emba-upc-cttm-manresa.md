@@ -2,7 +2,7 @@
 title: "UPC CTTM"
 permalink: "{{ preSlug }}/emba-upc-cttm-manresa/"
 description: "UPC-CTTM Manresa by EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
-date: "2004-05-15"
+date: "2026-07-13"
 location: "Manresa, Barcelona"
 architect: "Estudi Massip-Bosch Architects"
 intro: "Technological research facility. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"

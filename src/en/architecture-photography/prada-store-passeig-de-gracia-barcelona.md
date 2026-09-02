@@ -1,7 +1,7 @@
 ---
 title: "Prada"
 description: "Prada Store in Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
-date: "2019-04-01"
+date: "2026-08-05"
 location: "Barcelona"
 tags: retail
 brand: "Prada"

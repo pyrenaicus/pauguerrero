@@ -1,7 +1,7 @@
 ---
 title: "Raval house"
 description: "Raval House by Qubba Architects. Architecture Photography by Pau Guerrero."
-date: "2020-07-01"
+date: "2026-07-19"
 location: "Barcelona"
 architect: Qubba arquitectes
 intro: "Renovation of a XIX century flat in Barcelona by Qubba Arquitectes."

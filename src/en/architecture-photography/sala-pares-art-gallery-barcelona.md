@@ -1,7 +1,7 @@
 ---
 title: "Sala Parés"
 description: "Sala Parés Art Gallery in Barcelona. Architecture Photography by Pau Guerrero."
-date: "2018-09-12"
+date: "2026-07-17"
 location: "Barcelona"
 intro: "Founded in 1877, the first commercial art gallery in Spain."
 teaser: "images/teaser-barcelona-sala-pares.jpg"

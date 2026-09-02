@@ -2,7 +2,7 @@
 title: "Prada Luna Rossa Pop In"
 description: "Prada Luna Rossa Pop-In Store in Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
 intro: "Temporary Pop-in store during the 37th America's Cup, Prada's flagship boutique in Passeig de Gràcia, Barcelona."
-date: "2024-09-01"
+date: "2026-09-02"
 location: "Barcelona"
 tags: retail
 brand: "Prada"

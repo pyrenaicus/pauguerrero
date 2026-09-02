@@ -2,7 +2,7 @@
 title: "Sabadell Medical center"
 permalink: "{{ preSlug }}/emba-sabadell-medical-center/"
 description: "Medical center in Sabadell, EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
-date: "2005-03-14"
+date: "2026-07-09"
 location: "Sabadell, Barcelona"
 architect: "Estudi Massip-Bosch Architects"
 intro: "Community healthcare center. Architecture by EMBA, Estudi Massip-Bosch Arquitectes"

@@ -1,7 +1,7 @@
 ---
 title: "Sant Antoni house"
 description: "Sant Antoni House by Qubba Architects. Architecture Photography by Pau Guerrero."
-date: "2020-07-01"
+date: "2026-08-09"
 location: "Barcelona"
 architect: Qubba arquitectes
 intro: "Renovation of a flat in Barcelona, by Qubba Arquitectes."

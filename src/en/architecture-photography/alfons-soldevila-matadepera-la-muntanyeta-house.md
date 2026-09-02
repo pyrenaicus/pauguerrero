@@ -1,7 +1,7 @@
 ---
 title: "La Muntanyeta house"
 description: "La Muntanyeta House by Alfons Soldevila. Architecture Photography by Pau Guerrero."
-date: "2002-04-12"
+date: "2026-07-06"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
 intro: "One of the six houses in La Muntanyeta Residential Complex, built in 1979 in Matadepera, Barcelona. Designed by Alfons Soldevila and Josep Ignasi de Llorens."

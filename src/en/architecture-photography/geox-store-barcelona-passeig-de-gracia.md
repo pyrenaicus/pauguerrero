@@ -1,7 +1,7 @@
 ---
 title: "Geox"
 description: "Geox Store in Passeig de Gràcia, Barcelona. Retail Architecture Photography by Pau Guerrero."
-date: "2019-02-01"
+date: "2026-07-20"
 location: "Barcelona"
 tags: retail
 brand: geox

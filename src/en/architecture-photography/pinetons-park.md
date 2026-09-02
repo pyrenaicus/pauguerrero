@@ -3,7 +3,7 @@ title: Pinetons park
 permalink: "{{ preSlug }}/isidre-santacreu-pinetons-park/"
 
 description: Pinetons Park by Isidre Santacreu. Architecture Photography by Pau Guerrero.
-date: 2003-05-21
+date: 2026-07-15
 location: Ripollet, Barcelona
 architect: Isidre Santacreu
 intro: "In Ripollet, Barcelona. Landscape architecture by Isidre Santacreu"

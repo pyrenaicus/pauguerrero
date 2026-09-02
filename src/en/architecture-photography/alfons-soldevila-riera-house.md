@@ -1,7 +1,7 @@
 ---
 title: "Riera House"
 description: "Riera House by Alfons Soldevila. Architecture Photography by Pau Guerrero."
-date: "2002-05-12"
+date: "2026-07-05"
 location: "Badalona, Barcelona"
 architect: "Alfons Soldevila"
 intro: "Experimental dwelling prototype MR6, built in 1984. Architecture by Alfons Soldevila and Josep Ignasi de Llorens."

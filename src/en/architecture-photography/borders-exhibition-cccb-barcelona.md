@@ -2,7 +2,7 @@
 title: "Borders CCCB"
 permalimk: "{{ preSlug }}/emba-borders-exhibition-cccb/"
 description: "Borders exhibition at CCCB, Barcelona. Design by EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
-date: "2007-05-15"
+date: "2026-07-14"
 location: "Barcelona"
 architect: "Estudi Massip-Bosch Architects"
 intro: "Exhibition design by EMBA, Enric Massip-Bosch Arquitectes"

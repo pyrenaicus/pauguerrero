@@ -2,7 +2,7 @@
 title: "Manresa housing"
 permalink: "{{ preSlug }}/emba-manresa-housing/"
 description: "Manresa Housing by EMBA, Enric Massip-Bosch Architects. Architecture Photography by Pau Guerrero."
-date: "2004-05-15"
+date: "2026-07-12"
 location: "Manresa, Barcelona"
 architect: "Qubba arquitectes"
 intro: "Residential architecture by EMBA, Estudi Massip-Bosch Arquitectes"

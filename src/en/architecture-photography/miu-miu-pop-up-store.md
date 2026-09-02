@@ -1,7 +1,7 @@
 ---
 title: "Miu Miu Pop-up Store"
 description: "Miu Miu Pop Up Store in El Corte Inglés Castellana, Madrid. Retail Architecture Photography by Pau Guerrero."
-date: "2020-08-10"
+date: "2026-08-08"
 location: "Madrid"
 tags: retail
 brand: "Miu Miu"

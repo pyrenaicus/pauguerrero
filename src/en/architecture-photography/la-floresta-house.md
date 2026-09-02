@@ -2,7 +2,7 @@
 title: "BCH house"
 permalink: "{{ preSlug }}/aresta-architects-bch-house/"
 description: "BCH house in La Floresta, Barcelona. By Aresta a+u architects. Architecture Photography by Pau Guerrero."
-date: "2012-02-02"
+date: "2026-07-10"
 location: "Sant Cugat, Barcelona"
 architect: Aresta a+u
 intro: Single family house in la Floresta, Sant Cugat del Vallès. Designed by Aresta a+u arquitectes.

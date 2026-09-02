@@ -1,7 +1,7 @@
 ---
 title: "Mas Ram house"
 description: "Mas Ram House by Alfons Soldevila. Architecture Photography by Pau Guerrero."
-date: "2002-05-05"
+date: "2026-07-07"
 location: "Matadepera, Barcelona"
 architect: "Alfons Soldevila"
 intro: "Experimental dwelling prototype MR-1, built in 1971. The first in a series of experimental dwelling prototypes by Alfons Soldevila, Josep Maria Massot and Miguel Donada."
