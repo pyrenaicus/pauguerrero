@@ -8,7 +8,7 @@ tags:
 brand:
 intro: High-end residential development in Barcelona by Vívid Arquitectura
 teaser: images/teaser-vivid-arquitectura-bejar.jpg
-teaserAlt:
+teaserAlt: "Bright outdoor courtyard featuring a clear blue lap pool, beige stone patio with sun loungers and umbrellas, and lush tropical greenery including palm trees and banana plants, set against a modern three-story building exterior with green accents."
 images:
   - layout: vh
     items:

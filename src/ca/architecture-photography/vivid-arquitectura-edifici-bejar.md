@@ -8,7 +8,7 @@ tags:
 brand:
 intro: Promoció residencial de luxe a Barcelona, un projecte de Vívid Arquitectura
 teaser: images/teaser-vivid-arquitectura-bejar.jpg
-teaserAlt:
+teaserAlt: "Pati exterior lluminós amb una piscina de natació d'aigua transparent, un pati de pedra beix amb gandules i para-sols, i una exuberant vegetació tropical que inclou palmeres i plataners, amb l'exterior d'un edifici modern de tres plantes amb detalls verds de fons."
 images:
   - layout: vh
     items:
