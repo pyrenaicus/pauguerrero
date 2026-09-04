@@ -16,143 +16,162 @@ const isProduction = process.env.NODE_ENV === "production";
 
 // CSS minify transform fn
 function minifyCSS(source, outputPath) {
-  if (!outputPath.endsWith(".css") || !isProduction) return source;
+    if (!outputPath.endsWith(".css") || !isProduction) return source;
 
-  const result = new CleanCSS({
-    level: 2,
-  })
-    .minify(source)
-    .styles.trim();
-  console.log(
-    `MINIFY ${outputPath}`,
-    source.length,
-    `→`,
-    result.length,
-    `(${((1 - result.length / source.length) * 100).toFixed(2)}% reduction)`
-  );
-  return result;
+    const result = new CleanCSS({
+        level: 2,
+    })
+        .minify(source)
+        .styles.trim();
+    console.log(
+        `MINIFY ${outputPath}`,
+        source.length,
+        `→`,
+        result.length,
+        `(${((1 - result.length / source.length) * 100).toFixed(2)}% reduction)`,
+    );
+    return result;
 }
 // HTML minify transform fn
 async function minifyHTML(source, outputPath) {
-  if (!outputPath.endsWith(".html") || !isProduction) return source;
+    if (!outputPath.endsWith(".html") || !isProduction) return source;
 
-  const result = await minify(source, {
-    collapseBooleanAttributes: true,
-    collapseWhitespace: false,
-    collapseInlineTagWhitespace: false,
-    continueOnParseError: true,
-    decodeEntities: true,
-    keepClosingSlash: true,
-    minifyCSS: true,
-    quoteCharacter: `"`,
-    removeComments: true,
-    removeAttributeQuotes: true,
-    removeRedundantAttributes: true,
-    removeScriptTypeAttributes: true,
-    removeStyleLinkTypeAttributes: true,
-    sortAttributes: true,
-    sortClassName: true,
-    useShortDoctype: true,
-    processScripts: ["application/ld+json"],
-  });
+    const result = await minify(source, {
+        collapseBooleanAttributes: true,
+        collapseWhitespace: false,
+        collapseInlineTagWhitespace: false,
+        continueOnParseError: true,
+        decodeEntities: true,
+        keepClosingSlash: true,
+        minifyCSS: true,
+        quoteCharacter: `"`,
+        removeComments: true,
+        removeAttributeQuotes: true,
+        removeRedundantAttributes: true,
+        removeScriptTypeAttributes: true,
+        removeStyleLinkTypeAttributes: true,
+        sortAttributes: true,
+        sortClassName: true,
+        useShortDoctype: true,
+        processScripts: ["application/ld+json"],
+    });
 
-  console.log(
-    `MINIFY ${outputPath}`,
-    source.length,
-    `→`,
-    result.length,
-    `(${((1 - result.length / source.length) * 100).toFixed(2)}% reduction)`
-  );
+    console.log(
+        `MINIFY ${outputPath}`,
+        source.length,
+        `→`,
+        result.length,
+        `(${((1 - result.length / source.length) * 100).toFixed(2)}% reduction)`,
+    );
 
-  return result;
+    return result;
 }
 
 export default async function (eleventyConfig) {
-  // eleventyConfig.addPassthroughCopy("./src/style.css");
-  eleventyConfig.addPassthroughCopy("./src/assets");
+    // implement drafts, Set draft: true anywhere in a file’s data
+    // cascade and that file won't be built
+    eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
+        // if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
+        if (data.draft) {
+            return false;
+        }
+    });
 
-  eleventyConfig.addPlugin(I18nPlugin, {
-    defaultLanguage: "en",
-    // Rename the default universal filter names
-    filters: {
-      // transform a URL with the current page’s locale code
-      url: "locale_url",
+    // eleventyConfig.addPassthroughCopy("./src/style.css");
+    eleventyConfig.addPassthroughCopy("./src/assets");
 
-      // find the other localized content for a specific input file
-      links: "locale_links",
-    },
-    errorMode: "allow-fallback",
-  });
+    eleventyConfig.addPlugin(I18nPlugin, {
+        defaultLanguage: "en",
+        // Rename the default universal filter names
+        filters: {
+            // transform a URL with the current page’s locale code
+            url: "locale_url",
 
-  // eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+            // find the other localized content for a specific input file
+            links: "locale_links",
+        },
+        errorMode: "allow-fallback",
+    });
 
-  eleventyConfig.addGlobalData("myDate", () => new Date());
+    // eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 
-  // collections in reverse chronological order
-  eleventyConfig.addCollection("architecture-photography", (col) =>
-    col.getFilteredByTag("architecture-photography").reverse()
-  );
-  eleventyConfig.addCollection("exhibitions", (col) =>
-    col.getFilteredByTag("exhibitions").reverse()
-  );
-  // Add collection of all images and optimized derivatives
-  // see: https://discord.com/channels/741017160297611315/1024977349864849458
-  eleventyConfig.addCollection("images", async () => {
-    console.log("Processing images...");
+    eleventyConfig.addGlobalData("myDate", () => new Date());
 
-    const imgDir = "src/images";
-    const imgOptions = {
-      widths: [300, 600, 980, 1300, 1600, "auto"],
-      formats: ["webp", "jpg"],
-      outputDir: "./_site/img",
+    // collections in reverse chronological order
+    eleventyConfig.addCollection("architecture-photography", (col) =>
+        col.getFilteredByTag("architecture-photography").reverse(),
+    );
+    eleventyConfig.addCollection("exhibitions", (col) =>
+        col.getFilteredByTag("exhibitions").reverse(),
+    );
+    eleventyConfig.addCollection("projects", (col) =>
+        col.getFilteredByTag("projects").reverse(),
+    );
+
+    // Add collection of all images and optimized derivatives
+    // see: https://discord.com/channels/741017160297611315/1024977349864849458
+    eleventyConfig.addCollection("images", async () => {
+        console.log("Processing images...");
+
+        const imgDir = "src/images";
+        const imgOptions = {
+            widths: [300, 600, 980, 1300, 1600, "auto"],
+            formats: ["webp", "jpg"],
+            outputDir: "./_site/img",
+        };
+
+        const rawImages = fg.sync(`${imgDir}/**/*.{jpg,png,gif,tiff,webp}`);
+        const mapping = {};
+
+        for (const path of rawImages) {
+            const metadata = await Image(path, imgOptions);
+
+            // Grab the first available format to inspect dimensions
+            const firstFormat = Object.keys(metadata)[0];
+            // Use the last item in the array for that format to get the largest dimensions
+            const dimensions =
+                metadata[firstFormat]?.[metadata[firstFormat].length - 1];
+            // Nest orientation & aspect ratio under a dedicated 'layout' key
+            metadata.layout = {
+                orientation:
+                    dimensions && dimensions.width > dimensions.height
+                        ? "horizontal"
+                        : "vertical",
+                aspectRatio: dimensions
+                    ? (dimensions.width / dimensions.height).toFixed(3)
+                    : "1.5",
+            };
+
+            mapping[path] = metadata;
+        }
+        return Object.freeze(mapping);
+    });
+
+    eleventyConfig.addFilter("readableDate", (dateObj) => {
+        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+    });
+
+    eleventyConfig.addFilter("values", Object.values);
+    eleventyConfig.addFilter("absURL", filters.absURL);
+    eleventyConfig.addFilter("pickRandom", filters.pickRandom);
+    eleventyConfig.addFilter("shuffle", filters.shuffle);
+    eleventyConfig.addFilter("htmlDateString", filters.htmlDateString);
+    eleventyConfig.addFilter("hasItems", filters.hasItems);
+
+    eleventyConfig.addShortcode("imagesShortcode", imagesShortcode);
+    eleventyConfig.addShortcode("galleryShortcode", galleryShortcode);
+    eleventyConfig.addShortcode("imageShortcode", imageShortcode);
+
+    eleventyConfig.addTransform("cssmin", minifyCSS);
+    eleventyConfig.addTransform("htmlmin", minifyHTML);
+
+    // general config
+    return {
+        markdownTemplateEngine: "njk",
+        dir: {
+            input: "src",
+            output: "_site",
+            layouts: "_layouts",
+        },
     };
-
-    const rawImages = fg.sync(`${imgDir}/**/*.{jpg,png,gif,tiff,webp}`);
-    const mapping = {};
-
-    for (const path of rawImages) {
-      const metadata = await Image(path, imgOptions);
-
-      // Grab the first available format to inspect dimensions
-      const firstFormat = Object.keys(metadata)[0];
-      // Use the last item in the array for that format to get the largest dimensions
-      const dimensions = metadata[firstFormat]?.[metadata[firstFormat].length - 1];
-      // Nest orientation & aspect ratio under a dedicated 'layout' key 
-      metadata.layout = {
-        orientation: dimensions && dimensions.width > dimensions.height ? "horizontal" : "vertical",
-        aspectRatio: dimensions ? (dimensions.width / dimensions.height).toFixed(3) : "1.5"
-      };
-
-      mapping[path] = metadata;
-    }
-    return Object.freeze(mapping);
-  });
-
-  eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
-  });
-
-  eleventyConfig.addFilter("values", Object.values);
-  eleventyConfig.addFilter("absURL", filters.absURL);
-  eleventyConfig.addFilter("pickRandom", filters.pickRandom);
-  eleventyConfig.addFilter("shuffle", filters.shuffle);
-  eleventyConfig.addFilter("htmlDateString", filters.htmlDateString);
-  eleventyConfig.addFilter("hasItems", filters.hasItems);
-
-  eleventyConfig.addShortcode("imagesShortcode", imagesShortcode);
-  eleventyConfig.addShortcode("galleryShortcode", galleryShortcode);
-  eleventyConfig.addShortcode("imageShortcode", imageShortcode);
-
-  eleventyConfig.addTransform("cssmin", minifyCSS);
-  eleventyConfig.addTransform("htmlmin", minifyHTML);
-
-  // general config
-  return {
-    markdownTemplateEngine: "njk",
-    dir: {
-      input: "src",
-      output: "_site",
-      layouts: "_layouts",
-    },
-  };
 }
