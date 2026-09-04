@@ -1,9 +1,9 @@
 <footer class="footer has-background-inherit">
   <div class="container">
-    <div class="columns is-desktop">
+    <div class="columns is-tablet">
 
             <!-- Column 1: Brand Profile & Location Entity -->
-      <div class="column is-5-desktop mb-5">
+      <div class="column mb-5">
         <h2 class="is-size-6  mb-3">
           <a href="/" >Pau Guerrero</a>
         </h2>
@@ -20,8 +20,19 @@
         </p> #}
       </div>
 
-            <!-- Column 2: Portfolios (Crawl Path) -->
-      <div class="column is-3-desktop is-offset-1-desktop mb-5">
+            <!-- Column 2: Projects -->
+      <div class="column mb-5">
+        <h3 class="is-size-6  mb-3" style="letter-spacing: 0.1em;">
+          Projects
+        </h3>
+        <ul class="is-size-7">
+          <li class="py-1">
+            <a href="{{ languages[page.lang].footer.projects.countArnau.url }}" >{{ languages[page.lang].footer.projects.countArnau.text }}</a>
+          </li>
+        </ul>
+      </div>
+            <!-- Column 3: Portfolios -->
+      <div class="column mb-5">
         <h3 class="is-size-6  mb-3" style="letter-spacing: 0.1em;">
           Portfolios
         </h3>
@@ -38,8 +49,8 @@
         </ul>
       </div>
 
-            <!-- Column 3: Authority / Trust Signals -->
-      <div class="column is-3-desktop mb-5">
+            <!-- Column 4: Authority / Trust Signals -->
+      <div class="column mb-5 is-narrow-tablet">
         <h3 class="is-size-6   mb-3" style="letter-spacing: 0.1em;">
           {{ languages[page.lang].information }}
         </h3>
