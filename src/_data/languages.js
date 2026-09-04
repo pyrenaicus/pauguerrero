@@ -38,6 +38,7 @@ export default {
             //   url: "/ca/fotografia-comercial/",
             // },
             projects: {
+                projects: "Projectes",
                 countArnau: {
                     text: "Paisatge i Llegenda del Comte Arnau",
                     url: "/ca/projectes/paisatge-i-llegenda-del-comte-arnau/",
@@ -122,6 +123,7 @@ export default {
             //   url: "/es/fotografia-comercial/",
             // },
             projects: {
+                projects: "Proyectos",
                 countArnau: {
                     text: "Paisaje y Leyenda del Conde Arnau",
                     url: "/en/proyectos/paisaje-y-leyenda-del-conde-arnau/",
@@ -207,6 +209,7 @@ export default {
             //   url: "/en/luxury-retail-photography/",
             // },
             projects: {
+                projects: "Projects",
                 countArnau: {
                     text: "Landscape and Myth of Count Arnau",
                     url: "/en/projects/landscape-and-myth-of-count-arnau/",
