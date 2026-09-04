@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Vanishing Landscape
 description: '"Vanishing Landscape" photography project by Pau Guerrero.'
 date: 2016-09-24
