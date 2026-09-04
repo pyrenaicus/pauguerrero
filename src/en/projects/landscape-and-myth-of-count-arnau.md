@@ -1,6 +1,5 @@
 ---
 layout: project
-intro: " "
 title: Landscape and myth of Count Arnau
 description: '"Landscape and myth of Count Arnau" photography project.'
 date: 2026-09-04
