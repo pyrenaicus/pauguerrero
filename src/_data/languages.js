@@ -126,7 +126,7 @@ export default {
                 projects: "Proyectos",
                 countArnau: {
                     text: "Paisaje y Leyenda del Conde Arnau",
-                    url: "/en/proyectos/paisaje-y-leyenda-del-conde-arnau/",
+                    url: "/es/proyectos/paisaje-y-leyenda-del-conde-arnau/",
                 },
             },
 
