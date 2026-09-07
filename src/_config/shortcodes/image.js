@@ -2,6 +2,7 @@ import Image from "@11ty/eleventy-img";
 
 export default async function (src, alt, caption, fetchpriority = "auto") {
     if (!src) return "";
+    caption = caption ?? "";
 
     const imgPath = `src/${src}`;
     // Generate image & metadata based on options
@@ -21,7 +22,7 @@ export default async function (src, alt, caption, fetchpriority = "auto") {
         },
     });
 
-    const figureHtml = `<p><figure class="image">${pictureHtml}<figcaption class="is-size-7 mt-1 has-text-grey">${caption ?? ""}</figcaption></figure></p>`;
+    const figureHtml = `<p><figure style="break-inside: avoid;" class="image">${pictureHtml}<figcaption class="is-size-7 mt-1 has-text-grey">${caption}</figcaption></figure></p>`;
 
     return figureHtml;
 }
