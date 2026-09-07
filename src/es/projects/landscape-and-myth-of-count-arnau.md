@@ -8,28 +8,28 @@ series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-olot.jpg
 teaserAlt: "Los arcos del claustro del antiguo Hospicio de Olot con unas fotografías de gran formato colgadas en la pared posterior."
 ---
+La leyenda del Conde Arnau es el mito folclórico y literario más importante de Cataluña desde el Romanticismo. Su elemento esencial es una canción popular, originada probablemente durante el s. XVI en Ripoll, a partir de la cual se ha formado una tradición legendaria que se extiende por toda la comarca del Ripollés y está conectada con aspectos físicos del paisaje, que funcionan como testimonios del mito. Es concretamente alrededor de la sierra de Montgrony donde encontramos que la topografía y los nombres de los lugares evocan la figura del Conde maldito con más intensidad.
 
-The myth of Count Arnau has been, since the Romantic era, the most important folkloric and literary legend in Catalonia. Fundamental to the myth is a popular song, probably originating in Ripoll in the 16th century, around which a legendary tradition was born that spread throughout  the entire Ripolles region.
+Con este proyecto de fotografía de paisaje me propuse reseguir el mito del Conde Arnau a través de los paisajes vinculados a la leyenda, llegando a lo largo del proceso a la suposición de que la forma del paisaje incorpora el carácter del mito, como si del *genius loci* <a href="#fn1" id="fnref1"><sup>1</sup></a> de estos entornos se tratara.
 
-With Count Arnau, as with many other myths, we find there is a strong connection with physical features in the landscape that, due to their timeless and stable presence, serve as witnesses to make these legends all the more memorable. With regards to Count Arnau, it is specifically around the mountainous region of Montgrony where we encounter the topography and place names that evoke the figure of the damned Count with intensity.
+{% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-01.jpg', 'Arcos del claustro del antiguo hospicio de Olot con fotografias colgadas en la pared.',
+"Exposición en el Observatorio del Paisaje de Cataluña" %}
+{% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-03.jpg', 'Serie de fotografias enmarcadas colgadas en una larga hilera en la pared del antiguo hospicio de Olot.',
+"Exposición en el Observatorio del Paisaje de Cataluña" %}
 
-With this landscape photography project I aimed to follow the myth of Count Arnau and, as I moved between the places connected to it, I came to understand the landscape as an expression of Count Arnau himself, as if it were the _genius loci_ <a href="#fn1" id="fnref1"><sup>1</sup></a> of this local environment.
+La exposición consiste en 28 fotografías, cinco de ellas en gran formato, además de una caja con toda la serie y un libro.
 
-{% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-01.jpg', 'Arched gallery with displayed artworks on the upper level.' %}
-{% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-03.jpg', 'Photographs displayed in a long corridor with arched ceilings.' %}
+## Exposiciones
 
-The exhibition consists of 28 prints, five of them in large format, as well as a box with all the print series and a book.
-
-## Exhibitions
-
-- [Landscape Observatory of Catalonia](/en/exhibitions/landscape-and-myth-count-arnau-olot/)
-- [Palau de l'Abadia, Sant Joan de les Abadesses](/en/exhibitions/landscape-and-myth-count-arnau-sant-joan/)
-- [Biblioteca Carles Rahola, Girona](/en/exhibitions/landscape-and-myth-count-arnau-girona/)
-- [Mirades Photo Festival](/en/exhibitions/landscape-and-myth-count-arnau-mirades/)
+- [Observatorio del Paisaje de Cataluña](/es/exposiciones/paisaje-y-leyenda-del-conde-arnau-observatorio-del-paisaje/)
+- [Palau de l'Abadia, Sant Joan de les Abadesses](/es/exposiciones/paisaje-y-leyenda-del-conde-arnau-sant-joan-de-les-abadesses/)
+- [Biblioteca Carles Rahola, Girona](/es/exposiciones/paisaje-y-leyenda-del-conde-arnau-girona/)
+- [Mirades Photo Festival](/es/exposiciones/paisaje-y-leyenda-del-conde-arnau-mirades/)
 
 <div class="is-size-7 mt-6 pt-4 border-top">
   <ol>
-    <li id="fn1" class="has-text-grey">In ancient Rome the genius loci was the spirit of the place, that entity with whom man should negotiate to keep an harmonious relation with the place. The term was used again during the XVIII century amongst english painters and landscapists, to allude the influence of a landscape on the observer and to describe its atmosphere and character. During the 1970s, Norwegian architect and phenomenologist Christian Norberg-Schulz picks up the term again, refering to it as that thing representing the sense a place has for the people, understanding it as the combination of its physical and symbolical values.<a href="#fnref1">↩</a>
+    <li id="fn1" class="has-text-grey">
+    En la antigua Roma, el genius loci era el espíritu del lugar, aquella entidad con quien se había de llegar a un acuerdo para mantener una relación armoniosa con el lugar. El término se volvió a usar entre los pintores de paisaje ingleses del siglo XVIII para referirse a la influencia del paisaje sobre el observador y describir su atmósfera y carácter. En los años 70, el arquitecto y fenomenólogo Christian Norberg-Schulz retoma el término, describiéndolo como aquello que representa el sentido que un lugar tiene para la gente, entendido este como el conjunto de sus valores físicos y simbólicos.<a href="#fnref1">↩</a>
     </li>
   </ol>
 </div>
