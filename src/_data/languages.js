@@ -64,6 +64,10 @@ export default {
                     "Explorant l’experiència de la muntanya a través de la fotografia de paisatge fine art.",
                 button: "Veure Exposicions",
             },
+            image01Alt:
+                "Una serralada just abans de la posta de sol. Les muntanyes a la meva esquena projecten una ombra profunda sobre elles. Alguns núvols fora d'escena bloquegen parcialment el sol, deixant la cresta de la muntanya també a l'ombra. Una fina franja de llum il·lumina la serralada, just sota la cresta.",
+            image02Alt:
+                "Vista picada des de dalt cap al buit central d'una escala de caragol de color beix llis, que mostra elegants baranes corbes, il·luminació encastada al llarg dels esglaons i una cascada de llums esfèrics suspesos de prims cables negres.",
         },
         information: "Informació",
         langName: "Català",
@@ -149,6 +153,10 @@ export default {
                     "Explorando la experiencia de la montaña a través de la fotografía de paisaje fine art.",
                 button: "Ver Exposiciones",
             },
+            image01Alt:
+                "Una cordillera justo antes del atardecer. Las montañas a mi espalda proyectan una sombra profunda sobre ellas. Algunas nubes fuera de escena bloquean parcialmente el sol, dejando la cresta de la montaña también en sombra. Una fina franja de luz ilumina la cordillera, justo debajo de la cresta.",
+            image02Alt:
+                "Vista en picado hacia el hueco central de una escalera de caracol de color beige liso, que muestra fluidas barandillas curvas, iluminación empotrada a lo largo de los escalones y una cascada de lámparas esféricas suspendidas de finos cables negros.",
         },
         information: "Información",
         langName: "Castellano",
@@ -234,6 +242,10 @@ export default {
                     "Exploring the mountain experience through landscape fine art photography.",
                 button: "View Exhibitions",
             },
+            image01Alt:
+                "A mountain range just before sunset. Mountains on my back cast a deep shadow on them. Some clouds off scene partially block the sun, leaving the mountain ridge also in shadow. A thin strip of light illuminates the mountain range, right below the ridge.",
+            image02Alt:
+                "High-angle downward view into the central void of a smooth beige spiral staircase, showing sweeping curved balustrades, integrated recessed lighting along the steps, and a cascade of globe pendant lights suspended on thin black cords.",
         },
         information: "Information",
         langName: "English",
