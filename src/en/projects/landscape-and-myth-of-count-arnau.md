@@ -14,8 +14,14 @@ With Count Arnau, as with many other myths, we find there is a strong connection
 
 With this landscape photography project I aimed to follow the myth of Count Arnau and, as I moved between the places connected to it, I came to understand the landscape as an expression of Count Arnau himself, as if it were the _genius loci_ <a href="#fn1" id="fnref1"><sup>1</sup></a> of this local environment.
 
-{% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-01.jpg', 'Arched gallery with displayed artworks on the upper level.', 'Exhibition at the Landscape Observatory in Olot, Girona.' %}
-{% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-03.jpg', 'Photographs displayed in a long corridor with arched ceilings.' %}
+{% imageShortcode 
+    'images/pau-guerrero-count-arnau-landscape-and-myth-olot-01.jpg',
+    'Arched gallery with displayed artworks on the upper level.',
+    'Exhibition at the Landscape Observatory in Olot, Girona.' %}
+{% imageShortcode 
+    'images/pau-guerrero-count-arnau-landscape-and-myth-olot-03.jpg',
+    'Photographs displayed in a long corridor with arched ceilings.',
+    'Exhibition at the Landscape Observatory in Olot, Girona.' %}
 
 The exhibition consists of 28 prints, five of them in large format, as well as a box with all the print series and a book.
 
