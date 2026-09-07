@@ -1,11 +1,12 @@
 ---
+permalink: /es/proyectos/paisaje-y-leyenda-del-conde-arnau/
 layout: project
-title: Landscape and myth of Count Arnau
-description: '"Landscape and myth of Count Arnau" photography project.'
+title: Paisaje y Leyenda del Conde Arnau
+description: Un proyecto de fotografía de paisaje de Pau Guerrero
 date: 2026-09-04
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-olot.jpg
-teaserAlt: "Arched gallery with displayed artworks on the upper level."
+teaserAlt: "Los arcos del claustro del antiguo Hospicio de Olot con unas fotografías de gran formato colgadas en la pared posterior."
 ---
 
 The myth of Count Arnau has been, since the Romantic era, the most important folkloric and literary legend in Catalonia. Fundamental to the myth is a popular song, probably originating in Ripoll in the 16th century, around which a legendary tradition was born that spread throughout  the entire Ripolles region.
@@ -15,7 +16,6 @@ With Count Arnau, as with many other myths, we find there is a strong connection
 With this landscape photography project I aimed to follow the myth of Count Arnau and, as I moved between the places connected to it, I came to understand the landscape as an expression of Count Arnau himself, as if it were the _genius loci_ <a href="#fn1" id="fnref1"><sup>1</sup></a> of this local environment.
 
 {% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-01.jpg', 'Arched gallery with displayed artworks on the upper level.' %}
-<figcaption class="is-size-7 mt-1 has-text-grey">Exhibition at the Landscape Observatory in Olot, Girona.</figcaption>
 {% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-03.jpg', 'Photographs displayed in a long corridor with arched ceilings.' %}
 
 The exhibition consists of 28 prints, five of them in large format, as well as a box with all the print series and a book.

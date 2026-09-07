@@ -1,21 +1,22 @@
 ---
+permalink: /ca/projectes/paisatge-i-llegenda-del-comte-arnau/
 layout: project
-title: Landscape and myth of Count Arnau
-description: '"Landscape and myth of Count Arnau" photography project.'
+title: Paisatge i Llegenda del Comte Arnau
+description: Un projecte de fotografia de paisatge de Pau Guerrero
 date: 2026-09-04
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-olot.jpg
-teaserAlt: "Arched gallery with displayed artworks on the upper level."
+teaserAlt: "Els arcs del claustre de l'antic Hospici d'Olot amb unes fotografies de gran format al darrera."
 ---
+El comte Arnau és el mite folklòric i literari més important de Catalunya des del Romanticisme. El seu element essencial és una cançó popular, originada probablement al s. XVI a Ripoll, a partir de la qual s’ha format una tradició llegendària que s’estén per tot el Ripollès i està connectada amb aspectes físics del paisatge, els quals funcionen com a testimonis del mite. És concretament al voltant de la serra de Montgrony on trobem que la topografia i els noms dels llocs evoquen la figura del comte damnat amb més intensitat.
 
-The myth of Count Arnau has been, since the Romantic era, the most important folkloric and literary legend in Catalonia. Fundamental to the myth is a popular song, probably originating in Ripoll in the 16th century, around which a legendary tradition was born that spread throughout  the entire Ripolles region.
+Amb aquest projecte de fotografia de paisatge proposo resseguir el mite del comte Arnau a través dels paisatges vinculats a la llegenda, arribant al llarg del procés, a la suposició que la forma del paisatge incorpora el caràcter del mite, com si del /genius loci/ d'aquests entorns es tractés.
 
 With Count Arnau, as with many other myths, we find there is a strong connection with physical features in the landscape that, due to their timeless and stable presence, serve as witnesses to make these legends all the more memorable. With regards to Count Arnau, it is specifically around the mountainous region of Montgrony where we encounter the topography and place names that evoke the figure of the damned Count with intensity.
 
 With this landscape photography project I aimed to follow the myth of Count Arnau and, as I moved between the places connected to it, I came to understand the landscape as an expression of Count Arnau himself, as if it were the _genius loci_ <a href="#fn1" id="fnref1"><sup>1</sup></a> of this local environment.
 
 {% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-01.jpg', 'Arched gallery with displayed artworks on the upper level.' %}
-<figcaption class="is-size-7 mt-1 has-text-grey">Exhibition at the Landscape Observatory in Olot, Girona.</figcaption>
 {% imageShortcode 'images/pau-guerrero-count-arnau-landscape-and-myth-olot-03.jpg', 'Photographs displayed in a long corridor with arched ceilings.' %}
 
 The exhibition consists of 28 prints, five of them in large format, as well as a box with all the print series and a book.
