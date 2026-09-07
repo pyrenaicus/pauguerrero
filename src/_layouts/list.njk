@@ -21,7 +21,7 @@ layout: "base.njk"
       page.lang %}
       <li class="column is-one-third">
         <a href="{{ item.url }}" class="card is-block">
-        {% imageShortcode item.data.teaser, item.data.teaserAlt, "high" %}
+        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
         <div class="card-content">
           <span class="inside-card-title">{{ item.data.title | lower }}</span>
         </div>
