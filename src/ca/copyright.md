@@ -8,7 +8,7 @@ Tot el contingut d'aquest lloc web està protegit per drets d'autor. No podeu re
 
 ## Com sol·licitar permís
 
-Si voleu utilitzar alguna fotografia o contingut amb finalitats comercials, poseu-vos en contacte amb nosaltres mitjançant el nostre [formulari de contacte](/ca/contact/). Estarem encantats de discutir la vostra sol·licitud i proporcionar-vos una llicència.
+Si voleu utilitzar alguna fotografia o contingut amb finalitats comercials, poseu-vos en contacte amb nosaltres mitjançant el nostre [formulari de contacte](/ca/contacte/). Estarem encantats de discutir la vostra sol·licitud i proporcionar-vos una llicència.
 
 ```
 

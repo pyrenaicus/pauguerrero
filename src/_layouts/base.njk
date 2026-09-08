@@ -21,6 +21,8 @@ description %} {{ description }} {% else %}
       {{ title }} | {{ meta.title.exhibit[page.lang] }}
       {% endif %} {% endif %} {% if metaTitle %}
       {{ meta.author }} | {{ metaTitle }}
+      {% else %}
+      {{ title }} | {{ meta.author }}
       {% endif %}
     </title>
     <meta name="description" content="{{ pageDescr }}" />

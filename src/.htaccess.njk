@@ -3,6 +3,11 @@ permalink: .htaccess
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
+# implement a 301 Permanent Redirect, www.site.com to site.com
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.pauguerrero\.com$ [NC]
+RewriteRule ^(.*)$ https://pauguerrero.com/$1 [R=301,L]
+
 # language starts with ES
 RewriteCond %{HTTP:Accept-Language} ^es [NC]
 RewriteRule ^$ /es/ [L,R=302]
