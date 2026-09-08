@@ -3,10 +3,51 @@ permalink: .htaccess
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
-# implement a 301 Permanent Redirect, www.site.com to site.com
 RewriteEngine On
+
+# Redirect HTTP to HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# Default global 404 fallback (English)
+ErrorDocument 404 /en/404.html
+
+# ----------------------------------------------------------------------
+# Language-Specific 404 Handler via mod_rewrite
+# ----------------------------------------------------------------------
+# If the requested path is NOT an existing file or directory...
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Check the path prefix and serve the matching localized 404 page
+RewriteRule ^es/(.*)$ /es/404.html [L,R=404]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ca/(.*)$ /ca/404.html [L,R=404]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^en/(.*)$ /en/404.html [L,R=404]
+
+# Redirect /architecture-photography/ to /en/architecture-photography/
+RewriteRule ^architecture-photography(/.*)?$ https://pauguerrero.com/en/architecture-photography$1 [R=301,L]
+
+# Redirect /exhibitions/ to /en/exhibitions/
+RewriteRule ^exhibitions(/.*)?$ https://pauguerrero.com/en/exhibitions$1 [R=301,L]
+
+# implement a 301 Permanent Redirect, www.site.com to site.com
 RewriteCond %{HTTP_HOST} ^www\.pauguerrero\.com$ [NC]
 RewriteRule ^(.*)$ https://pauguerrero.com/$1 [R=301,L]
+
+# 3. Dynamic Eleventy Page Redirects (Front Matter redirectFrom)
+{%- for item in collections.all %}
+    {%- if item.data.redirectFrom %}
+        {%- for oldUrl in item.data.redirectFrom %}
+            RewriteRule ^{{ oldUrl | replace('/', '') }}$ {{ item.url }} [R=301,L]
+        {%- endfor %}
+    {%- endif %}
+{%- endfor %}
 
 # language starts with ES
 RewriteCond %{HTTP:Accept-Language} ^es [NC]
@@ -16,24 +57,6 @@ RewriteRule ^$ /es/ [L,R=302]
 RewriteCond %{HTTP:Accept-Language} ^ca [NC]
 RewriteRule ^$ /ca/ [L,R=302]
 
-# else redirect to the English version
+# Default redirect to the English version
 RewriteRule ^$ /en/ [L,R=302]
 
-# Redirect /architecture-photography/ to /en/architecture-photography/
-RewriteCond %{HTTPS} on
-RewriteCond %{HTTP_HOST} ^www\.pauguerrero\.com$ [NC]
-RewriteRule ^architecture-photography(/.*)?$ https://www.pauguerrero.com/en/architecture-photography$1 [R=301,L]
-
-# Redirect /exhibitions/ to /en/exhibitions/
-RewriteCond %{HTTPS} on
-RewriteCond %{HTTP_HOST} ^www\.pauguerrero\.com$ [NC]
-RewriteRule ^exhibitions(/.*)?$ https://www.pauguerrero.com/en/exhibitions$1 [R=301,L]
-
-# Redirects
-{%- for page in collections.all %}
-  {%- if page.data.redirectFrom %}
-    {%- for redirect in page.data.redirectFrom %}
-Redirect 301 {{ redirect }} {{meta.url}}{{ page.url }}
-    {%- endfor %}
-  {%- endif %}
-{%- endfor %}
