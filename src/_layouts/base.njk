@@ -12,18 +12,18 @@ description %} {{ description }} {% else %}
     <link rel="preload" href="/style.css" as="style">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>
-      {% if title and tags %} {% if "retail" in tags %}
-      {{ title }} | {{ meta.title.retail[page.lang] }}
-      {% endif %} {% if "architecture-photography" in tags and "retail" not in
+        {% if title and tags %} {% if "retail" in tags %}
+            {{ title }} | {{ meta.title.retail[page.lang] }}
+        {% endif %} {% if "architecture-photography" in tags and "retail" not in
       tags %}
-      {{ title }} | {{ meta.title.arch[page.lang] }}
-      {% endif %} {% if "exhibitions" in tags %}
-      {{ title }} | {{ meta.title.exhibit[page.lang] }}
-      {% endif %} {% endif %} {% if metaTitle %}
-      {{ meta.author }} | {{ metaTitle }}
-      {% else %}
-      {{ title }} | {{ meta.author }}
-      {% endif %}
+            {{ title }} | {{ meta.title.arch[page.lang] }}
+        {% endif %} {% if "exhibitions" in tags %}
+            {{ title }} | {{ meta.title.exhibit[page.lang] }}
+        {% endif %} {% endif %} {% if metaTitle %}
+            {{ meta.author }} | {{ metaTitle }}
+        {% else %}
+            {{ title }} | {{ meta.author }}
+        {% endif %}
     </title>
     <meta name="description" content="{{ pageDescr }}" />
     <!-- Open Graph meta  -->
@@ -38,6 +38,7 @@ description %} {{ description }} {% else %}
     <meta property="og:site_name" content="{{ meta.siteName[page.lang] }}" />
     <meta property="og:locale" content="{{ languages[page.lang].locale }}" />
     <meta property="article:author" content="{{ meta.author }}" />
+    <meta name="robots" content="max-image-preview:large">
     <meta name="image" content="{{ largestJpeg }}" />
     <!-- Twitter meta -->
     <meta name="twitter:card" content="summary" />
