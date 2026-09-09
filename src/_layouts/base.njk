@@ -1,13 +1,35 @@
-{%- set imgPath = "src/" ~ teaser -%} {%- set imageData =
-imageCollection[imgPath] -%}
+{%- set imgPath = "src/" ~ teaser -%}
+{%- set imageData = imageCollection[imgPath] -%}
 {%- set largestJpeg = imageData.jpeg[imageData.jpeg.length - 1].url -%}
 {%- set largestWebp = imageData.webp[imageData.webp.length - 1].url -%}
-{% set imageWidth = imageData.webp[imageData.webp.length - 1].width %}
-{% set imageHeight = imageData.webp[imageData.webp.length - 1].height %}
+{%- set imageWidth = imageData.webp[imageData.webp.length - 1].width -%}
+{%- set imageHeight = imageData.webp[imageData.webp.length - 1].height -%}
 
-{% set pageDescr %} {% if description %} {{ description }} {% else %}
-{{ meta.siteDescription[page.lang] }} {% endif %} {% endset %}
+{%- set pageDescr -%}
+    {%- if description -%}
+        {{ description }}
+    {%- else -%}
+        {{ meta.siteDescription[page.lang] }}
+    {%- endif -%}
+{% endset %}
 
+{%- set pageTitle -%}
+  {%- if title and tags -%}
+    {%- if "retail" in tags -%}
+        {{ title }} | {{ meta.title.retail[page.lang] }}
+    {%- elif "architecture-photography" in tags and "retail" not in tags -%}
+      {{ title }} | {{ meta.title.arch[page.lang] }}
+    {%- elif "exhibitions" in tags -%}
+      {{ title }} | {{ meta.title.exhibit[page.lang] }}
+    {%- elif "projects" in tags -%}
+      {{ title }} | {{ meta.title.project[page.lang] }}
+    {%- endif -%}
+  {%- elif metaTitle -%}
+    {{ meta.author }} | {{ metaTitle }}
+  {%- else -%}
+      {{ title }} | {{ meta.title.main[page.lang] }}
+  {%- endif -%}
+{%- endset -%}
 <!DOCTYPE html>
 <html lang="{{ lang }}">
     <head>
@@ -15,20 +37,7 @@ imageCollection[imgPath] -%}
         <meta charset="UTF-8" />
     <link rel="preload" href="/style.css" as="style">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>
-        {% if title and tags %} {% if "retail" in tags %}
-            {{ title }} | {{ meta.title.retail[page.lang] }}
-        {% endif %} {% if "architecture-photography" in tags and "retail" not in
-      tags %}
-            {{ title }} | {{ meta.title.arch[page.lang] }}
-        {% endif %} {% if "exhibitions" in tags %}
-            {{ title }} | {{ meta.title.exhibit[page.lang] }}
-        {% endif %} {% endif %} {% if metaTitle %}
-            {{ meta.author }} | {{ metaTitle }}
-        {% else %}
-            {{ title }} | {{ meta.author }}
-        {% endif %}
-    </title>
+    <title>{{ pageTitle }}</title>
     <meta name="description" content="{{ pageDescr }}" />
     <!-- Open Graph meta  -->
     <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
