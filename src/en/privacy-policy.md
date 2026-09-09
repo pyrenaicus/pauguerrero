@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 layout: page.njk
 title: Privacy Policy
 noindex: true

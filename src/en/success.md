@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 title: Success!
 layout: page.njk
 noindex: true

@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 layout: page.njk
 title: Condicions de Servei
 permalink: /ca/condicions-de-servei/

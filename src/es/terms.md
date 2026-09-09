@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 layout: page.njk
 title: Términos de Servicio
 permalink: /es/terminos-de-servicio/

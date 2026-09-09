@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 layout: page.njk
 title: Terms of Service
 permalink: /en/terms-of-service/

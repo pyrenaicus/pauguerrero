@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 layout: page.njk
 permalink: /es/politica-de-privacitat/
 title: Política de privacidad

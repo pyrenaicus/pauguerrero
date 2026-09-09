@@ -1,4 +1,5 @@
 ---
+excludeFromSitemap: true
 title: Gracias!
 layout: page.njk
 noindex: true
