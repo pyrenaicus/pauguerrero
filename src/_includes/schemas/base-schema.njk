@@ -1,15 +1,32 @@
+{%- set imgPath = "src/" ~ teaser -%}
+{%- set imageData = imageCollection[imgPath] -%}
+{%- set largestWebp = imageData.webp[imageData.webp.length - 1].url -%}
+{%- set largestJpeg = imageData.jpeg[imageData.jpeg.length - 1].url -%}
+{% set pageDescr %}
+    {% if description %}
+        {{ description }}
+    {% else %}
+        {{ meta.siteDescription[page.lang] }}
+    {% endif %}
+{% endset %}
+
+
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "{{ meta.siteType }}",
-        "url": "{{ meta.url }}/{{ page.lang }}/",
-        "name": "{{ meta.siteName[page.lang] }}",
-        "description": {{ meta.siteDescription[page.lang] | dump | safe }},
-        "inLanguage": "{{ languages[page.lang].locale }}",
-        "sameAs": ["https://www.instagram.com/_pau_guerrero_"]
-      }
-    ]
-  }
+ {
+     "@context": "https://schema.org",
+     "@graph": [
+         {
+             "@type": "{{ meta.siteType }}",
+             "url": "{{ meta.url }}/{{ page.lang }}/",
+             "name": "{{ meta.siteName[page.lang] }}",
+             "description": {{ meta.siteDescription[page.lang] | dump | safe }},
+             "inLanguage": "{{ languages[page.lang].locale }}",
+             "primaryImageOfPage": {
+                 "@type": "ImageObject",
+                 "contentUrl": "{{ largestWebp }}"
+             },
+             "sameAs": ["https://www.instagram.com/_pau_guerrero_"]
+         }
+     ]
+ }
 </script>
