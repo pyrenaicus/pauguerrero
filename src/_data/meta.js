@@ -6,9 +6,9 @@ const meta = {
         ca: "Pau Guerrero, fotògraf",
     },
     siteDescription: {
-        en: "Barcelona-based photographer specializing in architecture and fine art photography. Portfolio of commissioned projects and exhibition work.",
-        es: "Fotógrafo en Barcelona especializado en fotografía de arquitectura y fotografía fine art. Portfolio de trabajos por encargo y proyectos expositivos.",
-        ca: "Fotògraf a Barcelona especialitzat en fotografia d’arquitectura i fotografia fine art. Portfolio de treballs per encàrrec i projectes d’exposició.",
+        en: "Barcelona-based photographer specializing in architecture and landscape fine art photography. Portfolio of commissioned projects and exhibition work.",
+        es: "Fotógrafo en Barcelona especializado en fotografía de arquitectura y paisaje fine art. Portfolio de trabajos por encargo y proyectos expositivos.",
+        ca: "Fotògraf a Barcelona especialitzat en fotografia d’arquitectura i paisatge fine art. Portfolio de treballs per encàrrec i projectes d’exposició.",
     },
     title: {
         arch: {
