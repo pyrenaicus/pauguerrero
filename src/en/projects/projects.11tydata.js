@@ -1,1 +1,1 @@
-export default { layout: "page.njk", tags: ["projects"] };
+export default { layout: "project.njk", tags: ["projects"] };
