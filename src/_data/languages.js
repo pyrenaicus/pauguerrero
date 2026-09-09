@@ -43,8 +43,11 @@ export default {
                     text: "Paisatge i Llegenda del Comte Arnau",
                     url: "/ca/projectes/paisatge-i-llegenda-del-comte-arnau/",
                 },
+                walkingMountains: {
+                    text: "Muntanyes Caminant",
+                    url: "/ca/projectes/muntanyes-caminant/",
+                },
             },
-
             tagline: {
                 retail: "Fotografia d'Arquitectura del Retail",
                 arch: "Fotografia d'Arquitectura",
@@ -132,8 +135,11 @@ export default {
                     text: "Paisaje y Leyenda del Conde Arnau",
                     url: "/es/proyectos/paisaje-y-leyenda-del-conde-arnau/",
                 },
+                walkingMountains: {
+                    text: "Montañas Caminando",
+                    url: "/es/proyectos/montanas-caminando/",
+                },
             },
-
             tagline: {
                 retail: "Fotografía de Arquitectura del Retail",
                 arch: "Fotografía de Arquitectura",
@@ -221,6 +227,11 @@ export default {
                 countArnau: {
                     text: "Landscape and Myth of Count Arnau",
                     url: "/en/projects/landscape-and-myth-of-count-arnau/",
+                },
+
+                walkingMountains: {
+                    text: "Walking Mountains",
+                    url: "/en/projects/walking-mountains/",
                 },
             },
             tagline: {
