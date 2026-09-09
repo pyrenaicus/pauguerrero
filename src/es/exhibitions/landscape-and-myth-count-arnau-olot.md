@@ -1,7 +1,8 @@
 ---
-title: Paisaje y leyenda del conde Arnau en el Observatorio del Paisaje
+title: Paisaje y leyenda del conde Arnau
 permalink: "{{ preSlug  }}/paisaje-y-leyenda-del-conde-arnau-observatorio-del-paisaje/"
 description: 'Exposición "Paisaje y leyenda del conde Arnau" en el Observatorio del Paisaje, Olot, Girona.'
+intro: "Exposición en el Observatorio del Paisaje de Cataluña"
 date: 2014-11-24
 series: "landscape and myth of count Arnau"
 teaser: images/teaser-pau-guerrero-count-arnau-landscape-and-myth-olot.jpg
@@ -80,4 +81,4 @@ images:
         description: "Itziar Gonzàlez y Pau Guerrero"
 ---
 
-Exposición _Paisaje y leyenda del conde Arnau_ en el [Observatorio del Paisaje de Cataluña](https://www.catpaisatge.net/en), ubicado en el antiguo hospicio de Olot.
+<p style="break-inside: avoid;">Exposición <a href="/es/proyectos/paisaje-y-leyenda-del-conde-arnau/"><strong>Paisaje y leyenda del conde Arnau</strong></a> en el <a href="https://www.catpaisatge.net/es"><strong>Observatorio del Paisaje de Cataluña</strong></a>, ubicado en el antiguo hospicio de Olot.</p>

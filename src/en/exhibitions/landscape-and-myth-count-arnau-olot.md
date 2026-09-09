@@ -80,4 +80,4 @@ images:
         description: ""      
 ---
 
-_Landscape and myth of Count Arnau_ exhibition at the [Landscape Observatory of Catalonia](https://www.catpaisatge.net/en), located in Olot's old hospice, a beautiful example of Catalan Neoclassical architecture.
+<p style="break-inside: avoid;"><a href="/en/projects/landscape-and-myth-of-count-arnau/"><strong>Landscape and myth of Count Arnau</strong></a> exhibition at the <a href="(https://www.catpaisatge.net/en"><strong>Landscape Observatory of Catalonia</strong></a>, located in Olot's old hospice, a beautiful example of Catalan Neoclassical architecture.</p>
