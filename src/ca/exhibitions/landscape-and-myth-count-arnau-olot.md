@@ -81,4 +81,4 @@ images:
         description: "Itziar Gonzàlez i Pau Guerrero"
 ---
 
-Exposició _Paisatge i llegenda del comte Arnau_ a l'[Observatori del Paisatge de Catalunya](https://www.catpaisatge.net/ca), ubicat a l'antic hospici d'Olot.
+<p style="break-inside: avoid;">Exposició <a href="/ca/projectes/paisatge-i-llegenda-del-comte-arnau/"><strong>Paisatge i llegenda del comte Arnau</strong></a> a l'<a href="https://www.catpaisatge.net/ca"><strong>Observatori del Paisatge de Catalunya</strong></a>, ubicat a l'antic hospici d'Olot.
