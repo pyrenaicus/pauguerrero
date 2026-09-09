@@ -71,4 +71,4 @@ images:
         description: ""
 ---
 
-_Landscape and myth of Count Arnau_ exhibition at the [Abbatial Palace](https://ripollesturisme.cat/en/romanic/palau-de-labadia/).
+<p style="break-inside: avoid;"><a href="/en/projects/landscape-and-myth-of-count-arnau/"><strong>Landscape and myth of Count Arnau</strong></a> exhibition at the <a href="https://ripollesturisme.cat/en/romanic/palau-de-labadia/"><strong>Abbatial Palace</strong></a> of Sant Joan de les Abadesses. 

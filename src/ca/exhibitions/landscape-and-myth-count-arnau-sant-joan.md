@@ -77,4 +77,4 @@ images:
         description: "Taula rodona El comte Arnau i la reivindicació del paisatge"
 ---
 
-Exposició _Paisatge i llegenda del comte Arnau_ al [Palau de l'Abadia](https://ripollesturisme.cat/en/romanic/palau-de-labadia/).
+<p style="break-inside: avoid;">Exposició del projecte fotogràfic <a href="/ca/projectes/paisatge-i-llegenda-del-comte-arnau/"><strong>Paisatge i llegenda del comte Arnau</strong></a> al <a href="https://ripollesturisme.cat/en/romanic/palau-de-labadia/"><strong>Palau de l'Abadia</strong></a> de Sant Joan de les Abadesses.</p>

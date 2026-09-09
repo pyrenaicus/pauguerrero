@@ -1,6 +1,7 @@
 ---
-title: Paisaje y leyenda del conde Arnau en Sant Joan de les Abadesses
+title: Paisaje y leyenda del conde Arnau
 permalink: "{{ preSlug  }}/paisaje-y-leyenda-del-conde-arnau-sant-joan-de-les-abadesses/"
+intro: "Exposición en el Centro de Interpretación del Mito del Conde Arnau en el Palau de l'Abadia de Sant Joan de les Abadesses"
 description: "Exposición 'Paisaje y leyenda del conde Arnau' en el Palau de l'Abadia, Sant Joan de les Abadesses, Girona."
 date: 2015-04-24
 series: "landscape and myth of count Arnau"
@@ -71,4 +72,4 @@ images:
         description: ""
 ---
 
-Exposición _Paisaje y leyenda del conde Arnau_ en el [Palau de l'Abadia](https://ripollesturisme.cat/en/romanic/palau-de-labadia/).
+<p style="break-inside: avoid;">Exposición del proyecto fotográfico <a href="/en/projects/landscape-and-myth-of-count-arnau/"><strong>Paisaje y leyenda del conde Arnau</strong></a> en el <a href="https://ripollesturisme.cat/en/romanic/palau-de-labadia/"><strong>Palau de l'Abadia</strong></a> de Sant Joan de les abadesses.</p>
