@@ -16,7 +16,7 @@
      "@context": "https://schema.org",
      "@graph": [
          {
-             "@type": "{{ meta.siteType }}",
+             "@type": "WebPage",
              "url": "{{ meta.url }}/{{ page.lang }}/",
              "name": "{{ meta.siteName[page.lang] }}",
              "description": {{ meta.siteDescription[page.lang] | dump | safe }},
