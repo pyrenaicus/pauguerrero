@@ -26,6 +26,16 @@ const meta = {
             es: "Exposicion de Fotografía | Pau Guerrero",
             ca: "Exposició de Fotografia | Pau Guerrero",
         },
+        project: {
+            en: "A Photographic Project by Pau Guerrero",
+            es: "Un Proyecto Fotográfico de Pau Guerrero",
+            ca: "Un Projecte Fotogràfic de Pau Guerrero",
+        },
+        main: {
+            en: "Pau Guerrero, Architecture and Landscape Photographer",
+            es: "Pau Guerrero, Fotógrafo de Arquitectura y Paisaje",
+            ca: "Pau Guerrero, Fotògraf de Paisatge i Arquitectura",
+        },
     },
     siteType: "WebSite", // schema
     author: "Pau Guerrero",
