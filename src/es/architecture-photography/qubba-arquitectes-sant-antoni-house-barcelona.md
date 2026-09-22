@@ -4,6 +4,7 @@ permalink: "{{ preSlug  }}/qubba-arquitectos-vivienda-sant-antoni-barcelona/"
 description: "Vivienda en el barrio del Eixample de Barcelona por Qubba Architects. Fotografía de Arquitectura por Pau Guerrero."
 date: "2020-07-01"
 location: "Barcelona"
+tags: architecture-barcelona
 architect: Qubba arquitectes
 intro: "Reforma de un piso en Barcelona, de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-sant-antoni.jpg"

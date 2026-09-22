@@ -107,6 +107,9 @@ export default async function (eleventyConfig) {
     eleventyConfig.addCollection("projects", (col) =>
         col.getFilteredByTag("projects").reverse(),
     );
+    eleventyConfig.addCollection("architecture-barcelona", (col) =>
+        col.getFilteredByTag("architecture-barcelona").reverse(),
+    );
 
     // Add collection of all images and optimized derivatives
     // see: https://discord.com/channels/741017160297611315/1024977349864849458
