@@ -1,0 +1,4 @@
+
+* architecture photographer barcelona page
+** use tag "architecture-barcelona" in the portfolio pages we want to display
+they will be added to the collection /architecture-barcelona/, we'll use /imageShortcode/ to loop over it
