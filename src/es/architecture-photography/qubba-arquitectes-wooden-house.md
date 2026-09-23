@@ -4,7 +4,6 @@ permalink: "{{ preSlug  }}/qubba-arquitectos-casa-de-madera-barcelona/"
 description: "Vivienda unifamiliar de madera por Qubba Architects. Fotografía de Arquitectura por Pau Guerrero."
 date: "2022-11-02"
 location: "Barcelona"
-tags: architecture-barcelona
 architect: Qubba arquitectes
 intro: "Casa de madera ligera cerca de Barcelona de Qubba Arquitectes."
 teaser: "images/teaser-qubba-architects-wood-house.jpg"
