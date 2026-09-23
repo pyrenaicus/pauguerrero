@@ -14,183 +14,84 @@ layout: "base.njk"
   </div>
 </section>
 
+{% if page.lang == "es" %}
 <div class="section content">
-    {% if page.lang == "es" %}
         <p class="is-size-4">Pau Guerrero es arquitecto y fotógrafo especializado en arquitectura, interiores y espacios comerciales. Desde Barcelona, trabaja con estudios de arquitectura, interioristas, promotores y marcas para crear imágenes que transmiten con precisión el diseño, los materiales y la atmósfera de cada proyecto.</p>
-
-<div class="container">
-  <div class="column is-6">
-    <div class="columns content">
-        <p><a href="/en/architecture-photography" class="button">Solicitar Presupuesto</a></p>
-    </div>
-  </div>
 </div>
 
 <section class="section">
   <ul class="columns is-multiline" role="list">
+      {% for item in collections["architecture-barcelona"] %} {% if item.data.lang == page.lang %}
       <li class="column is-half">
-          <div class="card">
+          <div class="card is-block">
               <div class="card-image">
-                  <figure class="image is-4by3">
-                      <img src="https://bulma.io/assets/images/placeholders/1280x960.png"
-                          alt="Placeholder image"
-                      />
-                  </figure>
+                  {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
               </div>
               <div class="card-content">
                   <div class="content">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                      iaculis mauris.
-                  </div>
-              </div>
-          </div>
-      </li>
-      <li class="column is-half">
-          <div class="card">
-              <div class="card-image">
-                  <figure class="image is-4by3">
-                      <img src="https://bulma.io/assets/images/placeholders/1280x960.png"
-                           alt="Placeholder image"
-                      />
-                  </figure>
-              </div>
-              <div class="card-content">
-                  <div class="content">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                      iaculis mauris.
-                  </div>
-              </div>
-          </div>
-      </li>
-      <li class="column is-half">
-          <div class="card">
-              <div class="card-image">
-                  <figure class="image is-4by3">
-                      <img src="https://bulma.io/assets/images/placeholders/1280x960.png"
-                           alt="Placeholder image"
-                      />
-                  </figure>
-              </div>
-              <div class="card-content">
-                  <div class="content">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                      iaculis mauris.
-                  </div>
-              </div>
-          </div>
-      </li>
-      <li class="column is-half">
-          <div class="card">
-              <div class="card-image">
-                  <figure class="image is-4by3">
-                      <img src="https://bulma.io/assets/images/placeholders/1280x960.png"
-                           alt="Placeholder image"
-                      />
-                  </figure>
-              </div>
-              <div class="card-content">
-                  <div class="content">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                      iaculis mauris.
-                  </div>
-              </div>
-          </div>
-      </li>
+                      <p><strong>{{ item.data.title }}</strong> - {{ item.data.intro }}</p><div class="has-text-centered"><a class="button is-inline" href="{{ item.url }}">Ver Portfolio</a></div>
 
+                  </div>
+              </div>
+          </div>
+      </li>
+      {% endif %} {% endfor %}
   </ul>
 </section>
-
+<section class="block section has-background-light has-text-centered">
+    <a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Solicitar Presupuesto</a>
+</section>
 
 <div class="section content">
     <div class="columns is-variable is-8">
-        <div class="column">
+        <div class="column is-half">
             <h2 >Fotografiar la arquitectura desde su intención</h2>
             <p>La fotografía de arquitectura no consiste únicamente en mostrar un edificio. Consiste en <strong>comprender el espacio y traducir en imágenes la intención con la que fue proyectado</strong>.</p>
           <p>Mi formación como arquitecto determina mi manera de abordar cada encargo. Antes de fotografiar un espacio, analizo su geometría, proporción, materiales, luz y la relación entre interior y exterior. Esta comprensión del proyecto permite construir imágenes que no solo documentan la arquitectura, sino que también <strong>comunican sus valores espaciales y formales</strong>.</p>
           <p>Como <strong>fotógrafo de arquitectura en Barcelona</strong>, colaboro con arquitectos, estudios de arquitectura, interioristas, diseñadores, constructoras y promotoras para crear una representación fotográfica precisa y coherente de cada proyecto.</p>
-          <h2>Arquitectura → espacio → fotografía</h2>
+
+          <h2>Comprender la arquitectura para fotografiar el espacio</h2>
           <p>Cada proyecto arquitectónico posee una lógica única que la fotografía debe identificar y hacer visible.</p>
           <p>La <strong>geometría</strong> define líneas y volúmenes; la <strong>proporción</strong>, la relación entre elementos; los materiales y texturas aportan dimensión táctil; y la luz transforma el espacio a lo largo del día.</p>
           <p>A partir de estos elementos, construyo cada imagen mediante la perspectiva, composición y control de la luz. El objetivo es encontrar el punto de vista que mejor explique la arquitectura, sin imponer una estética ajena al proyecto.</p>
           <p>Presto especial atención a la relación entre <strong>interior y exterior</strong>: la entrada de luz, la continuidad entre espacios, la integración del edificio con su entorno y cómo la fachada anticipa el interior.</p>
           <p>El resultado es una <strong>fotografía de arquitectura</strong> concebida como herramienta de comunicación: imágenes que explican el proyecto con claridad y transmiten la experiencia de habitarlo.</p>
+
           <h2>Fotografía de arquitectura para arquitectos</h2>
           <p>Una buena fotografía arquitectónica debe ser fiel al proyecto y discernir qué aspectos merecen ser mostrados.</p>
           <p>Trabajo con <strong>proyectos de arquitectura contemporánea</strong>, viviendas, edificios, rehabilitaciones, espacios públicos e interiores, adaptando el reportaje a las necesidades de cada estudio y de cada proyecto.</p>
           <p>La <strong>fotografía para arquitectos</strong> puede tener distintos objetivos: documentar una obra terminada, construir un portfolio de arquitectura, presentar un proyecto a concursos y publicaciones, comunicar el trabajo del estudio o generar material visual para prensa, web y redes sociales.</p>
           <p>En todos los casos, la fotografía parte de una premisa: <strong>primero comprender la arquitectura para luego representarla</strong>.</p>
+        </div>
+
+        <div class="column is-half">
           <h2>Fotografía de interiores y espacios</h2>
           <p>Aplico el mismo enfoque a la <strong>fotografía de interiores, interiorismo y espacios</strong>.</p>
           <p>En interiores, la escala, proporción, recorridos, entrada de luz y relación entre materiales son fundamentales. Una imagen debe mostrar la organización del espacio y resaltar lo que lo hace singular: una textura, una transición de luz, una perspectiva o la relación entre estancias.</p>
           <p>Por ello, cada reportaje combina imágenes generales del espacio con fotografías detalladas de <strong>materiales, detalles y elementos arquitectónicos</strong>.</p>
+
           <h2>Barcelona como contexto arquitectónico</h2>
           <p>Barcelona es mi base como <strong>fotógrafo de arquitectura</strong> y ofrece un contexto especialmente rico para este trabajo.</p>
           <p>La ciudad y su entorno integran arquitectura contemporánea, patrimonio, rehabilitación, vivienda, interiorismo y nuevos espacios comerciales. Trabajo en Barcelona, Cataluña y también me desplazo para proyectos de arquitectura en otros lugares.</p>
           <p>La localización es parte de cada proyecto, pero no determina su lenguaje visual. La fotografía debe mostrar las características únicas de cada obra y preservar la identidad del arquitecto o estudio que la ha concebido.</p>
+
           <h2>Fotografía profesional para comunicar proyectos arquitectónicos</h2>
           <p>Un reportaje de arquitectura puede requerir imágenes distintas según su finalidad: <strong>portfolio, publicación editorial, página web, documentación de obra, comunicación corporativa o presentación de proyectos</strong>.</p>
           <p>Por ello, abordo cada encargo según sus necesidades específicas, definiendo el tipo de imágenes, perspectivas y nivel de detalle necesarios para comunicar el proyecto de manera integral.</p>
           <p>El objetivo es crear un conjunto coherente de fotografías que permita comprender la arquitectura, apreciar sus materiales y espacios, y transmitir la intención del proyecto.</p>
           <p>Si buscas un <strong>fotógrafo de arquitectura</strong> en Barcelona para documentar y comunicar un proyecto, podemos hablar de sus características, necesidades y alcance para definir el reportaje fotográfico más adecuado.</p>
-      </div>
+        </div>
     </div>
 </div>
-    {% endif %}
-  </div>
 
-  <section class="section">
-    <ul class="columns is-multiline" role="list">
-      {% for item in collections["architecture-barcelona"] %} {% if item.data.lang ==
-      page.lang %}
-      <li class="column is-third">
-        <a href="{{ item.url }}" class="card is-block">
-        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
-        <div class="card-content">
-          <span class="inside-card-title">{{ item.data.title | lower }}</span>
-        </div>
-        </a>
-      </li>
-      {% endif %} {% endfor %}
-    </ul>
-  </section>
+<section class="block section is-medium has-background-light has-text-centered">
+    <h2 class="block is-size-2">¿Tienes un proyecto que quieres fotografiar?</h2>
+    <p class="block is-size-4">Cuéntame qué necesitas y te responderé con disponibilidad y una propuesta adaptada al proyecto.</p>
+    <div class="pt-6"><a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Solicitar Presupuesto</a></div>
+</section>
 
+{% endif %}
   {% if page.lang == "en" %}
-  <div class="content pl-6">
-    <h2 >Spatial Representation and Architectural Documentation</h2>
-  </div>
-  <div class="section content">
-    <div class="columns is-variable is-8">
-      <div class="column is-half">
-        <h3>The Approach to Architecture and Interior Photography</h3>
-        <p>Architectural photography is more than documenting a physical structure; it is the art of translating three-dimensional volume, material texture, and light into a compelling two-dimensional narrative. Based in <strong>Barcelona</strong>, my practice focuses on portraying the dialogue between form and function and revealing the sensory qualities and materiality of built space. Whether documenting contemporary residential projects across <strong>Catalonia</strong> or heritage structural renovations, the goal is to respect the architect's vision through precise geometry, thoughtful composition, and an understanding of natural light.</p>
-        <h3>High-End Luxury Retail Photography</h3>
-        <p>Commercial and retail environments demand a distinct visual vocabulary. Specialising in <strong>luxury retail photography</strong>, I team up with international brands, designers, and luxury boutiques to capture the precise execution of premium interior design. From permanent flagship stores  to ephemeral pop-up installations, this work emphasises material fidelity—capturing the exact texture of green marble, the subtleties of custom lighting, and the spatial flow that defines the modern luxury shopping experience.</p>
-      </div>
-      <div class="column is-half">
-        <h3>Commissioning and Collaborations</h3>
-        <p>Operating from <strong>Barcelona, Spain</strong>, I provide architectural, interior, and luxury retail photographic services for architects, interior designers, developers, and global luxury brands. Available for commissions locally and worldwide, every project is handled with rigorous technical precision and a deep commitment to high-end visual communication.</p>
-      </div>
-    </div>
-  </div>
   {% elif page.lang == "ca" %}
-  <div class="content pl-6">
-    <h2 >Representació Espacial i Documentació Arquitectònica</h2>
-  </div>
-  <div class="section content">
-    <div class="columns is-variable is-8">
-      <div class="column is-half">
-        <h3>L'Enfocament de la Fotografia d'Arquitectura i Interiors</h3>
-        <p>La fotografia d'arquitectura és més que documentar una estructura física; és l'art de traduir el volum, la textura dels materials i la llum en una narrativa bidimensional convincent. Amb base a <strong>Barcelona</strong>, la meva pràctica es centra a retratar el diàleg entre la forma i la funció, revelant les qualitats sensorials i la materialitat de l'espai construït. Ja sigui documentant projectes residencials contemporanis arreu de <strong>Catalunya</strong> o renovacions d'estructures patrimonials, l'objectiu és respectar la visió de l'arquitecte a través d'una geometria precisa, una composició reflexiva i la comprensió de la llum natural.</p>
-        <h3>Fotografia de Retail de Luxe d'Alta Gamma</h3>
-        <p>Els entorns comercials i de retail exigeixen un vocabulari visual propi. Especialitzat en <strong>fotografia de retail de luxe</strong>, col·laboro amb marques internacionals, dissenyadors i boutiques de luxe per capturar l'execució precisa del disseny d'interiors premium. Des de botigues insígnia permanents fins a instal·lacions efímeres (pop-ups), aquest treball emfatitza la fidelitat material: capturar la textura exacta dels materials, les subtileses de la il·luminació personalitzada i el flux espacial que defineix l'experiència moderna de compra de luxe.</p>
-        </div>
-        <div class="column is-half">
-        <h3>Encàrrecs i Col·laboracions</h3>
-        <p>Operant des de <strong>Barcelona, Espanya</strong>, ofereixo serveis fotogràfics d'arquitectura, interiors i retail de luxe per a arquitectes, dissenyadors d'interiors, promotors i marques de luxe globals. Disponible per a encàrrecs tant a nivell local com a la resta del món, cada projecte s'entoma amb una rigorosa precisió tècnica i un profund compromís amb la comunicació visual d'alta gamma.</p>  
-      </div>
-    </div>
-  </div>              
   {% endif %}
-    <div class="section">
-  </div>
 </main>
