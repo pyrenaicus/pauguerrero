@@ -1,9 +1,9 @@
 const meta = {
     url: process.env.URL || "http://localhost:8080",
     siteName: {
-        en: "Pau Guerrero, photographer",
-        es: "Pau Guerrero, fotógrafo",
-        ca: "Pau Guerrero, fotògraf",
+        en: "Pau Guerrero",
+        es: "Pau Guerrero",
+        ca: "Pau Guerrero",
     },
     siteDescription: {
         en: "Barcelona-based photographer specializing in architecture and landscape fine art photography. Portfolio of commissioned projects and exhibition work.",
