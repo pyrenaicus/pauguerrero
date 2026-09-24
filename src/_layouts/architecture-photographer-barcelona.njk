@@ -84,11 +84,7 @@ layout: "base.njk"
     </div>
 </div>
 
-<section class="block section is-medium has-background-light has-text-centered">
-    <h2 class="block is-size-2">¿Tienes un proyecto que quieres fotografiar?</h2>
-    <p class="block is-size-4">Cuéntame qué necesitas y te responderé con disponibilidad y una propuesta adaptada al proyecto.</p>
-    <div class="pt-6"><a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Solicitar Presupuesto</a></div>
-</section>
+{% include "cta-architecture.njk" %}
 
 {% endif %}
   {% if page.lang == "en" %}
