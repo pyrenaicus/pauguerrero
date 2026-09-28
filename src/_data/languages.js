@@ -19,6 +19,14 @@ export default {
             placeholderMessage: "Explica'm el teu projecte...",
             send: "Enviar",
         },
+        cta: {
+            contactQuote: {
+                title: "Tens un projecte que vols fotografiar?",
+                subtitle:
+                    "Explica'm què necessites i et respondré amb disponibilitat i una proposta adaptada al teu projecte.",
+                button: "Sol·licitar pressupost",
+            },
+        },
         cv: { text: "Currículum Vitae", url: "/ca/cv/" },
         exhibitions: { text: "Exposicions", url: "/ca/exposicions/" },
         footer: {
@@ -110,6 +118,14 @@ export default {
             placeholderEmail: "p.e. juan@example.com",
             placeholderMessage: "Cuéntame acerca de tu proyecto...",
             send: "Enviar",
+        },
+        cta: {
+            contactQuote: {
+                title: "¿Tienes un proyecto que quieres fotografiar?",
+                subtitle:
+                    "Cuéntame qué necesitas y te responderé con disponibilidad y una propuesta adaptada al proyecto.",
+                button: "Solicitar Presupuesto",
+            },
         },
         cv: { text: "Curriculum Vitae", url: "/es/cv/" },
         exhibitions: { text: "Exposiciones", url: "/es/exposiciones/" },
@@ -203,6 +219,14 @@ export default {
             placeholderEmail: "e.g. john@example.com",
             placeholderMessage: "Tell me about your project...",
             send: "Send",
+        },
+        cta: {
+            contactQuote: {
+                title: "Do you have a project you would like to photograph?",
+                subtitle:
+                    "Tell me what you need and I will get back to you with availability and a proposal tailored to your project.",
+                button: "Request a Quote",
+            },
         },
         cv: { text: "Curriculum Vitae", url: "/en/cv/" },
         exhibitions: { text: "Exhibitions", url: "/en/exhibitions/" },
