@@ -4,7 +4,7 @@ description: Promoció residencial de luxe al carrer de Béjar de Barcelona, dis
 permalink: "{{ preSlug }}/edifici-bejar-vivid-arquitectura/"
 date: 2026-09-02
 location: Barcelona
-tags:
+tags: "architecture-barcelona"
 brand:
 intro: Promoció residencial de luxe a Barcelona, un projecte de Vívid Arquitectura
 teaser: images/teaser-vivid-arquitectura-bejar.jpg

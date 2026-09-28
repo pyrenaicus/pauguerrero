@@ -4,7 +4,7 @@ description: High-end residential development on Bèjar street in Barcelona, des
 permalink: "{{ preSlug }}/bejar-apartments-by-vivid-arquitectura/"
 date: 2026-09-02
 location: Barcelona
-tags:
+tags: "architecture-barcelona"
 brand:
 intro: High-end residential development in Barcelona by Vívid Arquitectura
 teaser: images/teaser-vivid-arquitectura-bejar.jpg
