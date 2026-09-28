@@ -1,0 +1,64 @@
+<div class="section content">
+    <p class="is-size-4">Pau Guerrero és arquitecte i fotògraf especialitzat en arquitectura, interiors i espais comercials. Des de Barcelona, treballa amb estudis d'arquitectura, interioristes, promotors i marques per crear imatges que transmeten amb precisió el disseny, els materials i l'atmosfera de cada projecte.</p>
+</div>
+<section class="section">
+    <ul class="columns is-multiline" role="list">
+        {% for item in collections["architecture-barcelona"] %} {% if item.data.lang == page.lang %}
+            <li class="column is-half">
+                <div class="card is-block">
+                    <div class="card-image">
+                        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
+                    </div>
+                    <div class="card-content">
+                        <div class="content">
+                            <p><strong>{{ item.data.title }}</strong> - {{ item.data.intro }}</p><div class="has-text-centered"><a class="button is-inline" href="{{ item.url }}">Veure Projecte</a></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        {% endif %} {% endfor %}
+    </ul>
+</section>
+<section class="block section has-background-light has-text-centered">
+    <a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Sol·licitar pressupost</a>
+</section>
+<div class="section content">
+    <div class="columns is-variable is-8">
+        <div class="column is-half">
+            <h2>Fotografiar l'arquitectura des de la seva intenció</h2>
+            <p>La fotografia d'arquitectura no consisteix simplement a mostrar un edifici. Consisteix a <strong>comprendre l'espai i traduir en imatges la intenció amb què ha estat projectat</strong>.</p>
+            <p>La meva formació com a arquitecte determina la manera com abordo cada encàrrec. Abans de fotografiar un espai, n'analitzo la geometria, les proporcions, els materials, la llum i la relació entre interior i exterior. Aquesta comprensió del projecte permet crear imatges que no només documenten l'arquitectura, sinó que també <strong>comuniquen els seus valors espacials i formals</strong>.</p>
+            <p>Com a <strong>fotògraf d'arquitectura a Barcelona</strong>, col·laboro amb arquitectes, estudis d'arquitectura, interioristes, dissenyadors, constructores i promotores per crear una representació fotogràfica precisa i coherent de cada projecte.</p>
+
+            <h2>Comprendre l'arquitectura per fotografiar l'espai</h2>
+            <p>Cada projecte arquitectònic té una lògica única que la fotografia ha d'identificar i fer visible.</p>
+            <p>La <strong>geometria</strong> defineix línies i volums; la <strong>proporció</strong>, la relació entre elements; els materials i les textures aporten una dimensió tàctil; i la llum transforma l'espai al llarg del dia.</p>
+            <p>A partir d'aquests elements, construeixo cada imatge mitjançant la perspectiva, la composició i el control de la llum. L'objectiu és trobar el punt de vista que millor expliqui l'arquitectura, sense imposar una estètica aliena al projecte.</p>
+            <p>Presto especial atenció a la relació entre <strong>interior i exterior</strong>: l'entrada de llum, la continuïtat entre espais, la integració de l'edifici amb el seu entorn i com la façana anticipa l'interior.</p>
+            <p>El resultat és una <strong>fotografia d'arquitectura</strong> concebuda com una eina de comunicació: imatges que expliquen el projecte amb claredat i transmeten l'experiència d'habitar-lo.</p>
+
+            <h2>Fotografia d'arquitectura per a arquitectes</h2>
+            <p>Una bona fotografia arquitectònica ha de ser fidel al projecte i discernir quins aspectes mereixen ser mostrats.</p>
+            <p>Treballo amb <strong>projectes d'arquitectura contemporània</strong>, habitatges, edificis, rehabilitacions, espais públics i interiors, adaptant el reportatge a les necessitats de cada estudi i de cada projecte.</p>
+            <p>La <strong>fotografia per a arquitectes</strong> pot tenir diferents objectius: documentar una obra acabada, construir un portfoli d'arquitectura, presentar un projecte a concursos i publicacions, comunicar el treball de l'estudi o generar material visual per a premsa, web i xarxes socials.</p>
+            <p>En tots els casos, la fotografia parteix d'una premissa: <strong>primer comprendre l'arquitectura per després representar-la</strong>.</p>
+        </div>
+
+        <div class="column is-half">
+            <h2>Fotografia d'interiors i espais</h2>
+            <p>Aplico el mateix enfocament a la <strong>fotografia d'interiors, interiorisme i espais</strong>.</p>
+            <p>En interiors, l'escala, la proporció, els recorreguts, l'entrada de llum i la relació entre materials són fonamentals. Una imatge ha de mostrar l'organització de l'espai i ressaltar allò que el fa singular: una textura, una transició de llum, una perspectiva o la relació entre estances.</p>
+            <p>Per això, cada reportatge combina imatges generals de l'espai amb fotografies detallades de <strong>materials, detalls i elements arquitectònics</strong>.</p>
+
+            <h2>Barcelona com a context arquitectònic</h2>
+            <p>Barcelona és la meva base com a <strong>fotògraf d'arquitectura</strong> i ofereix un context especialment ric per a aquest treball.</p>
+            <p>La ciutat i el seu entorn integren arquitectura contemporània, patrimoni, rehabilitació, habitatge, interiorisme i nous espais comercials. Treballo a Barcelona, a Catalunya i també em desplaço per a projectes d'arquitectura en altres indrets.</p>
+            <p>La localització forma part de cada projecte, però no en determina el llenguatge visual. La fotografia ha de mostrar les característiques úniques de cada obra i preservar la identitat de l'arquitecte o estudi que l'ha concebut.</p>
+
+            <h2>Fotografia professional per comunicar projectes arquitectònics</h2>
+            <p>Un reportatge d'arquitectura pot requerir imatges diferents segons la seva finalitat: <strong>portfoli, publicació editorial, pàgina web, documentació d'obra, comunicació corporativa o presentació de projectes</strong>.</p>
+            <p>Per això, abordo cada encàrrec segons les seves necessitats específiques, definint el tipus d'imatges, perspectives i nivell de detall necessaris per comunicar el projecte de manera integral.</p>
+            <p>L'objectiu és crear un conjunt coherent de fotografies que permeti comprendre l'arquitectura, apreciar els seus materials i espais, i transmetre la intenció del projecte.</p>
+            <p>Si busques un <strong>fotògraf d'arquitectura</strong> a Barcelona per documentar i comunicar un projecte, podem parlar de les seves característiques, necessitats i abast per definir el reportatge fotogràfic més adequat.</p>
+        </div>
+    </div>
