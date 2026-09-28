@@ -20,6 +20,13 @@ export default {
             send: "Enviar",
         },
         cta: {
+            architectureBarcelona: {
+                title: "Necessites fotografia per al teu proper projecte d’arquitectura?",
+                subtitle:
+                    "Explica’m què necessites i et respondré amb disponibilitat i una proposta adaptada al projecte.",
+                button: "Descobreix el servei de fotografia d’arquitectura a Barcelona",
+                url: "/ca/fotograf-arquitectura-barcelona/",
+            },
             contactQuote: {
                 title: "Tens un projecte que vols fotografiar?",
                 subtitle:
@@ -120,6 +127,13 @@ export default {
             send: "Enviar",
         },
         cta: {
+            architectureBarcelona: {
+                title: "¿Necesitas fotografía para tu próximo proyecto de arquitectura?",
+                subtitle:
+                    "Cuéntame qué necesitas y te responderé con disponibilidad y una propuesta adaptada al proyecto.",
+                button: "Descubre el servicio de fotografía de arquitectura en Barcelona",
+                url: "/es/fotografo-arquitectura-barcelona/",
+            },
             contactQuote: {
                 title: "¿Tienes un proyecto que quieres fotografiar?",
                 subtitle:
@@ -221,6 +235,13 @@ export default {
             send: "Send",
         },
         cta: {
+            architectureBarcelona: {
+                title: "Do you need photography for your next architecture project?",
+                subtitle:
+                    "Tell me what you need and I’ll get back to you with availability and a proposal tailored to the project.",
+                button: "Discover the architectural photography service in Barcelona",
+                url: "/en/architectural-photographer-barcelona/",
+            },
             contactQuote: {
                 title: "Do you have a project you would like to photograph?",
                 subtitle:
