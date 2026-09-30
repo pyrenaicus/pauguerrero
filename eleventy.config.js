@@ -107,6 +107,9 @@ export default async function (eleventyConfig) {
     eleventyConfig.addCollection("projects", (col) =>
         col.getFilteredByTag("projects").reverse(),
     );
+    eleventyConfig.addCollection("retail-selection", (col) =>
+        col.getFilteredByTag("retail-selection").reverse(),
+    );
     eleventyConfig.addCollection("architecture-barcelona", (col) =>
         col.getFilteredByTag("architecture-barcelona").reverse(),
     );
