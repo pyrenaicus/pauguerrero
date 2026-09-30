@@ -4,7 +4,7 @@ permalink: "{{ preSlug  }}/prada-store-barcelona/"
 description: "Prada Store en Passeig de Gràcia, Barcelona. Fotografía de Arquitectura del Retail por Pau Guerrero."
 date: "2019-04-01"
 location: "Barcelona"
-tags: architecture-barcelona, retail
+tags: [retail, architecture-barcelona, retail-selection]
 brand: "Prada"
 intro: "Flagship boutique en Passeig de Gràcia, Barcelona."
 teaser: "images/teaser-barcelona-prada-store.jpg"

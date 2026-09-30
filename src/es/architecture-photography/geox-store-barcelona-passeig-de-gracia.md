@@ -5,7 +5,7 @@ description: "Geox Store en Passeig de Gràcia, Barcelona. Fotografía de Arquit
 date: "2019-02-01"
 location: "Barcelona"
 intro: "Flagship store en Passeig de Gràcia, Barcelona."
-tags: architecture-barcelona, retail
+tags: [retail, architecture-barcelona, retail-selection]
 brand: geox
 teaser: "images/teaser-geox-store-barcelona.jpg"
 teaserAlt: "Interior de la tienda Geox en Barcelona, mostrando un espacio moderno y bien iluminado con zapatos y chaquetas ordenadamente exhibidos en estantes y mesas."

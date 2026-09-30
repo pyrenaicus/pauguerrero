@@ -4,7 +4,7 @@ permalink: "{{ preSlug  }}/miu-miu-store-serrano-madrid/"
 description: "Botiga Miu Miu al carrer Serrano de Madrid. Fotografia d'Arquitectura del Retail per Pau Guerrero."
 date: "2019-04-01"
 location: "Madrid"
-tags: retail
+tags: [ retail, retail-selection ]
 brand: "Miu Miu"
 intro: "Flagship boutique al carrer Serrano, de Madrid."
 teaser: "images/teaser-madrid-serrano-miu-miu-store.jpg"

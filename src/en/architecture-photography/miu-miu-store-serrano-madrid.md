@@ -3,7 +3,7 @@ title: "Miu Miu"
 description: "Miu Miu Store in Serrano street, Madrid. Retail Architecture Photography by Pau Guerrero."
 date: "2026-08-04"
 location: "Madrid"
-tags: retail
+tags: [ retail, retail-selection ]
 brand: "Miu Miu"
 intro: "Flagship boutique in Serrano street, Madrid."
 teaser: "images/teaser-madrid-serrano-miu-miu-store.jpg"

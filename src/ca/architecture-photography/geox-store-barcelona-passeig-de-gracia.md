@@ -5,7 +5,7 @@ description: "Botiga Geox al Passeig de Gràcia, Barcelona. Fotografia d'Arquite
 date: "2019-02-01"
 location: "Barcelona"
 intro: "Flagship store al Passeig de Gràcia, de Barcelona."
-tags: [ retail, architecture-barcelona ]
+tags: [retail, architecture-barcelona, retail-selection]
 brand: geox
 architect:
 teaser: "images/teaser-geox-store-barcelona.jpg"
