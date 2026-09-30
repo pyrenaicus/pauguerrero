@@ -33,6 +33,12 @@ export default {
                     "Explica'm què necessites i et respondré amb disponibilitat i una proposta adaptada al teu projecte.",
                 button: "Sol·licitar pressupost",
             },
+            contactRetail: {
+                title: "",
+                subtitle: "",
+                button: "",
+                url: "/ca/contact/",
+            },
         },
         cv: { text: "Currículum Vitae", url: "/ca/cv/" },
         exhibitions: { text: "Exposicions", url: "/ca/exposicions/" },
@@ -139,6 +145,12 @@ export default {
                 subtitle:
                     "Cuéntame qué necesitas y te responderé con disponibilidad y una propuesta adaptada al proyecto.",
                 button: "Solicitar Presupuesto",
+            },
+            contactRetail: {
+                title: "",
+                subtitle: "",
+                button: "",
+                url: "/es/contact/",
             },
         },
         cv: { text: "Curriculum Vitae", url: "/es/cv/" },
@@ -247,6 +259,13 @@ export default {
                 subtitle:
                     "Tell me what you need and I will get back to you with availability and a proposal tailored to your project.",
                 button: "Request a Quote",
+            },
+            contactRetail: {
+                title: "Have a project to photograph?",
+                subtitle:
+                    "Get in touch with your project details, location, and estimated timeline so I can share availability and a custom proposal.",
+                button: "Contact",
+                url: "/en/contact/",
             },
         },
         cv: { text: "Curriculum Vitae", url: "/en/cv/" },
