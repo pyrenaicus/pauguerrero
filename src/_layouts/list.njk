@@ -2,19 +2,35 @@
 layout: "base.njk"
 ---
 
-<main id="main" class="flow">
-  <article class="wrapper region">
-    <h1 class="category-title">{{ title }}</h1>
-    <ul class="grid" role="list" data-rows="masonry" data-layout="50-50">
+<main id="main" class="container">
+  <section class="hero is-medium">
+  <div class="hero-body container is-family-secondary">
+    {% if not home %}
+      <h1 class="title">{{ title }}</h1>
+      {% if intro %}
+      <p class="subtitle">{{ intro | safe }}</p>
+    {% endif %}
+    {% endif %}
+  </div>
+</section>
+
+  <section class="section">
+    {# <h1 class="title">{{ title }}</h1> #}
+    <ul class="columns is-multiline" role="list">
       {% for item in collections[collectionName] %} {% if item.data.lang ==
       page.lang %}
-      <li class="card flow flow-exception overflow-hidden">
-        {% imageShortcode item.data.teaser, item.data.teaserAlt, "high" %}
-        <h2>
-          <a href="{{ item.url }}">{{ item.data.title | lower }}</a>
-        </h2>
+      <li class="column is-one-third">
+        <a href="{{ item.url }}" class="card is-block">
+        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
+        <div class="card-content">
+          <span class="inside-card-title">{{ item.data.title | lower }}</span>
+        </div>
+        </a>
       </li>
       {% endif %} {% endfor %}
     </ul>
-  </article>
+  </section>
+  <section class="section is-medium">
+  </section>
+
 </main>

@@ -1,0 +1,264 @@
+
+:root {
+  /* Make links inherit the default text color instead of blue */
+  --bulma-link: var(--bulma-text);
+  --bulma-link-text: var(--bulma-text);
+  
+  /* Force underlines on links */
+  --bulma-link-decoration: underline;
+  
+  /* Optional: Change behavior when hovering */
+  --bulma-link-hover: var(--bulma-text-strong);
+  --bulma-link-hover-decoration: none;
+}
+
+@view-transition {
+  navigation: auto;
+}
+
+a.navbar-item:hover {
+  text-decoration: underline;
+    color: var(--bulma-text);
+    background-color: revert;
+}
+
+.navbar-brand a:hover {
+  text-decoration: none;
+}
+
+.content > div:nth-child(1) > p:nth-child(3) > a:nth-child(1),
+.content > div:nth-child(2) > p:nth-child(3) > a:nth-child(1) {
+  text-decoration: none;
+}
+
+/* button:hover {
+  text-decoration: none;
+} */
+
+.content a {
+  color: var(--bulma-text);
+  text-decoration: underline;
+}
+
+.content a:hover {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.is-intro-link {
+  text-decoration: underline;
+}
+
+.is-intro-link:hover {
+   font-weight: 600;
+  text-decoration: none; 
+}
+
+/* SKIP LINK */
+.skip-link {
+  clip: rect(1px, 1px, 1px, 1px);
+  display: block;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  top: 1rem;
+  left: 1rem;
+  z-index: 999;
+}
+
+.skip-link:focus {
+  clip: auto;
+  height: auto;
+  overflow: visible;
+  width: auto;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+  padding: var(--space-s-m);
+  line-height: 1;
+}
+
+.skip-link:not(:focus) {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+
+/* GALLERY IN SINGLE PAGE */
+
+/* Only apply the stretching logic on tablet and desktop 
+  (Bulma's tablet breakpoint starts at 769px) 
+*/
+
+@media screen and (min-width: 769px) {
+  /* Target the specific cells that need stretching */
+  .cell.layout-hv,
+  .cell.layout-vh {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Force the figure to stretch */
+  .cell.layout-hv .image,
+  .cell.layout-vh .image {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    height: 100%; 
+  }
+
+  /* Force the image to fill the figure and crop to fit */
+  .cell.layout-hv .gallery-img,
+  .cell.layout-vh .gallery-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center; 
+  }
+}
+
+/* LIGHTBOX */
+
+@media (min-width: 769px) {
+  /* Prevent the modal from stretching vertical images past the screen boundaries */
+  .visual-lightbox-content {
+    max-width: 90vw !important;
+    max-height: 90vh !important;
+  }
+
+  .visual-lightbox-content img {
+    max-height: 90vh !important;
+    width: auto !important;
+    margin: 0 auto;
+    display: block;
+    object-fit: contain; /* Ensures full aspect ratios are entirely visible */
+  }
+
+  /* 1. Force Bulma's modal container to scale dynamically up to 85% of the screen width */
+  .modal-content.visual-lightbox-content {
+    width: 85vw !important; 
+    max-width: 1400px !important; /* Limits maximum expansion on ultra-wide monitors */
+    max-height: 85vh !important;
+    background: transparent;
+  }
+  
+  /* 2. Standardize the image boundaries inside the expanded container */
+  #lightbox-target-img {
+    width: auto !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: 85vh !important; /* Prevents vertical frames from bleeding past the viewport fold */
+    object-fit: contain !important; /* Guarantees zero cropping on either orientation */
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+/* 1. Prepare the Lightbox for CSS Transitions */
+#gallery-lightbox.modal {
+  display: flex !important;      /* Override Bulma's abrupt display: none */
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;          /* Prevents accidental clicks while hidden */
+  transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+}
+
+/* 2. State when active (triggered by your existing JS) */
+#gallery-lightbox.modal.is-active {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;          /* Restore interactivity */
+}
+
+/* 3. Optional: Add a subtle scaling lift to the image itself */
+#gallery-lightbox .visual-lightbox-content img {
+  transform: scale(0.97);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1); /* Ultra-smooth ease-out */
+}
+
+#gallery-lightbox.modal.is-active .visual-lightbox-content img {
+  transform: scale(1);           /* Gently glides up to its true size */
+}
+
+/* Styling the subtle arrow controls */
+.lightbox-nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.35); /* Translucent baseline */
+  font-size: 3rem;
+  font-weight: 300;
+  cursor: pointer;
+  padding: 2rem;
+  z-index: 50; /* Sits cleanly above the content frame */
+  outline: none;
+  transition: color 0.2s ease-in-out;
+  user-select: none;
+}
+
+.lightbox-nav-btn:hover {
+  color: rgba(255, 255, 255, 0.9); /* Lights up smoothly */
+}
+
+#lightbox-prev {
+  left: 1.5rem;
+}
+
+#lightbox-next {
+  right: 1.5rem;
+}
+
+/* Ensure buttons vanish on small phones to keep swipe space clean */
+@media (max-width: 768px) {
+  .lightbox-nav-btn {
+    display: none !important;
+  }
+}
+
+/* CARDS */
+
+a.card {
+  box-shadow: none;
+  background-color: transparent;
+  transition: opacity 0.2s ease-in-out;
+  text-decoration: none;
+}
+
+/* Apply the smooth transition to the image and text individually */
+a.card img {
+  transition: opacity 0.2s ease-in-out;
+}
+
+a.card .card-content {
+  padding: 0.5rem 0; 
+  /* transition: font-weight 0.2s ease-in-out, color 0.2s ease-in-out; */
+}
+
+a.card:hover img {
+  opacity: 0.8; /* Lower this number for a more dramatic effect (e.g., 0.7) */
+}
+
+/* a.card:hover .card-content {
+  font-weight: 600;
+} */
+
+/* MAIN CATEGORY LIST PAGE WITH TWO COLUMNS */
+.has-two-columns {
+  column-count: 2;
+  column-gap: 3rem;
+}
+
+/* Fall back to a single column on mobile devices */
+@media (max-width: 768px) {
+  .has-two-columns {
+    column-count: 1;
+  }
+}

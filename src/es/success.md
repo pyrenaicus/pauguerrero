@@ -1,6 +1,8 @@
 ---
+excludeFromSitemap: true
 title: Gracias!
 layout: page.njk
+noindex: true
 ---
 
 En breve nos ponemos en contacto.

@@ -1,16 +1,17 @@
 <script type="application/ld+json">
   [
   {% set comma = joiner() %}
-  {%- for image in images -%}
+  {%- for row in images -%}
+  {%- for image in row.items -%}
   {{ comma() }}
   {%- set imgPath = "src/" ~ image.src -%}
   {%- set imageData = imageCollection[imgPath] -%}
-  {%- set largestJpeg = imageData.jpeg[imageData.jpeg.length - 1].url -%}
+  {%- set largestWebp = imageData.webp[imageData.webp.length - 1].url -%}
 
     {
       "@context": "https://schema.org/",
       "@type": "ImageObject",
-      "contentUrl": "{{ largestJpeg }}",
+      "contentUrl": "{{ largestWebp }}",
       "contentLocation": "{{ image.contentLocation }}",
       "name": "{{ image.name }}",
       "description": {{ image.caption | default("") | dump | safe }} ,
@@ -23,6 +24,7 @@
       "creditText": "{{ meta.siteName[page.lang] }}",
       "copyrightNotice": "{{ meta.author }}"
     }
+    {%- endfor -%}
     {%- endfor -%}
   ]
 </script>

@@ -1,0 +1,29 @@
+---
+layout: "base.njk"
+---
+
+<main id="main" class="container">
+  <section class="hero is-small">
+  <div class="hero-body container is-family-secondary">
+    {% if not home %}
+      <h1 class="title">{{ title }}</h1>
+      {% if intro %}
+          <p class="subtitle">{{ intro | safe }}</p>
+      {% endif %}
+    {% endif %}
+  </div>
+  </section>
+
+  {% ifAsync page.lang == "es" %}
+      {% include "retail-architecture-es.njk" %}
+{% include "cta-contact-quote.njk" %}
+{% endif %}
+  {% ifAsync page.lang == "en" %}
+    {% include "retail-architecture-en.njk" %}
+{% include "cta-contact-retail.njk" %}
+{% endif %}
+  {% ifAsync page.lang == "ca" %}
+    {% include "retail-architecture-ca.njk" %}
+{% include "cta-contact-quote.njk" %}
+{% endif %}
+</main>

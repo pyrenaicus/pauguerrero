@@ -1,0 +1,65 @@
+<div class="section content">
+    <p class="is-size-4">Pau Guerrero is an architect and photographer specializing in architecture, interiors and commercial spaces. Based in Barcelona, he works with architecture studios, interior designers, developers and brands to create images that accurately convey the design, materials and atmosphere of each project.</p>
+</div>
+<section class="section">
+    <ul class="columns is-multiline" role="list">
+        {% for item in collections["architecture-barcelona"] %} {% if item.data.lang == page.lang %}
+            <li class="column is-half">
+                <div class="card is-block">
+                    <div class="card-image">
+                        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
+                    </div>
+                    <div class="card-content">
+                        <div class="content">
+                            <p><strong>{{ item.data.title }}</strong> - {{ item.data.intro }}</p><div class="has-text-centered"><a class="button is-inline" href="{{ item.url }}">See Project</a></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        {% endif %} {% endfor %}
+    </ul>
+</section>
+<section class="block section has-background-light has-text-centered">
+    <a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Request a Quote</a>
+</section>
+<div class="section content">
+    <div class="columns is-variable is-8">
+        <div class="column is-half">
+            <h2 >Photographing architecture from its intention</h2>
+            <p>Architectural photography is not simply about showing a building. It is about <strong>understanding the space and translating into images the intention behind its design</strong>.</p>
+            <p>My architectural background determines the way I approach each assignment. Before photographing a space, I analyze its geometry, proportions, materials, light and the relationship between interior and exterior. This understanding of the project makes it possible to create images that not only document the architecture, but also <strong>communicate its spatial and formal qualities</strong>.</p>
+            <p>As an <strong>architectural photographer in Barcelona</strong>, I collaborate with architects, architecture studios, interior designers, designers, construction companies and developers to create a precise and coherent photographic representation of each project.</p>
+
+            <h2>Understanding architecture to photograph space</h2>
+            <p>Every architectural project has a unique logic that photography must identify and make visible.</p>
+            <p><strong>Geometry</strong> defines lines and volumes; <strong>proportion</strong>, the relationship between elements; materials and textures provide a tactile dimension; and light transforms the space throughout the day.</p>
+            <p>Based on these elements, I construct each image through perspective, composition and control of light. The aim is to find the viewpoint that best explains the architecture, without imposing an aesthetic that is foreign to the project.</p>
+            <p>I pay particular attention to the relationship between <strong>interior and exterior</strong>: the way light enters, the continuity between spaces, the integration of the building with its surroundings and how the façade anticipates the interior.</p>
+            <p>The result is <strong>architectural photography</strong> conceived as a communication tool: images that explain the project clearly and convey the experience of inhabiting it.</p>
+
+            <h2>Architectural photography for architects</h2>
+            <p>Good architectural photography must remain faithful to the project while discerning which aspects deserve to be shown.</p>
+            <p>I work on <strong>contemporary architecture projects</strong>, residential properties, buildings, renovations, public spaces and interiors, adapting each photographic assignment to the needs of the studio and the individual project.</p>
+            <p><strong>Photography for architects</strong> can serve different purposes: documenting a completed project, building an architecture portfolio, presenting a project for competitions and publications, communicating the studio's work or creating visual material for the press, website and social media.</p>
+            <p>In every case, photography starts from one premise: <strong>first understand the architecture, then represent it</strong>.</p>
+        </div>
+
+        <div class="column is-half">
+            <h2>Interior and spatial photography</h2>
+            <p>I apply the same approach to <strong>interior, interior design and spatial photography</strong>.</p>
+            <p>In interiors, scale, proportion, circulation, the way light enters and the relationship between materials are fundamental. An image must show how the space is organized and highlight what makes it distinctive: a texture, a transition of light, a perspective or the relationship between rooms.</p>
+            <p>For this reason, each assignment combines wide views of the space with detailed photographs of <strong>materials, details and architectural elements</strong>.</p>
+
+            <h2>Barcelona as an architectural context</h2>
+            <p>Barcelona is my base as an <strong>architectural photographer</strong> and provides an especially rich context for this work.</p>
+            <p>The city and its surroundings encompass contemporary architecture, heritage, renovation, housing, interior design and new commercial spaces. I work in Barcelona, throughout Catalonia and also travel for architectural projects in other locations.</p>
+            <p>Location is part of every project, but it does not determine its visual language. Photography must reveal the unique characteristics of each work while preserving the identity of the architect or studio that conceived it.</p>
+
+            <h2>Professional photography to communicate architectural projects</h2>
+            <p>An architectural photography assignment may require different images depending on its purpose: <strong>portfolio, editorial publication, website, project documentation, corporate communication or project presentation</strong>.</p>
+            <p>For this reason, I approach each assignment according to its specific requirements, defining the types of images, perspectives and level of detail needed to communicate the project as a whole.</p>
+            <p>The aim is to create a coherent set of photographs that allows the architecture to be understood, its materials and spaces to be appreciated, and the intention behind the project to be conveyed.</p>
+            <p>If you are looking for an <strong>architectural photographer</strong> in Barcelona to document and communicate a project, we can discuss its characteristics, requirements and scope to define the most appropriate photographic assignment.</p>
+        </div>
+    </div>
+</div>

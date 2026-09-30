@@ -9,29 +9,35 @@ teaserAlt: "Varias personas están viendo fotografías enmarcadas en una galerí
 location: Torroella de Montgrí, Girona
 venue: Capella de Sant Antoni
 images:
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-01.jpg
-    alt: "Varias personas están viendo fotografías enmarcadas en una galería. Las fotografías están colgadas en una pared blanca, y los espectadores parecen estar profundamente concentrados en examinar la obra de arte. Algunas personas sostienen bebidas, sugiriendo una recepción de inauguración."
-    caption: "Día de inauguración"
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: ""
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-02.jpg
-    alt: "Exposición en galería con fotografías enmarcadas y en primer plano una dramática efigie de un dragón legendario catalán."
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: ""
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-03.jpg
-    alt: "Dos hombres de pie junto a una exposición de obras de arte en una feria de fotografía al aire libre."
-    caption: "Con Eugeni Prieto durante la feria de autores de fotografía."
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: ""
-    description: ""
-  - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-04.jpg
-    alt: "Hombre dando una presentación en una sala de conferencias con una pantalla proyectada y audiencia sentada."
-    caption: "Charla sobre Paisaje y mito del Conde Arnau en el Museo del Mediterráneo."
-    contentLocation: "Torroella de Montgrí, Girona"
-    name: ""
-    description: ""
+  - layout: h
+    items: 
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-01.jpg
+        alt: "Varias personas están viendo fotografías enmarcadas en una galería. Las fotografías están colgadas en una pared blanca, y los espectadores parecen estar profundamente concentrados en examinar la obra de arte. Algunas personas sostienen bebidas, sugiriendo una recepción de inauguración."
+        caption: "Día de inauguración"
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: ""
+        description: ""
+  - layout: hh
+    items:         
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-02.jpg
+        alt: "Exposición en galería con fotografías enmarcadas y en primer plano una dramática efigie de un dragón legendario catalán."
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: ""
+        description: ""
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-03.jpg
+        alt: "Dos hombres de pie junto a una exposición de obras de arte en una feria de fotografía al aire libre."
+        caption: "Con Eugeni Prieto durante la feria de autores de fotografía."
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: ""
+        description: ""
+  - layout: h
+    items:         
+      - src: images/pau-guerrero-count-arnau-landscape-and-myth-mirades-04.jpg
+        alt: "Hombre dando una presentación en una sala de conferencias con una pantalla proyectada y audiencia sentada."
+        caption: "Charla sobre Paisaje y mito del Conde Arnau en el Museo del Mediterráneo."
+        contentLocation: "Torroella de Montgrí, Girona"
+        name: ""
+        description: ""
 ---
 
 Exposición _Paisaje y leyenda del conde Arnau_ durante el [Festival de Fotografía Mirades](https://www.festivalmirades.com/).

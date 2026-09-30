@@ -1,0 +1,19 @@
+
+* architecture photographer barcelona page
+** use tag "architecture-barcelona" in the portfolio pages we want to display
+they will be added to the collection /architecture-barcelona/, we'll use /imageShortcode/ to loop over it
+** divided translations into three includes:
+*** architecture-photographer-barcelona-ca.njk
+*** architecture-photographer-barcelona-es.njk
+*** architecture-photographer-barcelona-en.njk
+** =cta-contact-quote.njk=, call to action in the bottom of page is also an include, it's content translated on _data/languages.js under cta.contactQuote
+** had to use =ifAsync= so the =imageShortcode= in the included layout properly works.
+* cta, call to action
+**  =cta-contact-quote.njk=
+** =cta-architecture-barcelona.njk=
+*** used at the end of each individual architecture photography page. It links to =architecture-photographer-barcelona= page
+* retail architecture photographer page
+** use layout retail-architecture-photographer.njk
+*** localization in three includes
+** markdown pages with frontmatter in each language directory
+** select 4 projects with tag/collection "retail-selection"

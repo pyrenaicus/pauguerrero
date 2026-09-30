@@ -1,5 +1,5 @@
 ---
-layout: "list.njk"
+layout: "architecture-photography.njk"
 title: "Fotografía de Arquitectura"
 metaTitle: "Fotografía de Arquitectura | Barcelona"
 permalink: es/fotografia-de-arquitectura/

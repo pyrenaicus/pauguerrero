@@ -7,10 +7,15 @@ description: CV de Pau Guerrero amb les exposicions del 2013 fins a l'actualitat
 
 ## Exposicions
 
+### 2026
+
+- **25 anys d'exposicions**. (_col·lectiva_) Foto Torroella (Torroella de Montgrí, Girona).
+- **Mercat fotogràfic**. Luminic Festival (Sant Cugat, Barcelona).
+
 ### 2024
 
 - **Muntanyes de l'ànima**. Mountain Film Festival (Torelló, Barcelona).
-- **Diàleg**. (_Group exhibition_) Espai J. Vigas (Palafrugell, Girona).
+- **Diàleg**. (_col·lectiva_) Espai J. Vigas (Palafrugell, Girona).
 
 ### 2022
 
@@ -21,7 +26,7 @@ description: CV de Pau Guerrero amb les exposicions del 2013 fins a l'actualitat
 ### 2021
 
 - **Antoni Campañà. L’endemà de la retirada: Portbou, 1939**. Museu Memorial de l’Exili (Portbou, Girona).
-- **20 Anys d’Exposicions** (col·lectiva). Capella de Sant Antoni (Torroella de Montgrí, Girona).
+- **20 Anys d’Exposicions** (_col·lectiva_). Capella de Sant Antoni (Torroella de Montgrí, Girona).
 
 ### 2020
 

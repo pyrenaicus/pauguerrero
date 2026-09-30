@@ -8,4 +8,4 @@ Todo el contenido de este sitio web está protegido por derechos de autor. No pu
 
 ## Cómo solicitar permiso
 
-Si desea utilizar alguna fotografía o contenido con fines comerciales, póngase en contacto con nosotros mediante nuestro [formulario de contacto](/es/contact/). Estaremos encantados de discutir su solicitud y proporcionarle una licencia.
+Si desea utilizar alguna fotografía o contenido con fines comerciales, póngase en contacto con nosotros mediante nuestro [formulario de contacto](/es/contacto/). Estaremos encantados de discutir su solicitud y proporcionarle una licencia.

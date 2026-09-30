@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: home-page.njk
 home: true
 title: Pau Guerrero | Fotografia d'Arquitectura i Paisatge | Barcelona
 metaTitle: Fotografia d'Arquitectura i Paisatge | Barcelona

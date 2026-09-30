@@ -1,0 +1,91 @@
+---
+layout: "base.njk"
+---
+<main>
+<section id="main" class="hero is-fullheight is-default is-bold">
+  <section class="hero-head">
+    <nav class="navbar is-family-secondary" role="navigation" aria-label="main navigation">
+                <div class="container">
+                    <div class="navbar-brand">
+                        <a class="navbar-item  is-size-3-desktop" href="/{{ page.lang }}/">
+                            <h1>{{ meta.siteName[page.lang] }}</h1>
+                        </a>
+                        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        </a>
+                    </div>
+                    <div id="navbarMenu" class="navbar-menu">
+                        <div class="navbar-end">
+                          {% for item in navigation[page.lang] %}
+                          <a
+                          class="navbar-item"
+                          {{
+                          helpers.getLinkActiveState(item.url,
+                          page.url)
+                          |
+                          safe
+                          }}
+                          href="{{ item.url }}"
+                          >
+                          {{ item.text }}
+                          </a>
+                          {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </nav>
+  </section>
+
+  <section class="hero-body">
+    <div class="container has-text-centered">
+      <div class="columns is-vcentered">
+        <div class="column is-6 is-vcentered">
+          {% imageShortcode "images/home-01.jpg", languages[page.lang].homePage.image01Alt, "", "high" %}
+        </div>
+        <div class="column is-6 ">
+            {% imageShortcode "images/home-06.jpg", languages[page.lang].homePage.image02Alt, "", "high" %}
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="hero-foot">
+  </section>
+</section>
+
+  <section class="section is-medium">
+  </section>
+  
+  <section class="section">
+    <div class="container has-text-centered">
+      <div class="columns content">
+        <div class="column is-6">
+          <h2>{{ languages[page.lang].homePage.architecture.title }}</h2>
+          <p>{{ languages[page.lang].homePage.architecture.tagline }}</p>
+          <p class="has-text-centered">
+            <a href="/en/architecture-photography" class="button">
+              {{ languages[page.lang].homePage.architecture.button }}
+            </a>
+          </p>
+        </div>
+        <div class="column is-6">
+          <h2>{{ languages[page.lang].homePage.exhibitions.title }}</h2>
+          <p>{{ languages[page.lang].homePage.exhibitions.tagline }}</p>
+          <p class="has-text-centered">
+            <a href="/en/exhibitions" class="button">
+              {{ languages[page.lang].homePage.exhibitions.button }}
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section is-medium">
+  </section>
+
+</main>
