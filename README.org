@@ -11,4 +11,9 @@ they will be added to the collection /architecture-barcelona/, we'll use /imageS
 * cta, call to action
 **  =cta-contact-quote.njk=
 ** =cta-architecture-barcelona.njk=
-*** used at the end of each individual architecture photography page.
+*** used at the end of each individual architecture photography page. It links to =architecture-photographer-barcelona= page
+* retail architecture photographer page
+** use layout retail-architecture-photographer.njk
+*** localization in three includes
+** markdown pages with frontmatter in each language directory
+** select 4 projects with tag/collection "retail-selection"
