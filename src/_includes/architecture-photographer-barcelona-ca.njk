@@ -19,9 +19,9 @@
         {% endif %} {% endfor %}
     </ul>
 </section>
-<section class="block section has-background-light has-text-centered">
-    <a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Sol·licitar pressupost</a>
-</section>
+
+{% include "cta-quote.njk" %}
+
 <div class="section content">
     <div class="columns is-variable is-8">
         <div class="column is-half">
@@ -62,3 +62,4 @@
             <p>Si busques un <strong>fotògraf d'arquitectura</strong> a Barcelona per documentar i comunicar un projecte, podem parlar de les seves característiques, necessitats i abast per definir el reportatge fotogràfic més adequat.</p>
         </div>
     </div>
+</div>

@@ -19,9 +19,9 @@
         {% endif %} {% endfor %}
     </ul>
 </section>
-<section class="block section has-background-light has-text-centered">
-    <a class="button is-large is-warning" href="{{ languages[page.lang].contact.url }}">Solicitar Presupuesto</a>
-</section>
+
+{% include "cta-quote.njk" %}
+
 <div class="section content">
     <div class="columns is-variable is-8">
         <div class="column is-half">

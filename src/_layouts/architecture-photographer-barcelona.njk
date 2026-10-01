@@ -15,15 +15,13 @@ layout: "base.njk"
   </section>
 
   {% ifAsync page.lang == "es" %}
-      {% include "architecture-photographer-barcelona-es.njk" %}
-{% include "cta-contact-quote.njk" %}
-{% endif %}
+    {% include "architecture-photographer-barcelona-es.njk" %}
+  {% endif %}
   {% ifAsync page.lang == "en" %}
     {% include "architecture-photographer-barcelona-en.njk" %}
-{% include "cta-contact-quote.njk" %}
-{% endif %}
+  {% endif %}
   {% ifAsync page.lang == "ca" %}
     {% include "architecture-photographer-barcelona-ca.njk" %}
-{% include "cta-contact-quote.njk" %}
-{% endif %}
+  {% endif %}
+  {% include "cta-contact-quote.njk" %}
 </main>
