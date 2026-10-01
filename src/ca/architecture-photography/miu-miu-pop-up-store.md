@@ -4,9 +4,9 @@ permalink: "{{ preSlug  }}/miu-miu-pop-up-store-madrid/"
 description: "Miu Miu Pop-Up Store a El Corte Inglés Castellana, Madrid. Fotografia d'Arquitectura del Retail per Pau Guerrero."
 date: "2020-08-10"
 location: "Madrid"
-tags: retail
+tags: [ "retail", "retail-selection" ]
 brand: "Miu Miu"
-intro: "Instal·lació temporal pop-up a El Corte Inglés, uns grans magatzems importants de Madrid."
+intro: "Instal·lació temporal a El Corte Inglés, Madrid"
 teaser: "images/teaser-madrid-miu-miu-popup-store.jpg"
 teaserAlt: "Exposició de botiga emergent Miu Miu il·luminada en rosa amb bosses, sabates i barrets sota un dossel de llums roses brillants."
 images:

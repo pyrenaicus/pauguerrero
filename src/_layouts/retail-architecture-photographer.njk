@@ -15,15 +15,15 @@ layout: "base.njk"
   </section>
 
   {% ifAsync page.lang == "es" %}
-      {% include "retail-architecture-es.njk" %}
-{% include "cta-contact-quote.njk" %}
-{% endif %}
+    {% include "retail-architecture-es.njk" %}
+    {% include "cta-contact-retail.njk" %}
+  {% endif %}
   {% ifAsync page.lang == "en" %}
     {% include "retail-architecture-en.njk" %}
-{% include "cta-contact-retail.njk" %}
-{% endif %}
+    {% include "cta-contact-retail.njk" %}
+  {% endif %}
   {% ifAsync page.lang == "ca" %}
     {% include "retail-architecture-ca.njk" %}
-{% include "cta-contact-quote.njk" %}
-{% endif %}
+    {% include "cta-contact-retail.njk" %}
+  {% endif %}
 </main>

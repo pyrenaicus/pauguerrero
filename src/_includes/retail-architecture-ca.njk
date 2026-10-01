@@ -1,0 +1,82 @@
+<div class="section content">
+    <p class="is-size-4">Pau Guerrero és arquitecte i fotògraf especialitzat en arquitectura, interiors comercials i retail de luxe. Amb base a Barcelona, treballa amb estudis d’arquitectura, interioristes, marques, promotores i empreses constructores per crear imatges precises que comuniquen el disseny, els materials i la identitat espacial dels projectes comercials.</p>
+</div>
+<section class="section">
+    <ul class="columns is-multiline" role="list">
+        {% for item in collections["retail-selection"] %} {% if item.data.lang == page.lang %}
+            <li class="column is-half">
+                <div class="card is-block">
+                    <div class="card-image">
+                        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
+                    </div>
+                    <div class="card-content">
+                        <div class="content">
+                            <p><strong>{{ item.data.title }}</strong> - {{ item.data.intro }}</p><div class="has-text-centered"><a class="button is-inline" href="{{ item.url }}">Veure Projecte</a></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        {% endif %} {% endfor %}
+    </ul>
+</section>
+<div class="section content">
+    <div class="columns is-variable is-8">
+        <div class="column is-half">
+            <h2>Precisió arquitectònica en espais comercials</h2>
+            <p>Els espais comercials se situen en la intersecció entre l’arquitectura, el disseny d’interiors i l’estratègia de marca. Fotografiar aquests espais implica molt més que documentar una botiga acabada. Requereix comprendre les decisions arquitectòniques que hi ha darrere de l’espai i l’experiència que aquest genera.</p>
+            <p>La meva formació com a arquitecte determina la meva manera d’abordar cada encàrrec. Abans de cada sessió, analitzo la geometria, la circulació, la materialitat i la jerarquia de la llum per produir imatges que reflecteixin la intenció del projecte.</p>
+
+            <p>Presto especial atenció als matisos tècnics i espacials propis de l’arquitectura retail:</p>
+
+            <ul>
+                <li><strong>Geometria i proporció</strong>: Preservar les línies verticals i l’equilibri espacial tant en aparadors amplis com en distribucions interiors més ajustades.</li>
+                <li><strong>Materialitat i execució</strong>: Reproduir amb precisió la pedra, la fusta, el metall, el vidre, els tèxtils i la fusteria a mida.</li>
+                <li><strong>Llum i fidelitat cromàtica</strong>: Equilibrar la complexitat de la il·luminació ambiental, els LED d’alta reproducció cromàtica (CRI) de les zones d’exposició i la llum natural, controlant alhora els reflexos en superfícies brillants.</li>
+                <li><strong>Seqüència espacial i circulació</strong>: Captar com els visitants experimenten l’espai, s’hi desplacen i hi interactuen.</li>
+                <li><strong>Identitat de marca</strong>: Posar en valor la retolació integrada, els elements expositius i els detalls del mobiliari dissenyat a mida.</li>
+            </ul>
+
+            <h2>Fotografia de retail de luxe i botigues insígnia</h2>
+
+            <p>Les flagship stores i les botigues de luxe combinen arquitectura d’alta gamma, il·luminació acuradament dissenyada i narrativa de marca en una experiència coherent.</p>
+            <p>Fotografiar aquests espais requereix una atenció excepcional al detall. Creo sèries fotogràfiques completes que combinen vistes arquitectòniques àmplies amb fotografies de detall que respecten tant la integritat arquitectònica de l’espai com les directrius visuals de la marca.</p>
+            <p>Les sessions es planifiquen de manera flexible durant <strong>horaris sense activitat comercial</strong> com ara abans de l’obertura, a la tarda o durant la nit, per garantir un control total de la il·luminació i la composició sense interferir en l’activitat comercial.</p>
+
+        </div>
+        <div class="column is-half">
+
+            <h2>Tipologies comercials i retail</h2>
+
+            <p>Ofereixo fotografia professional d’arquitectura per a una àmplia varietat d’espais comercials a Barcelona i a escala internacional:</p>
+
+            <ul>
+                <li><strong>* Flagship stores i botigues de luxe</strong></li>
+                <li><strong>* Showrooms comercials i centres d’experiència de marca</strong></li>
+                <li><strong>* Centres comercials</strong></li>
+                <li><strong>* Boutiques i espais interiors d’hostaleria</strong></li>
+                <li><strong>* Noves obertures de botigues i espais pop-up</strong></li>
+            </ul>
+
+            <p>Cada encàrrec s’adapta a l’escala del projecte, tant si requereix una documentació arquitectònica completa, una cobertura editorial de caràcter atmosfèric o una sèrie d’interiors amb un alt nivell de detall.</p>
+
+            <h2>Servei a mida per a arquitectes, marques i promotors</h2>
+
+            <p>Un mateix projecte comercial respon a diferents objectius de comunicació segons la part implicada:</p>
+
+            <ul>
+                <li><strong>Per a estudis d’arquitectura i interiorisme</strong>: Imatges d’alta resolució optimitzades per a <strong>premis d’arquitectura, monografies, publicacions editorials i presentacions de portfoli.</strong>.</li>
+                <li><strong>Per a marques i botigues</strong>: Recursos visuals coherents per a web, relacions públiques, campanyes publicitàries i comunicació global de marca.</li>
+                <li><strong>Per a promotors i constructores</strong>: Documentació visual precisa que mostra la qualitat d’execució, la construcció i els materials acabats.</li>
+            </ul>
+
+            <h2>Amb seu a Barcelona, treballant arreu del món</h2>
+
+            <p>Barcelona és la meva base principal i ofereix un context especialment ric de rehabilitacions històriques, botigues insígnia de luxe en eixos comercials i desenvolupaments comercials contemporanis.</p>
+            <p>Operant des de Catalunya, així com en projectes a altres parts d’Espanya i a l’estranger, ofereixo una representació fotogràfica d’alta qualitat i coherent, adaptada al caràcter arquitectònic de cada localització.</p>
+
+            <h2>Parlem del teu projecte retail</h2>
+
+            <p>Tant si estàs inaugurant una <strong>flagship store, documentant l’interior d’una botiga o presentant un projecte comercial a premis d’arquitectura</strong>, preparo propostes a mida en funció de la teva llista de fotografies, calendari i abast de les llicències d’imatge. Contacta amb mi per parlar del teu projecte.</p>
+        </div>
+    </div>
+</div>

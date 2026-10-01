@@ -1,0 +1,82 @@
+<div class="section content">
+    <p class="is-size-4">Pau Guerrero es arquitecto y fotógrafo especializado en arquitectura, interiores comerciales y retail de lujo. Con base en Barcelona, trabaja con estudios de arquitectura, interioristas, marcas, promotoras y empresas constructoras para crear imágenes precisas que comunican el diseño, los materiales y la identidad espacial de los proyectos comerciales.</p>
+</div>
+<section class="section">
+    <ul class="columns is-multiline" role="list">
+        {% for item in collections["retail-selection"] %} {% if item.data.lang == page.lang %}
+            <li class="column is-half">
+                <div class="card is-block">
+                    <div class="card-image">
+                        {% imageShortcode item.data.teaser, item.data.teaserAlt, "", "high" %}
+                    </div>
+                    <div class="card-content">
+                        <div class="content">
+                            <p><strong>{{ item.data.title }}</strong> - {{ item.data.intro }}</p><div class="has-text-centered"><a class="button is-inline" href="{{ item.url }}">Ver Proyecto</a></div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        {% endif %} {% endfor %}
+    </ul>
+</section>
+<div class="section content">
+    <div class="columns is-variable is-8">
+        <div class="column is-half">
+            <h2>Precisión arquitectónica en espacios comerciales</h2>
+            <p>Los espacios comerciales se sitúan en la intersección entre la arquitectura, el diseño de interiores y la estrategia de marca. Fotografiar estos espacios implica algo más que simplemente documentar una tienda. Requiere comprender las decisiones arquitectónicas que subyacen al espacio y a la experiencia que este genera.</p>
+            <p>Mi formación como arquitecto determina mi manera de abordar cada encargo. Antes de cada sesión, analizo la geometría, la circulación, la materialidad y la jerarquía de la luz para producir imágenes que reflejen la intención del proyecto.</p>
+
+            <p>Presto especial atención a los matices técnicos y espaciales propios de la arquitectura del sector retail:</p>
+
+            <ul>
+                <li><strong>Geometría y proporción</strong>: Preservar las líneas verticales y el equilibrio espacial tanto en escaparates amplios como en distribuciones interiores más ajustadas.</li>
+                <li><strong>Materialidad y ejecución</strong>: Reproducir con precisión la piedra, la madera, el metal, el vidrio, los textiles y la carpintería a medida.</li>
+                <li><strong>Luz y fidelidad cromática</strong>: Equilibrar la complejidad de la iluminación ambiental, los LED de alta reproducción cromática (CRI) en las zonas de exposición y la luz natural, controlando al mismo tiempo los reflejos en superficies brillantes.</li>
+                <li><strong>Secuencia espacial y circulación</strong>: Captar cómo los visitantes experimentan el espacio, se desplazan por él e interactúan con él.</li>
+                <li><strong>Identidad de marca</strong>: Destacar la señalética integrada, los elementos expositivos y los detalles del mobiliario diseñado a medida.</li>
+            </ul>
+
+            <h2>Fotografía de retail de lujo y tiendas insignia</h2>
+
+            <p>Las flagship stores y las boutiques de lujo combinan arquitectura de alta gama, iluminación cuidadosamente diseñada y narrativa de marca en una experiencia coherente.</p>
+            <p>Fotografiar estos espacios requiere una atención excepcional al detalle. Creo series fotográficas completas que combinan vistas arquitectónicas amplias con fotografías de detalle que respetan tanto la integridad arquitectónica del espacio como las directrices visuales de la marca.</p>
+            <p>Las sesiones se planifican de forma flexible en <strong>horarios sin actividad comercial</strong> como antes de la apertura, por la tarde o por la noche, para garantizar un control total de la iluminación y la composición sin interferir en la actividad comercial.</p>
+
+        </div>
+        <div class="column is-half">
+
+            <h2>Tipologías comerciales y retail</h2>
+
+            <p>Ofrezco fotografía profesional de arquitectura para una amplia variedad de espacios comerciales en Barcelona y a nivel internacional:</p>
+
+            <ul>
+                <li><strong>Flagship stores y boutiques de lujo</strong></li>
+                <li><strong>Showrooms comerciales y centros de experiencia de marca</strong></li>
+                <li><strong>Centros comerciales</strong></li>
+                <li><strong>Boutiques y espacios interiores de hostelería</strong></li>
+                <li><strong>Nuevas aperturas de tiendas y espacios pop-up</strong></li>
+            </ul>
+
+            <p>Cada encargo se adapta a la escala del proyecto, ya sea que requiera documentación arquitectónica completa, una cobertura editorial de carácter atmosférico o una serie de interiores con un alto nivel de detalle.</p>
+
+            <h2>Servicio a medida para arquitectos, marcas y promotores</h2>
+
+            <p>Un mismo proyecto comercial responde a diferentes objetivos de comunicación dependiendo de la parte implicada:</p>
+
+            <ul>
+                <li><strong>Para estudios de arquitectura e interiorismo</strong>: imágenes de alta resolución optimizadas para <strong>premios de arquitectura, monografías, publicaciones editoriales y presentaciones de portfolio</strong>.</li>
+                <li><strong>Para marcas y tiendas</strong>: Recursos visuales coherentes para la web, relaciones públicas, campañas publicitarias y comunicación global de marca.</li>
+                <li><strong>Para promotores y constructoras</strong>: Documentación visual precisa que muestra la calidad de la ejecución, la construcción y los acabados.</li>
+            </ul>
+
+            <h2>Con base en Barcelona, trabajando en todo el mundo</h2>
+
+            <p>Barcelona es mi base principal y ofrece un contexto especialmente rico en rehabilitaciones históricas, tiendas insignia de lujo en ejes comerciales y desarrollos comerciales contemporáneos.</p>
+            <p>Operando desde Cataluña, así como en proyectos en otras partes de España y en el extranjero, proporciono una representación fotográfica de alta calidad y coherente, adaptada al carácter arquitectónico de cada localización.</p>
+
+            <h2>Hablemos de tu proyecto retail</h2>
+
+            <p>Tanto si estás inaugurando una <strong>flagship store, documentando el interior de una boutique o presentando un proyecto comercial a premios de arquitectura</strong>, preparo propuestas a medida en función de tu lista de fotografías, calendario y alcance de las licencias de imagen. Contacta conmigo para hablar de tu proyecto.</p>
+        </div>
+    </div>
+</div>

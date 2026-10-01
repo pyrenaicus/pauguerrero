@@ -14,14 +14,17 @@ layout: "base.njk"
     </div>
   </section>
 
+
   <section class="section">
-        <div class="content">
+      <div class="content">
           {% if intro %}
-          {% if images %}
-          {% imagesShortcode imageCollection, images %}
-          {% endif %}
-        </div>
+              {% if images %}
+                  {% imagesShortcode imageCollection, images %}
+              {% endif %}
+      </div>
   </section class="section">
+  {% include "cta-quote.njk" %}
+
   <section class="section">
         <div class="content has-two-columns">
           {# <div class="column is-three-fifths"> #}
@@ -39,7 +42,11 @@ layout: "base.njk"
       {# </div>
     </div> #}
   </section>
+{% if "retail" in tags %}
+{% include "cta-retail-photo.njk" %}
+{% else %}
 {% include "cta-architecture-barcelona.njk" %}
+{% endif %}
   <section class="section is-medium">
   </section>
 

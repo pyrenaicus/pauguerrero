@@ -6,7 +6,7 @@ export default {
         ariaPrimary: "Principal",
         contact: { text: "Contacte", url: "/ca/contacte/" },
         contactForm: {
-            title: "Formulari de Contacte",
+            title: "Formulari de contacte",
             subtitle: "Parlem",
             text: "Tens un projecte en ment, alguna pregunta o simplement vols saludar? Deixa'm un missatge a sota i et respondré tan aviat com sigui possible.",
             privacyText: "He llegit i accepto la",
@@ -23,9 +23,13 @@ export default {
             architectureBarcelona: {
                 title: "Necessites fotografia per al teu proper projecte d’arquitectura?",
                 subtitle:
-                    "Explica’m què necessites i et respondré amb disponibilitat i una proposta adaptada al projecte.",
-                button: "Descobreix el servei de fotografia d’arquitectura a Barcelona",
+                    "Descobreix com abordo la fotografia d’arquitectura per comunicar la intenció de cada projecte.",
+                button: "Veure el servei",
                 url: "/ca/fotograf-arquitectura-barcelona/",
+            },
+            quote: {
+                button: "Sol·licitar pressupost",
+                url: "/ca/contacte/",
             },
             contactQuote: {
                 title: "Tens un projecte que vols fotografiar?",
@@ -34,10 +38,18 @@ export default {
                 button: "Sol·licitar pressupost",
             },
             contactRetail: {
-                title: "",
-                subtitle: "",
-                button: "",
-                url: "/ca/contact/",
+                title: "Tens un projecte per fotografiar?",
+                subtitle:
+                    "Posa’t en contacte amb mi amb els detalls del projecte, la seva ubicació i el calendari previst perquè pugui indicar-te la meva disponibilitat i preparar-te una proposta a mida.",
+                button: "Contacte",
+                url: "/ca/contacte/",
+            },
+            retailPhoto: {
+                title: "Necessites fotografiar el teu nou projecte retail?",
+                subtitle:
+                    "Descobreix com abordo la fotografia d'espais comercials per comunicar la intenció de cada projects.",
+                button: "Veure el servei",
+                url: "/ca/fotograf-espais-comercials/",
             },
         },
         cv: { text: "Currículum Vitae", url: "/ca/cv/" },
@@ -46,6 +58,14 @@ export default {
             copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero`,
             basedIn: "Amb base a Barcelona, disponible a nivell mundial",
             byLine: "Fotografia d'Arquitectura i Paisatge",
+            architecturePhotographerBcn: {
+                text: "Fotògraf d'Arquitectura a Barcelona",
+                url: "/ca/fotograf-arquitectura-barcelona/",
+            },
+            retailPhotographer: {
+                text: "Fotògraf d'Espais Comercials a Barcelona",
+                url: "/ca/fotograf-espais-comercials/",
+            },
             architecturePhotography: {
                 text: "Fotografia d'Arquitectura",
                 url: "/ca/fotografia-d-arquitectura/",
@@ -77,13 +97,13 @@ export default {
         },
         homePage: {
             architecture: {
-                title: "Arquitectura i Retail",
+                title: "Arquitectura i retail",
                 tagline:
                     "Documentant l'arquitectura moderna i els espais comercials amb precisió tècnica.",
                 button: "Veure Portfolio",
             },
             exhibitions: {
-                title: "Exposicions i Projectes",
+                title: "Exposicions i projectes",
                 tagline:
                     "Explorant l’experiència de la muntanya a través de la fotografia de paisatge fine art.",
                 button: "Veure Exposicions",
@@ -119,7 +139,7 @@ export default {
         ariaPrimary: "Principal",
         contact: { text: "Contacto", url: "/es/contacto/" },
         contactForm: {
-            title: "Formulario de Contacto",
+            title: "Formulario de contacto",
             subtitle: "Hablemos",
             text: "¿Tienes un proyecto en mente, alguna pregunta o simplemente quieres saludar? Déjame un mensaje abajo y te responderé lo antes posible.",
             privacyText: "He leído y acepto la",
@@ -136,10 +156,15 @@ export default {
             architectureBarcelona: {
                 title: "¿Necesitas fotografía para tu próximo proyecto de arquitectura?",
                 subtitle:
-                    "Cuéntame qué necesitas y te responderé con disponibilidad y una propuesta adaptada al proyecto.",
-                button: "Descubre el servicio de fotografía de arquitectura en Barcelona",
+                    "Descubre cómo abordo la fotografía de arquitectura para comunicar la intención de cada proyecto.",
+                button: "Ver el servicio",
                 url: "/es/fotografo-arquitectura-barcelona/",
             },
+            quote: {
+                button: "Solicitar presupuesto",
+                url: "/es/contacto/",
+            },
+
             contactQuote: {
                 title: "¿Tienes un proyecto que quieres fotografiar?",
                 subtitle:
@@ -147,10 +172,18 @@ export default {
                 button: "Solicitar Presupuesto",
             },
             contactRetail: {
-                title: "",
-                subtitle: "",
-                button: "",
-                url: "/es/contact/",
+                title: "¿Tienes un proyecto que fotografiar?",
+                subtitle:
+                    "Ponte en contacto conmigo con los detalles del proyecto, su ubicación y el calendario previsto, para que pueda indicarte mi disponibilidad y prepararte una propuesta a medida.",
+                button: "Contactar",
+                url: "/es/contacto/",
+            },
+            retailPhoto: {
+                title: "¿Necesitas fotografiar tu nuevo proyecto de retail?",
+                subtitle:
+                    "Descubre cómo abordo la fotografía de espacios comerciales para comunicar la intención de cada proyecto.",
+                button: "Ver el servicio",
+                url: "/es/fotografo-espacios-comerciales/",
             },
         },
         cv: { text: "Curriculum Vitae", url: "/es/cv/" },
@@ -162,6 +195,14 @@ export default {
             architecturePhotography: {
                 text: "Fotografía de Arquitectura",
                 url: "/es/fotografia-de-arquitectura/",
+            },
+            architecturePhotographerBcn: {
+                text: "Fotógrafo de Arquitectura en Barcelona",
+                url: "/es/fotografo-arquitectura-barcelona/",
+            },
+            retailPhotographer: {
+                text: "Fotógrafo de Espacios Comerciales en Barcelona",
+                url: "/es/fotografo-espacios-comerciales/",
             },
             // fineArtPhotography: {
             //   text: "Fine Art Photography",
@@ -190,13 +231,13 @@ export default {
         },
         homePage: {
             architecture: {
-                title: "Arquitectura y Retail",
+                title: "Arquitectura y retail",
                 tagline:
                     "Documentando la arquitectura moderna y los espacios comerciales con precisión técnica.",
                 button: "Ver Portfolio",
             },
             exhibitions: {
-                title: "Exposiciones y Proyectos",
+                title: "Exposiciones y proyectos",
                 tagline:
                     "Explorando la experiencia de la montaña a través de la fotografía de paisaje fine art.",
                 button: "Ver Exposiciones",
@@ -233,8 +274,8 @@ export default {
         ariaPrimary: "Primary",
         contact: { text: "Contact", url: "/en/contact/" },
         contactForm: {
-            title: "Contact Form",
-            subtitle: "Let's Connect",
+            title: "Contact form",
+            subtitle: "Let's connect",
             text: "Have a project in mind, a question, or just want to say hi? Drop a line below and I'll get back to you as soon as possible.",
             privacyText: "I have read and accept the",
             privacyLink: "Privacy Policy",
@@ -250,9 +291,13 @@ export default {
             architectureBarcelona: {
                 title: "Do you need photography for your next architecture project?",
                 subtitle:
-                    "Tell me what you need and I’ll get back to you with availability and a proposal tailored to the project.",
-                button: "Discover the architectural photography service in Barcelona",
+                    "Discover how I approach architectural photography to communicate the intention behind each project.",
+                button: "See the service",
                 url: "/en/architectural-photographer-barcelona/",
+            },
+            quote: {
+                button: "Request a quote",
+                url: "/en/contact/",
             },
             contactQuote: {
                 title: "Do you have a project you would like to photograph?",
@@ -267,6 +312,13 @@ export default {
                 button: "Contact",
                 url: "/en/contact/",
             },
+            retailPhoto: {
+                title: "Do you need photography for your new retail project?",
+                subtitle:
+                    "Discover how I approach retail architecture photography to communicate the intention behind each project.",
+                button: "See the service",
+                url: "/en/retail-architecture-photographer/",
+            },
         },
         cv: { text: "Curriculum Vitae", url: "/en/cv/" },
         exhibitions: { text: "Exhibitions", url: "/en/exhibitions/" },
@@ -274,6 +326,14 @@ export default {
             architecturePhotography: {
                 text: "Architecture Photography",
                 url: "/en/architecture-photography/",
+            },
+            architecturePhotographerBcn: {
+                text: "Architecture Photographer in Barcelona",
+                url: "/en/architectural-photographer-barcelona/",
+            },
+            retailPhotographer: {
+                text: "Retail Architecture Photographer in Barcelona",
+                url: "/en/retail-architecture-photographer/",
             },
             copyrightNotice: `© ${new Date().getFullYear()} Pau Guerrero.`,
             byLine: "Architecture & Landscape Photography",
