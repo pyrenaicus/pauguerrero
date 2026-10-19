@@ -68,3 +68,15 @@ they will be added to the collection /architecture-barcelona/, we'll use /imageS
 **  =cta-contact-quote.njk=
 ** =cta-architecture-barcelona.njk=
 ** =cta-contact-retail.njk=
+* JSON-LD schema
+** src/_includes/schemas/
+** base-schema.njk
+*** "@type": "WebPage"
+** breadcrumb-schema.njk
+*** exhibitions & architecture-photography sections breadcrumbs
+** gallery-schema.njk
+*** ImageObject schema for gallery shortcode (used in exhibitions for now)
+** images-schema.njk
+*** ImageObject schema for images shortcode (used in architecture-photography pages)
+** person-schema.njk
+*** Person schema, used in homepage
