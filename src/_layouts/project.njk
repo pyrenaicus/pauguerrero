@@ -6,6 +6,9 @@ layout: "base.njk"
   <section class="hero is-medium">
     <div class="hero-body container is-family-secondary">
         <h1 class="title">{{ title }}</h1>
+        {% if intro %}
+        <p class="subtitle">{{ intro | safe }}</p>
+      {% endif %}
    </div>
   </section>
 
