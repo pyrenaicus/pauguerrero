@@ -88,6 +88,10 @@ export default {
                     text: "Muntanyes Caminant",
                     url: "/ca/projectes/muntanyes-caminant/",
                 },
+                bodyLandscape: {
+                    text: "Cos Paisatge",
+                    url: "/ca/projectes/cos-paisatge/",
+                },
             },
             tagline: {
                 retail: "Fotografia d'Arquitectura del Retail",
@@ -221,6 +225,10 @@ export default {
                 walkingMountains: {
                     text: "Montañas Caminando",
                     url: "/es/proyectos/montanas-caminando/",
+                },
+                bodyLandscape: {
+                    text: "Cuerpo Paisaje",
+                    url: "/es/proyectos/cuerpo-paisaje/",
                 },
             },
             tagline: {
@@ -356,6 +364,10 @@ export default {
                 walkingMountains: {
                     text: "Walking Mountains",
                     url: "/en/projects/walking-mountains/",
+                },
+                bodyLandscape: {
+                    text: "Body Landscape",
+                    url: "/en/projects/body-landscape/",
                 },
             },
             tagline: {
