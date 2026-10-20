@@ -1,4 +1,5 @@
 ---
+permalink: /ca/projectes/cos-paisatge/
 title: Cos Paisatge
 intro: Un projecte realitzat en col·laboració amb <a href="https://www.instagram.com/eugeniprieto/">Eugeni Prieto</a>, un diàleg fotogràfic entre el seu treball sobre el cos i la meva fotografia de paisatge.
 layout: project

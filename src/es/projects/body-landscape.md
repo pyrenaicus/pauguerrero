@@ -1,4 +1,5 @@
 ---
+permalink: /es/proyectos/cuerpo-paisaje/
 title: Cuerpo Paisaje
 intro: Un proyecto realizado en colaboración con <a href="https://www.instagram.com/eugeniprieto/">Eugeni Prieto</a>, un diálogo fotográfico entre su trabajo sobre el cuerpo y mi fotografía de paisaje.
 layout: project
